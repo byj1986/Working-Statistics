@@ -42,13 +42,12 @@ pip install psutil pystray pillow pywin32
 pip install psutil pystray pillow pywin32
 ```
 
-### 2. 配置路径
+### 2. 配置说明
 
-编辑 `app_tracker.py`，修改 `BASE_DIR` 为你的项目目录：
-
-```python
-BASE_DIR = r"D:\Statistics"  # 修改为你的实际路径
-```
+程序会自动使用脚本所在目录作为工作目录，无需手动配置路径：
+- `app_tracker.py` 会自动使用脚本所在目录
+- `auto_start.bat` 会自动使用批处理文件所在目录
+- 数据文件会自动保存在 `Data` 子目录下
 
 ### 3. 启动监控服务
 
@@ -84,9 +83,11 @@ Statistics/
 ├── statistics.ico              # 托盘图标
 ├── auto_start.bat              # 自动启动脚本
 ├── start_server.bat            # 服务器启动脚本
-├── YYYYMMDD.data.json          # 每日数据文件
-├── YYYYMMDD.log.txt            # 每日日志文件
-└── YYYYMMDD.report.txt         # 每日报告文件（文本格式）
+├── README.md                   # 项目说明文档
+└── Data/                       # 数据目录
+    ├── YYYYMMDD.data.json      # 每日数据文件
+    ├── YYYYMMDD.log.txt        # 每日日志文件
+    └── YYYYMMDD.report.txt     # 每日报告文件（文本格式）
 ```
 
 ## ⚙️ 配置说明
@@ -181,7 +182,7 @@ GET /api/data/YYYYMMDD
 
 1. 按 `Win + R`，输入 `shell:startup`，回车
 2. 将 `auto_start.bat` 的快捷方式放入启动文件夹
-3. 修改 `auto_start.bat` 中的 `PROGRAM_DIR` 为实际路径
+3. **无需修改路径**：`auto_start.bat` 会自动使用其所在目录
 
 ### 方法二：任务计划程序
 
@@ -224,7 +225,7 @@ GET /api/data/YYYYMMDD
 
 ## ⚠️ 注意事项
 
-1. **数据文件**: 数据文件以日期命名（YYYYMMDD），每天一个文件
+1. **数据文件**: 数据文件存储在 `Data` 目录下，以日期命名（YYYYMMDD），每天一个文件
 2. **直接访问**: 不允许直接访问 `.data.json` 文件，必须通过 API 接口
 3. **端口占用**: 默认使用 8000 端口，如果被占用请修改 `server.py` 中的 `PORT` 变量
 4. **性能影响**: 程序资源占用极低，适合长期运行
@@ -268,5 +269,5 @@ GET /api/data/YYYYMMDD
 
 ---
 
-**提示**: 定期备份 `*.data.json` 文件以保留历史数据。
+**提示**: 定期备份 `Data` 目录下的 `*.data.json` 文件以保留历史数据。
 

@@ -1,4 +1,3 @@
-# D:\Statistics\server.py
 import http.server
 import socketserver
 import json
@@ -9,7 +8,7 @@ import socket
 from urllib.parse import urlparse, parse_qs
 
 PORT = 8000
-DIRECTORY = "."
+DIRECTORY = "."  # 将在 main 中更新为 Data 目录
 
 class StatsHandler(http.server.SimpleHTTPRequestHandler):
     def end_headers(self):
@@ -125,7 +124,12 @@ if __name__ == "__main__":
     # 切换到脚本所在目录
     script_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(script_dir)
-    DIRECTORY = script_dir
+    # 数据文件在 Data 目录下
+    DATA_DIR = os.path.join(script_dir, "Data")
+    DIRECTORY = DATA_DIR
+    # 确保 Data 目录存在
+    if not os.path.exists(DATA_DIR):
+        os.makedirs(DATA_DIR)
     
     # 允许复用端口，防止重启时报错
     socketserver.TCPServer.allow_reuse_address = True

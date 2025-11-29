@@ -14,12 +14,16 @@ import atexit
 from pathlib import Path
 
 # --- 配置路径 ---
-BASE_DIR = r"D:\Statistics"
+# BASE_DIR 设置为脚本所在目录
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "Data")
 CONFIG_FILE = os.path.join(BASE_DIR, "statistics.configuration.json")
 
 # 确保目录存在
 if not os.path.exists(BASE_DIR):
     os.makedirs(BASE_DIR)
+if not os.path.exists(DATA_DIR):
+    os.makedirs(DATA_DIR)
 
 # --- 全局变量 ---
 running = True
@@ -81,9 +85,9 @@ def get_file_paths(date_str=None):
     if not date_str:
         date_str = datetime.datetime.now().strftime("%Y%m%d")
     return {
-        "json": os.path.join(BASE_DIR, f"{date_str}.data.json"),
-        "report": os.path.join(BASE_DIR, f"{date_str}.report.txt"),
-        "log": os.path.join(BASE_DIR, f"{date_str}.log.txt")
+        "json": os.path.join(DATA_DIR, f"{date_str}.data.json"),
+        "report": os.path.join(DATA_DIR, f"{date_str}.report.txt"),
+        "log": os.path.join(DATA_DIR, f"{date_str}.log.txt")
     }
 
 
