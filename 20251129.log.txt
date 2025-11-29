@@ -1,0 +1,6 @@
+[2025-11-29 21:03:54] Service Started
+[2025-11-29 21:07:24] Idle Start
+[2025-11-29 21:08:12] Idle End
+[2025-11-29 21:40:35] Idle Start
+[2025-11-29 21:41:50] Idle End
+[2025-11-29 22:10:49] Service Stopping (User Quit)

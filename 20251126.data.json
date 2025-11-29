@@ -1,0 +1,71 @@
+{
+    "sessions": [
+        {
+            "start": "2025-11-26 21:21:12",
+            "end": "2025-11-26 21:57:00"
+        }
+    ],
+    "idle_seconds": 1806,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 6,
+            "titles": {
+                "搜索": 6
+            }
+        },
+        "explorer.exe": {
+            "total": 76,
+            "titles": {
+                "Unknown Title": 74,
+                "Program Manager": 2
+            }
+        },
+        "Cursor.exe": {
+            "total": 74,
+            "titles": {
+                "web.config - nswebapi - Cursor": 72,
+                "Cursor": 2
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "开始": 2
+            }
+        },
+        "Code.exe": {
+            "total": 93,
+            "titles": {
+                "Visual Studio Code": 3,
+                "ai_studio_code.py - Visual Studio Code": 30,
+                "Workspace Trust - Visual Studio Code": 5,
+                "Extension: IntelliCode for C# Dev Kit - Visual Studio Code": 49,
+                "Extension: GitHub Copilot - Visual Studio Code": 3,
+                "Extension: GitHub Copilot Chat - Visual Studio Code": 3
+            }
+        },
+        "Trae.exe": {
+            "total": 73,
+            "titles": {
+                "settings.json - nswebapi - Trae": 42,
+                "Trae": 8,
+                "更新日志 - nswebapi - Trae": 10,
+                "City.cs - nswebapi - Trae": 5,
+                "● settings.json - nswebapi - Trae": 1,
+                "City.cs (工作树) (City.cs) - nswebapi - Trae": 7
+            }
+        },
+        "CodeSetup-stable-bf9252a2fb45be6893dd8870c0bf37e2e1766d61.tmp": {
+            "total": 1,
+            "titles": {
+                "安装": 1
+            }
+        },
+        "TraeSetup-stable-1.0.24449.tmp": {
+            "total": 14,
+            "titles": {
+                "安装 - Trae (User)": 14
+            }
+        }
+    }
+}

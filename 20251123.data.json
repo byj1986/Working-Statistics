@@ -1,0 +1,737 @@
+{
+    "sessions": [
+        {
+            "start": "2025-11-23 19:15:01",
+            "end": "2025-11-23 23:59:30"
+        }
+    ],
+    "idle_seconds": 3128,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 62,
+            "titles": {
+                "auto_start.bat": 36,
+                "Windows PowerShell": 26
+            }
+        },
+        "SearchHost.exe": {
+            "total": 214,
+            "titles": {
+                "搜索": 214
+            }
+        },
+        "explorer.exe": {
+            "total": 1211,
+            "titles": {
+                "Unknown Title": 140,
+                "zenfocusstore - 文件资源管理器": 13,
+                "nswebapi - 文件资源管理器": 34,
+                "贴靠助手": 5,
+                "Program Manager": 33,
+                "更纱黑体0.33.1(等距简体版) - 文件资源管理器": 13,
+                "删除文件": 1,
+                "此电脑 - 文件资源管理器": 7,
+                "System (C:) - 文件资源管理器": 1,
+                "Windows - 文件资源管理器": 2,
+                "Fonts - 文件资源管理器": 279,
+                "正在安装字体": 41,
+                "更纱黑体0.33.1 - 文件资源管理器": 31,
+                "等距更纱黑体 SC - 文件资源管理器": 20,
+                "sarasa-mono-sc-regular.ttf 属性": 31,
+                "迅雷下载 - 文件资源管理器": 95,
+                "JetBrains Mono - 文件资源管理器": 17,
+                "Fira Code - 文件资源管理器": 6,
+                "JetBrains Mono NL - 文件资源管理器": 1,
+                "Calibri - 文件资源管理器": 3,
+                "Consolas - 文件资源管理器": 2,
+                "雅黑 - Fonts - 文件资源管理器": 3,
+                "微软雅黑 - 文件资源管理器": 5,
+                "Ya - Fonts - 文件资源管理器": 1,
+                "Yahei - Fonts - 文件资源管理器": 2,
+                "Microsoft YaHei UI - 文件资源管理器": 6,
+                "下载 - 文件资源管理器": 39,
+                "任务切换": 4,
+                "更纱黑体0.33.1(简体版) - 文件资源管理器": 30,
+                "更纱黑体 SC - 文件资源管理器": 4,
+                "黑体 - Fonts - 文件资源管理器": 14,
+                "删除字体": 12,
+                "系统托盘溢出窗口。": 23,
+                "akamud.vscode-theme-onelight-2.3.0-universal - 文件资源管理器": 3,
+                "extensions - 文件资源管理器": 21,
+                "ms-dotnettools.vscode-dotnet-runtime-2.3.7-universal - 文件资源管理器": 2,
+                "Data (D:) - 文件资源管理器": 14,
+                "User - 文件资源管理器": 41,
+                "configurations - 文件资源管理器": 33,
+                "文件资源管理器": 6,
+                "运行": 12,
+                "删除多个项目": 1,
+                "此电脑 和 1 个其他选项卡 - 文件资源管理器": 2,
+                "component_crx_cache - 文件资源管理器": 6,
+                "Statistics - 文件资源管理器": 24,
+                "7-Zip - 文件资源管理器": 2,
+                "Programs - 文件资源管理器": 25,
+                "删除文件夹": 1,
+                "Realtek - 文件资源管理器": 4,
+                "Audio - 文件资源管理器": 9,
+                "HDA - 文件资源管理器": 32,
+                "RAVBg64.exe 属性": 3,
+                "RAVCpl64.exe 属性": 4,
+                "Drivers - 文件资源管理器": 5,
+                "InstallShield - 文件资源管理器": 2,
+                "NICDRV_8169 - 文件资源管理器": 6,
+                "Install_Win11_Win10_10078_DMAROFF_10282025 - 文件资源管理器": 19,
+                "WIN10 - 文件资源管理器": 3,
+                "64 - 文件资源管理器": 13
+            }
+        },
+        "Cursor.exe": {
+            "total": 1672,
+            "titles": {
+                "Cursor": 27,
+                "zenfocusstore - Cursor": 142,
+                "COM异常修复说明.md - zenfocusstore - Cursor": 23,
+                "COM_FIX_EXPLANATION.md - zenfocusstore - Cursor": 5,
+                "Settings - zenfocusstore - Cursor": 4,
+                "settings.json - zenfocusstore - Cursor": 19,
+                "● settings.json - zenfocusstore - Cursor": 2,
+                "Settings - nswebapi - Cursor": 178,
+                "SfngCommunityService.cs - nswebapi - Cursor": 12,
+                "City.cs - nswebapi - Cursor": 498,
+                "settings.json - nswebapi - Cursor": 589,
+                "● settings.json - nswebapi - Cursor": 74,
+                "Extension: Atom One Light Theme - nswebapi - Cursor": 41,
+                "Extension: Atom One Dark Theme - nswebapi - Cursor": 4,
+                "Cursor Settings - nswebapi - Cursor": 4,
+                "ZenCoEva.cs - nswebapi - Cursor": 31,
+                "Browser - nswebapi - Cursor": 6,
+                "Uninstall Extension with Dependents": 1,
+                "项目结构.md - Cursor": 12
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 130,
+            "titles": {
+                "设置": 74,
+                "Microsoft Store": 38,
+                "Armoury Crate": 18
+            }
+        },
+        "Hiddify.exe": {
+            "total": 73,
+            "titles": {
+                "Hiddify": 73
+            }
+        },
+        "devenv.exe": {
+            "total": 2375,
+            "titles": {
+                "Microsoft Visual Studio Enterprise 2026": 3,
+                "Microsoft Visual Studio": 39,
+                "zenFocusStore - HomeView.xaml.cs - Microsoft Visual Studio": 212,
+                "zenFocusStore - Microsoft Visual Studio": 1,
+                "NSWebApi - Microsoft Visual Studio": 5,
+                "Visual Studio 2026 (2)": 3,
+                "Microsoft Visual Studio 帐户设置": 17,
+                "NSWebApi - web.config - Microsoft Visual Studio": 13,
+                "NSWebApi - appsettings.json - Microsoft Visual Studio": 47,
+                "NSWebApi": 14,
+                "NSWebApi - WeChatService.cs - Microsoft Visual Studio": 5,
+                "NSWebApi - IWeChatService.cs - Microsoft Visual Studio": 19,
+                "打开项目/解决方案": 9,
+                "新增功能 - Microsoft Visual Studio": 1,
+                "选项": 411,
+                "颜色": 59,
+                "Microsoft Visual Studio Community 2026": 7,
+                "NSWebApi - City.cs - Microsoft Visual Studio": 971,
+                "NSWebApi - City.cs": 5,
+                "Unknown Title": 3,
+                "再次输入凭据": 17,
+                "选项 - Microsoft Visual Studio": 2,
+                "导入和导出设置向导": 13,
+                "NSWebApi - AliyunMailHelper.cs - Microsoft Visual Studio": 301,
+                "NSWebApi - AliyunMailHelper.cs* - Microsoft Visual Studio": 16,
+                "NSWebApi - UserExamService.cs - Microsoft Visual Studio": 12,
+                "NSWebApi - AliCloudController.cs - Microsoft Visual Studio": 6,
+                "NSWebApi - UserService.cs - Microsoft Visual Studio": 151,
+                "NSWebApi - BaseDto.cs - Microsoft Visual Studio": 4,
+                "NSWebApi - VerificationCodeHelper.cs - Microsoft Visual Studio": 9
+            }
+        },
+        "Notepad.exe": {
+            "total": 77,
+            "titles": {
+                "build_log.txt - Notepad": 3,
+                "buildlog.txt - Notepad": 8,
+                "*buildlog.txt - Notepad": 41,
+                "记事本": 3,
+                "License.txt - Notepad": 2,
+                "README.txt - Notepad": 12,
+                "20251123.data.json - Notepad": 1,
+                "InstallLog.txt - Notepad": 4,
+                "rt640x64.inf - Notepad": 2,
+                "无标题 - Notepad": 1
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 33,
+            "titles": {
+                "开始": 33
+            }
+        },
+        "Trae.exe": {
+            "total": 2545,
+            "titles": {
+                "settings.json - nswebapi - Trae": 1453,
+                "Trae": 24,
+                "● settings.json - nswebapi - Trae": 370,
+                "City.cs - nswebapi - Trae": 344,
+                "设置 - nswebapi - Trae": 108,
+                "Editor 设置 - nswebapi - Trae": 140,
+                "AcademyDynamic.cs - nswebapi - Trae": 14,
+                "● City.cs - nswebapi - Trae": 17,
+                "扩展: .NET Install Tool - nswebapi - Trae": 13,
+                "扩展: One Dark Pro - nswebapi - Trae": 19,
+                "扩展: Atom One Dark Theme - nswebapi - Trae": 26,
+                "扩展: BasedPyright - nswebapi - Trae": 14,
+                "System.Security.Permissions.dll - nswebapi - Trae": 3
+            }
+        },
+        "msedge.exe": {
+            "total": 1591,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 69,
+                "设置 - 个人 - Microsoft​ Edge": 5,
+                "Visual Studio Code 中文字体 - 搜索 - 个人 - Microsoft​ Edge": 10,
+                "bing.com/ck/a?!&&p=04909e81474a4d9b835b53f56cfe45f4b6d2f07d22e7b4e924100da5ca54e23cJmltdHM9MTc2Mzg1NjAwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&u=a1aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0hvZG9ycy9hcnRpY2xlL2RldGFpbHMvMTA3NzQwODA1&ntb=1 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "VSCode中文字体设置-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "Visual Studio Code 中文字体推荐 - 搜索 - 个人 - Microsoft​ Edge": 31,
+                "Visual Studio Code 中文字体推荐 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "我从200多款字体中，终于找到3款最适合”中英文混排“编程的字体！ - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "知乎 - 安全中心 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "夸克网盘分享 和另外 2 个页面 - 个人 - Microsoft​ Edge": 13,
+                "我从200多款字体中，终于找到3款最适合”中英文混排“编程的字体！ - 知乎 和另外 2 个页面 - 个人 - Microsoft​ Edge": 68,
+                "windows 导入字体 - 搜索 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "我需要安装一种字体，win10系统如何安装字体呢？ - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "windows 导入字体 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "windows 11 导入字体 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Win11系统如何安装添加新字体（组图教程）_win11字体-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge": 21,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 14,
+                "visual studio code 编辑器背景色推荐 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 5,
+                "10 款最佳 VS Code 主题,你用过几个? - 知乎 和另外 3 个页面 - 个人 - Microsoft​ Edge": 17,
+                "windows 11 导入字体 - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "夸克网盘分享 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "vscode中文字体哪个好看 • Worktile社区 和另外 1 个页面 - 个人 - Microsoft​ Edge": 28,
+                "jetbrains mono字体下载 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "jetbrains.com/zh-cn/lp/mono/ 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teams 和另外 3 个页面 - 个人 - Microsoft​ Edge": 55,
+                "Unknown Title": 62,
+                "Visual Studio Code 中文字体推荐 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "Visual Studio Code 中文字体推荐 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 12,
+                "VSCode 最好看的 5 款字体风格，很符合程序员的审美【附教程】_vscode 字体-CSDN博客 和另外 4 个页面 - 个人 - Microsoft​ Edge": 30,
+                "Visual Studio Code 中文字体推荐 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 5,
+                "VSCode 最好看的 5 款字体风格，很符合程序员的审美【附教程】_vscode 字体-CSDN博客 和另外 5 个页面 - 个人 - Microsoft​ Edge": 13,
+                "vscode中文字体推荐|极客教程 和另外 5 个页面 - 个人 - Microsoft​ Edge": 21,
+                "Visual Studio Code 中文字体推荐 - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 8,
+                "VSCode 最好看的 5 款字体风格，很符合程序员的审美【附教程】_vscode 字体-CSDN博客 和另外 6 个页面 - 个人 - Microsoft​ Edge": 3,
+                "vscode中文字体哪个好看 • Worktile社区 和另外 6 个页面 - 个人 - Microsoft​ Edge": 7,
+                "FIRA CODE - 搜索 和另外 7 个页面 - 个人 - Microsoft​ Edge": 3,
+                "vscode中文字体哪个好看 • Worktile社区 和另外 7 个页面 - 个人 - Microsoft​ Edge": 14,
+                "无标题 和另外 8 个页面 - 个人 - Microsoft​ Edge": 3,
+                "FIRA CODE - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 2,
+                "jetbrains mono字体下载 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 6,
+                "JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teams 和另外 7 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 6 个页面 - 个人 - Microsoft​ Edge": 5,
+                "tonsky/FiraCode: Free monospaced font with programming ligatures 和另外 6 个页面 - 个人 - Microsoft​ Edge": 4,
+                "tonsky/FiraCode: Free monospaced font with programming ligatures 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Release 6.2 · tonsky/FiraCode 和另外 7 个页面 - 个人 - Microsoft​ Edge": 9,
+                "FIRA CODE - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "vscode中文字体哪个好看 • Worktile社区 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "vscode中文字体哪个好看 • Worktile社区 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "vscode中文字体推荐|极客教程 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "VSCode 最好看的 5 款字体风格，很符合程序员的审美【附教程】_vscode 字体-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "vscode最适合编程的 6 种字体 - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 17,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 13,
+                "Yahei mono - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "Yahei mono - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "chenyium/Microsoft-Yahei-Mono: Microsoft Yahei Mono 字体 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "Microsoft-Yahei-Mono: Microsoft Yahei Mono 字体 和另外 3 个页面 - 个人 - Microsoft​ Edge": 11,
+                "chenyium/Microsoft-Yahei-Mono: Microsoft Yahei Mono 字体 和另外 3 个页面 - 个人 - Microsoft​ Edge": 9,
+                "Microsoft-Yahei-Mono/MSYHMONO.ttf at master · chenyium/Microsoft-Yahei-Mono 和另外 3 个页面 - 个人 - Microsoft​ Edge": 13,
+                "程序员专用：Microsoft YaHei Mono字体设计与应用-CSDN博客 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "Atom One Dark Theme - Visual Studio Marketplace - 个人 - Microsoft​ Edge": 5,
+                "Themes Extensions - Visual Studio Marketplace - 个人 - Microsoft​ Edge": 1,
+                "Themes Extensions - Visual Studio Code - 个人 - Microsoft​ Edge": 6,
+                "Search results - One Dark | Visual Studio Code , Visual Studio Marketplace - 个人 - Microsoft​ Edge": 22,
+                "One Dark Pro - Visual Studio Marketplace - 个人 - Microsoft​ Edge": 6,
+                "One Dark Pro - Visual Studio Marketplace 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Publisher binaryify - Visual Studio Marketplace 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "One Dark Pro Lite - Visual Studio Marketplace 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "Search results - One Dark | Visual Studio Code , Visual Studio Marketplace 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Search results - light | Visual Studio Code , Visual Studio Marketplace 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "Atom One Light Theme - Visual Studio Marketplace 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Theme Color | Visual Studio Code Extension API 和另外 2 个页面 - 个人 - Microsoft​ Edge": 56,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "rgb to hex - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "Theme Color | Visual Studio Code Extension API 和另外 3 个页面 - 个人 - Microsoft​ Edge": 18,
+                "Publisher binaryify - Visual Studio Marketplace 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Visual studio code 只修改编辑器颜色 - 搜索 - 个人 - Microsoft​ Edge": 17,
+                "Visual studio code 只修改编辑器颜色 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "实用指南：vsCode如何自定义编辑器背景色 - wzzkaifa - 博客园 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "百度一下，你就知道 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "华景伟同志逝世_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "日本网民批高市早苗:去中国道歉_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "华景伟同志逝世_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Visual studio code 只修改编辑器颜色_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "baidu.com/link?url=JPscmhym8urw7D44nJrM90m-yTwOqqBJyDANvopE00ThsNaNpX_sITE3_4xOfy71R2FzrO6uiQcZ2djymDhOeb0SrHqP_2nGBCyMez6emtS&wd=&eqid=8a1768a1019bb33400000004692319a3 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "修改VSCode编辑器的主题和代码颜色_editor.tokencolorcustomizations-CSDN博客 和另外 3 个页面 - 个人 - Microsoft​ Edge": 23,
+                "rgb to hex - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Atom One Light Theme - Visual Studio Marketplace - 个人 - Microsoft​ Edge": 2,
+                "jetbrains.com - 个人 - Microsoft​ Edge": 2,
+                "JetBrains: Essential tools for software developers and teams - 个人 - Microsoft​ Edge": 5,
+                "jetbrains.com/idea/ - 个人 - Microsoft​ Edge": 1,
+                "The Leading IDE for Professional Java and Kotlin Development - 个人 - Microsoft​ Edge": 27,
+                "jetbrains.com/idea/download/ - 个人 - Microsoft​ Edge": 1,
+                "Download IntelliJ IDEA - 个人 - Microsoft​ Edge": 16,
+                "Thank you for downloading IntelliJ IDEA! - 个人 - Microsoft​ Edge": 48,
+                "view-source:https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "view-source:https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC - 个人 - Microsoft​ Edge": 3,
+                "DevTools - www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC": 3,
+                "visual studio != - 搜索 - 个人 - Microsoft​ Edge": 4,
+                "visual studio 2026 != - 搜索 - 个人 - Microsoft​ Edge": 18,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 10,
+                "realteck - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Realtek 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "realteck - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Realtek 和另外 3 个页面 - 个人 - Microsoft​ Edge": 10,
+                "通讯网络 ICs-通訊網路 ICs 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Realtek 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Realtek PCIe FE / GbE / 2.5GbE / 5G / 10G Family Controller Software 和另外 4 个页面 - 个人 - Microsoft​ Edge": 80,
+                "无标题 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "NDIS - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 5,
+                "Realtek PCIe FE / GbE / 2.5GbE / 5G / 10G Family Controller Software 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "下载文件 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Captcha Download 和另外 5 个页面 - 个人 - Microsoft​ Edge": 16,
+                "NetAdapterCx - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 5,
+                "下载文件 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Captcha Download 和另外 4 个页面 - 个人 - Microsoft​ Edge": 13,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 16,
+                "realtek 1125.26.710.2025 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 10,
+                "通讯网络 ICs-通訊網路 ICs 和另外 5 个页面 - 个人 - Microsoft​ Edge": 6,
+                "多媒体 ICs 和另外 5 个页面 - 个人 - Microsoft​ Edge": 20,
+                "智慧互联ICs 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Realtek 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "计算机外设 ICs-電腦週邊 ICs 和另外 5 个页面 - 个人 - Microsoft​ Edge": 8,
+                "realteck - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 4,
+                "快科技--科技改变未来 和另外 5 个页面 - 个人 - Microsoft​ Edge": 6,
+                "Realtek HD Audio 的相关资讯-快科技搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 9,
+                "无标题 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Realtek瑞昱HD Audio（HDA）声卡驱动6.0.9673.1版For Win10-64/Win11（2024年4月23日发布）驱动之家 和另外 7 个页面 - 个人 - Microsoft​ Edge": 2,
+                "驱动之家-值得信赖的专业驱动中文网站 和另外 8 个页面 - 个人 - Microsoft​ Edge": 5,
+                "驱动下载-驱动之家 和另外 8 个页面 - 个人 - Microsoft​ Edge": 2,
+                "声卡-驱动下载-驱动之家 和另外 8 个页面 - 个人 - Microsoft​ Edge": 2,
+                "声卡-Realtek瑞昱-驱动下载-驱动之家 和另外 8 个页面 - 个人 - Microsoft​ Edge": 14,
+                "声卡-Realtek瑞昱-Realtek瑞昱HD Audio音频芯片-驱动下载-驱动之家 和另外 8 个页面 - 个人 - Microsoft​ Edge": 10,
+                "realteck - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 11,
+                "realteck 6.0.9879.1 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 7,
+                "realtek 6.0.9879.1 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 2,
+                "realtek 6.0.9879.1 - 搜索 和另外 9 个页面 - 个人 - Microsoft​ Edge": 11,
+                "Download Sixunited Realtek High Definition Audio Driver 6.0.9879.1 for Windows 10 64 bit - Softpedia 和另外 9 个页面 - 个人 - Microsoft​ Edge": 8,
+                "Download REALTEK Sound Card drivers for Windows - Softpedia 和另外 9 个页面 - 个人 - Microsoft​ Edge": 28,
+                "Drivers Search: High Definition Audio - Softpedia 和另外 9 个页面 - 个人 - Microsoft​ Edge": 8,
+                "声卡-Realtek瑞昱-Realtek瑞昱HD Audio音频芯片-驱动下载-驱动之家 和另外 9 个页面 - 个人 - Microsoft​ Edge": 20,
+                "Captcha Download 和另外 9 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Realtek 和另外 8 个页面 - 个人 - Microsoft​ Edge": 3,
+                "realtek 1125.26.710.2025 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Realtek 和另外 7 个页面 - 个人 - Microsoft​ Edge": 10,
+                "多媒体 ICs 和另外 7 个页面 - 个人 - Microsoft​ Edge": 7,
+                "通讯网络 ICs-通訊網路 ICs 和另外 7 个页面 - 个人 - Microsoft​ Edge": 33,
+                "Gigabit Ethernet 和另外 7 个页面 - 个人 - Microsoft​ Edge": 7,
+                "Fast Ethernet 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Realtek PCIe FE / GbE / 2.5GbE / 5G / 10G Family Controller Software 和另外 8 个页面 - 个人 - Microsoft​ Edge": 18,
+                "多媒体 ICs 和另外 6 个页面 - 个人 - Microsoft​ Edge": 7,
+                "Drivers Search: High Definition Audio - Softpedia 和另外 5 个页面 - 个人 - Microsoft​ Edge": 15
+            }
+        },
+        "Code.exe": {
+            "total": 1497,
+            "titles": {
+                "Visual Studio Code": 12,
+                "app_tracker.py - Visual Studio Code": 4,
+                "working_timer_germini3.2.pyw - Visual Studio Code": 1,
+                "Welcome - Visual Studio Code": 3,
+                "settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 683,
+                "Extension: Atom One Dark Theme - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 47,
+                "Extension: One Dark Pro - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 19,
+                "Extension: One Dark Pro Lite - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 25,
+                "Extension: Atom One Light Theme - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 40,
+                "● settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 410,
+                "1.1.1.ipynb - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 30,
+                "Settings - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 55,
+                "Select folder to download the VSIX": 6,
+                "20251123.data.json - Visual Studio Code": 162
+            }
+        },
+        "OpenWith.exe": {
+            "total": 14,
+            "titles": {
+                "Unknown Title": 14
+            }
+        },
+        "navicat.exe": {
+            "total": 42,
+            "titles": {
+                "About Navicat": 3,
+                "Navicat Premium": 36,
+                "Navicat Updater": 3
+            }
+        },
+        "setup.exe": {
+            "total": 95,
+            "titles": {
+                "Visual Studio Installer": 48,
+                "Unknown Title": 3,
+                "Realtek Ethernet Controller Driver - InstallShield Wizard": 41,
+                "退出安装": 3
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 6,
+            "titles": {
+                "Cursor 的跳转列表": 3,
+                "Visual Studio 的跳转列表": 1,
+                "Microsoft Edge 的跳转列表": 2
+            }
+        },
+        "chrome.exe": {
+            "total": 517,
+            "titles": {
+                "新标签页 - Google Chrome": 52,
+                "设置 - 关于 Chrome - Google Chrome": 36,
+                "无标题 - Google Chrome": 7,
+                "Search results - theme | Visual Studio , Visual Studio Marketplace - Google Chrome": 6,
+                "All categories Extensions - Visual Studio - Google Chrome": 4,
+                "Search results - One Dark | Visual Studio , Visual Studio Marketplace - Google Chrome": 16,
+                "One Dark Pro - Visual Studio Marketplace - Google Chrome": 15,
+                "近期的下载记录": 1,
+                "GitHub - microsoft/theme-converter-for-vs: CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme. - Google Chrome": 2,
+                "Open VSX Registry - Google Chrome": 8,
+                "Extensions for Visual Studio family of products | Visual Studio Marketplace - Google Chrome": 9,
+                "Search results - Atom One Light | Visual Studio Code , Visual Studio Marketplace - Google Chrome": 3,
+                "VS Code 编辑器背景色推荐_百度搜索 - Google Chrome": 35,
+                "百度文心助手 - 办公学习一站解决 - Google Chrome": 22,
+                "rgb to hex_百度搜索 - Google Chrome": 8,
+                "baidu.com/link?url=YDCm4xrNtRwr6mJx1rIONT1vV1sSVF7pEkQQpOy1IkvaC74sIIhaNgOQeHGTQ9eAdayyTupympzL3IgiH0K5b2n6luXmNV7KJWCrspf_s7e&wd=&eqid=e3527f2101981e6100000004692312a4 - Google Chrome": 2,
+                "RGB to Hex - Google Chrome": 5,
+                "Google - Google Chrome": 6,
+                "rgb to hex - Google 搜索 - Google Chrome": 17,
+                "VScode背景色设置教程 - Google Chrome": 17,
+                "baidu.com/link?url=IiVab614Z3QTF6s54MV2DFGgN9esdxdjWTCAD_y98T4KH7lFcgXFMkl-ZtESL_0GZIhvo3RDD9aQzuaOIE4x33cr0_HNJif7m9osMO7LGi3&wd=&eqid=d73c7e68004a18ae0000000469231003 - Google Chrome": 1,
+                "【程序员必备视觉优化】：10款高颜值VSCode主题推荐与调色技巧-CSDN博客 - Google Chrome": 8,
+                "阅读器 背景色_百度搜索 - Google Chrome": 5,
+                "小说阅读器 背景色_百度搜索 - Google Chrome": 46,
+                "hex to rgb_百度搜索 - Google Chrome": 12,
+                "baidu.com/link?url=tN8Cp35h_tYxZLRDmD24nBjTVSmnCMKUErB_8gxYpPynzAaIdOgvQNng0qzQppRDfu-soAkd-Jv6dPEom5xYE8UnQ_eRQBR-aMTaHIevAhG&wd=&eqid=ae4b8fc8018ad8050000000469231596 - Google Chrome": 1,
+                "baidu.com/link?url=FPY4Ruybo7Uoq5N--EXJQBDHpTBMpu3bTqxcgksXeetjorgmB9nvsMyDAAyvPn9VMjimXZfAyhE_vF27glpj1jfE0ZS-yetPKZPq6wKuPMK&wd=&eqid=ae4b8fc8018ad8050000000469231596 - Google Chrome": 1,
+                "baidu.com/link?url=UKXlScAnuOmDIEjAhkn6H12d4EwCLXO9ANXIu2bUKbVl3XfJmIyl4iaj8EkMSre1&wd=&eqid=ae4b8fc8018ad8050000000469231596 - Google Chrome": 1,
+                "Hex to RGB - Google Chrome": 3,
+                "hex和rgb色值转换-色彩加深减淡-CSDN博客 - Google Chrome": 2,
+                "Hex颜色到RGBA颜色在线转换工具 - Coding.Tools - Google Chrome": 26,
+                "Visual Studio - Unified Settings Survey - Google Chrome": 14,
+                "powershell -nologo_百度搜索 - Google Chrome": 16,
+                "ccleaner官方下载_百度搜索 - Google Chrome": 12,
+                "CCleaner 让您的计算机更快速、更安全 | 官方网站 - Google Chrome": 6,
+                "感谢下载 CCleaner - Google Chrome": 9,
+                "voidtools - Google Chrome": 7,
+                "Realtek - Google Chrome": 1,
+                "多媒体 ICs - Google Chrome": 4,
+                "计算机外设 ICs-電腦週邊 ICs - Google Chrome": 3,
+                "多媒体 ICs-多媒體 ICs - Google Chrome": 7,
+                "realtek hd audio_百度搜索 - Google Chrome": 19,
+                "Realtek HD Audio下载_realtek audio driver 驱动官网版下载_Realtek高清晰音频管理器驱动下载_华军软件园 - Google Chrome": 6,
+                "声卡驱动下载_声卡驱动程序下载_声卡驱动安装更新-华军软件园 - Google Chrome": 6,
+                "realtek high definition audio下载_realtek high definition audio2025官方最新版_realtek high definition audiov6.0.1.7904免费下载_华军软件园 - Google Chrome": 30
+            }
+        },
+        "quark.exe": {
+            "total": 94,
+            "titles": {
+                "夸克网盘 - 夸克": 30,
+                "分享链接": 5,
+                "会员中心 - 夸克": 21,
+                "选择文件": 4,
+                "Unknown Title": 5,
+                "新标签页 - 夸克": 4,
+                "设置 - 个人中心 - 夸克": 13,
+                "设置 - 关于夸克 - 夸克": 4,
+                "是否要关闭所有标签页?": 3,
+                "设置 - 启动与退出 - 夸克": 5
+            }
+        },
+        "7zFM.exe": {
+            "total": 121,
+            "titles": {
+                "D:\\迅雷下载\\12、更纱黑体.zip\\": 36,
+                " 正在复制...": 1,
+                "82% 正在复制...": 1,
+                "D:\\迅雷下载\\12、更纱黑体.zip\\更纱黑体0.33.1(等距简体版)\\": 15,
+                "D:\\迅雷下载\\12、更纱黑体.zip\\更纱黑体0.33.1(简体版)\\": 5,
+                "D:\\迅雷下载\\JetBrainsMono-2.304.zip\\": 2,
+                "D:\\迅雷下载\\JetBrainsMono-2.304.zip\\fonts\\": 1,
+                "D:\\迅雷下载\\JetBrainsMono-2.304.zip\\fonts\\ttf\\": 32,
+                "D:\\迅雷下载\\Fira_Code_v6.2.zip\\": 7,
+                "D:\\迅雷下载\\Fira_Code_v6.2.zip\\ttf\\": 4,
+                "17% 正在复制...": 1,
+                "C:\\Users\\byj19\\Downloads\\Install_Win11_Win10_10078_DMAROFF_10282025.zip\\": 6,
+                "Window Dialog": 3,
+                "C:\\Users\\byj19\\Downloads\\Install_PCIE_Win11_11027_DMAROFF_10282025.zip\\": 7
+            }
+        },
+        "fontview.exe": {
+            "total": 180,
+            "titles": {
+                "等距更纱黑体 SC Semibold (TrueType) ": 2,
+                "等距更纱黑体 SC Semibold Italic (TrueType) ": 2,
+                "等距更纱黑体 SC (TrueType) ": 17,
+                "JetBrains Mono Regular (OpenType) ": 3,
+                "Fira Code Regular (OpenType) ": 36,
+                "JetBrains Mono NL Regular (OpenType) ": 21,
+                "Fira Code Retina (OpenType) ": 36,
+                "Calibri (OpenType) ": 2,
+                "Consolas (OpenType) ": 4,
+                "YouYuan (TrueType) ": 3,
+                "微软雅黑 & Microsoft Yahei UI  (TrueType) ": 10,
+                "Microsoft YaHei Mono (TrueType) ": 32,
+                "更纱黑体 SC (TrueType) ": 12
+            }
+        },
+        "Thunder.exe": {
+            "total": 112,
+            "titles": {
+                "迅雷": 101,
+                "新建任务面板": 2,
+                "thunder": 2,
+                "提示框": 4,
+                "确定要删除吗？": 3
+            }
+        },
+        "APlayer.exe": {
+            "total": 3,
+            "titles": {
+                "Unknown Title": 3
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 3,
+            "titles": {
+                "MainWindow": 3
+            }
+        },
+        "VSIXInstaller.exe": {
+            "total": 3,
+            "titles": {
+                "VSIX Installer": 3
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 1,
+            "titles": {
+                "截图工具覆盖": 1
+            }
+        },
+        "mspaint.exe": {
+            "total": 15,
+            "titles": {
+                "无标题 - 画图": 9,
+                "Unknown Title": 6
+            }
+        },
+        "Weixin.exe": {
+            "total": 177,
+            "titles": {
+                "微信": 161,
+                "Weixin": 7,
+                "“花旗金融跳蚤市场+找工作交流”的聊天记录(500)": 9
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "regedit.exe": {
+            "total": 5,
+            "titles": {
+                "注册表编辑器": 4,
+                "查找": 1
+            }
+        },
+        "AMDInstallManager.exe": {
+            "total": 12,
+            "titles": {
+                "AMDInstallManager": 8,
+                "AMD Install Manager": 4
+            }
+        },
+        "wps.exe": {
+            "total": 14,
+            "titles": {
+                "Unknown Title": 1,
+                "WPS Office": 13
+            }
+        },
+        "yuanbao.exe": {
+            "total": 107,
+            "titles": {
+                "腾讯元宝": 96,
+                "腾讯元宝设置": 11
+            }
+        },
+        "ccsetup_online_setup.exe": {
+            "total": 16,
+            "titles": {
+                "CCleaner 自解压程序": 16
+            }
+        },
+        "icarus_ui.exe": {
+            "total": 15,
+            "titles": {
+                "Unknown Title": 1,
+                "CCleaner": 14
+            }
+        },
+        "idea64.exe": {
+            "total": 35,
+            "titles": {
+                "Unknown Title": 2,
+                "Programmer": 25,
+                "About IntelliJ IDEA": 2,
+                "Tip of the Day": 2,
+                "IntelliJ IDEA and Plugin Updates": 3,
+                "Confirm Exit": 1
+            }
+        },
+        "CCleaner.exe": {
+            "total": 553,
+            "titles": {
+                "CCleaner": 9,
+                "Unknown Title": 54,
+                "CCleaner：正在扫描计算机以进行改进": 18,
+                "CCleaner：启动项管理器": 2,
+                "CCleaner：管理开机时启动的应用": 9,
+                "CCleaner：自定义清理": 84,
+                "CCleaner：正在扫描...": 84,
+                "CCleaner：增强您的隐私保护": 8,
+                "CCleaner：Internet 缓存": 12,
+                "CCleaner：内存转储": 40,
+                "CCleaner：性能优化器": 1,
+                "CCleaner：临时文件": 30,
+                "CCleaner：自定义清理结果": 6,
+                "CCleaner：设置": 24,
+                "CCleaner：软件更新程序": 2,
+                "CCleaner：卸载程序": 3,
+                "CCleaner：重复文件查找器": 3,
+                "CCleaner：正在扫描驱动器…": 10,
+                "CCleaner：Driver Updater": 1,
+                "CCleaner：正在扫描查找过时的驱动程序...": 22,
+                "CCleaner：undefined 个驱动程序需要更新": 131
+            }
+        },
+        "Everything.exe": {
+            "total": 47,
+            "titles": {
+                "Everything": 8,
+                "关于 Everything": 2,
+                "rea - Everything": 1,
+                "realt - Everything": 1,
+                "realte - Everything": 1,
+                "realtek - Everything": 22,
+                "hd - Everything": 2,
+                "hdau - Everything": 1,
+                "hdaudio - Everything": 6,
+                "real - Everything": 1,
+                "realtck - Everything": 2
+            }
+        },
+        "Everything-1.4.1.1030.x64-Setup.exe": {
+            "total": 6,
+            "titles": {
+                "Everything 安装向导": 1,
+                "Everything 安装 ": 4,
+                "Everything 安装": 1
+            }
+        },
+        "everything.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "java.exe": {
+            "total": 27,
+            "titles": {
+                "Update": 27
+            }
+        },
+        "pythonw.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "mmc.exe": {
+            "total": 158,
+            "titles": {
+                "计算机管理": 24,
+                "Realtek Gaming 2.5GbE Family Controller #2 属性": 41,
+                "更新驱动程序 - Realtek Gaming 2.5GbE Family Controller #2": 28,
+                "Realtek High Definition Audio 属性": 47,
+                "更新驱动程序 - Realtek High Definition Audio": 3,
+                "驱动程序文件详细信息": 12,
+                "浏览文件夹": 3
+            }
+        },
+        "Install_Win11_Win10_10078_DMAROFF_10282025.exe": {
+            "total": 1,
+            "titles": {
+                "76% Extracting": 1
+            }
+        },
+        "Install_PCIE_Win11_11027_DMAROFF_10282025.exe": {
+            "total": 1,
+            "titles": {
+                "26% Extracting": 1
+            }
+        },
+        "Uninstall.exe": {
+            "total": 3,
+            "titles": {
+                "爱思助手卸载程序": 3
+            }
+        },
+        "RAVCpl64.exe": {
+            "total": 22,
+            "titles": {
+                "Realtek高清晰音频管理器": 13,
+                "Realtek HD Audio CPL for Vista": 4,
+                "相关讯息": 5
+            }
+        },
+        "ThunderStart.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "7zG.exe": {
+            "total": 3,
+            "titles": {
+                "100% 正在解压 C:\\Users\\byj19\\Dow ... AROFF_10282025.exe": 3
+            }
+        }
+    }
+}

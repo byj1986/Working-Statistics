@@ -1,0 +1,15 @@
+开机时间:2025-11-22 22:34:43
+关机时间:2025-11-22 22:56:42
+共使用: 0:18:53
+闲置: 0:17:8
+------------------------------
+应用程序使用详情 (按时长倒序):
+explorer.exe 0:1:20
+    启动 - 文件资源管理器 0:1:8
+    系统托盘溢出窗口。 0:0:11
+    Unknown Title 0:0:1
+WindowsTerminal.exe 0:0:23
+    Windows PowerShell 0:0:16
+    auto_start.bat 0:0:7
+pythonw.exe 0:0:2
+    Unknown Title 0:0:2

@@ -1,0 +1,171 @@
+开机时间:2025-11-24 00:00:00
+关机时间:2025-11-24 23:44:50
+共使用: 2:59:9
+闲置: 0:50:38
+------------------------------
+应用程序使用详情 (按时长倒序):
+chrome.exe 1:14:44
+    Google AI Studio - Google Chrome 0:26:40
+    每日使用统计报告 - Google Chrome 0:23:58
+    过去7天使用趋势 - Google Chrome 0:7:5
+    DevTools - localhost:8000/daily.html 0:5:41
+    GitHub - cefsharp/CefSharp: .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework - Google Chrome 0:2:40
+    新标签页 - Google Chrome 0:0:51
+    Radar Chart | Chart.js - Google Chrome 0:0:42
+    minisforum - Google Chrome 0:0:37
+    铭凡｜深圳美高创新科技股份有限公司 - Google Chrome 0:0:33
+    堆叠柱状图 - 柱状图 - 常用图表类型 - 应用篇 - 使用手册 - Apache ECharts - Google Chrome 0:0:29
+    DevTools - localhost:8000/week.html 0:0:22
+    打开 0:0:21
+    localhost - Google Chrome 0:0:16
+    Chart.js | Chart.js - Google Chrome 0:0:15
+    Installation | Chart.js - Google Chrome 0:0:14
+    铭凡_百度搜索 - Google Chrome 0:0:13
+    Bar Chart | Chart.js - Google Chrome 0:0:13
+    阶梯瀑布图 - 柱状图 - 常用图表类型 - 应用篇 - 使用手册 - Apache ECharts - Google Chrome 0:0:12
+    GitHub - microsoft/theme-converter-for-vs: CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme. - Google Chrome 0:0:11
+    Google - Google Chrome 0:0:11
+    github cefsharp - Google 搜索 - Google Chrome 0:0:11
+    基础饼图 - 饼图 - 常用图表类型 - 应用篇 - 使用手册 - Apache ECharts - Google Chrome 0:0:11
+    Radial Axes | Chart.js - Google Chrome 0:0:11
+    gemini3 - Google 搜索 - Google Chrome 0:0:10
+    chart.js - npm - Google Chrome 0:0:10
+    ‎Google Gemini - Google Chrome 0:0:8
+    快速上手 - 使用手册 - Apache ECharts - Google Chrome 0:0:8
+    realtek hd audio_百度搜索 - Google Chrome 0:0:7
+    um780pro_百度搜索 - Google Chrome 0:0:7
+    Gemini 3 - Google DeepMind - Google Chrome 0:0:7
+    Accessibility | Chart.js - Google Chrome 0:0:7
+    Area Chart | Chart.js - Google Chrome 0:0:7
+    Bubble Chart | Chart.js - Google Chrome 0:0:7
+    Doughnut and Pie Charts | Chart.js - Google Chrome 0:0:7
+    Line Chart | Chart.js - Google Chrome 0:0:7
+    Scatter Chart | Chart.js - Google Chrome 0:0:7
+    多媒体 ICs-多媒體 ICs - Google Chrome 0:0:6
+    Axes | Chart.js - Google Chrome 0:0:5
+    germini 3 - Google 搜索 - Google Chrome 0:0:4
+    Linear Axis | Chart.js - Google Chrome 0:0:4
+    无标题 - Google Chrome 0:0:3
+    近期的下载记录 0:0:3
+    Unicorn! · GitHub - Google Chrome 0:0:3
+    /npm/chart.js - Google 搜索 - Google Chrome 0:0:3
+    Mixed Chart Types | Chart.js - Google Chrome 0:0:3
+    Cartesian Axes | Chart.js - Google Chrome 0:0:3
+    Category Axis | Chart.js - Google Chrome 0:0:3
+    echarts_百度搜索 - Google Chrome 0:0:2
+    Apache ECharts - Google Chrome 0:0:2
+    设置 - 关于 Chrome - Google Chrome 0:0:2
+    Polar Area Chart | Chart.js - Google Chrome 0:0:2
+Cursor.exe 0:16:48
+    daily.html - Statistics - Cursor 0:3:56
+    week.html - Statistics - Cursor 0:3:38
+    server.py - Statistics - Cursor 0:3:21
+    20251123.data.json - Statistics - Cursor 0:2:23
+    Statistics - Cursor 0:1:7
+    ● daily.html - Statistics - Cursor 0:0:45
+    20251124.data.json - Statistics - Cursor 0:0:19
+    ● week.html - Statistics - Cursor 0:0:18
+    Open Folder 0:0:14
+    Cursor 0:0:12
+    Settings - Statistics - Cursor 0:0:12
+    settings.json - Statistics - Cursor 0:0:11
+    项目结构.md - Cursor 0:0:6
+    ● server.py - Statistics - Cursor 0:0:4
+    ● 20251123.data.json - Statistics - Cursor 0:0:1
+    ● settings.json - Statistics - Cursor 0:0:1
+Notepad--.exe 0:7:21
+    New 0 [文本模式] - Ndd 0:7:19
+    notepad-- - Ndd 0:0:1
+    C:\Users\byj19\Desktop\浦东AI考试.txt [文本模式] - Ndd 0:0:1
+explorer.exe 0:6:52
+    Statistics - 文件资源管理器 0:3:14
+    Codes - 文件资源管理器 0:1:1
+    Unknown Title 0:0:51
+    下载 - 文件资源管理器 0:0:33
+    Data (D:) - 文件资源管理器 0:0:22
+    此电脑 - 文件资源管理器 0:0:13
+    byj19 - 文件资源管理器 0:0:7
+    系统托盘溢出窗口。 0:0:6
+    System (C:) - 文件资源管理器 0:0:4
+    用户 - 文件资源管理器 0:0:4
+    NICDRV_8169 - 文件资源管理器 0:0:3
+    任务切换 0:0:3
+    Program Manager 0:0:3
+    贴靠助手 0:0:2
+    已完成 36% 0:0:1
+    Programs - 文件资源管理器 0:0:1
+    文件资源管理器 0:0:1
+    重命名 0:0:1
+    迅雷下载 - 文件资源管理器 0:0:1
+    文件夹正在使用 0:0:1
+mintty.exe 0:6:51
+    MINGW64:/c/Users/byj19/Codes                                                   0:6:49
+    /usr/bin/bash --login -i                                                   0:0:1
+    ng completion script                                                   0:0:1
+Weixin.exe 0:6:43
+    微信 0:5:39
+    图片和视频 0:0:56
+    设置 0:0:5
+    Weixin 0:0:3
+msedge.exe 0:3:11
+    Realtek HD Audio 的相关资讯-快科技搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:47
+    DevTools - www.minisforum.net/new/support?lang=cn 0:0:28
+    minisforum - 个人 - Microsoft​ Edge 0:0:25
+    声卡-Realtek瑞昱-Realtek瑞昱HD Audio音频芯片-驱动下载-驱动之家 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:20
+    iPhone 17 Pro Max成功破解运行iPadOS！体验神似Mac--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:19
+    新建标签页 - 个人 - Microsoft​ Edge 0:0:18
+    快科技--科技改变未来 - 个人 - Microsoft​ Edge 0:0:11
+    realtek 6.0.9879.1 - Search 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:6
+    Drivers Search: High Definition Audio - Softpedia 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:5
+    realtek 6.0.9879.1 - Search 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:4
+    realtek 6.0.9879.1 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    请稍候… 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    Realtek瑞昱HD Audio（HDA）声卡驱动6.0.9673.1版For Win10-64/Win11（2024年4月23日发布）驱动之家 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    realtek 6.0.9879.1 - Search 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:1
+Hiddify.exe 0:2:7
+    Hiddify 0:2:7
+CCleaner.exe 0:0:45
+    CCleaner 0:0:26
+    Unknown Title 0:0:11
+    CCleaner：undefined 个驱动程序需要更新 0:0:8
+SnippingTool.exe 0:0:33
+    截图工具覆盖 0:0:33
+Thunder.exe 0:0:29
+    迅雷 0:0:24
+    支付优惠卡 0:0:3
+    新建任务面板 0:0:1
+    提示框 0:0:1
+SearchHost.exe 0:0:28
+    搜索 0:0:28
+Notepad.exe 0:0:25
+    20251122.report.txt - Notepad 0:0:17
+    20251123.data.json - Notepad 0:0:5
+    无标题 - Notepad 0:0:1
+    InstallLog.txt - Notepad 0:0:1
+    README.txt - Notepad 0:0:1
+ApplicationFrameHost.exe 0:0:24
+    计算器 0:0:24
+Taskmgr.exe 0:0:8
+    任务管理器 0:0:8
+Code.exe 0:0:5
+    ai_studio_code.py - Visual Studio Code 0:0:4
+    Visual Studio Code 0:0:1
+WeChatAppEx.exe 0:0:5
+    Unknown Title 0:0:5
+Everything.exe 0:0:3
+    realtek - Everything 0:0:3
+WindowsTerminal.exe 0:0:3
+    auto_start.bat 0:0:3
+PickerHost.exe 0:0:3
+    Windows 安全中心 0:0:3
+ShellExperienceHost.exe 0:0:2
+    记事本 的跳转列表 0:0:1
+    设置 的跳转列表 0:0:1
+StartMenuExperienceHost.exe 0:0:2
+    开始 0:0:2
+pythonw.exe 0:0:2
+    Unknown Title 0:0:2
+mmc.exe 0:0:1
+    Realtek Gaming 2.5GbE Family Controller #2 属性 0:0:1
+XLLiveUD.exe 0:0:1
+    迅雷升级程序 0:0:1

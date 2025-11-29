@@ -1,0 +1,210 @@
+{
+    "sessions": [
+        {
+            "start": "2025-11-25 21:07:47",
+            "end": "2025-11-25 22:13:00"
+        }
+    ],
+    "idle_seconds": 0,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 3,
+            "titles": {
+                "auto_start.bat": 3
+            }
+        },
+        "Hiddify.exe": {
+            "total": 3,
+            "titles": {
+                "Hiddify": 3
+            }
+        },
+        "msedge.exe": {
+            "total": 721,
+            "titles": {
+                "www.mydrivers.com - 个人 - Microsoft​ Edge": 2,
+                "新建标签页 - 个人 - Microsoft​ Edge": 26,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 139,
+                "ASML被曝提议为美国做“内鬼”监控中国客户：官方否认--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "比高铁还快！国内有摩友在高速上狂飙至398km/h--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 24,
+                "李想：不介意友商抄袭理想i6 一半全尺寸SUV都在致敬理想L9--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "超长续航44小时！荣耀亲选LCHSE耳夹式耳环2 Pro图赏--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "华为Mate 80 Pro Max机身纹理藏着彩蛋：四个字--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 29,
+                "杭州实施新一轮汽车促消：补贴叠加消费券最高1.1万元--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "一切归零！黄仁勋称NVIDIA完全退出中国市场：这真的很遗憾--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "比上代便宜800元！华为Mate 80系列个型号处理器一览：入门版非麒麟9030--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "51c8b98d7b81458c93d61944ea1be497.jpg (2000×1556) 和另外 2 个页面 - 个人 - Microsoft​ Edge": 29,
+                "华为颜值最高旗舰路由！华为路由X3 Pro日照金山正式发布：行业首发透明天线 1299元起--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "400万粉丝网红主播自称收入26万 实则隐匿超1500万被处罚--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 22,
+                "把8000mAh塞进直屏！荣耀500 Pro评测：开卷“全面旗舰”--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "黑色护眼还是白色护眼 - 搜索 - 个人 - Microsoft​ Edge": 16,
+                "zhuanlan.zhihu.com/p/148674261 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "护眼模式、黑暗模式真的能保护视力吗？别再拿眼睛做实验 - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 47,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - 个人 - Microsoft​ Edge": 15,
+                "集芳阁云搜 - 搜你所想,看你想看 - 个人 - Microsoft​ Edge": 6,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "KDS - 在这里・看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 55,
+                "KDS - 在这里・看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "电车or油车 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 70,
+                "感觉中日会在台海之前爆发 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 62,
+                "老外在上海怎么看外网的。 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "掏肛兽原来那么大一只 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "位卑不敢忘忧国！ KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "皮蓬真是太可怜了 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "真要下饺子了？ KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 16,
+                "中国军网最新发布 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 12,
+                "这个和稳中有升哪个老栾点？ KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                "又多了一个逃脱死刑的理由 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                "什么情况 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 17,
+                "日本若不停止武器部署 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4
+            }
+        },
+        "explorer.exe": {
+            "total": 70,
+            "titles": {
+                "Unknown Title": 61,
+                "Program Manager": 7,
+                "系统托盘溢出窗口。": 2
+            }
+        },
+        "SearchHost.exe": {
+            "total": 35,
+            "titles": {
+                "搜索": 35
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 10,
+            "titles": {
+                "开始": 10
+            }
+        },
+        "Cursor.exe": {
+            "total": 182,
+            "titles": {
+                "week.html - Statistics - Cursor": 47,
+                "Cursor": 9,
+                "settings.json - nswebapi - Cursor": 66,
+                "web.config - nswebapi - Cursor": 58,
+                "Cursor Settings - nswebapi - Cursor": 2
+            }
+        },
+        "Trae.exe": {
+            "total": 151,
+            "titles": {
+                "Trae": 6,
+                "settings.json - nswebapi - Trae": 72,
+                "更新日志 - nswebapi - Trae": 73
+            }
+        },
+        "TraeSetup-stable-1.0.24294.tmp": {
+            "total": 33,
+            "titles": {
+                "安装 - Trae (User)": 33
+            }
+        },
+        "chrome.exe": {
+            "total": 23,
+            "titles": {
+                "无标题 - Google Chrome": 3,
+                "trae.ai/changelog?utm_source=content&utm_medium=IDE_changelog - Google Chrome": 1,
+                "Changelog | TRAE - Collaborate with Intelligence - Google Chrome": 19
+            }
+        },
+        "Thunder.exe": {
+            "total": 14,
+            "titles": {
+                "迅雷": 13,
+                "确定要删除吗？": 1
+            }
+        },
+        "APlayer.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 3,
+            "titles": {
+                "迅雷升级程序": 3
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 81,
+            "titles": {
+                "Microsoft Store": 51,
+                "设置": 15,
+                "Armoury Crate": 15
+            }
+        },
+        "devenv.exe": {
+            "total": 126,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 3,
+                "Microsoft Visual Studio": 16,
+                "NSWebApi - UserService.cs - Microsoft Visual Studio": 12,
+                "zenFocusStore - Microsoft Visual Studio": 2,
+                "zenFocusStore - HomeView.xaml.cs - Microsoft Visual Studio": 7,
+                "Unknown Title": 5,
+                "NSWebApi - Microsoft Visual Studio": 1,
+                "NSWebApi - NSWebApi - Microsoft Visual Studio": 68,
+                "NSWebApi - web.config - Microsoft Visual Studio": 7,
+                "NSWebApi - Program.cs - Microsoft Visual Studio": 5
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 5,
+            "titles": {
+                "Visual Studio 的跳转列表": 3,
+                "Cursor 的跳转列表": 2
+            }
+        },
+        "setup.exe": {
+            "total": 28,
+            "titles": {
+                "Unknown Title": 1,
+                "Visual Studio Installer": 27
+            }
+        },
+        "Code.exe": {
+            "total": 25,
+            "titles": {
+                "Visual Studio Code": 2,
+                "ai_studio_code.py - Visual Studio Code": 23
+            }
+        },
+        "yuanbao.exe": {
+            "total": 12,
+            "titles": {
+                "腾讯元宝": 9,
+                "腾讯元宝设置": 3
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 2374,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 104,
+                "undefined": 1,
+                "翘首以盼，黑五促销正式登场！3A新史低1折起，背刺刀麻了！【黑五折扣盘点1】": 618,
+                "这就是拉力赛！2025圣雷莫：油门焊死！游走在失控边缘的疯狂舞步": 83,
+                "“那些小时候看不懂，长大后秒懂的开车名场面”": 93,
+                "外媒曝出中国早对日本军事基地进行了攻击演练，日本挨组合拳": 282,
+                "高市早苗的疯话想拖中美下水，包藏祸心惨遭贴脸输出": 106,
+                "11月25日日本夺岛计划三重死穴 日本在台门口部署导弹 日本在台搞媚日宣传 多国停飞赴委内瑞拉航班 欧洲提议让俄罗斯重返G8": 639,
+                "11月23日东大南海建抗核爆浮岛 菲律宾\"舆论碰瓷\"再失败 印度坠机\"神逻辑\"甩锅 高市早苗G20迟到因选衣 日本\"疯狂撒钱\"的代价 美军边野古基地填海造地": 48,
+                "【AC Rally】不用手刹，钟摆过弯": 170,
+                "等等党大胜利！提前黑五大促，众多神作骨折史低！ Steam史低游戏折扣推荐 11.24-12.03": 179,
+                "模拟演绎：如何在五分钟之内消灭日本准航母舰队，发现即摧毁！": 51
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 2,
+            "titles": {
+                "MainWindow": 2
+            }
+        }
+    }
+}

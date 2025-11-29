@@ -1,0 +1,36 @@
+{
+    "sessions": [
+        {
+            "start": "2025-11-22 22:34:43",
+            "end": "2025-11-22 22:35:15"
+        },
+        {
+            "start": "2025-11-22 22:38:21",
+            "end": "2025-11-22 22:56:42"
+        }
+    ],
+    "idle_seconds": 1028,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 23,
+            "titles": {
+                "auto_start.bat": 7,
+                "Windows PowerShell": 16
+            }
+        },
+        "explorer.exe": {
+            "total": 80,
+            "titles": {
+                "系统托盘溢出窗口。": 11,
+                "Unknown Title": 1,
+                "启动 - 文件资源管理器": 68
+            }
+        },
+        "pythonw.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        }
+    }
+}

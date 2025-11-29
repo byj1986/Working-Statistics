@@ -1,0 +1,19 @@
+[2025-11-24 00:00:00] Date changed to 20251124, resetting stats.
+[2025-11-24 20:52:41] Service Started
+[2025-11-24 20:52:41] Idle Start
+[2025-11-24 21:01:25] Idle End
+[2025-11-24 21:04:29] Idle Start
+[2025-11-24 21:05:41] Idle End
+[2025-11-24 21:22:21] Idle Start
+[2025-11-24 21:49:37] Idle End
+[2025-11-24 21:55:38] Idle Start
+[2025-11-24 21:55:57] Idle End
+[2025-11-24 21:58:09] Idle Start
+[2025-11-24 22:00:17] Idle End
+[2025-11-24 22:02:41] Idle Start
+[2025-11-24 22:04:08] Idle End
+[2025-11-24 22:05:34] Idle Start
+[2025-11-24 22:06:45] Idle End
+[2025-11-24 22:26:23] Idle Start
+[2025-11-24 22:34:48] Idle End
+[2025-11-24 23:44:50] Service Stopping (User Quit)

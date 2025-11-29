@@ -1,0 +1,280 @@
+{
+    "sessions": [
+        {
+            "start": "2025-11-24 00:00:00",
+            "end": "2025-11-24 00:07:00"
+        },
+        {
+            "start": "2025-11-24 20:52:41",
+            "end": "2025-11-24 23:44:50"
+        }
+    ],
+    "idle_seconds": 3038,
+    "apps": {
+        "msedge.exe": {
+            "total": 191,
+            "titles": {
+                "realtek 6.0.9879.1 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "realtek 6.0.9879.1 - Search 和另外 5 个页面 - 个人 - Microsoft​ Edge": 6,
+                "请稍候… 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Drivers Search: High Definition Audio - Softpedia 和另外 5 个页面 - 个人 - Microsoft​ Edge": 5,
+                "realtek 6.0.9879.1 - Search 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Realtek HD Audio 的相关资讯-快科技搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 47,
+                "新建标签页 - 个人 - Microsoft​ Edge": 18,
+                "minisforum - 个人 - Microsoft​ Edge": 25,
+                "DevTools - www.minisforum.net/new/support?lang=cn": 28,
+                "Realtek瑞昱HD Audio（HDA）声卡驱动6.0.9673.1版For Win10-64/Win11（2024年4月23日发布）驱动之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "声卡-Realtek瑞昱-Realtek瑞昱HD Audio音频芯片-驱动下载-驱动之家 和另外 2 个页面 - 个人 - Microsoft​ Edge": 20,
+                "realtek 6.0.9879.1 - Search 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 11,
+                "iPhone 17 Pro Max成功破解运行iPadOS！体验神似Mac--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 19
+            }
+        },
+        "explorer.exe": {
+            "total": 412,
+            "titles": {
+                "下载 - 文件资源管理器": 33,
+                "Unknown Title": 51,
+                "NICDRV_8169 - 文件资源管理器": 3,
+                "此电脑 - 文件资源管理器": 13,
+                "已完成 36%": 1,
+                "任务切换": 3,
+                "Programs - 文件资源管理器": 1,
+                "系统托盘溢出窗口。": 6,
+                "Program Manager": 3,
+                "文件资源管理器": 1,
+                "System (C:) - 文件资源管理器": 4,
+                "用户 - 文件资源管理器": 4,
+                "byj19 - 文件资源管理器": 7,
+                "Codes - 文件资源管理器": 61,
+                "Data (D:) - 文件资源管理器": 22,
+                "Statistics - 文件资源管理器": 194,
+                "重命名": 1,
+                "迅雷下载 - 文件资源管理器": 1,
+                "贴靠助手": 2,
+                "文件夹正在使用": 1
+            }
+        },
+        "mmc.exe": {
+            "total": 1,
+            "titles": {
+                "Realtek Gaming 2.5GbE Family Controller #2 属性": 1
+            }
+        },
+        "chrome.exe": {
+            "total": 4484,
+            "titles": {
+                "realtek hd audio_百度搜索 - Google Chrome": 7,
+                "um780pro_百度搜索 - Google Chrome": 7,
+                "新标签页 - Google Chrome": 51,
+                "铭凡_百度搜索 - Google Chrome": 13,
+                "铭凡｜深圳美高创新科技股份有限公司 - Google Chrome": 33,
+                "无标题 - Google Chrome": 3,
+                "minisforum - Google Chrome": 37,
+                "多媒体 ICs-多媒體 ICs - Google Chrome": 6,
+                "GitHub - microsoft/theme-converter-for-vs: CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme. - Google Chrome": 11,
+                "Google - Google Chrome": 11,
+                "github cefsharp - Google 搜索 - Google Chrome": 11,
+                "GitHub - cefsharp/CefSharp: .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework - Google Chrome": 160,
+                "germini 3 - Google 搜索 - Google Chrome": 4,
+                "gemini3 - Google 搜索 - Google Chrome": 10,
+                "Gemini 3 - Google DeepMind - Google Chrome": 7,
+                "Google AI Studio - Google Chrome": 1600,
+                "‎Google Gemini - Google Chrome": 8,
+                "打开": 21,
+                "近期的下载记录": 3,
+                "Unicorn! · GitHub - Google Chrome": 3,
+                "localhost - Google Chrome": 16,
+                "每日使用统计报告 - Google Chrome": 1438,
+                "过去7天使用趋势 - Google Chrome": 425,
+                "DevTools - localhost:8000/daily.html": 341,
+                "echarts_百度搜索 - Google Chrome": 2,
+                "Apache ECharts - Google Chrome": 2,
+                "快速上手 - 使用手册 - Apache ECharts - Google Chrome": 8,
+                "堆叠柱状图 - 柱状图 - 常用图表类型 - 应用篇 - 使用手册 - Apache ECharts - Google Chrome": 29,
+                "基础饼图 - 饼图 - 常用图表类型 - 应用篇 - 使用手册 - Apache ECharts - Google Chrome": 11,
+                "阶梯瀑布图 - 柱状图 - 常用图表类型 - 应用篇 - 使用手册 - Apache ECharts - Google Chrome": 12,
+                "DevTools - localhost:8000/week.html": 22,
+                "设置 - 关于 Chrome - Google Chrome": 2,
+                "/npm/chart.js - Google 搜索 - Google Chrome": 3,
+                "chart.js - npm - Google Chrome": 10,
+                "Chart.js | Chart.js - Google Chrome": 15,
+                "Installation | Chart.js - Google Chrome": 14,
+                "Accessibility | Chart.js - Google Chrome": 7,
+                "Area Chart | Chart.js - Google Chrome": 7,
+                "Bar Chart | Chart.js - Google Chrome": 13,
+                "Bubble Chart | Chart.js - Google Chrome": 7,
+                "Doughnut and Pie Charts | Chart.js - Google Chrome": 7,
+                "Line Chart | Chart.js - Google Chrome": 7,
+                "Mixed Chart Types | Chart.js - Google Chrome": 3,
+                "Polar Area Chart | Chart.js - Google Chrome": 2,
+                "Radar Chart | Chart.js - Google Chrome": 42,
+                "Scatter Chart | Chart.js - Google Chrome": 7,
+                "Axes | Chart.js - Google Chrome": 5,
+                "Cartesian Axes | Chart.js - Google Chrome": 3,
+                "Category Axis | Chart.js - Google Chrome": 3,
+                "Linear Axis | Chart.js - Google Chrome": 4,
+                "Radial Axes | Chart.js - Google Chrome": 11
+            }
+        },
+        "Notepad.exe": {
+            "total": 25,
+            "titles": {
+                "无标题 - Notepad": 1,
+                "InstallLog.txt - Notepad": 1,
+                "20251123.data.json - Notepad": 5,
+                "README.txt - Notepad": 1,
+                "20251122.report.txt - Notepad": 17
+            }
+        },
+        "SearchHost.exe": {
+            "total": 28,
+            "titles": {
+                "搜索": 28
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "记事本 的跳转列表": 1,
+                "设置 的跳转列表": 1
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 8,
+            "titles": {
+                "任务管理器": 8
+            }
+        },
+        "Weixin.exe": {
+            "total": 403,
+            "titles": {
+                "微信": 339,
+                "设置": 5,
+                "Weixin": 3,
+                "图片和视频": 56
+            }
+        },
+        "CCleaner.exe": {
+            "total": 45,
+            "titles": {
+                "CCleaner：undefined 个驱动程序需要更新": 8,
+                "Unknown Title": 11,
+                "CCleaner": 26
+            }
+        },
+        "Everything.exe": {
+            "total": 3,
+            "titles": {
+                "realtek - Everything": 3
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 3,
+            "titles": {
+                "auto_start.bat": 3
+            }
+        },
+        "Hiddify.exe": {
+            "total": 127,
+            "titles": {
+                "Hiddify": 127
+            }
+        },
+        "mintty.exe": {
+            "total": 411,
+            "titles": {
+                "/usr/bin/bash --login -i                                                  ": 1,
+                "ng completion script                                                  ": 1,
+                "MINGW64:/c/Users/byj19/Codes                                                  ": 409
+            }
+        },
+        "Notepad--.exe": {
+            "total": 441,
+            "titles": {
+                "notepad-- - Ndd": 1,
+                "C:\\Users\\byj19\\Desktop\\浦东AI考试.txt [文本模式] - Ndd": 1,
+                "New 0 [文本模式] - Ndd": 439
+            }
+        },
+        "Cursor.exe": {
+            "total": 1008,
+            "titles": {
+                "项目结构.md - Cursor": 6,
+                "Open Folder": 14,
+                "Cursor": 12,
+                "Statistics - Cursor": 67,
+                "server.py - Statistics - Cursor": 201,
+                "● server.py - Statistics - Cursor": 4,
+                "week.html - Statistics - Cursor": 218,
+                "20251124.data.json - Statistics - Cursor": 19,
+                "20251123.data.json - Statistics - Cursor": 143,
+                "● 20251123.data.json - Statistics - Cursor": 1,
+                "● daily.html - Statistics - Cursor": 45,
+                "daily.html - Statistics - Cursor": 236,
+                "Settings - Statistics - Cursor": 12,
+                "settings.json - Statistics - Cursor": 11,
+                "● settings.json - Statistics - Cursor": 1,
+                "● week.html - Statistics - Cursor": 18
+            }
+        },
+        "Thunder.exe": {
+            "total": 29,
+            "titles": {
+                "迅雷": 24,
+                "新建任务面板": 1,
+                "支付优惠卡": 3,
+                "提示框": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 1,
+            "titles": {
+                "迅雷升级程序": 1
+            }
+        },
+        "Code.exe": {
+            "total": 5,
+            "titles": {
+                "Visual Studio Code": 1,
+                "ai_studio_code.py - Visual Studio Code": 4
+            }
+        },
+        "PickerHost.exe": {
+            "total": 3,
+            "titles": {
+                "Windows 安全中心": 3
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 24,
+            "titles": {
+                "计算器": 24
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 33,
+            "titles": {
+                "截图工具覆盖": 33
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 5,
+            "titles": {
+                "Unknown Title": 5
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "开始": 2
+            }
+        },
+        "pythonw.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        }
+    }
+}
