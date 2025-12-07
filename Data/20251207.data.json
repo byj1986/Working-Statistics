@@ -6,10 +6,22 @@
         },
         {
             "start": "2025-12-07 22:41:07",
-            "end": "2025-12-07 22:43:00"
+            "end": "2025-12-07 22:48:05"
+        },
+        {
+            "start": "2025-12-07 22:48:09",
+            "end": "2025-12-07 22:50:31"
+        },
+        {
+            "start": "2025-12-07 22:50:45",
+            "end": "2025-12-07 22:58:53"
+        },
+        {
+            "start": "2025-12-07 22:58:54",
+            "end": "2025-12-07 23:18:00"
         }
     ],
-    "idle_seconds": 1999,
+    "idle_seconds": 2002,
     "apps": {
         "clash-verge.exe": {
             "total": 12,
@@ -18,11 +30,11 @@
             }
         },
         "explorer.exe": {
-            "total": 205,
+            "total": 415,
             "titles": {
                 "Program Manager": 133,
-                "删除快捷方式": 1,
-                "Unknown Title": 16,
+                "删除快捷方式": 3,
+                "Unknown Title": 24,
                 "此电脑 - 文件资源管理器": 4,
                 "Data (D:) - 文件资源管理器": 3,
                 "System (C:) - 文件资源管理器": 20,
@@ -33,24 +45,35 @@
                 "已完成 50%": 1,
                 "MCHOSE - 文件资源管理器": 1,
                 "i4Tools8 - 文件资源管理器": 4,
-                "系统托盘溢出窗口。": 1,
+                "系统托盘溢出窗口。": 3,
                 "用户 - 文件资源管理器": 2,
                 "byj19 - 文件资源管理器": 3,
                 "Codes - 文件资源管理器": 8,
-                "compile_packaging_publish2 - 文件资源管理器": 2
+                "compile_packaging_publish2 - 文件资源管理器": 2,
+                "运行": 5,
+                "启动 - 文件资源管理器": 103,
+                "创建快捷方式": 15,
+                "浏览文件或文件夹": 2,
+                "pythonw.exe 属性": 53,
+                "任务切换": 1,
+                "Statistics - 文件资源管理器": 1,
+                "Data - 文件资源管理器": 16,
+                "start_app_tracker 属性": 2
             }
         },
         "WindowsTerminal.exe": {
-            "total": 19,
+            "total": 40,
             "titles": {
-                "auto_start.bat": 12,
-                "Windows PowerShell": 7
+                "auto_start.bat": 15,
+                "Windows PowerShell": 7,
+                "Terminal": 1,
+                "命令提示符": 17
             }
         },
         "SearchHost.exe": {
-            "total": 28,
+            "total": 38,
             "titles": {
-                "搜索": 28
+                "搜索": 38
             }
         },
         "ApplicationFrameHost.exe": {
@@ -61,20 +84,31 @@
             }
         },
         "StartMenuExperienceHost.exe": {
-            "total": 4,
+            "total": 5,
             "titles": {
-                "开始": 4
+                "开始": 5
             }
         },
         "Trae.exe": {
-            "total": 387,
+            "total": 2116,
             "titles": {
                 "项目结构.md - zenbrightgamecocos - Trae": 25,
                 "Trae": 11,
                 "打开": 15,
                 "compile_packaging_publish2 - Trae": 306,
                 "Statistics - Trae": 29,
-                "mac_app_tracker.py - Statistics - Trae": 1
+                "mac_app_tracker.py - Statistics - Trae": 36,
+                "auto_start.bat - Statistics - Trae": 546,
+                "create_startup_lnk_win.py - Statistics - Trae": 276,
+                "● create_startup_lnk_win.py - Statistics - Trae": 45,
+                "statistics.ico - Statistics - Trae": 31,
+                "start_server.bat - Statistics - Trae": 2,
+                "server.py - Statistics - Trae": 294,
+                "run_view_data_statistics.py - Statistics - Trae": 443,
+                "● run_view_data_statistics.py - Statistics - Trae": 15,
+                "miscellaneous.py - Statistics - Trae": 38,
+                "● miscellaneous.py - Statistics - Trae": 2,
+                "app_tracker.py - Statistics - Trae": 2
             }
         },
         "Cursor.exe": {
@@ -85,9 +119,9 @@
             }
         },
         "Hiddify.exe": {
-            "total": 53,
+            "total": 59,
             "titles": {
-                "Hiddify": 53
+                "Hiddify": 59
             }
         },
         "Code.exe": {
@@ -115,18 +149,22 @@
             }
         },
         "msedge.exe": {
-            "total": 97,
+            "total": 146,
             "titles": {
-                "新建标签页 - 个人 - Microsoft​ Edge": 29,
+                "新建标签页 - 个人 - Microsoft​ Edge": 31,
                 "把python脚本打包成命令 - 搜索 - 个人 - Microsoft​ Edge": 10,
                 "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
                 "项目 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
-                "ZenSystem / compile_packaging_publish2 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "ZenSystem / compile_packaging_publish2 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
                 "windows store 更新很慢 - 搜索 - 个人 - Microsoft​ Edge": 9,
                 "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
                 "zhuanlan.zhihu.com/p/1921244353118077781 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
                 "为什么Microsoft Store（微软应用商店）下载速度特别慢？ - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 15,
-                "Microsoft store下载速度过慢_microsoft store下载速度很慢-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16
+                "Microsoft store下载速度过慢_microsoft store下载速度很慢-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "还原页面": 1,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 20,
+                "Unknown Title": 1,
+                "每日使用统计报告 和另外 2 个页面 - 个人 - Microsoft​ Edge": 23
             }
         },
         "Notepad.exe": {
@@ -158,6 +196,45 @@
             "titles": {
                 "腾讯元宝": 1,
                 "腾讯元宝设置": 8
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 3,
+            "titles": {
+                "截图工具覆盖": 3
+            }
+        },
+        "pythonw.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "wscript.exe": {
+            "total": 4,
+            "titles": {
+                "Windows Script Host": 4
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 9,
+            "titles": {
+                "任务管理器": 9
+            }
+        },
+        "Doubao.exe": {
+            "total": 28,
+            "titles": {
+                "无标题 - 豆包": 2,
+                "doubao.com/chat/ - 豆包": 1,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 19,
+                "新对话 - 豆包 - 豆包": 6
+            }
+        },
+        "PickerHost.exe": {
+            "total": 5,
+            "titles": {
+                "Windows 安全中心": 5
             }
         }
     }

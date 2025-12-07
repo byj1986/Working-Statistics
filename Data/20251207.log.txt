@@ -8,3 +8,11 @@
 [2025-12-07 22:16:27] Idle Start
 [2025-12-07 22:37:03] Idle End
 [2025-12-07 22:41:07] Service Started
+[2025-12-07 22:48:05] Service Stopping (User Quit)
+[2025-12-07 22:48:09] Service Started
+[2025-12-07 22:50:31] Service Stopping (User Quit)
+[2025-12-07 22:50:45] Service Started
+[2025-12-07 22:55:41] Idle Start
+[2025-12-07 22:55:44] Idle End
+[2025-12-07 22:58:53] Service Stopping (User Quit)
+[2025-12-07 22:58:54] Service Started
