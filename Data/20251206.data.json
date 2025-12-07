@@ -1,0 +1,508 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-06 21:38:27",
+            "end": "2025-12-06 22:45:00"
+        },
+        {
+            "start": "2025-12-06 22:50:11",
+            "end": "2025-12-06 23:25:00"
+        }
+    ],
+    "idle_seconds": 168,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 8,
+            "titles": {
+                "auto_start.bat": 2,
+                "Terminal": 1,
+                "命令提示符": 1,
+                "命令提示符 - node": 4
+            }
+        },
+        "Thunder.exe": {
+            "total": 192,
+            "titles": {
+                "Unknown Title": 1,
+                "迅雷": 171,
+                "新建任务面板": 4,
+                "支付中心": 11,
+                "确定要删除吗？": 5
+            }
+        },
+        "SearchHost.exe": {
+            "total": 99,
+            "titles": {
+                "搜索": 99
+            }
+        },
+        "explorer.exe": {
+            "total": 144,
+            "titles": {
+                "Unknown Title": 76,
+                "Program Manager": 29,
+                "系统托盘溢出窗口。": 7,
+                "迅雷下载 - 文件资源管理器": 17,
+                "删除快捷方式": 1,
+                "删除文件": 2,
+                "temp - 文件资源管理器": 8,
+                "MIRD-255 - 文件资源管理器": 4
+            }
+        },
+        "msedge.exe": {
+            "total": 2547,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 33,
+                "长安马自达回应水杯语句涉性别歧视女司机：不排除有客户自行定制--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 19,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 32,
+                "Unknown Title": 2,
+                "gitmj2.tosslk.xyz/aee748cf30185f2ee042c6a390c13754 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 332,
+                "github clash verge - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 5,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "clash-verge-rev/clash-verge-rev: A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "Release Clash Verge Rev v2.4.3 · clash-verge-rev/clash-verge-rev 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "Google 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "google antigravity - Google 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "google antigravity - Google 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Google Antigravity 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Google Antigravity Download 和另外 4 个页面 - 个人 - Microsoft​ Edge": 15,
+                "Google Antigravity Download 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "新国标电动车爬坡动力实测：速度跟人跑一样 被旧标车嗖嗖超车--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "都是中国人：江苏爸妈竟生出混血娃娃引热议 问题出在太爷爷上--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 233,
+                "青藏高原造就“人间天堂”：烟雨江南以前竟是沙漠--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "打不过就加入 下一代宝马X5居然要上增程--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "上汽奥迪首款量产SUV！AUDI E7X官图公布：和谐多了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "全球销冠焕新 新版五菱宏光MINIEV申报：萌态十足可爱依旧--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "法国三男孩飙车冲进泳池被淹死：房屋主人早起只觉天塌了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "中国自行车协会回应新国标争议：网上很多言论都是假的！--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "办公鼠标里的新王者！罗技MX Master 4上手--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 17,
+                "淘宝闪购回应“顾客自取时将取消外卖员配送费”--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "《疯狂动物城2》火了：蛇真的没肩膀吗--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "动作太流畅被质疑为CG 众擎发布T800机器人格斗视频拍摄花絮--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "福特蒙迪欧遭车主集体投诉：车机卡顿、地图漂移还不能投屏--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "公开道歉后 雅迪争议新国标电动车“毛豆”已下架--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "游客在老君山山顶点外卖 外地小哥为300块赶赴送单 结果没找见顾客--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "《疯狂动物城2》的15个“隐藏彩蛋” 不知道你就白看了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 641,
+                "演员李乃文现身华为门店体验手机 不巧刚拿手机就出现小插曲--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 15,
+                "Microsoft Edge 的新增功能 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 29,
+                "MissAV | 免费高清AV在线看 - 个人 - Microsoft​ Edge": 56,
+                "MissAV | 免费高清AV在线看 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "MissAV | 免费高清AV在线看 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "FC2-PPV-4790416 先到先得* [否] 美女甄选 SSS 级奇闻异事 Vol.1 [今日限定] - 和另外 2 个页面 - 个人 - Microsoft​ Edge": 52,
+                "FC2-PPV-4807828 身高142厘米，19岁。虽然外表清纯，但她喜欢被支配。一段她被自己最爱的男人（ 和另外 1 个页面 - 个人 - Microsoft​ Edge": 17,
+                "PFAS-040 Neko 和 Tachi 在榻榻米上跳著红舌舞 3P 舔舐性爱 - 泉莉音 - MissAV 和另外 2 个页面 - 个人 - Microsoft​ Edge": 23,
+                "REAL-957 “只要我们在一起，就所向披靡！”这两个不良少女错误地相信了这一点，但邪恶的保安却对她们进行了 和另外 1 个页面 - 个人 - Microsoft​ Edge": 60,
+                "Just a moment... 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "请稍候… 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "RCH-011 我以为我们只是朋友，结果我们却发生了女同性恋关系，还玩了三人行，哈哈。这是一部关于两个20岁身 和另外 1 个页面 - 个人 - Microsoft​ Edge": 62,
+                "FC2-PPV-4808135 【限时5天500积分套装特卖】娇嫩的身体同时容纳两根阳具的妻子完整版 - Mi 和另外 1 个页面 - 个人 - Microsoft​ Edge": 30,
+                "MIDA-438 拥有H罩杯和最灿烂笑容的国宝级美女福田悠亚，为庆祝MOODYZ成立25周年，隆重推出全新AV 和另外 1 个页面 - 个人 - Microsoft​ Edge": 31,
+                "隐私错误 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "404 Not Found 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "KDS - 在这里・看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 28,
+                "奥司他韦医院开药86元，网上只要9元，卫健委、厂商回应 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 18,
+                "如果日美真的和老中开展，韩国会是什么态度？ KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 14,
+                "KDS - 在这里・看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "上海真的好割裂啊 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "广德去了吗 现在红的发紫 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 13,
+                "11.29小伙不听劝偷爬猛兽区事件 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 17,
+                "HQIS-004 亨利冢本原作 温泉旅馆 仲夏之恋 1晚2天 - 藤宫樱花 (真雪ゆん) - MissAV | 和另外 1 个页面 - 个人 - Microsoft​ Edge": 60,
+                "HQIS-004 亨利冢本原作 温泉旅馆 仲夏之恋 1晚2天 - 藤宫樱花 (真雪ゆん) - MissAV | 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "DTRS-033 戴绿帽子的温泉旅馆 葵筱之变态 女房东大桥裕子 - 碧志乃 (筱惠美) - MissAV | 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "NHDTB-086 混合荡妇 ● 2 中出 SP - MissAV | 免费高清AV在线看 和另外 1 个页面 - 个人 - Microsoft​ Edge": 28,
+                "NHDTB-086 混合荡妇 ● 2 中出 SP - MissAV | 免费高清AV在线看 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "NHDTB-917 在温泉旅馆被变态男女袭击，被逼得无声无息地射精的女人，无法抗拒被夹住的快感，被吹爆中出。 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "NHDTB-917 在温泉旅馆被变态男女袭击，被逼得无声无息地射精的女人，无法抗拒被夹住的快感，被吹爆中出。 和另外 1 个页面 - 个人 - Microsoft​ Edge": 43,
+                "无码流出 AV 在线看 - MissAV | 免费高清AV在线看 和另外 1 个页面 - 个人 - Microsoft​ Edge": 97,
+                "START-447 痉挛性恍惚状态！后仰高潮发展过程的纪录片！ 【突然转变、崩溃、觉醒】极度敏感的子宫达到高潮 和另外 2 个页面 - 个人 - Microsoft​ Edge": 26,
+                "无码流出 AV 在线看 - MissAV | 免费高清AV在线看 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                "FNS-120 令人震惊的转会：䌷明里 - 明里䌷 - MissAV | 免费高清AV在线看 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "IPZZ-698 -最终印象- Aipoke 传奇人物 Momonogi Kana 退休。 - 桃乃木香奈 - 和另外 2 个页面 - 个人 - Microsoft​ Edge": 44,
+                "missav.ws 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "SNOS-003 无声地强奸我够不著的花：我拼命压抑声音，以免被抓──川北彩香 - 河北彩花 - MissAV 和另外 2 个页面 - 个人 - Microsoft​ Edge": 67,
+                "SNOS-003 无声地强奸我够不著的花：我拼命压抑声音，以免被抓──川北彩香 - 河北彩花 - MissAV 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "SONE-345 不会说“住手”的女大学生无法忘记第一次被干的感觉，对电车猥亵上瘾了…村上优香 - 村上悠华 和另外 3 个页面 - 个人 - Microsoft​ Edge": 7,
+                "SONE-345 不会说“住手”的女大学生无法忘记第一次被干的感觉，对电车猥亵上瘾了…村上优香 - 村上悠华 和另外 2 个页面 - 个人 - Microsoft​ Edge": 41,
+                "ADN-746 一位神秘的年长女性，原本对我毫无兴趣，却在得知我有女朋友后立刻嫉妒不已，吻了我，并继续瞧不起我 和另外 2 个页面 - 个人 - Microsoft​ Edge": 42,
+                "JUR-504 我把我的肉体厕所老婆借给你。我得在她体内射精十次才能回家，而且我要去拜访一个邪恶的暴发户，他很 和另外 2 个页面 - 个人 - Microsoft​ Edge": 21,
+                "nodejs - 搜索 - 个人 - Microsoft​ Edge": 3,
+                "nodejs - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "bing.com/ck/a?!&&p=0b8bfe813de5ae988a13989c8a2a4dfd3731a6e296e1afb76ba98b3a65ff6703JmltdHM9MTc2NDk3OTIwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&psq=nodejs&u=a1aHR0cHM6Ly9ub2RlanMub3JnLw&ntb=1 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Node.js — 在任何地方运行 JavaScript 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Node.js — 下载 Node.js® 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - 个人 - Microsoft​ Edge": 12,
+                "MIDV-361 即使在阴道内射精后也要继续确保用活塞浸渍！伊吹葵 - 葵伊吹 - MissAV | 免费高清 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "SSIS-950 没想到出差在饭店和两位美女老板同住一间房间…奇迹般的一夜，双J罩杯的乳房被挤在双腿之间，直到 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "EBWH-090 我根据外表选的情妇，太放荡了，太淫荡了 - 渴望鸡巴的美女争夺中出性爱 - 响连、设乐雄日 和另外 2 个页面 - 个人 - Microsoft​ Edge": 23,
+                "网易远程 - 搜索 - 个人 - Microsoft​ Edge": 4,
+                "网易UU远程官网_真4K、真免费、真好用 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8
+            }
+        },
+        "Hiddify.exe": {
+            "total": 38,
+            "titles": {
+                "Hiddify": 38
+            }
+        },
+        "Clash.Verge_2.4.3_x64-setup.exe": {
+            "total": 13,
+            "titles": {
+                "Installer Language": 2,
+                "Clash Verge 安装": 1,
+                "Clash Verge 安装 ": 10
+            }
+        },
+        "clash-verge.exe": {
+            "total": 140,
+            "titles": {
+                "Clash Verge": 140
+            }
+        },
+        "Code.exe": {
+            "total": 52,
+            "titles": {
+                "Visual Studio Code": 6,
+                "20251202.data.json - Visual Studio Code": 46
+            }
+        },
+        "Trae.exe": {
+            "total": 124,
+            "titles": {
+                "Trae": 9,
+                "设置 - zenbrightgamecocos - Trae": 24,
+                "项目结构.md - zenbrightgamecocos - Trae": 91
+            }
+        },
+        "Cursor.exe": {
+            "total": 22,
+            "titles": {
+                "Preview 功能说明.md - zenbrightgamecocos - Cursor": 17,
+                "Cursor": 5
+            }
+        },
+        "TraeSetup-stable-1.0.25272.tmp": {
+            "total": 22,
+            "titles": {
+                "安装 - Trae (User)": 22
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 13,
+            "titles": {
+                "开始": 13
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 861,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 861
+            }
+        },
+        "Antigravity.tmp": {
+            "total": 43,
+            "titles": {
+                "安装 - Antigravity (User)": 41,
+                "文件夹存在": 1,
+                "Unknown Title": 1
+            }
+        },
+        "Antigravity.exe": {
+            "total": 24,
+            "titles": {
+                "Antigravity": 22,
+                "Antigravity [Administrator]": 2
+            }
+        },
+        "chrome.exe": {
+            "total": 84,
+            "titles": {
+                "无标题 - Google Chrome": 7,
+                "登录 - Google 账号 - Google Chrome": 14,
+                "Google Antigravity - Google Chrome": 4,
+                "Google Antigravity Auth Success - Google Chrome": 31,
+                "DevTools - antigravity.google/auth-success": 7,
+                "新标签页 - Google Chrome": 3,
+                "迅雷-构建全球最大的去中心化存储与传输网络 - Google Chrome": 10,
+                "Update Installed - Google Chrome": 8
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 24,
+            "titles": {
+                "任务管理器": 24
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 357,
+            "titles": {
+                "设置": 293,
+                "Microsoft Store": 56,
+                "Armoury Crate": 8
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 189,
+            "titles": {
+                "登录 Steam": 7,
+                "Steam": 155,
+                "特惠": 26,
+                "Unknown Title": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 3,
+            "titles": {
+                "迅雷升级程序": 3
+            }
+        },
+        "_unins.tmp": {
+            "total": 15,
+            "titles": {
+                "Antigravity 卸载": 9,
+                "网易云游戏 卸载": 3,
+                "Beyond Compare 5 Uninstall": 3
+            }
+        },
+        "XmpUninstall.exe": {
+            "total": 10,
+            "titles": {
+                "迅雷影音卸载": 9,
+                "Unknown Title": 1
+            }
+        },
+        "vlc.exe": {
+            "total": 5,
+            "titles": {
+                "hhd800.com@CJOD-392.mp4 - VLC media player": 3,
+                "关于": 2
+            }
+        },
+        "XMPSetup6.2.6.622xmpgw.exe": {
+            "total": 17,
+            "titles": {
+                "迅雷影音安装程序": 17
+            }
+        },
+        "Xmp.exe": {
+            "total": 102,
+            "titles": {
+                "迅雷影音": 71,
+                "迅雷个人中心-登录": 31
+            }
+        },
+        "XmpLiveUD.exe": {
+            "total": 2,
+            "titles": {
+                "迅雷影音升级程序": 2
+            }
+        },
+        "Weixin.exe": {
+            "total": 99,
+            "titles": {
+                "微信": 99
+            }
+        },
+        "msiexec.exe": {
+            "total": 60,
+            "titles": {
+                "Windows Installer": 1,
+                "Node.js Setup": 59
+            }
+        },
+        "QQMusic.exe": {
+            "total": 22,
+            "titles": {
+                "QQ音乐": 2,
+                "你被写在我的歌里 - 苏打绿 / Ella陈嘉桦   ": 16,
+                "江南 - 林俊杰   ": 2,
+                "晴天 - 周杰伦   ": 2
+            }
+        },
+        "Notepad--.exe": {
+            "total": 12,
+            "titles": {
+                "notepad-- - Ndd": 1,
+                "警告 - Ndd": 1,
+                "New 0 [文本模式] - Ndd": 9,
+                "关闭文件之前，是否保存修改？ - Ndd": 1
+            }
+        },
+        "QQMusicUp.exe": {
+            "total": 16,
+            "titles": {
+                "Unknown Title": 2,
+                "QQ音乐升级": 14
+            }
+        },
+        "QQMusicAgent.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 1,
+            "titles": {
+                "QQ音乐 的跳转列表": 1
+            }
+        },
+        "Fiddler.exe": {
+            "total": 50,
+            "titles": {
+                "Starting Fiddler...": 1,
+                "Progress Telerik Fiddler Classic": 15,
+                "Update Announcement (from v5.0.20244.10953 to v5.0.20253.3311)": 16,
+                "Fiddler Auto-Update": 16,
+                "Fiddler Update [5.0.20253.3311]": 1,
+                "Progress Telerik Fiddler Classic Update": 1
+            }
+        },
+        "FiddlerSetup.exe": {
+            "total": 7,
+            "titles": {
+                "Progress Telerik Fiddler Classic: Installing": 7
+            }
+        },
+        "SetupHelper": {
+            "total": 1,
+            "titles": {
+                "C:\\Users\\byj19\\AppData\\Local\\Programs\\Fiddler\\SetupHelper": 1
+            }
+        },
+        "BaiduNetdisk.exe": {
+            "total": 2,
+            "titles": {
+                "欢迎使用百度网盘": 2
+            }
+        },
+        "BaiduNetdiskUnite.exe": {
+            "total": 2,
+            "titles": {
+                "百度网盘": 2
+            }
+        },
+        "Autoupdate.exe": {
+            "total": 2,
+            "titles": {
+                "百度网盘自动更新": 2
+            }
+        },
+        "RadeonSoftware.exe": {
+            "total": 4,
+            "titles": {
+                "AMD Software: Adrenalin Edition": 4
+            }
+        },
+        "AMDInstallManager.exe": {
+            "total": 3,
+            "titles": {
+                "AMD Install Manager": 3
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 3,
+            "titles": {
+                "MainWindow": 3
+            }
+        },
+        "BCompare.exe": {
+            "total": 22,
+            "titles": {
+                "Home - Beyond Compare": 6,
+                "Program Updates and News": 5,
+                "0% Downloading Update": 5,
+                "7% Downloading Update": 6
+            }
+        },
+        "FlydigiSpaceStation.exe": {
+            "total": 26,
+            "titles": {
+                "Flydigi Application": 7,
+                "FmUpgradeSwView": 19
+            }
+        },
+        "FlydigiSpaceStation_setup_3.4.9.5_Release.tmp": {
+            "total": 14,
+            "titles": {
+                "选择安装语言": 1,
+                "安装 - FlydigiSpaceStation 版本 3.4.9.5": 12,
+                "Unknown Title": 1
+            }
+        },
+        "aDrive.exe": {
+            "total": 97,
+            "titles": {
+                "阿里云盘": 97
+            }
+        },
+        "Un_A.exe": {
+            "total": 8,
+            "titles": {
+                "阿里云盘 解除安装": 4,
+                "aDriveUninstaller": 4
+            }
+        },
+        "uninst.exe": {
+            "total": 19,
+            "titles": {
+                "卸载剪映专业版": 19
+            }
+        },
+        "quark.exe": {
+            "total": 24,
+            "titles": {
+                "新标签页 - 夸克": 18,
+                "设置 - 个人中心 - 夸克": 2,
+                "设置 - 关于夸克 - 夸克": 2,
+                "是否要关闭所有标签页?": 2
+            }
+        },
+        "uuyc_4.8.2.exe": {
+            "total": 9,
+            "titles": {
+                "网易UU远程 安装": 1,
+                "网易UU远程 安装 ": 8
+            }
+        },
+        "GameViewer.exe": {
+            "total": 209,
+            "titles": {
+                "GameViewer": 84,
+                "网易UU远程": 123,
+                "消息中心": 2
+            }
+        },
+        "7zFM.exe": {
+            "total": 2,
+            "titles": {
+                "D:\\迅雷下载\\Fira_Code_v6.2.zip\\": 2
+            }
+        },
+        "navicat.exe": {
+            "total": 20,
+            "titles": {
+                "About Navicat": 5,
+                "Navicat Premium": 5,
+                "Navicat Updater": 10
+            }
+        },
+        "Updater.exe": {
+            "total": 1,
+            "titles": {
+                "Navicat Updater": 1
+            }
+        },
+        "ksomisc.exe": {
+            "total": 3,
+            "titles": {
+                "隐藏WPS桌面拓展菜单项": 1,
+                "WPS Office 配置工具": 2
+            }
+        }
+    }
+}

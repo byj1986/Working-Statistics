@@ -1,0 +1,225 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-02 20:31:52",
+            "end": "2025-12-02 23:24:30"
+        }
+    ],
+    "idle_seconds": 8171,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 4,
+            "titles": {
+                "auto_start.bat": 4
+            }
+        },
+        "pythonw.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "explorer.exe": {
+            "total": 163,
+            "titles": {
+                "文件资源管理器": 2,
+                "Statistics - 文件资源管理器": 2,
+                "Data - 文件资源管理器": 6,
+                "Program Manager": 69,
+                "Unknown Title": 20,
+                "Antigravity - 文件资源管理器": 32,
+                "位置不可用": 2,
+                "Programs - 文件资源管理器": 3,
+                "此电脑 - 文件资源管理器": 9,
+                "System (C:) - 文件资源管理器": 1,
+                "用户 - 文件资源管理器": 1,
+                "byj19 - 文件资源管理器": 8,
+                ".antigravity - 文件资源管理器": 1,
+                "删除文件夹": 1,
+                "迅雷下载 - 文件资源管理器": 6
+            }
+        },
+        "OpenWith.exe": {
+            "total": 5,
+            "titles": {
+                "Unknown Title": 5
+            }
+        },
+        "Code.exe": {
+            "total": 8,
+            "titles": {
+                "Visual Studio Code": 1,
+                "20251202.data.json - Visual Studio Code": 7
+            }
+        },
+        "SearchHost.exe": {
+            "total": 21,
+            "titles": {
+                "搜索": 21
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 17,
+            "titles": {
+                "开始": 17
+            }
+        },
+        "ThunderStart.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "Thunder.exe": {
+            "total": 41,
+            "titles": {
+                "迅雷": 35,
+                "迅雷登录": 5,
+                "index.html": 1
+            }
+        },
+        "Antigravity.exe": {
+            "total": 79,
+            "titles": {
+                "Antigravity": 69,
+                "Antigravity [Administrator]": 10
+            }
+        },
+        "chrome.exe": {
+            "total": 906,
+            "titles": {
+                "无标题 - Google Chrome": 11,
+                "登录 - Google 账号 - Google Chrome": 90,
+                "DevTools - accounts.google.com/signin/oauth/firstparty/nativeapp?authuser=0&part=AJi8hAOOy89Ch6Q8mXAudzxGcTBZDpbSgGX5fl9zMhlLE93SPrs6KJsOwFCe0104KDi2SSRlFAUV1ilJGoacsAbhX047Cn7aQWdRg5pfopu_Upbj2XC5B5qUo2cRxuOgbu9Et-gJ7BlWXRykEg1y6PCWDeDXds0Hb7WgDTGQFo4PeJKd4ObVuvoG8zYRdYy_lA8lWeDYDCinkE_CEvRtrgBjvLmrUqBNZxPXCv1zj-tN5t6Z-Glgc43xcn1gWboDzIInN1PgRwgoUU3v0-73yO4LtNXmHuYjHVm1MOMgvaW_GPxMWaPep8etwyWv7alJyhDYP-GkYVvFnyJjg4IsPT1uiYu2d6zfTSEMGWHjFIrJJ2A5bhh_NTuqxkLOTw8ocOW-8wqcjD6r1cv0enD4EHucQHdx2uGEL--XDO9UC6P9lr": 21,
+                "新标签页 - Google Chrome": 18,
+                "google antigravity_百度搜索 - Google Chrome": 8,
+                "Google - Google Chrome": 15,
+                "antigravity - Google 搜索 - Google Chrome": 22,
+                "Google Antigravity - Google Chrome": 3,
+                "翻译此页？": 2,
+                "Google Antigravity Download - Google Chrome": 8,
+                "Google Antigravity Auth Success - Google Chrome": 84,
+                "DevTools - antigravity.google/auth-success": 8,
+                "antigravity login success but can not login in antigravity - Google 搜索 - Google Chrome": 24,
+                "How to Fix the Login Issue in Google Antigravity(NOT eligible!) - YouTube - Google Chrome": 102,
+                "www.youtube.com 想要": 3,
+                "I am on windows 11 and trying to use Antigravity, I can't get passed \"Setting Up Your account\" - Google AdMob Community - Google Chrome": 27,
+                "Google Antigravity in Windows encountered the following error remotely using SSH: Antigravity server - Gemini Apps Community - Google Chrome": 20,
+                "正在翻译…": 2,
+                "使用 SSH 远程访问 Google Antigravity（Windows 版）时遇到以下错误：Antigravity 服务器 - Gemini Apps 社区 - Google Chrome": 15,
+                "Resolved Google Antigravity Sign In Issues | Lanxk - Google Chrome": 12,
+                "antigravity successfully authenticated, but can't redirect back to the app : r/google - Google Chrome": 23,
+                "Google 搜索 - Google Chrome": 40,
+                "Tz0XDkAAAAASUVORK5CYII= (320×158) - Google Chrome": 2,
+                "google antigravit求助 - 第 2 页 - 搞七捻三 - LINUX DO - Google Chrome": 3,
+                "google antigravit求助 - 搞七捻三 - LINUX DO - Google Chrome": 8,
+                "Unknown Title": 14,
+                "Antigravity Setting Up Your Account stuck : r/google - Google Chrome": 1,
+                "百度一下，你就知道 - Google Chrome": 22,
+                "百度文心助手 - 办公学习一站解决 - Google Chrome": 30,
+                "日本决定上调出境税 为现行三倍_百度搜索 - Google Chrome": 9,
+                "日本决定上调出境税 为现行三倍 高市早苗曾公开支持 旅游业界担忧游客数量下降 - Google Chrome": 15,
+                "Python版本进化史：从3.6到3.14，每个版本都带来了什么惊喜？-腾讯云开发者社区-腾讯云 - Google Chrome": 241,
+                "What’s New In Python 3.6 — Python 3.14.0 documentation - Google Chrome": 3
+            }
+        },
+        "Hiddify.exe": {
+            "total": 21,
+            "titles": {
+                "Hiddify": 21
+            }
+        },
+        "Cursor.exe": {
+            "total": 29,
+            "titles": {
+                "web.config - nswebapi - Cursor": 26,
+                "Cursor": 3
+            }
+        },
+        "Trae.exe": {
+            "total": 112,
+            "titles": {
+                "设置 - nswebapi - Trae": 109,
+                "Trae": 3
+            }
+        },
+        "_unins.tmp": {
+            "total": 22,
+            "titles": {
+                "Antigravity 卸载": 22
+            }
+        },
+        "Antigravity.tmp": {
+            "total": 62,
+            "titles": {
+                "安装 - Antigravity (User)": 46,
+                "Unknown Title": 1,
+                "安装": 10,
+                "文件夹存在": 5
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 81,
+            "titles": {
+                "任务管理器": 81
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 3,
+            "titles": {
+                "截图工具覆盖": 3
+            }
+        },
+        "Notepad.exe": {
+            "total": 14,
+            "titles": {
+                "debug.log - Notepad": 14
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 2,
+            "titles": {
+                "迅雷升级程序": 2
+            }
+        },
+        "AweSun.exe": {
+            "total": 7,
+            "titles": {
+                "向日葵远程控制": 5,
+                "Unknown Title": 2
+            }
+        },
+        "yuanbao.exe": {
+            "total": 217,
+            "titles": {
+                "腾讯元宝": 203,
+                "腾讯元宝设置": 14
+            }
+        },
+        "msedge.exe": {
+            "total": 350,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 5,
+                "python.org - 个人 - Microsoft​ Edge": 2,
+                "Welcome to Python.org - 个人 - Microsoft​ Edge": 12,
+                "Download Python | Python.org - 个人 - Microsoft​ Edge": 22,
+                "Download Python | Python.org 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "What’s new in Python 3.14 — Python 3.14.0 documentation 和另外 1 个页面 - 个人 - Microsoft​ Edge": 13,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 147,
+                "老外评选各帧率区间最佳游戏CPU：9800X3D毫不意外--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 24,
+                "电影《疯狂动物城2》热映：一夜之间所有的缅因猫都在被盘问--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 9,
+                "字节炸场！豆包手机助手来了：AI可直接控制手机--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 16,
+                "老君山景区拒用无人机取代挑山工 53岁女挑山工：景区为我们保住了饭碗--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 25,
+                "生活中看到这种黄色小花立即上报：系外来入侵物种--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "充完电不拔充电器是在拿命“豪赌”：很多人都有这坏习惯--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 24,
+                "机械革命星耀14星光白轻薄本上新：锐龙AI 9 H 365首发6299元--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 5,
+                "DeepSeek V3.2与国外顶级AI有差距：算力受限 未来会解决--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 20,
+                "腾势第30万辆D9交付 “九球天后”潘晓婷成为车主--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "千亿市值“果链”龙头 蓝思科技独董突然病逝 年仅53岁--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "女子抱猫进电梯手机掉进电梯缝 急中生智取出手机--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 9
+            }
+        }
+    }
+}

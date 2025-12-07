@@ -1,0 +1,164 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-07 21:44:09",
+            "end": "2025-12-07 22:39:30"
+        },
+        {
+            "start": "2025-12-07 22:41:07",
+            "end": "2025-12-07 22:43:00"
+        }
+    ],
+    "idle_seconds": 1999,
+    "apps": {
+        "clash-verge.exe": {
+            "total": 12,
+            "titles": {
+                "Clash Verge": 12
+            }
+        },
+        "explorer.exe": {
+            "total": 205,
+            "titles": {
+                "Program Manager": 133,
+                "删除快捷方式": 1,
+                "Unknown Title": 16,
+                "此电脑 - 文件资源管理器": 4,
+                "Data (D:) - 文件资源管理器": 3,
+                "System (C:) - 文件资源管理器": 20,
+                "删除多个项目": 1,
+                "文件访问被拒绝": 3,
+                "已完成 0%": 1,
+                "已完成 80%": 1,
+                "已完成 50%": 1,
+                "MCHOSE - 文件资源管理器": 1,
+                "i4Tools8 - 文件资源管理器": 4,
+                "系统托盘溢出窗口。": 1,
+                "用户 - 文件资源管理器": 2,
+                "byj19 - 文件资源管理器": 3,
+                "Codes - 文件资源管理器": 8,
+                "compile_packaging_publish2 - 文件资源管理器": 2
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 19,
+            "titles": {
+                "auto_start.bat": 12,
+                "Windows PowerShell": 7
+            }
+        },
+        "SearchHost.exe": {
+            "total": 28,
+            "titles": {
+                "搜索": 28
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 338,
+            "titles": {
+                "设置": 61,
+                "Microsoft Store": 277
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "开始": 4
+            }
+        },
+        "Trae.exe": {
+            "total": 387,
+            "titles": {
+                "项目结构.md - zenbrightgamecocos - Trae": 25,
+                "Trae": 11,
+                "打开": 15,
+                "compile_packaging_publish2 - Trae": 306,
+                "Statistics - Trae": 29,
+                "mac_app_tracker.py - Statistics - Trae": 1
+            }
+        },
+        "Cursor.exe": {
+            "total": 125,
+            "titles": {
+                "Cursor": 10,
+                "Preview 功能说明.md - zenbrightgamecocos - Cursor": 115
+            }
+        },
+        "Hiddify.exe": {
+            "total": 53,
+            "titles": {
+                "Hiddify": 53
+            }
+        },
+        "Code.exe": {
+            "total": 126,
+            "titles": {
+                "Visual Studio Code": 17,
+                "20251202.data.json - Visual Studio Code": 10,
+                "Extension: Black - Visual Studio Code": 9,
+                "Open Folder": 2,
+                "settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 81,
+                "1.1.1.ipynb - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 7
+            }
+        },
+        "chrome.exe": {
+            "total": 14,
+            "titles": {
+                "新标签页 - Google Chrome": 2,
+                "Ink.Handwriting.Main.zh-Hans.1.0 - Microsoft Apps - Google Chrome": 12
+            }
+        },
+        "inno_updater.exe": {
+            "total": 2,
+            "titles": {
+                "Cursor": 2
+            }
+        },
+        "msedge.exe": {
+            "total": 97,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 29,
+                "把python脚本打包成命令 - 搜索 - 个人 - Microsoft​ Edge": 10,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "项目 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "ZenSystem / compile_packaging_publish2 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "windows store 更新很慢 - 搜索 - 个人 - Microsoft​ Edge": 9,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "zhuanlan.zhihu.com/p/1921244353118077781 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "为什么Microsoft Store（微软应用商店）下载速度特别慢？ - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 15,
+                "Microsoft store下载速度过慢_microsoft store下载速度很慢-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16
+            }
+        },
+        "Notepad.exe": {
+            "total": 6,
+            "titles": {
+                "Main_20250222_ulog.log - Notepad": 6
+            }
+        },
+        "OpenWith.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "mspaint.exe": {
+            "total": 3,
+            "titles": {
+                "temp.bmp - 画图": 3
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 3,
+            "titles": {
+                "MainWindow": 3
+            }
+        },
+        "yuanbao.exe": {
+            "total": 9,
+            "titles": {
+                "腾讯元宝": 1,
+                "腾讯元宝设置": 8
+            }
+        }
+    }
+}

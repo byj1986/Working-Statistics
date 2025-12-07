@@ -1,0 +1,193 @@
+{
+    "sessions": [
+        {
+            "start": "2025-11-30 18:51:46",
+            "end": "2025-11-30 23:24:00"
+        }
+    ],
+    "idle_seconds": 12282,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 41,
+            "titles": {
+                "auto_start.bat": 41
+            }
+        },
+        "explorer.exe": {
+            "total": 314,
+            "titles": {
+                "Program Manager": 9,
+                "此电脑 - 文件资源管理器": 1,
+                "Data (D:) - 文件资源管理器": 12,
+                "configurations - 文件资源管理器": 28,
+                "Unknown Title": 154,
+                "Statistics - 文件资源管理器": 3,
+                "Data - 文件资源管理器": 7,
+                "系统托盘溢出窗口。": 26,
+                "此电脑 和 1 个其他选项卡 - 文件资源管理器": 1,
+                "configurations 和 1 个其他选项卡 - 文件资源管理器": 73
+            }
+        },
+        "Everything.exe": {
+            "total": 20,
+            "titles": {
+                "Everything": 2,
+                "浦东AI考试 - Everything": 11,
+                "整体思路 - Everything": 5,
+                "Unknown Title": 1,
+                "整 - Everything": 1
+            }
+        },
+        "SearchHost.exe": {
+            "total": 32,
+            "titles": {
+                "搜索": 32
+            }
+        },
+        "Code.exe": {
+            "total": 216,
+            "titles": {
+                "Visual Studio Code": 4,
+                "Welcome - Visual Studio Code": 66,
+                "Extension: Python Environments - Visual Studio Code": 31,
+                "浦东AI考试.txt - Visual Studio Code": 15,
+                "HomeView.xaml (Working Tree) (HomeView.xaml) - zenfocusstore - Visual Studio Code": 4,
+                "ReadingTraineeView.xaml - zenfocusstore - Visual Studio Code": 88,
+                "Extension: Dev Containers - zenfocusstore - Visual Studio Code": 5,
+                "Extension: Kubernetes - zenfocusstore - Visual Studio Code": 3
+            }
+        },
+        "Hiddify.exe": {
+            "total": 6,
+            "titles": {
+                "Hiddify": 6
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "Windows Shell Experience 主机": 1,
+                "终端 的跳转列表": 1
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 460,
+            "titles": {
+                "设置": 160,
+                "Microsoft Store": 10,
+                "Armoury Crate": 179,
+                "计算器": 111
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 750,
+            "titles": {
+                "登录 Steam": 15,
+                "Steam": 729,
+                "特惠": 5,
+                "关机": 1
+            }
+        },
+        "pythonw.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "OpenWith.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "CCleaner.exe": {
+            "total": 8,
+            "titles": {
+                "Unknown Title": 1,
+                "CCleaner": 7
+            }
+        },
+        "Notepad.exe": {
+            "total": 17,
+            "titles": {
+                "整体思路.txt - Notepad": 17
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 8,
+            "titles": {
+                "MainWindow": 7,
+                "Unknown Title": 1
+            }
+        },
+        "Cursor.exe": {
+            "total": 557,
+            "titles": {
+                "Cursor": 11,
+                "server.py - Statistics - Cursor": 129,
+                "app_tracker.py - Statistics - Cursor": 345,
+                "mac_app_tracker.py - Statistics - Cursor": 43,
+                "Extension: Postman - Statistics - Cursor": 10,
+                "settings.json - nswebapi - Cursor": 19
+            }
+        },
+        "ShellHost.exe": {
+            "total": 8,
+            "titles": {
+                "快速设置": 8
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 5,
+            "titles": {
+                "开始": 5
+            }
+        },
+        "Trae.exe": {
+            "total": 349,
+            "titles": {
+                "Trae": 7,
+                "settings.json - nswebapi - Trae": 55,
+                "Messages.en-US.resx - nswebapi - Trae": 15,
+                "Messages.zh-CN.resx - nswebapi - Trae": 2,
+                "ModelValidationAttribute.cs - nswebapi - Trae": 121,
+                "进程资源管理器": 32,
+                "Program.cs - nswebapi - Trae": 45,
+                "Program.cs (c132ae6) ⟷ Program.cs (a2bb5a1) (Program.cs (c132ae6) ↔ Program.cs (a2bb5a1)) - nswebapi - Trae": 72
+            }
+        },
+        "msedge.exe": {
+            "total": 75,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 7,
+                "ActionFilterAttribute - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "ActionFilterAttribute - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "github - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "byj1986/Working-Statistics 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Snapchat/Valdi: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "ActionFilterAttribute - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                ".net ActionFilterAttribute - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 20,
+                "美元汇率 - 搜索 - 个人 - Microsoft​ Edge": 14,
+                "1 USD 到 CNY - 搜索 - 个人 - Microsoft​ Edge": 10
+            }
+        },
+        "chrome.exe": {
+            "total": 1161,
+            "titles": {
+                "无标题 - Google Chrome": 3,
+                "Pricing | TRAE - Collaborate with Intelligence - Google Chrome": 1137,
+                "Log In | TRAE - Collaborate with Intelligence - Google Chrome": 3,
+                "Sign in to GitHub · GitHub - Google Chrome": 5,
+                "OAuth application authorized - Google Chrome": 1,
+                "Authorization | TRAE - Collaborate with Intelligence - Google Chrome": 3,
+                "TRAE - Collaborate with Intelligence - Google Chrome": 9
+            }
+        },
+        "CredentialUIBroker.exe": {
+            "total": 3,
+            "titles": {
+                "Windows 安全中心": 3
+            }
+        }
+    }
+}

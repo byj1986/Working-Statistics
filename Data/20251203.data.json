@@ -1,0 +1,185 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-03 20:49:37",
+            "end": "2025-12-03 23:59:30"
+        }
+    ],
+    "idle_seconds": 383,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 56,
+            "titles": {
+                "auto_start.bat": 21,
+                "Windows PowerShell": 35
+            }
+        },
+        "SearchHost.exe": {
+            "total": 17,
+            "titles": {
+                "搜索": 17
+            }
+        },
+        "explorer.exe": {
+            "total": 170,
+            "titles": {
+                "Program Manager": 70,
+                "文件资源管理器": 1,
+                "此电脑 - 文件资源管理器": 3,
+                "Data (D:) - 文件资源管理器": 18,
+                "GongHeGuoZhiHui1.0 - 文件资源管理器": 8,
+                "Unknown Title": 21,
+                "System (C:) - 文件资源管理器": 2,
+                "迅雷下载 - 文件资源管理器": 1,
+                "用户 - 文件资源管理器": 1,
+                "byj19 - 文件资源管理器": 3,
+                "Codes - 文件资源管理器": 18,
+                "zentouchstore_cocos - 文件资源管理器": 16,
+                "zenbrightgamecocos - 文件资源管理器": 6,
+                "贴靠助手": 2
+            }
+        },
+        "msedge.exe": {
+            "total": 1421,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 53,
+                "Unknown Title": 9,
+                "登录 · GitLab - 个人 - Microsoft​ Edge": 8,
+                "ZenSystem / ZenFocusStore · GitLab - 个人 - Microsoft​ Edge": 3,
+                "ZenSystem · GitLab - 个人 - Microsoft​ Edge": 39,
+                "ZenSystem / ZenBeatStore · GitLab - 个人 - Microsoft​ Edge": 2,
+                "ZenSystem / ZenTouchStore_COCOS · GitLab - 个人 - Microsoft​ Edge": 5,
+                "文件 · feature-branch · ZenSystem / ZenTouchStore_COCOS · GitLab - 个人 - Microsoft​ Edge": 29,
+                "文件 · feature-branch · ZenSystem / ZenTouchStore_COCOS · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "微调 (ae829df5) · 提交 · ZenSystem / ZenTouchStore_COCOS · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "ZenSystem · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "ZenSystem / ZenBrightGameCocos · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 23,
+                "使用量 · 设置 · ZenSystem / ZenBrightGameCocos · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "分支 · ZenSystem / ZenBrightGameCocos · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "ZenSystem · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "ZenSystem / ZenFocusStore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "使用量 · 设置 · ZenSystem / ZenFocusStore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 19,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "使用量 · 设置 · ZenSystem / ZenFocusStore · GitLab 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Reduce repository size | GitLab 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "ZenSystem / ZenBeatStore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 796,
+                "ZenSystem / ZenBrightGameCocos · GitLab 和另外 3 个页面 - 个人 - Microsoft​ Edge": 11,
+                "ZenSystem / ZenBrightGameCocos · GitLab 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "+1 (d6783c15) · 提交 · ZenSystem / ZenBrightGameCocos · GitLab 和另外 4 个页面 - 个人 - Microsoft​ Edge": 15,
+                "ZenSystem / ZenBeatStore · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "KB5070311 - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "2025 年 12 月 1 日 - KB5070311 (作系统内部版本 26200.7309 和 26100.7309) 预览版 - Microsoft 支持 和另外 1 个页面 - 个人 - Microsoft​ Edge": 30,
+                "ZenSystem / ZenBrightGameCocos · GitLab - 个人 - Microsoft​ Edge": 8,
+                "新建分支 · ZenSystem / ZenBrightGameCocos · GitLab - 个人 - Microsoft​ Edge": 19,
+                "文件 · study_cocos · ZenSystem / ZenBrightGameCocos · GitLab - 个人 - Microsoft​ Edge": 7,
+                "新建合并请求 · ZenSystem / ZenBrightGameCocos · GitLab - 个人 - Microsoft​ Edge": 3,
+                "project.json · study_cocos · ZenSystem / ZenBrightGameCocos · GitLab - 个人 - Microsoft​ Edge": 2,
+                "tsconfig.json · study_cocos · ZenSystem / ZenBrightGameCocos · GitLab - 个人 - Microsoft​ Edge": 1,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 136,
+                "5年内有望超越猎鹰9号！专家谈朱雀三号火箭首飞：含金量相当高--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "新国标倒计时：以后买9块9的充电宝难了--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "全系蔡司镜片 一图读懂理想Livis：可能是迄今最好用的AI眼镜！--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "国产GPU第一股摩尔线程终于来了：12月5日上市 市值537亿--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "带X3D的CPU值得入手吗：看完秒懂--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 23,
+                "时速800公里！印度测试新型国产弹射座椅：将配备至光辉战机--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "国外小哥COS明日香身材吸睛 网友狂夸：也不是不行--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "别再信了！盘点新国标电动自行车的5个谣言--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 43,
+                "肖战代言卖爆了！荣耀500系列首销5天销量为同期产品141%--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "新旧国标电动自行车燃烧对比差几秒 消防实测给答案--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 35,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "KDS - 在这里・看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10
+            }
+        },
+        "OpenWith.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "Notepad--.exe": {
+            "total": 13,
+            "titles": {
+                "notepad-- - Ndd": 1,
+                "D:\\GongHeGuoZhiHui1.0\\ddraw.ini [文本模式] - Ndd": 6,
+                "C:\\Windows\\System32\\drivers\\etc\\hosts [文本模式] - Ndd": 1,
+                "New 0 [文本模式] - Ndd": 4,
+                "关闭文件之前，是否保存修改？ - Ndd": 1
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "开始": 4
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 8297,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 758,
+                "12月1日三面围岛 PLA台海大规模军演 菲律宾巨腐丑闻美国急了 无人机首次空战来临 \"海底无人机\"战争已拉开序幕": 188,
+                "居安思危！哈兰德英超百球里程碑 双方狂进9球 富勒姆4比5曼城": 305,
+                "绝望的印度": 22,
+                "太炸裂了……我怎么可能叫！": 212,
+                "我是谁我在哪": 317,
+                "湾湾草莓兵暴打解放军？导演出来单挑！": 572,
+                "【万字精讲】军事政变引爆核弹，朝鲜一号还遭遇刺杀。《铁雨》韩国幼稚的政治幻想": 1245,
+                "立陶宛：我们决定再给中国一次机会，望中方不要沉默，跟我们和好": 62,
+                "【双字+评论】我一个人在中国弄丢了钱包和手机，后面发生的事让我忍不住哭了！-俄罗斯女孩独自在中国旅游时丢了手机和钱包！": 938,
+                "见过抽子的，没见过抽一串子的！网络名局": 199,
+                "马氏象棋十三代传人 马氏象棋战胜白雪#中国象棋": 294,
+                "给白雪上了一课 棋摊战胜白雪#中国象棋 #象棋残局 #喜欢象棋关注我": 6,
+                "堪称狙击片的经典之作，女兵只是喝了一口水，就被一枪爆了头！一口气看完超燃战争电影《透过瞄准镜》": 919,
+                "我们到底敢不敢打？盟主这番分析我又开始狂粉她了": 17,
+                "高市的胆子竟然来自造假？日本对华兵推有多抽象？": 909,
+                "神力科莎拉力拉了": 70,
+                "这谁能想得到啊": 57,
+                "还好我技高一筹": 210,
+                "熟能生巧": 6,
+                "一个比一个能": 176,
+                "不喜欢拖泥带水": 225,
+                "是锁就能开 只要有锁眼就行": 90,
+                "最后给我整懵了": 184,
+                "奥迪老哥这满满一箱人情世故啊": 147,
+                "漂亮的老板娘": 169
+            }
+        },
+        "Cursor.exe": {
+            "total": 529,
+            "titles": {
+                "Cursor": 8,
+                "web.config - nswebapi - Cursor": 7,
+                "UserRegistrationService.cs - nswebapi - Cursor": 31,
+                "Open Folder": 6,
+                "zenbrightgamecocos - Cursor": 477
+            }
+        },
+        "Trae.exe": {
+            "total": 409,
+            "titles": {
+                "设置 - nswebapi - Trae": 231,
+                "Trae": 26,
+                "打开": 12,
+                "Codes - Trae": 2,
+                "Untitled-1 - Codes - Trae": 7,
+                "zentouchstore_cocos - Trae": 32,
+                "zenbrightgamecocos - Trae": 41,
+                "项目结构.md - zenbrightgamecocos - Trae": 58
+            }
+        },
+        "Hiddify.exe": {
+            "total": 69,
+            "titles": {
+                "Hiddify": 69
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 13,
+            "titles": {
+                "设置": 13
+            }
+        }
+    }
+}

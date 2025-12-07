@@ -1,0 +1,233 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-01 20:44:15",
+            "end": "2025-12-01 23:20:30"
+        }
+    ],
+    "idle_seconds": 2706,
+    "apps": {
+        "WindowsTerminal.exe": {
+            "total": 80,
+            "titles": {
+                "auto_start.bat": 63,
+                "Terminal": 1,
+                "Windows PowerShell": 16
+            }
+        },
+        "explorer.exe": {
+            "total": 108,
+            "titles": {
+                "Program Manager": 7,
+                "Unknown Title": 52,
+                "此电脑 - 文件资源管理器": 39,
+                "nswebapi - 文件资源管理器": 5,
+                "Statistics - 文件资源管理器": 5
+            }
+        },
+        "SearchHost.exe": {
+            "total": 86,
+            "titles": {
+                "搜索": 86
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 5,
+            "titles": {
+                "开始": 5
+            }
+        },
+        "Trae.exe": {
+            "total": 625,
+            "titles": {
+                "Trae": 47,
+                "Program.cs - nswebapi - Trae": 406,
+                "扩展: GitHub Copilot - nswebapi - Trae": 12,
+                "设置 - nswebapi - Trae": 72,
+                "Editor 设置 - nswebapi - Trae": 2,
+                "settings.json - nswebapi - Trae": 20,
+                "● settings.json - nswebapi - Trae": 4,
+                "Messages.en-US.resx - nswebapi - Trae": 7,
+                "ModelValidationAttribute.cs - nswebapi - Trae": 55
+            }
+        },
+        "Cursor.exe": {
+            "total": 1047,
+            "titles": {
+                "Cursor": 9,
+                "settings.json - nswebapi - Cursor": 69,
+                "● settings.json - nswebapi - Cursor": 2,
+                "Settings - nswebapi - Cursor": 1,
+                "web.config - nswebapi - Cursor": 410,
+                "nswebapi - Cursor": 274,
+                "NSWebApi.csproj - nswebapi - Cursor": 67,
+                "SystemAuthController.cs - nswebapi - Cursor": 15,
+                "SystemUserService.cs - nswebapi - Cursor": 12,
+                "StoreService.cs - nswebapi - Cursor": 8,
+                "UserRegistrationService.cs - nswebapi - Cursor": 27,
+                "appsettings.Development.json - nswebapi - Cursor": 31,
+                "appsettings.json - nswebapi - Cursor": 16,
+                "Program.cs - nswebapi - Cursor": 106
+            }
+        },
+        "Hiddify.exe": {
+            "total": 26,
+            "titles": {
+                "Hiddify": 26
+            }
+        },
+        "chrome.exe": {
+            "total": 674,
+            "titles": {
+                "新标签页 - Google Chrome": 25,
+                "google antigravity_百度搜索 - Google Chrome": 20,
+                "Google - Google Chrome": 6,
+                "google antigravity - Google 搜索 - Google Chrome": 3,
+                "Google Antigravity - Google Chrome": 4,
+                "Google Antigravity Download - Google Chrome": 18,
+                "无标题 - Google Chrome": 11,
+                "trae.ai/authorization?login_version=1&auth_from=trae&login_channel=native_ide&plugin_version=1.0.24532&auth_type=local&client_id=ono9krqynydwx5&redirect=0&login_trace_id=9bf3446a-f3d1-4374-94b9-07d5fa43c713&auth_callback_url=http://127.0.0.1:55146/authorize&machine_id=7ce619bf5c9c268ea40c9c276682940ca95dbe61f925d49425bbe98df35d467d&device_id=7554006435123971605&x_device_id=7554006435123971605&x_machine_id=7ce619bf5c9c268ea40c9c276682940ca95dbe61f925d49425bbe98df35d467d&x_device_brand=Venus series&x_device_": 3,
+                "Authorization | TRAE - Collaborate with Intelligence - Google Chrome": 111,
+                "trae.ai/authorization?login_version=1&auth_from=trae&login_channel=native_ide&plugin_version=1.0.24532&auth_type=local&client_id=ono9krqynydwx5&redirect=1&login_trace_id=df10554c-e51f-44d2-b283-cc2c72a536bc&auth_callback_url=http://127.0.0.1:55146/authorize&machine_id=7ce619bf5c9c268ea40c9c276682940ca95dbe61f925d49425bbe98df35d467d&device_id=7554006435123971605&x_device_id=7554006435123971605&x_machine_id=7ce619bf5c9c268ea40c9c276682940ca95dbe61f925d49425bbe98df35d467d&x_device_brand=Venus series&x_device_": 1,
+                "127.0.0.1 - Google Chrome": 4,
+                "TRAE - Collaborate with Intelligence - Google Chrome": 39,
+                "Log In | TRAE - Collaborate with Intelligence - Google Chrome": 41,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - Google Chrome": 5,
+                "登录 - Google 账号 - Google Chrome": 9,
+                "Google Antigravity Auth Success - Google Chrome": 30,
+                "DevTools - antigravity.google/auth-success": 34,
+                "EnableRetryOnFailure_百度搜索 - Google Chrome": 3,
+                "baidu.com/link?url=mIs8LVzzr04a1LnQfDQe05ssFKA28HeyaJzO1F5tOqk__3yAAt6GXnKY4Nf-SLp0KRDC5axjGtRcm-0857LYFjVYIOAqovpFTneept31wYQNAG7MnIod1ExilC83SUlw5n7lAuQUeElgejn-BpDtGO18wM1xHsIUEFrlTH0kdYL4nQpVg9NNuE30u7c4Gq1ogJGubHDObVAWx9S9Dbbs4PDaX12JpoOqzQEHdRXkaGO&wd=&eqid=cbcd4ed40012dd8500000004692daafc - Google Chrome": 2,
+                "SqlServerDbContextOptionsBuilder.EnableRetryOnFailure 方法 (Microsoft.EntityFrameworkCore.Infrastructure) | Microsoft Learn - Google Chrome": 46,
+                "连接可靠性 - EF Core | Microsoft Learn - Google Chrome": 19,
+                "本地 AOT 部署概述 - .NET | Microsoft Learn - Google Chrome": 28,
+                "http 400_百度搜索 - Google Chrome": 13,
+                ".net AddSignalR_百度搜索 - Google Chrome": 6,
+                "baidu.com/link?url=EBIUsyUWLkd1vXRcWMZ7-o9TqhbrHRQxFEp9hB9HzLtVI13O_JIk7npwl7QkI-f3iHmcUtbh9KwIZpeqvn54FFfQKHu-0U7joOPYHM2e2E7&wd=&eqid=ec38e1930066fb8c00000004692dad5b - Google Chrome": 1,
+                "ASP.NET 核心 SignalR 配置 | Microsoft Learn - Google Chrome": 27,
+                ".net中SignalR的使用 - chenxizhaolu - 博客园 - Google Chrome": 119,
+                "每日使用统计报告 - Google Chrome": 46
+            }
+        },
+        "Thunder.exe": {
+            "total": 80,
+            "titles": {
+                "迅雷": 71,
+                "新建任务面板": 2,
+                "Unknown Title": 3,
+                "index.html": 1,
+                "thunder": 2,
+                "提示框": 1
+            }
+        },
+        "APlayer.exe": {
+            "total": 3,
+            "titles": {
+                "Unknown Title": 3
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 1,
+            "titles": {
+                "迅雷升级程序": 1
+            }
+        },
+        "mmc.exe": {
+            "total": 77,
+            "titles": {
+                "设备管理器": 77
+            }
+        },
+        "Antigravity.tmp": {
+            "total": 14,
+            "titles": {
+                "安装 - Antigravity (User)": 13,
+                "Unknown Title": 1
+            }
+        },
+        "PickerHost.exe": {
+            "total": 3,
+            "titles": {
+                "Windows 安全中心": 3
+            }
+        },
+        "Antigravity.exe": {
+            "total": 27,
+            "titles": {
+                "Antigravity": 27
+            }
+        },
+        "Everything.exe": {
+            "total": 3,
+            "titles": {
+                "Everything": 3
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 13,
+            "titles": {
+                "设置": 13
+            }
+        },
+        "devenv.exe": {
+            "total": 700,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 2,
+                "Microsoft Visual Studio": 2,
+                "NSWebApi - Microsoft Visual Studio": 2,
+                "NSWebApi - NSWebApi - Microsoft Visual Studio": 58,
+                "NSWebApi - Program.cs - Microsoft Visual Studio": 488,
+                "选项": 15,
+                "颜色": 21,
+                "NSWebApi - SqlServerDbContextOptionsBuilder [反编译] [只读] - Microsoft Visual Studio": 11,
+                "NSWebApi - MvcServiceCollectionExtensions [从元数据] [只读] - Microsoft Visual Studio": 12,
+                "Unknown Title": 1,
+                "NSWebApi - MemoryCacheServiceCollectionExtensions [从元数据] [只读] - Microsoft Visual Studio": 6,
+                "NSWebApi - MemoryCacheOptions [从元数据] [只读] - Microsoft Visual Studio": 2,
+                "NSWebApi - MemoryCacheServiceCollectionExtensions.cs [只读] - Microsoft Visual Studio": 2,
+                "NSWebApi - ApiBehaviorOptions [从元数据] [只读] - Microsoft Visual Studio": 13,
+                "NSWebApi": 2,
+                "NSWebApi - UserRegistrationService.cs - Microsoft Visual Studio": 20,
+                "NSWebApi - UserRegistrationService.cs* - Microsoft Visual Studio": 20,
+                "NSWebApi - NSWebApi: 发布 - Microsoft Visual Studio": 5,
+                "发布": 18
+            }
+        },
+        "msedge.exe": {
+            "total": 3086,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 4,
+                "百度一下，你就知道 - 个人 - Microsoft​ Edge": 2,
+                "1 USD 到 CNY - 搜索 - 个人 - Microsoft​ Edge": 11,
+                "百度一下，你就知道 和另外 3 个页面 - 个人 - Microsoft​ Edge": 59,
+                "--self-contained_百度搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 552,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "百度文心助手 - 办公学习一站解决 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2293,
+                ".net --self-contained_百度搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "baidu.com/link?url=FEQQUG6xeLY0l3H282ZYVGVZNiPr-3HAmlqp5QwkgVesJwpWcOgEAMGldEmckhH9neX9vZl_9390c651tkRb5klhlEj4j06eBAeswrs_oHZbGmtBp-DUN9QUJv8Fkkeu&wd=&eqid=d4e2efa70058e8e700000004692da640 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Trim self-contained applications - .NET | Microsoft Learn 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                ".net --self-contained_百度搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 5,
+                ".net 编译--self-contained_百度搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "baidu.com/link?url=mMs4xEliEVmzU3doHnar-zG92bPKmwkwfOmITxagMOrlqMF8XiMewBU_5wyDZUg5NOeCMpVqA4baEjT6RB66WDIcdVAF-JKlWQYLIMiJes3&wd=&eqid=d673fa5c005c792200000004692da652 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Trim self-contained applications - .NET | Microsoft Learn 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                ".net ActionFilterAttribute - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                ".NET Core全面扫盲贴_dotnet --self-contained-CSDN博客 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Unknown Title": 6,
+                ".net ActionFilterAttribute - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 22,
+                "BCrypt.Net-Next - 搜索 - 个人 - Microsoft​ Edge": 27,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "C#如何使用 BCrypt 提高用户密码的安全性 - 董川民 和另外 1 个页面 - 个人 - Microsoft​ Edge": 40,
+                "EPPlus - 搜索 - 个人 - Microsoft​ Edge": 25,
+                "byj1986/Working-Statistics 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "Snapchat/Valdi: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                ".net 编译--self-contained_百度搜索 - 个人 - Microsoft​ Edge": 1
+            }
+        },
+        "pythonw.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        }
+    }
+}
