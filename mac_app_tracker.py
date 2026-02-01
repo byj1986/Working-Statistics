@@ -146,10 +146,21 @@ def get_active_window_info():
 def get_file_paths(date_str=None):
     if not date_str:
         date_str = datetime.datetime.now().strftime("%Y%m%d")
+    
+    # 根据日期计算子目录：YYYYMMDD -> YYYY.mm
+    year = date_str[:4]
+    month = date_str[4:6]
+    subdir = f"{year}.{month}"
+    subdir_path = os.path.join(DATA_DIR, subdir)
+    
+    # 确保子目录存在
+    if not os.path.exists(subdir_path):
+        os.makedirs(subdir_path)
+    
     return {
-        "json": os.path.join(DATA_DIR, f"{date_str}.data.json"),
-        "report": os.path.join(DATA_DIR, f"{date_str}.report.txt"),
-        "log": os.path.join(DATA_DIR, f"{date_str}.log.txt")
+        "json": os.path.join(subdir_path, f"{date_str}.data.json"),
+        "report": os.path.join(subdir_path, f"{date_str}.report.txt"),
+        "log": os.path.join(subdir_path, f"{date_str}.log.txt")
     }
 
 

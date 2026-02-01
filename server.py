@@ -10,6 +10,7 @@ from urllib.parse import urlparse, parse_qs
 
 PORT = 8000
 DIRECTORY = "."  # 将在 main 中更新为 Data 目录
+SCRIPT_DIR = None  # 将在 main 中设置
 
 class StatsHandler(http.server.SimpleHTTPRequestHandler):
     def end_headers(self):
@@ -37,13 +38,31 @@ class StatsHandler(http.server.SimpleHTTPRequestHandler):
             # API: 获取所有 .data.json 文件的日期列表
             if path == '/api/dates':
                 try:
-                    files = [f for f in os.listdir(DIRECTORY) if f.endswith('.data.json')]
-                    # 提取 YYYYMMDD
+                    # 获取数据目录路径（使用 SCRIPT_DIR 或回退到 DIRECTORY）
+                    if SCRIPT_DIR:
+                        data_dir = os.path.join(SCRIPT_DIR, "Data")
+                    else:
+                        data_dir = DIRECTORY
+                    
+                    # 查找所有 YYYY.mm 格式的子目录中的 .data.json 文件
                     dates = []
-                    for f in files:
-                        m = re.match(r"(\d{8})\.data\.json", f)
-                        if m:
-                            dates.append(m.group(1))
+                    if os.path.exists(data_dir):
+                        # 遍历 Data 目录下的所有子目录
+                        for item in os.listdir(data_dir):
+                            item_path = os.path.join(data_dir, item)
+                            # 只处理目录，且目录名符合 YYYY.mm 格式
+                            if os.path.isdir(item_path) and re.match(r'^\d{4}\.\d{2}$', item):
+                                # 在该子目录中查找 .data.json 文件
+                                try:
+                                    for f in os.listdir(item_path):
+                                        if f.endswith('.data.json'):
+                                            m = re.match(r"(\d{8})\.data\.json", f)
+                                            if m:
+                                                dates.append(m.group(1))
+                                except Exception as e:
+                                    # 如果某个子目录无法访问，跳过
+                                    logging.warning("Error accessing %s: %s", item_path, e)
+                                    continue
                     dates.sort(reverse=True) # 最近的日期在前
                     
                     self.send_response(200)
@@ -70,7 +89,18 @@ class StatsHandler(http.server.SimpleHTTPRequestHandler):
                     self.wfile.write(json.dumps({"error": "Invalid date format. Use YYYYMMDD"}, ensure_ascii=False).encode('utf-8'))
                     return
                 
-                file_path = os.path.join(DIRECTORY, f"{date_str}.data.json")
+                # 获取数据目录路径（使用 SCRIPT_DIR 或回退到 DIRECTORY）
+                if SCRIPT_DIR:
+                    data_dir = os.path.join(SCRIPT_DIR, "Data")
+                else:
+                    data_dir = DIRECTORY
+                
+                # 根据日期计算目录路径：YYYYMMDD -> YYYY.mm
+                year = date_str[:4]
+                month = date_str[4:6]
+                subdir = f"{year}.{month}"
+                file_path = os.path.join(data_dir, subdir, f"{date_str}.data.json")
+                
                 if os.path.exists(file_path):
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
@@ -122,6 +152,7 @@ if __name__ == "__main__":
     # 切换到脚本所在目录
     script_dir = os.path.dirname(os.path.abspath(__file__))
     os.chdir(script_dir)
+    SCRIPT_DIR = script_dir  # 设置全局变量，供类方法使用
     logging.basicConfig(
         filename=os.path.join(script_dir, "server.log"),
         level=logging.INFO,

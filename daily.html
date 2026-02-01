@@ -1,336 +1,800 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="UTF-8">
     <title>每日使用统计报告</title>
+    <link rel="icon" type="image/x-icon" href="/statistics.ico">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         /* --- 全局布局 (保持不变) --- */
-        html, body { 
-            height: 100%; margin: 0; padding: 0; 
-            font-family: 'Segoe UI', sans-serif; 
-            background: #f5f5f5; overflow: hidden; 
-            display: flex; flex-direction: column;
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: #f5f5f5;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
         }
+
         .dashboard-wrapper {
-            padding: 20px; height: 100%; box-sizing: border-box;
-            display: flex; flex-direction: column;
-            max-width: 1400px; margin: 0 auto; width: 100%;
+            padding: 20px;
+            height: 100%;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            max-width: 1400px;
+            margin: 0 auto;
+            width: 100%;
         }
-        
+
         /* --- 头部与日期选择器 --- */
-        .header { 
-            flex: 0 0 auto; display: flex; 
-            justify-content: space-between; align-items: center; 
-            margin-bottom: 20px; background: white;
-            padding: 15px 20px; border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        .header {
+            flex: 0 0 auto;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 40px;
+            margin-bottom: 20px;
+            background: white;
+            padding: 15px 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
         }
-        h2 { margin: 0; color: #333; font-size: 20px; }
-        
+
+        .header h2 {
+            margin: 0;
+            flex-shrink: 0;
+        }
+
+        h2 {
+            margin: 0;
+            color: #333;
+            font-size: 28px;
+            line-height: 1.2;
+            display: flex;
+            align-items: center;
+        }
+
         /* 日期控件样式优化 */
         input[type="date"] {
-            padding: 8px 12px; font-size: 14px;
-            border: 1px solid #ddd; border-radius: 6px;
-            font-family: inherit; color: #555;
-            outline: none; transition: border-color 0.2s;
+            padding: 8px 12px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-family: inherit;
+            color: #555;
+            outline: none;
+            vertical-align: middle;
         }
-        input[type="date"]:focus { border-color: #36A2EB; }
 
-        /* --- 统计卡片 --- */
-        .stats-grid { 
-            flex: 0 0 auto; display: grid; 
-            grid-template-columns: repeat(3, 1fr); gap: 20px; 
-            margin-bottom: 20px; 
+        /* 日期选择器图标对齐 */
+        input[type="date"]::-webkit-calendar-picker-indicator {
+            cursor: pointer;
+            vertical-align: middle;
+            padding-left: 4px;
         }
-        .stat-card { 
-            background: white; padding: 20px; 
-            border-radius: 8px; text-align: center; 
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-            border-left: 5px solid #ccc;
-        }
-        .stat-card.total { border-left-color: #4BC0C0; }
-        .stat-card.active { border-left-color: #36A2EB; }
-        .stat-card.idle { border-left-color: #FF9F40; }
-        .stat-value { font-size: 28px; font-weight: bold; color: #333; margin-bottom: 5px; }
-        .stat-label { font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; }
 
-        /* --- 内容区 --- */
-        .content-area { flex: 1; display: flex; gap: 20px; min-height: 0; }
-        
-        .chart-box { 
-            flex: 4; display: flex; flex-direction: column; gap: 20px; 
-            overflow-y: auto; padding-right: 5px; 
+        input[type="date"]:focus {
+            border-color: #36A2EB;
         }
+
+        .stats-right {
+            display: flex;
+            gap: 10px;
+        }
+
+        .stats-right .stat-card {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            border-left: 10px solid #ccc;
+        }
+
+        .stat-card.total {
+            border-left-color: #4BC0C0;
+        }
+
+        .stat-card.active {
+            border-left-color: #36A2EB;
+        }
+
+        .stat-card.idle {
+            border-left-color: #FF9F40;
+        }
+
+        .stat-value {
+            font-size: 28px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 3px;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .content-area {
+            flex: 1;
+            display: flex;
+            gap: 10px;
+            min-height: 0;
+            height: calc(100% - 50px);
+        }
+
+        .chart-box {
+            flex: 4;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            height: 100%;
+        }
+
         .chart-wrapper {
-            background: #fff; border-radius: 8px; padding: 15px;
-            min-height: 341px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-            display: flex; flex-direction: column;
-            align-items: center; justify-content: center; position: relative;
+            background: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            min-height: 320px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            height: 100%;
+            margin-top: 12px;
         }
 
-        .details-box { 
-            flex: 6; background: white; overflow-y: auto; 
-            padding: 15px; border-radius: 8px; 
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        /* 时间分配（放在header中） */
+        #summaryBarWrap {
+            flex: 1;
+            min-width: 0;
+            height: 44px;
+            align-self: center;
+            width: 100%;
+            border-radius: 12px;
+            overflow: hidden; /* 关键：裁剪 canvas 内容，让上下都圆角 */
+            box-sizing: border-box;
         }
-        
+
+        #summaryBarChart {
+            display: block;
+            box-shadow: none;
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+            width: 100% !important;
+            height: 100% !important;
+        }
+
+        #datePicker {
+            flex-shrink: 0;
+            margin-left: auto;
+        }
+
+        /* Tab 样式 */
+        .tabs-container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            min-height: 0;
+        }
+
+        .tabs-header {
+            display: flex;
+            background: white;
+            border-radius: 8px 8px 0 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            padding: 0;
+            margin: 0;
+            border-bottom: 2px solid #eee;
+        }
+
+        .tab-button {
+            flex: 1;
+            padding: 12px 20px;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            color: #666;
+            transition: all 0.3s;
+            border-bottom: 3px solid transparent;
+            margin-bottom: -2px;
+        }
+
+        .tab-button:hover {
+            background: #f8f9fa;
+            color: #333;
+        }
+
+        .tab-button.active {
+            color: #36A2EB;
+            border-bottom-color: #36A2EB;
+            background: white;
+        }
+
+        .tabs-content {
+            flex: 1;
+            background: white;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            min-height: 0;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+        }
+
+        .tab-pane {
+            display: none;
+            width: 100%;
+            height: 100%;
+            min-height: 0;
+            padding: 15px;
+            box-sizing: border-box;
+            flex: 1;
+        }
+
+        .tab-pane.active {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            padding-top: 1rem;
+        }
+
+        .tab-pane canvas {
+            max-width: 80%;
+            width: auto !important;
+            height: auto !important;
+        }
+
+        .details-box {
+            flex: 6;
+        }
+
+        .details-list {
+            margin-top: 12px;
+            padding: 1rem;
+            border-radius: 8px;
+            background: white;
+            overflow-y: auto;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            height: calc(100% - 148px);
+        }
+
         /* 列表与滚动条 */
-        ul { list-style: none; padding-left: 0; margin: 0; }
-        li { margin-bottom: 8px; }
-        .app-row { 
-            cursor: pointer; padding: 10px 15px; background: #f8f9fa; 
-            display: flex; justify-content: space-between; 
-            border-radius: 6px; font-size: 14px; transition: background 0.2s;
+        ul {
+            list-style: none;
+            padding-left: 0;
+            margin: 0;
         }
-        .app-row:hover { background: #e9ecef; }
-        .app-name { font-weight: 600; color: #444; }
-        .toggle-icon { margin-right: 8px; font-weight: bold; color: #999; display: inline-block; width: 16px; text-align: center;}
-        .sub-list { padding-left: 35px; display: none; margin-top: 5px; border-left: 2px solid #eee; margin-left: 10px; }
-        .sub-item { font-size: 13px; color: #666; display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px dashed #eee;}
-        .active .sub-list { display: block; }
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background: #ccc; border-radius: 4px; }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .app-row {
+            cursor: pointer;
+            padding: 10px 15px;
+            background: #f8f9fa;
+            display: flex;
+            justify-content: space-between;
+            border-radius: 6px;
+            font-size: 14px;
+            transition: background 0.2s;
+        }
+
+        .app-row:hover {
+            background: #e9ecef;
+        }
+
+        .app-name {
+            font-weight: 600;
+            color: #444;
+        }
+
+        .toggle-icon {
+            margin-right: 8px;
+            font-weight: bold;
+            color: #999;
+            display: inline-block;
+            width: 16px;
+            text-align: center;
+        }
+
+        .sub-list {
+            padding-left: 35px;
+            display: none;
+            margin-top: 5px;
+            border-left: 2px solid #eee;
+            margin-left: 10px;
+        }
+
+        .sub-item {
+            font-size: 13px;
+            color: #666;
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 0;
+            border-bottom: 1px dashed #eee;
+        }
+
+        .active .sub-list {
+            display: block;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #ccc;
+            border-radius: 4px;
+        }
     </style>
 </head>
+
 <body>
 
-<div class="dashboard-wrapper">
-    <div class="header">
-        <h2>每日统计</h2>
-        <!-- 替换为日期选择器 -->
-        <input type="date" id="datePicker" onchange="onDateChange(this.value)">
+    <div class="dashboard-wrapper">
+        <div class="header">
+            <h2 id="dailyTitle">每日统计</h2>
+            <div id="summaryBarWrap">
+                <canvas id="summaryBarChart"></canvas>
+            </div>
+            <input type="date" id="datePicker" onchange="onDateChange(this.value)">
+        </div>
+
+        <div class="content-area">
+            <div class="chart-box">
+                <div class="stat-card total">
+                    <div class="stat-value" id="totalUsed">-</div>
+                    <div class="stat-label">系统运行时长</div>
+                </div>
+
+                <div class="chart-wrapper">
+                    <canvas id="usagePieChart"></canvas>
+                </div>
+            </div>
+            <div class="details-box">
+                <div class="stats-right">
+                    <div class="stat-card active">
+                        <div class="stat-value" id="effectiveTime">-</div>
+                        <div class="stat-label">有效使用时间</div>
+                    </div>
+                    <div class="stat-card idle">
+                        <div class="stat-value" id="idleTime">-</div>
+                        <div class="stat-label">闲置时长</div>
+                    </div>
+                </div>
+                <ul class="details-list" id="detailsList"></ul>
+                <div id="noDataMsg" style="text-align:center; color:#999; margin-top:50px; display:none;">
+                    所选日期无数据
+                </div>
+            </div>
+        </div>
     </div>
 
-    <div class="stats-grid">
-        <div class="stat-card total">
-            <div class="stat-value" id="totalUsed">-</div>
-            <div class="stat-label">系统运行时长</div>
-        </div>
-        <div class="stat-card active">
-            <div class="stat-value" id="effectiveTime">-</div>
-            <div class="stat-label">有效使用时间</div>
-        </div>
-        <div class="stat-card idle">
-            <div class="stat-value" id="idleTime">-</div>
-            <div class="stat-label">闲置时长</div>
-        </div>
-    </div>
+    <script>
+        let usageChart = null;
+        let summaryBarChart = null;
+        let availableDates = []; // 存储所有可用日期 YYYYMMDD
 
-    <div class="content-area">
-        <div class="chart-box">
-            <div class="chart-wrapper">
-                <canvas id="summaryPieChart"></canvas>
-            </div>
-            <div class="chart-wrapper">
-                <canvas id="usagePieChart"></canvas>
-            </div>
-        </div>
-        <div class="details-box">
-            <ul id="detailsList"></ul>
-            <div id="noDataMsg" style="text-align:center; color:#999; margin-top:50px; display:none;">
-                所选日期无数据
-            </div>
-        </div>
-    </div>
-</div>
+        function secondsToMinutes(sec) { return (sec / 60).toFixed(1) + ' 分钟'; }
+        function formatPrettyTime(seconds) {
+            const h = Math.floor(seconds / 3600);
+            const m = Math.floor((seconds % 3600) / 60);
+            return `${h}小时 ${m}分`;
+        }
+        function secondsToHMS(d) {
+            d = Number(d); var h = Math.floor(d / 3600); var m = Math.floor(d % 3600 / 60); var s = Math.floor(d % 3600 % 60);
+            return (h > 0 ? h + ":" + (m < 10 ? "0" : "") : "") + m + ":" + (s < 10 ? "0" : "") + s;
+        }
 
-<script>
-    let usageChart = null;
-    let summaryChart = null;
-    let availableDates = []; // 存储所有可用日期 YYYYMMDD
+        // 格式转换工具
+        // YYYYMMDD -> YYYY-MM-DD
+        function toDashDate(str) {
+            return str.replace(/^(\d{4})(\d{2})(\d{2})$/, "$1-$2-$3");
+        }
+        // YYYY-MM-DD -> YYYYMMDD
+        function toPlainDate(str) {
+            return str.replace(/-/g, "");
+        }
 
-    function secondsToMinutes(sec) { return (sec / 60).toFixed(1) + ' 分钟'; }
-    function formatPrettyTime(seconds) {
-        const h = Math.floor(seconds / 3600);
-        const m = Math.floor((seconds % 3600) / 60);
-        return `${h}小时 ${m}分`;
-    }
-    function secondsToHMS(d) {
-        d = Number(d); var h = Math.floor(d / 3600); var m = Math.floor(d % 3600 / 60); var s = Math.floor(d % 3600 % 60);
-        return (h > 0 ? h + ":" + (m < 10 ? "0" : "") : "") + m + ":" + (s < 10 ? "0" : "") + s;
-    }
+        // 初始化
+        fetch('/api/dates')
+            .then(r => r.json())
+            .then(dates => {
+                availableDates = dates; // 20251124, 20251123...
+                const picker = document.getElementById('datePicker');
 
-    // 格式转换工具
-    // YYYYMMDD -> YYYY-MM-DD
-    function toDashDate(str) {
-        return str.replace(/^(\d{4})(\d{2})(\d{2})$/, "$1-$2-$3");
-    }
-    // YYYY-MM-DD -> YYYYMMDD
-    function toPlainDate(str) {
-        return str.replace(/-/g, "");
-    }
+                if (dates.length > 0) {
+                    // 设置最大最小值
+                    // dates 是倒序的，dates[0] 是最新，dates[length-1] 是最早
+                    const maxDate = toDashDate(dates[0]);
+                    const minDate = toDashDate(dates[dates.length - 1]);
 
-    // 初始化
-    fetch('/api/dates')
-        .then(r => r.json())
-        .then(dates => {
-            availableDates = dates; // 20251124, 20251123...
-            const picker = document.getElementById('datePicker');
-            
-            if (dates.length > 0) {
-                // 设置最大最小值
-                // dates 是倒序的，dates[0] 是最新，dates[length-1] 是最早
-                const maxDate = toDashDate(dates[0]);
-                const minDate = toDashDate(dates[dates.length - 1]);
-                
-                picker.max = maxDate;
-                picker.min = minDate;
-                picker.value = maxDate; // 默认选中最新
-                
-                loadReport(dates[0]);
-            }
-        });
+                    picker.max = maxDate;
+                    picker.min = minDate;
+                    picker.value = maxDate; // 默认选中最新
 
-    function onDateChange(dateStr) {
-        if(!dateStr) return;
-        const plainDate = toPlainDate(dateStr);
-        loadReport(plainDate);
-    }
+                    loadReport(dates[0]);
+                }
+            });
 
-    function loadReport(date) {
-        fetch(`/api/data/${date}`)
-            .then(r => {
-                if(!r.ok) throw new Error("No Data");
-                return r.json();
-            })
-            .then(data => {
-                // 检查是否有实际数据
-                const hasData = data.sessions && data.sessions.length > 0;
-                if (hasData) {
+        function onDateChange(dateStr) {
+            if (!dateStr) return;
+            const plainDate = toPlainDate(dateStr);
+            loadReport(plainDate);
+        }
+
+        function loadReport(date) {
+            fetch(`/api/data/${date}`)
+                .then(r => {
+                    if (!r.ok) throw new Error("No Data");
+                    return r.json();
+                })
+                .then(data => {
                     document.getElementById('noDataMsg').style.display = 'none';
                     document.getElementById('detailsList').style.display = 'block';
                     renderDashboard(data);
-                } else {
+                })
+                .catch(err => {
+                    // 处理无数据情况
                     document.getElementById('noDataMsg').style.display = 'block';
                     document.getElementById('detailsList').style.display = 'none';
                     clearDashboard();
+                });
+        }
+
+        function clearDashboard() {
+            document.getElementById('totalUsed').innerText = '-';
+            document.getElementById('effectiveTime').innerText = '-';
+            document.getElementById('idleTime').innerText = '-';
+            document.getElementById('dailyTitle').innerText = '每日统计';
+            if (usageChart) usageChart.destroy();
+            if (summaryBarChart) summaryBarChart.destroy();
+        }
+
+        function renderDashboard(data) {
+            const sessions = data.sessions || [];
+            let totalRunSeconds = 0;
+
+            // 计算登录时间和登出时间
+            let loginTimeStr = '';
+            let logoutTimeStr = '';
+            let isToday = false;
+
+            // 获取当前选中的日期
+            const picker = document.getElementById('datePicker');
+            const selectedDate = picker ? picker.value : null;
+            const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+            isToday = selectedDate === today;
+
+            if (sessions.length > 0) {
+                // 登录时间：第一个 session 的 start
+                const firstSession = sessions[0];
+                if (firstSession) {
+                    let loginTime;
+                    // 支持新格式：对象 {start, end}
+                    if (firstSession.start) {
+                        loginTime = firstSession.start;
+                    } else if (Array.isArray(firstSession) && firstSession.length >= 1) {
+                        // 兼容旧格式：数组 [start, end]
+                        loginTime = firstSession[0];
+                    }
+                    
+                    if (loginTime) {
+                        if (typeof loginTime === 'string') {
+                            // 可读格式 "YYYY-MM-DD HH:MM:SS"，只显示时间部分
+                            const parts = loginTime.split(' ');
+                            loginTimeStr = parts.length > 1 ? parts[1] : loginTime;
+                        } else {
+                            // 时间戳格式
+                            const date = new Date(loginTime * 1000);
+                            loginTimeStr = date.toLocaleTimeString('zh-CN', { hour12: false });
+                        }
+                    }
                 }
-            })
-            .catch(err => {
-                // 处理无数据情况
-                document.getElementById('noDataMsg').style.display = 'block';
-                document.getElementById('detailsList').style.display = 'none';
-                clearDashboard();
+
+                // 登出时间：最后一个 session 的 end
+                const lastSession = sessions[sessions.length - 1];
+                if (lastSession) {
+                    let logoutTime;
+                    // 支持新格式：对象 {start, end}
+                    if (lastSession.end) {
+                        logoutTime = lastSession.end;
+                    } else if (Array.isArray(lastSession) && lastSession.length >= 2) {
+                        // 兼容旧格式：数组 [start, end]
+                        logoutTime = lastSession[1];
+                    }
+                    
+                    if (logoutTime) {
+                        if (typeof logoutTime === 'string') {
+                            // 可读格式 "YYYY-MM-DD HH:MM:SS"，只显示时间部分
+                            const parts = logoutTime.split(' ');
+                            logoutTimeStr = parts.length > 1 ? parts[1] : logoutTime;
+                        } else {
+                            // 时间戳格式
+                            const date = new Date(logoutTime * 1000);
+                            logoutTimeStr = date.toLocaleTimeString('zh-CN', { hour12: false });
+                        }
+                    }
+                }
+            }
+
+            // 更新标题
+            let titleText = '每日统计';
+            if (loginTimeStr) {
+                titleText += ` (${loginTimeStr} -`;
+            }
+            if (logoutTimeStr && !isToday) {
+                titleText += ` ${logoutTimeStr})`;
+            }
+            document.getElementById('dailyTitle').innerText = titleText;
+
+            if (sessions.length > 0) {
+                totalRunSeconds = sessions.reduce((acc, curr) => {
+                    // 支持新格式：对象 {start, end}
+                    let start, end;
+                    if (curr.start && curr.end) {
+                        // 新格式：对象 {start: "YYYY-MM-DD HH:MM:SS", end: "YYYY-MM-DD HH:MM:SS"}
+                        if (typeof curr.start === 'string') {
+                            start = new Date(curr.start.replace(' ', 'T')).getTime() / 1000;
+                        } else {
+                            start = curr.start;
+                        }
+                        if (typeof curr.end === 'string') {
+                            end = new Date(curr.end.replace(' ', 'T')).getTime() / 1000;
+                        } else {
+                            end = curr.end;
+                        }
+                    } else if (Array.isArray(curr) && curr.length >= 2) {
+                        // 兼容旧格式：数组 [start, end]
+                        if (typeof curr[0] === 'string') {
+                            // 可读格式，转换为时间戳
+                            start = new Date(curr[0].replace(' ', 'T')).getTime() / 1000;
+                            end = new Date(curr[1].replace(' ', 'T')).getTime() / 1000;
+                        } else {
+                            // 时间戳格式（兼容旧数据）
+                            start = curr[0];
+                            end = curr[1];
+                        }
+                    } else {
+                        return acc; // 无效格式，跳过
+                    }
+                    return acc + (end - start);
+                }, 0);
+            }
+            const idleSeconds = data.idle_seconds || 0;
+            let effectiveSeconds = Math.max(0, totalRunSeconds - idleSeconds);
+
+            document.getElementById('totalUsed').innerText = formatPrettyTime(totalRunSeconds);
+            document.getElementById('effectiveTime').innerText = formatPrettyTime(effectiveSeconds);
+            document.getElementById('idleTime').innerText = formatPrettyTime(idleSeconds);
+
+            // 应用列表
+            const appsObj = data.apps || {};
+            let appsArray = Object.keys(appsObj).map(exeName => {
+                const appData = appsObj[exeName];
+                const titlesArray = Object.entries(appData.titles).map(([title, time]) => ({
+                    title, time
+                })).sort((a, b) => b.time - a.time);
+                return { name: exeName, total: appData.total, titles: titlesArray };
             });
-    }
+            appsArray.sort((a, b) => b.total - a.total);
 
-    function clearDashboard() {
-        document.getElementById('totalUsed').innerText = '-';
-        document.getElementById('effectiveTime').innerText = '-';
-        document.getElementById('idleTime').innerText = '-';
-        if(usageChart) usageChart.destroy();
-        if(summaryChart) summaryChart.destroy();
-    }
+            const list = document.getElementById('detailsList');
+            list.innerHTML = '';
+            appsArray.forEach(app => {
+                const li = document.createElement('li');
+                const row = document.createElement('div');
+                row.className = 'app-row';
+                row.innerHTML = `<span class="app-name"><span class="toggle-icon">+</span> ${app.name}</span> <span>${secondsToMinutes(app.total)}</span>`;
+                row.onclick = () => {
+                    li.classList.toggle('active');
+                    row.querySelector('.toggle-icon').innerText = li.classList.contains('active') ? '-' : '+';
+                };
+                const subDiv = document.createElement('div');
+                subDiv.className = 'sub-list';
+                app.titles.forEach(t => {
+                    const item = document.createElement('div');
+                    item.className = 'sub-item';
+                    const cleanTitle = t.title.length > 50 ? t.title.substring(0, 50) + '...' : t.title;
+                    item.innerHTML = `<span title="${t.title}">${cleanTitle}</span> <span>${secondsToHMS(t.time)}</span>`;
+                    subDiv.appendChild(item);
+                });
+                li.appendChild(row); li.appendChild(subDiv); list.appendChild(li);
+            });
 
-    function renderDashboard(data) {
-        const sessions = data.sessions || [];
-        let totalRunSeconds = 0;
-        if (sessions.length > 0) {
-            // sessions 格式: {start: "YYYY-MM-DD HH:MM:SS", end: "..."}
-            sessions.forEach(session => {
-                if (session && session.start && session.end) {
-                    const startTime = new Date(session.start).getTime();
-                    const endTime = new Date(session.end).getTime();
-                    // 验证日期是否有效
-                    if (!isNaN(startTime) && !isNaN(endTime) && endTime > startTime) {
-                        totalRunSeconds += (endTime - startTime) / 1000;
+            renderCharts(effectiveSeconds, idleSeconds, appsArray);
+        }
+
+        function renderCharts(active, idle, appsArray) {
+            const ctxUsage = document.getElementById('usagePieChart').getContext('2d');
+            if (usageChart) usageChart.destroy();
+            const topN = 8;
+            let displayData = appsArray.slice(0, topN).map(a => ({ name: a.name, value: a.total }));
+            if (appsArray.length > topN) {
+                displayData.push({ name: '其他应用', value: appsArray.slice(topN).reduce((acc, c) => acc + c.total, 0) });
+            }
+            usageChart = new Chart(ctxUsage, {
+                type: 'doughnut',
+                data: {
+                    labels: displayData.map(d => d.name),
+                    datasets: [{
+                        data: displayData.map(d => d.value),
+                        backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40', '#E7E9ED', '#76A346', '#F28A8A', '#6B5B95'],
+                        offset: 0,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    animation: false,
+                    layout: {
+                        padding: {
+                            left: 0,
+                            right: 0,
+                            top: 50,
+                            bottom: 0
+                        }
+                    },
+                    plugins: {
+                        title: { display: false },
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                boxWidth: 20,
+                                boxHeight: 20,
+                                font: { size: 16, weight: 'bold' },
+                                padding: 15
+                            }
+                        },
+                        tooltip: { callbacks: { label: (ctx) => `${ctx.label}: ${secondsToMinutes(ctx.raw)}` } }
+                    }
+                }
+            });
+
+            // 时间分配总览柱状图
+            const canvasBar = document.getElementById('summaryBarChart');
+            const ctxBar = canvasBar.getContext('2d');
+            if (summaryBarChart) summaryBarChart.destroy();
+            const barTotal = active + idle;
+            const runtimePercent = barTotal > 0 ? (active / barTotal * 100) : 0;
+            const idlePercent = barTotal > 0 ? (idle / barTotal * 100) : 0;
+
+            // 让 Chart.js 按 canvas 的 CSS 尺寸自适应
+            canvasBar.style.width = '100%';
+            canvasBar.style.height = '100%';
+            const wrapEl = document.getElementById('summaryBarWrap');
+            const barThicknessPx = (wrapEl?.clientHeight || canvasBar.clientHeight || 60);
+
+            // const showSummaryAxis = true;
+            const showSummaryAxis = false;
+
+            summaryBarChart = new Chart(ctxBar, {
+                type: 'bar',
+                data: {
+                    labels: [''],  // 空标签，不显示Y轴标签
+                    datasets: [
+                        {
+                            label: '运行时长',
+                            data: [runtimePercent],
+                            backgroundColor: '#36A2EB',
+                            borderColor: '#36A2EB',
+                            borderWidth: 0,
+                            borderSkipped: false,
+                            categoryPercentage: 1.0,
+                            barPercentage: 1.0,
+                            barThickness: barThicknessPx,
+                            maxBarThickness: barThicknessPx
+                        },
+                        {
+                            label: '闲置',
+                            data: [idlePercent],
+                            backgroundColor: '#FF9F40',
+                            borderColor: '#FF9F40',
+                            borderWidth: 0,
+                            borderSkipped: false,
+                            categoryPercentage: 1.0,
+                            barPercentage: 1.0,
+                            barThickness: barThicknessPx,
+                            maxBarThickness: barThicknessPx
+                        }
+                    ]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    animation: false,
+                    layout: {
+                        padding: {
+                            left: 30,
+                            right: 10,
+                            top: 10,
+                            bottom: 10
+                        },
+                        autoPadding: false
+                    },
+                    elements: {
+                        bar: {
+                            borderWidth: 0,
+                            borderSkipped: false
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            position: 'nearest',
+                            xAlign: 'right',
+                            yAlign: 'bottom',
+                            caretPadding: 6,
+                            callbacks: {
+                                label: function (context) {
+                                    const label = context.dataset.label || '';
+                                    const value = context.parsed.x.toFixed(1);
+                                    const timeValue = context.datasetIndex === 0 ? active : idle;
+                                    return `${label}: ${value}% (${secondsToMinutes(timeValue)})`;
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            display: showSummaryAxis,
+                            beginAtZero: true,
+                            max: 100,
+                            stacked: true,
+                            ticks: {
+                                display: showSummaryAxis,
+                                callback: (v) => `${v}%`
+                            },
+                            grid: { display: showSummaryAxis, drawBorder: showSummaryAxis },
+                            border: { display: showSummaryAxis },
+                            title: { display: false },
+                            offset: false
+                        },
+                        y: {
+                            display: showSummaryAxis,
+                            stacked: true,
+                            ticks: { display: showSummaryAxis },
+                            title: { display: false },
+                            grid: { display: false, drawBorder: showSummaryAxis },
+                            border: { display: showSummaryAxis },
+                            offset: false
+                        }
+                    },
+                    interaction: {
+                        intersect: false,
+                        mode: 'index'
                     }
                 }
             });
         }
-        // 确保值为有效数字
-        totalRunSeconds = isNaN(totalRunSeconds) ? 0 : totalRunSeconds;
-        const idleSeconds = (data.idle_seconds && !isNaN(data.idle_seconds)) ? data.idle_seconds : 0;
-        let effectiveSeconds = Math.max(0, totalRunSeconds - idleSeconds);
-
-        document.getElementById('totalUsed').innerText = formatPrettyTime(totalRunSeconds);
-        document.getElementById('effectiveTime').innerText = formatPrettyTime(effectiveSeconds);
-        document.getElementById('idleTime').innerText = formatPrettyTime(idleSeconds);
-
-        // 应用列表
-        const appsObj = data.apps || {};
-        let appsArray = Object.keys(appsObj).map(exeName => {
-            const appData = appsObj[exeName];
-            const titlesArray = Object.entries(appData.titles).map(([title, time]) => ({
-                title, time
-            })).sort((a, b) => b.time - a.time);
-            return { name: exeName, total: appData.total, titles: titlesArray };
-        });
-        appsArray.sort((a, b) => b.total - a.total);
-
-        const list = document.getElementById('detailsList');
-        list.innerHTML = '';
-        appsArray.forEach(app => {
-            const li = document.createElement('li');
-            const row = document.createElement('div');
-            row.className = 'app-row';
-            row.innerHTML = `<span class="app-name"><span class="toggle-icon">+</span> ${app.name}</span> <span>${secondsToMinutes(app.total)}</span>`;
-            row.onclick = () => {
-                li.classList.toggle('active');
-                row.querySelector('.toggle-icon').innerText = li.classList.contains('active') ? '-' : '+';
-            };
-            const subDiv = document.createElement('div');
-            subDiv.className = 'sub-list';
-            app.titles.forEach(t => {
-                const item = document.createElement('div');
-                item.className = 'sub-item';
-                const cleanTitle = t.title.length > 50 ? t.title.substring(0, 50) + '...' : t.title;
-                item.innerHTML = `<span title="${t.title}">${cleanTitle}</span> <span>${secondsToHMS(t.time)}</span>`;
-                subDiv.appendChild(item);
-            });
-            li.appendChild(row); li.appendChild(subDiv); list.appendChild(li);
-        });
-
-        renderCharts(effectiveSeconds, idleSeconds, appsArray);
-    }
-
-    function renderCharts(active, idle, appsArray) {
-        const ctxSummary = document.getElementById('summaryPieChart').getContext('2d');
-        if (summaryChart) summaryChart.destroy();
-        const total = active + idle;
-        summaryChart = new Chart(ctxSummary, {
-            type: 'pie',
-            data: {
-                labels: ['有效使用', '闲置'],
-                datasets: [{ data: [active, idle], backgroundColor: ['#36A2EB', '#FF9F40'], borderWidth: 1 }]
-            },
-            options: {
-                responsive: true, maintainAspectRatio: false,
-                plugins: {
-                    title: { display: true, text: '时间分配总览', font: { size: 16 } },
-                    tooltip: { callbacks: { label: (ctx) => `${ctx.label}: ${secondsToMinutes(ctx.raw)} (${total>0?(ctx.raw/total*100).toFixed(1)+'%':'0%'})` } }
-                }
-            }
-        });
-
-        const ctxUsage = document.getElementById('usagePieChart').getContext('2d');
-        if (usageChart) usageChart.destroy();
-        const topN = 8;
-        let displayData = appsArray.slice(0, topN).map(a => ({ name: a.name, value: a.total }));
-        if (appsArray.length > topN) {
-            displayData.push({ name: '其他应用', value: appsArray.slice(topN).reduce((acc, c) => acc + c.total, 0) });
-        }
-        usageChart = new Chart(ctxUsage, {
-            type: 'doughnut',
-            data: {
-                labels: displayData.map(d => d.name),
-                datasets: [{
-                    data: displayData.map(d => d.value),
-                    backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40', '#E7E9ED', '#76A346', '#F28A8A', '#6B5B95']
-                }]
-            },
-            options: {
-                responsive: true, maintainAspectRatio: false,
-                plugins: {
-                    title: { display: true, text: '应用程序使用占比', font: { size: 16 } },
-                    legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 10 } } },
-                    tooltip: { callbacks: { label: (ctx) => `${ctx.label}: ${secondsToMinutes(ctx.raw)}` } }
-                }
-            }
-        });
-    }
-</script>
+    </script>
 </body>
+
 </html>
