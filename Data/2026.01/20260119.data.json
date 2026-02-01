@@ -1,0 +1,203 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-19 20:09:55",
+            "end": "2026-01-19 21:24:30"
+        }
+    ],
+    "idle_seconds": 797,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 79,
+            "titles": {
+                "搜索": 79
+            }
+        },
+        "Doubao.exe": {
+            "total": 30,
+            "titles": {
+                "豆包": 30
+            }
+        },
+        "explorer.exe": {
+            "total": 60,
+            "titles": {
+                "Unknown Title": 10,
+                "Program Manager": 50
+            }
+        },
+        "Hiddify.exe": {
+            "total": 21,
+            "titles": {
+                "Hiddify": 21
+            }
+        },
+        "msedge.exe": {
+            "total": 2289,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 2,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 445,
+                "南京网约车新规发布：每笔订单需公布乘客车费 司机实际收入、抽成--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 41,
+                "2028款宝马M3大改：轻混动力上线 手动变速箱成历史--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "3部电影定档2026春节档：你喜欢哪部--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 23,
+                "尺寸超风云T11！奇瑞全新硬派SUV T1T曝光：三排布局+更大车身--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "卖不动了！保时捷销量暴跌：创16年最差纪录--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 15,
+                "男子利用AI生成低俗视频被拘：故意配上成都多个地标--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "搞黄色成了AI的第一生产力--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 34,
+                "网传尊界S800自燃起火 官方回应：系打火机被挤压 非车辆原因--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 51,
+                "荣耀Magic8 Pro Air轻薄机身塞进5500mAh+天玑9500：行业最强Air--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 53,
+                "荣耀Magic8 Pro Air - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "荣耀Magic8 Pro Air-惊叹轻薄，旗舰三摄 | 荣耀官方网站 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "荣耀Magic8 Pro Air - 自营官方商城，全国联保售后无忧 | 荣耀商城 和另外 4 个页面 - 个人 - Microsoft​ Edge": 191,
+                "荣耀Magic8 Pro Air-惊叹轻薄，旗舰三摄 | 荣耀官方网站 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "荣耀Magic8 Pro Air参数配置-规格性能 | 荣耀官方网站 和另外 4 个页面 - 个人 - Microsoft​ Edge": 23,
+                "nano卡 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 12,
+                "Nano-SIM卡_百度百科 和另外 6 个页面 - 个人 - Microsoft​ Edge": 15,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 4,
+                "x8u - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "OPPO Find X8 Ultra 产品参数 | OPPO 官方网站 和另外 6 个页面 - 个人 - Microsoft​ Edge": 7,
+                "OPPO 智能手机 | OPPO 官方网站 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO Find X9 够清晰 够还原 够哈苏 | OPPO 官方网站 和另外 6 个页面 - 个人 - Microsoft​ Edge": 33,
+                "x8u - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "bing.com/ck/a?!&&p=d5d4ddbc45a73720058a4452a6ce16828b31657ee7858eb0804f21fa84063652JmltdHM9MTc2ODc4MDgwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&u=a1L2ltYWdlcy9zZWFyY2g_cT14OHUmRk9STT1IRFJTQzM&ntb=1 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "x8u - 搜索 图片 和另外 7 个页面 - 个人 - Microsoft​ Edge": 4,
+                "x8u - 搜索 和另外 7 个页面 - 个人 - Microsoft​ Edge": 4,
+                "x9p - 搜索 和另外 7 个页面 - 个人 - Microsoft​ Edge": 3,
+                "bing.com/ck/a?!&&p=a6924e2edc6bea78d8f775e801cd42ee147923b1c602a039efa58f61742fd265JmltdHM9MTc2ODc4MDgwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&u=a1L2ltYWdlcy9zZWFyY2g_cT14OXAmRk9STT1IRFJTQzM&ntb=1 和另外 8 个页面 - 个人 - Microsoft​ Edge": 1,
+                "x9p - 搜索 图片 和另外 8 个页面 - 个人 - Microsoft​ Edge": 8,
+                "oppo find x9p - 搜索 图片 和另外 8 个页面 - 个人 - Microsoft​ Edge": 53,
+                "新建标签页 和另外 9 个页面 - 个人 - Microsoft​ Edge": 4,
+                "iphone 17 - 搜索 和另外 9 个页面 - 个人 - Microsoft​ Edge": 6,
+                "无标题 和另外 10 个页面 - 个人 - Microsoft​ Edge": 1,
+                "iPhone 17 - Apple (中国大陆) 和另外 10 个页面 - 个人 - Microsoft​ Edge": 3,
+                "iphone 17 - 搜索 和另外 10 个页面 - 个人 - Microsoft​ Edge": 3,
+                "无标题 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "iPhone 17 - Apple (中国大陆) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 9,
+                "iPhone 17 Pro 和 iPhone 17 Pro Max - Apple (中国大陆) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 13,
+                "iPhone 17 - 技术规格 - 官方 Apple 支持 (中国) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 6,
+                "购买 iPhone 16 和 iPhone 16 Plus - Apple (中国大陆) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 18,
+                "iPhone - 机型比较 - Apple (中国大陆) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 7,
+                "iPhone 17 Pro Max vs iPhone 16 Pro Max vs iPhone 17 - Apple (中国大陆) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 23,
+                "iPhone 17 Pro 和 iPhone 17 Pro Max - Apple (中国大陆) 和另外 10 个页面 - 个人 - Microsoft​ Edge": 13,
+                "OPPO Find X9 够清晰 够还原 够哈苏 | OPPO 官方网站 和另外 8 个页面 - 个人 - Microsoft​ Edge": 128,
+                "oppo find x9p - 搜索 图片 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "x9p - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 11,
+                "荣耀Magic8 Pro Air - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "oppo - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 11,
+                "OPPO Reno15 系列 我的实况超能力，超有生命力 | OPPO 官方网站 和另外 6 个页面 - 个人 - Microsoft​ Edge": 3,
+                "OPPO 智能穿戴 | OPPO 官方网站 和另外 6 个页面 - 个人 - Microsoft​ Edge": 13,
+                "OPPO 智能穿戴 | OPPO 官方网站 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO广东移动通信有限公司官网 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO Watch S 和另外 7 个页面 - 个人 - Microsoft​ Edge": 25,
+                "荣耀Magic8 Pro Air参数配置-规格性能 | 荣耀官方网站 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "REDMI：Turbo 5 Max 9000mAh电池实测媲美10000mAh--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 15,
+                "已致39人死亡！西班牙国家铁路公司总裁：高铁脱轨事故人为失误几乎可以排除--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "女子在上海外滩占道直播引公愤 抖音回应：提醒后未整改 已回收直播权限--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 64,
+                "重新当选B站百大UP主 何同学：很多人非常不喜欢我--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "B站百大UP主 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "2025年bilibili百大up主名单 - 哔哩哔哩 和另外 3 个页面 - 个人 - Microsoft​ Edge": 225,
+                "Unknown Title": 1,
+                "星有野 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "B站 2025 百大 UP 主名单公布 - IT之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 78,
+                "女子在上海外滩占道直播跳舞惹众怒 巡逻无人机喊话15分钟仍无动于衷--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 28,
+                "媒体实测9车智驾横评 唯一真神只有华为--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 21,
+                "双星陨落！两名91岁院士同日去世--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "荣耀最强影像旗舰！荣耀Magic8 RSR今天发布：保时捷超跑设计、顶配24GB内存--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "青岛虎界“刘亦菲”小孬火出圈了：外地游客专程前来打卡--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "男子一生病就自行购买抗生素吃：生出超级细菌--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "腾讯法务重拳出击：开源免费的微信聊天记录导出工具被迫下架--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 255,
+                "关税重压！全球最大的汽车供应商利润率跌破2%--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "天玑9600进度提前：联发科首款2nm芯片来了 对标苹果高通--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "短剧女演员开“江A”牌照宝马上路被查：剧组忘摘了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 52,
+                "联动韩国人气女团 雷蛇发布BLACKPINK限量联名外设：粉色鼠标、键盘 女生很难不心动--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "旗舰配置无短板 真我Neo8支持超声波3D指纹、满级防尘防水--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 82,
+                "真我Neo8 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "旗舰配置无短板 真我Neo8支持超声波3D指纹、满级防尘防水--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2
+            }
+        },
+        "chrome.exe": {
+            "total": 745,
+            "titles": {
+                "新标签页 - Google Chrome": 16,
+                "KDS - 在这里・看上海 - Google Chrome": 34,
+                "设置 - 关于 Chrome - Google Chrome": 5,
+                "罗永浩说他在害怕 KDS - 上宽带山・一起看上海 - Google Chrome": 43,
+                "东北姑娘凭啥全网爆灯？ KDS - 上宽带山・一起看上海 - Google Chrome": 3,
+                "无标题 - Google Chrome": 1,
+                "出去玩被抓弄得全公司都知道，重新上班后女同事会如何看待此人？ KDS - 上宽带山・一起看上海 - Google Chrome": 3,
+                "广州天河公园相亲角，38岁未婚女绝望咆哮！ KDS - 上宽带山・一起看上海 - Google Chrome": 2,
+                "美军士兵发现我们才是少爷兵 KDS - 上宽带山・一起看上海 - Google Chrome": 9,
+                "1/17新闸路匝道翻车事故怎么定责？ KDS - 上宽带山・一起看上海 - Google Chrome": 50,
+                "792w出生人口断崖式下降啊! KDS - 上宽带山・一起看上海 - Google Chrome": 162,
+                "百度一下，你就知道 - Google Chrome": 2,
+                "百度地图 - Google Chrome": 32,
+                "Google - Google Chrome": 10,
+                "Google 地图 - Google Chrome": 373
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 24,
+            "titles": {
+                "设置": 11,
+                "计算器": 10,
+                "Microsoft Store": 3
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 31,
+            "titles": {
+                "Windows Shell Experience 主机": 31
+            }
+        },
+        "ONENOTE.EXE": {
+            "total": 2,
+            "titles": {
+                "WPF多显示器程序提示词 - OneNote": 2
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 10,
+            "titles": {
+                "开始": 10
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 364,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 73,
+                "主公，可愿与我共破此局？": 36,
+                "请问一下，有没有卖《半岛铁盒》？": 85,
+                "续航打5折？享界S9T高速续航真实测试": 38,
+                "上新220KM续航11.98万起售！26款宋Pro DM-i保姆级导购教程": 19,
+                "奇瑞瑞虎9系列准保姆级导购教程": 3,
+                "上新增程版18.68万起售！26款小鹏P7+保姆级导购教程": 26,
+                "售价6.68万还有增配！26款本田飞度保姆级导购教程": 37,
+                "哔哩哔哩-浏览器窗口": 3,
+                "爆砸1000亿重构整车平台？宝马底盘黑科技全球首发！": 44
+            }
+        },
+        "Code.exe": {
+            "total": 6,
+            "titles": {
+                "Visual Studio Code": 2,
+                "Welcome - Visual Studio Code": 4
+            }
+        },
+        "Trae.exe": {
+            "total": 7,
+            "titles": {
+                "zenbrightgamecocos - Trae": 5,
+                "Trae": 2
+            }
+        },
+        "Cursor.exe": {
+            "total": 6,
+            "titles": {
+                "Cursor": 2,
+                "launch.json - zencore - Cursor": 4
+            }
+        }
+    }
+}

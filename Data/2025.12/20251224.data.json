@@ -1,0 +1,62 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-24 21:13:49",
+            "end": "2025-12-24 21:27:37"
+        }
+    ],
+    "idle_seconds": 295,
+    "apps": {
+        "explorer.exe": {
+            "total": 60,
+            "titles": {
+                "Unknown Title": 43,
+                "~sutil - 文件资源管理器": 2,
+                "site-packages - 文件资源管理器": 1,
+                "删除文件夹": 1,
+                "文件正在使用": 12,
+                "已完成 2%": 1
+            }
+        },
+        "SearchHost.exe": {
+            "total": 11,
+            "titles": {
+                "搜索": 11
+            }
+        },
+        "Trae.exe": {
+            "total": 135,
+            "titles": {
+                "Trae": 7,
+                "trae.settings.json - zenbrightgamecocos - Trae": 128
+            }
+        },
+        "Hiddify.exe": {
+            "total": 13,
+            "titles": {
+                "Hiddify": 13
+            }
+        },
+        "Cursor.exe": {
+            "total": 74,
+            "titles": {
+                "loan_calculator.py - LearningPython - Cursor": 65,
+                "Cursor": 4,
+                "~sutil - Cursor": 5
+            }
+        },
+        "Code.exe": {
+            "total": 239,
+            "titles": {
+                "Visual Studio Code": 71,
+                "Welcome - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 168
+            }
+        },
+        "pythonw.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        }
+    }
+}

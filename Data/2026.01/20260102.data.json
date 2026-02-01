@@ -1,0 +1,764 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-02 10:45:17",
+            "end": "2026-01-02 11:13:30"
+        },
+        {
+            "start": "2026-01-02 11:23:25",
+            "end": "2026-01-02 11:54:30"
+        },
+        {
+            "start": "2026-01-02 17:11:43",
+            "end": "2026-01-02 22:48:06"
+        }
+    ],
+    "idle_seconds": 10732,
+    "apps": {
+        "Hiddify.exe": {
+            "total": 176,
+            "titles": {
+                "Hiddify": 176
+            }
+        },
+        "SearchHost.exe": {
+            "total": 208,
+            "titles": {
+                "搜索": 208
+            }
+        },
+        "explorer.exe": {
+            "total": 2389,
+            "titles": {
+                "Program Manager": 231,
+                "Unknown Title": 143,
+                "下载 - 文件资源管理器": 113,
+                "删除文件夹": 9,
+                "系统托盘溢出窗口。": 48,
+                "运行": 2,
+                "启动 - 文件资源管理器": 4,
+                "文件夹正在使用": 2,
+                "已完成 0%": 40,
+                "已完成 97%": 1,
+                "删除文件": 4,
+                "此电脑 - 文件资源管理器": 177,
+                "System (C:) - 文件资源管理器": 10,
+                "用户 - 文件资源管理器": 1,
+                "byj19 - 文件资源管理器": 4,
+                "Codes - 文件资源管理器": 5,
+                "zenrobot - 文件资源管理器": 44,
+                "My Book (E:) - 文件资源管理器": 66,
+                "Data (D:) - 文件资源管理器": 90,
+                "迅雷下载 - 文件资源管理器": 156,
+                "电视剧 - 文件资源管理器": 81,
+                "已完成 15%": 5,
+                "已完成 16%": 4,
+                "已完成 17%": 7,
+                "已完成 25%": 6,
+                "电池指示器": 6,
+                "电影 - 文件资源管理器": 161,
+                "已完成 8%": 13,
+                "删除快捷方式": 3,
+                "Programs - 文件资源管理器": 49,
+                "WSL 属性": 6,
+                "WSL Settings 属性": 10,
+                "已完成 51%": 4,
+                "你懂的 - 文件资源管理器": 6,
+                "步兵 - 文件资源管理器": 2,
+                "已完成 1%": 9,
+                "已完成 2%": 7,
+                "iCloud 照片 - 文件资源管理器": 2,
+                "手机 - 文件资源管理器": 91,
+                "皓维那些年 - 文件资源管理器": 11,
+                "2 个正在运行的操作": 23,
+                "已完成 12%": 4,
+                "已完成 18%": 6,
+                "已完成 19%": 5,
+                "已完成 20%": 6,
+                "已完成 21%": 4,
+                "已完成 22%": 8,
+                "已完成 23%": 3,
+                "游戏 - 文件资源管理器": 18,
+                "迅雷云盘 - 文件资源管理器": 7,
+                "已完成 48%": 2,
+                "曲库 - 文件资源管理器": 3,
+                "精选 - 文件资源管理器": 11,
+                "大疆 - 文件资源管理器": 1,
+                "SteamLibrary - 文件资源管理器": 2,
+                "Program Files - 文件资源管理器": 8,
+                "Tencent - 文件资源管理器": 2,
+                "Androws - 文件资源管理器": 1,
+                "BaiduNetdiskDownload - 文件资源管理器": 17,
+                "红色警戒3起义时刻 - 文件资源管理器": 3,
+                "Eddie.The.Eagle.2016.1080p.WEB-DL.AAC2.0.H264-RARBG - 文件资源管理器": 4,
+                "The.Big.Short.2015.720p.WEB-DL.XviD.AC3-RARBG - 文件资源管理器": 2,
+                "已完成 70%": 3,
+                "已完成 71%": 4,
+                "已完成 72%": 1,
+                "火锅英雄.Chongqing.Hot.Pot.2016.HD1080P.X264.AAC.Mandarin.CHS-ENG.Mp4Ba - 文件资源管理器": 2,
+                "已完成 3%": 3,
+                "已完成 4%": 5,
+                "已完成 5%": 5,
+                "已完成 6%": 4,
+                "已完成 7%": 5,
+                "已完成 9%": 21,
+                "已完成 10%": 6,
+                "Cursor快速入门与实战 - 文件资源管理器": 19,
+                "已完成 29%": 3,
+                "UNNATURAL - 文件资源管理器": 3,
+                "轮到你了 - 文件资源管理器": 3,
+                "交响情人梦 - 文件资源管理器": 2,
+                "硅谷 - 文件资源管理器": 1,
+                "The.Long.Night.EP01-12.2020.4K.HDR.WEB-DL.HEVC.DDP5.1-HQC - 文件资源管理器": 5,
+                "Suits - 文件资源管理器": 13,
+                "Natsume Yuujinchou Season 01-04 - 文件资源管理器": 2,
+                "Season 01 - 文件资源管理器": 14,
+                "Breaking Bad - 文件资源管理器": 2,
+                "101次求婚(1991) - 文件资源管理器": 1,
+                "24 - 文件资源管理器": 9,
+                "音乐 - 文件资源管理器": 25,
+                "周杰伦、浪花兄弟 - 你是我的ok绷.flac 属性": 36,
+                "1 个已中断的操作": 2,
+                "已完成 43%": 3,
+                "3年A班 - 文件资源管理器": 1,
+                "孙燕姿 - 开始懂了.ape 属性": 8,
+                "已完成 58%": 2,
+                "已完成 59%": 14,
+                "已完成 60%": 14,
+                "已完成 61%": 14,
+                "已完成 62%": 14,
+                "已完成 63%": 2,
+                "Microsoft Flight Simulator 属性": 13,
+                "SteamLibrary 属性": 15,
+                "2024.8, ... 属性": 1,
+                "公用 - 文件资源管理器": 1,
+                "2025.03 - 文件资源管理器": 4,
+                "已完成 79%": 12,
+                "已完成 80%": 14,
+                "已完成 81%": 14,
+                "已完成 82%": 17,
+                "已完成 83%": 29,
+                "已完成 84%": 11,
+                "迅雷下载 属性": 1,
+                "软件 - 文件资源管理器": 1,
+                "已完成 11%": 2,
+                "已完成 13%": 3,
+                "已完成 14%": 1,
+                "已完成 24%": 1,
+                "已完成 26%": 2,
+                "已完成 27%": 1,
+                "已完成 28%": 1,
+                "已完成 30%": 1,
+                "已完成 31%": 1,
+                "已完成 32%": 1,
+                "已完成 33%": 1,
+                "已完成 34%": 1,
+                "已完成 35%": 1,
+                "已完成 36%": 1,
+                "已完成 37%": 1,
+                "已完成 38%": 1,
+                "已完成 39%": 1,
+                "已完成 40%": 2,
+                "已完成 42%": 2,
+                "已完成 44%": 1,
+                "已完成 45%": 1,
+                "已完成 46%": 1,
+                "已完成 47%": 1,
+                "已完成 49%": 1,
+                "已完成 50%": 2,
+                "已完成 52%": 1,
+                "已完成 53%": 1,
+                "任务切换": 2,
+                "Editor - 文件资源管理器": 8,
+                "已完成 86%": 1,
+                "已完成 91%": 43,
+                "MIRD-255 - 文件资源管理器": 5,
+                "文件资源管理器": 1,
+                "PBD-502 - 文件资源管理器": 28,
+                "IPZZ-586 - 文件资源管理器": 3,
+                "Window Dialog": 5,
+                "Unity 6000.4.0b2 - 文件资源管理器": 3,
+                "Unity 6000.4.0b2 属性": 9,
+                "燕云十六声 - 文件资源管理器": 1,
+                "yysls_medium - 文件资源管理器": 2,
+                "DJI - 文件资源管理器": 1,
+                "替换或跳过文件": 9,
+                "已完成 75%": 1,
+                "已完成 77%": 1,
+                "已完成 78%": 1,
+                "Camera - 文件资源管理器": 49,
+                "弹出 USB 大容量存储设备 时出问题": 5
+            }
+        },
+        "ShellHost.exe": {
+            "total": 4,
+            "titles": {
+                "快速设置": 4
+            }
+        },
+        "QQ.exe": {
+            "total": 47,
+            "titles": {
+                "QQ": 35,
+                "QQEdit": 12
+            }
+        },
+        "chrome.exe": {
+            "total": 906,
+            "titles": {
+                "无标题 - Google Chrome": 11,
+                "wx.mail.qq.com/list/readtemplate?name=login_jump.html&scene=1&login_type=qq&from=qq_panel&code=375922A88C9E22288BAADF7033F03115 - Google Chrome": 2,
+                "QQ邮箱 - Google Chrome": 59,
+                "拉卡拉POS机 - Google Chrome": 5,
+                "账号与安全 - Google Chrome": 17,
+                "Unity ID - Google Chrome": 74,
+                "www.focustodo.cn - Google Chrome": 4,
+                "专注清单 - 番茄工作法 & 任务清单（番茄钟app） - Google Chrome": 9,
+                "新标签页 - Google Chrome": 30,
+                "baidu.com - Google Chrome": 1,
+                "百度一下，你就知道 - Google Chrome": 5,
+                "燕云十六声游戏官网_百度搜索 - Google Chrome": 4,
+                "燕云十六声游戏官网_周年版本「饮马渡秋水」现已开启 - Google Chrome": 233,
+                "《燕云十六声》官方下载_天生武侠，世界无羁 - Google Chrome": 31,
+                "网易游戏下载 - Google Chrome": 20,
+                "unity3d.com/get-unity/download - Google Chrome": 29,
+                "设置 - 关于 Chrome - Google Chrome": 2,
+                "开始您的创意项目并下载 Unity Hub | Unity - Google Chrome": 8,
+                "下载确认 - Google Chrome": 13,
+                "近期的下载记录": 13,
+                "下载记录 - Google Chrome": 6,
+                "Unity - 实时内容开发平台 | 3D、2D、VR & AR可视化 - Google Chrome": 23,
+                "微信登录 - Google Chrome": 25,
+                "Unity ID - Phone login - Google Chrome": 2,
+                "Page Redirection To Login - Google Chrome": 11,
+                "mongodb_百度搜索 - Google Chrome": 6,
+                "baidu.com/link?url=UOLUAT1cOjY0z6n1d7LBoNBryIDbNxWe3eeAoxp7DjNzv5NftRMyzjyuTYvkdZLf&wd=&eqid=c897658b01b39c2a000000046957cb5f - Google Chrome": 2,
+                "MongoDB: The World’s Leading Modern Database | MongoDB - Google Chrome": 75,
+                "Atlas Database | MongoDB - Google Chrome": 24,
+                "MongoDB 8.0 现已发布 | MongoDB - Google Chrome": 8,
+                "Try MongoDB Atlas Products | MongoDB - Google Chrome": 34,
+                "登录 - Google 账号 - Google Chrome": 10,
+                "验证身份 为了确保您的账号安全，Google 希望确认是您本人在操作 - Google Chrome": 13,
+                "MongoDB Cloud - 登录 - Google Chrome": 4,
+                "Cloud: MongoDB Cloud - Google Chrome": 3,
+                "Privacy Policy & Terms of Service | MongoDB - Google Chrome": 10,
+                "Registration Success - Google Chrome": 6,
+                "Atlas Onboarding | Cloud: MongoDB Cloud - Google Chrome": 27,
+                "Databases | Cloud: MongoDB Cloud - Google Chrome": 1,
+                "Deploy your cluster | Cloud: MongoDB Cloud - Google Chrome": 7,
+                "MongoDB Atlas | MongoDB - Google Chrome": 7,
+                "Project Overview | Cloud: MongoDB Cloud - Google Chrome": 15,
+                "baidu.com/link?url=x3tALjgfRa5lfRsJ9I4URQOzZ3xnjHaJ7s1dBXnKlKVkVY3DoevUHtAxqXHQL2-g&wd=&eqid=9112449900c86396000000046957cc51 - Google Chrome": 1,
+                "Download MongoDB Community Server | MongoDB - Google Chrome": 13,
+                "unity.cn/security/sept-2025-01/remediation - Google Chrome": 1,
+                "Unity中国官网 - 实时内容开发平台 | 3D、2D、VR & AR可视化 - Google Chrome": 1,
+                "api.unity.cn/v1/oauth2/authorize?client_id=community_cn&locale=zh_CN&redirect_uri=https%3A%2F%2Funity.cn%2Fauth%2Fcallback%3Fredirect_to%3D%252Fsecurity%252Fsept-2025-01%252Fremediation&response_type=code&scope=identity&state=3219c797-857a-4e27-ab36-3109e45c5fb5 - Google Chrome": 1
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 13,
+            "titles": {
+                "开始": 13
+            }
+        },
+        "Trae.exe": {
+            "total": 23,
+            "titles": {
+                "Trae": 4,
+                "zenbrightgamecocos - Trae": 19
+            }
+        },
+        "msedge.exe": {
+            "total": 1321,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 24,
+                "unity6000下载 - 搜索 - 个人 - Microsoft​ Edge": 4,
+                "Unity 6000.x Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 1 个页面 - 个人 - Microsoft​ Edge": 48,
+                "微信登录 - 个人 - Microsoft​ Edge": 432,
+                "Unity ID - Close window - 个人 - Microsoft​ Edge": 1,
+                "unity6000下载 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Unity 6000.0.51f1 和另外 1 个页面 - 个人 - Microsoft​ Edge": 188,
+                "unity6000下载 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Unity 6000.0.51f1 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "Unity 6 版本与支持：LTS 和更新版本 | Unity 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "开始您的创意项目并下载 Unity Hub | Unity 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "开始您的创意项目并下载 Unity Hub | Unity 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Download Archive 和另外 3 个页面 - 个人 - Microsoft​ Edge": 38,
+                "Unknown Title": 169,
+                "Download Archive 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Unity 6000.4.0b2 和另外 4 个页面 - 个人 - Microsoft​ Edge": 62,
+                "unity.com/releases/editor/beta/6000.4.0b2#installs 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "DevTools": 1,
+                "DevTools - unity.com/releases/editor/beta/6000.4.0b2": 9,
+                "另存为": 10,
+                "Download Archive 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Unity 6000.0.26f1 和另外 5 个页面 - 个人 - Microsoft​ Edge": 16,
+                "Window Dialog": 5,
+                "新建标签页 和另外 6 个页面 - 个人 - Microsoft​ Edge": 5,
+                "致态 - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "首页|长江存储官网-长江存储 和另外 7 个页面 - 个人 - Microsoft​ Edge": 9,
+                "支持中心-长江存储 和另外 7 个页面 - 个人 - Microsoft​ Edge": 29,
+                "支持中心-长江存储 - 个人 - Microsoft​ Edge": 39,
+                "登录 · GitLab - 个人 - Microsoft​ Edge": 7,
+                "项目 · GitLab - 个人 - Microsoft​ Edge": 8,
+                "ZenSystem / ZenRobot · GitLab - 个人 - Microsoft​ Edge": 7,
+                "新建分支 · ZenSystem / ZenRobot · GitLab - 个人 - Microsoft​ Edge": 34,
+                "文件 · fix/eye-state-error · ZenSystem / ZenRobot · GitLab - 个人 - Microsoft​ Edge": 33,
+                "驱动精灵 - 搜索 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "驱动精灵_驱动全、匹配准、下载快！ 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "驱动精灵 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "驱动精灵_驱动全、匹配准、下载快！ 和另外 2 个页面 - 个人 - Microsoft​ Edge": 23,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 15,
+                "disk benchmark - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "CrystalDiskMark - Crystal Dew World [en] 和另外 4 个页面 - 个人 - Microsoft​ Edge": 23,
+                "disk benchmark - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 10,
+                "无标题 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "CrystalDiskMark - Crystal Dew World [en] 和另外 5 个页面 - 个人 - Microsoft​ Edge": 6,
+                "cn.bing.com/search?pglt=419&q=驱动精灵&cvid=e01124e3b5ef4600904ad689e9112ff6&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0NDAxajBqMagCCLACAQ&FORM=ANNTA1&adppc=EdgeStart&PC=SCOODB&ntref=1 - 个人 - Microsoft​ Edge": 1
+            }
+        },
+        "Thunder.exe": {
+            "total": 236,
+            "titles": {
+                "迅雷": 190,
+                "新建任务面板": 17,
+                "Unknown Title": 3,
+                "确定要删除吗？": 5,
+                "index.html": 19,
+                "提示框": 2
+            }
+        },
+        "APlayer.exe": {
+            "total": 4,
+            "titles": {
+                "Unknown Title": 4
+            }
+        },
+        "UnityHubSetup.exe": {
+            "total": 21,
+            "titles": {
+                "Unity Hub 安装 ": 21
+            }
+        },
+        "PickerHost.exe": {
+            "total": 11,
+            "titles": {
+                "Windows 安全中心": 11
+            }
+        },
+        "Unity Hub.exe": {
+            "total": 347,
+            "titles": {
+                "Unity Hub 3.3.3-c5": 260,
+                "Unknown Title": 7,
+                "Select the Editor you wish to add": 44,
+                "Select a location to install Unity": 5,
+                "Choose location for new project": 13,
+                "选择一个要打开的项目...": 6,
+                "选择要添加的编辑器": 12
+            }
+        },
+        "7zFM.exe": {
+            "total": 70,
+            "titles": {
+                "C:\\Users\\byj19\\Downloads\\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar\\": 1,
+                "C:\\Users\\byj19\\Downloads\\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar\\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4\\": 2,
+                "100% 正在复制...": 2,
+                "诊断信息": 2,
+                "C:\\Users\\byj19\\Downloads\\致态天枢大师固态硬盘管理软件【SSD】 (1).zip\\": 13,
+                "C:\\Users\\byj19\\Downloads\\致态天枢大师固态硬盘管理软件【SSD】.zip\\": 4,
+                "C:\\Users\\byj19\\Downloads\\SC001 XT Smart Tool【SSD】.zip\\": 4,
+                "C:\\Users\\byj19\\Downloads\\SC001 XT Smart Tool【SSD】.zip\\ZHITAI SC001 XT Smart Tool_V1.2\\": 11,
+                "Window Dialog": 1,
+                " 正在复制...": 2,
+                " 正在打开...": 1,
+                "E:\\皓维那些年\\皓维那些年1.zip\\": 2,
+                "E:\\皓维那些年\\皓维那些年1.zip\\Work\\": 22,
+                "10% 正在复制...": 1,
+                "D:\\迅雷下载\\v2rayN-windows-64-SelfContained.zip\\": 2
+            }
+        },
+        "Cursor.exe": {
+            "total": 528,
+            "titles": {
+                "loan_calculator.py - LearningPython - Cursor": 16,
+                "Cursor": 43,
+                "Open Folder": 5,
+                "zenrobot - Cursor": 169,
+                "manifest.json (Working Tree) (manifest.json) - zenrobot - Cursor": 75,
+                "ProjectSettings.asset (Working Tree) (ProjectSettings.asset) - zenrobot - Cursor": 30,
+                "ProjectVersion.txt - zenrobot - Cursor": 44,
+                ".vsconfig - zenrobot - Cursor": 1,
+                "zenrobot.slnx - zenrobot - Cursor": 5,
+                "ProjectVersion.txt (Working Tree) (ProjectVersion.txt) - zenrobot - Cursor": 140
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 10,
+            "titles": {
+                "任务管理器": 10
+            }
+        },
+        "UnitySetup64-6000.4.0b2.exe": {
+            "total": 20,
+            "titles": {
+                "Unity 6000.4.0b2 Setup": 7,
+                "Unity 6000.4.0b2 Setup ": 13
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 4,
+            "titles": {
+                "迅雷升级程序": 4
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 122,
+            "titles": {
+                "设置": 80,
+                "Microsoft Store": 39,
+                "Windows 安全中心": 3
+            }
+        },
+        "ZHITAI_UNIMASTER_SSD.exe": {
+            "total": 211,
+            "titles": {
+                "ZHITAI UNIMASTER SSD": 152,
+                "ZHITAI_UNIMASTER_SSD": 59
+            }
+        },
+        "ZHITAI SC001 XT Smart Tool_V1.2.exe": {
+            "total": 36,
+            "titles": {
+                "MainWindow": 36
+            }
+        },
+        "Photos.exe": {
+            "total": 57,
+            "titles": {
+                "照片": 9,
+                "887790fagw1emwmrm2lwvj20c8cd61ky.jpg": 1,
+                "new.jpg": 2,
+                "IMG_20241217_102506.jpg": 3,
+                "IMG_20241216_193937.jpg": 3,
+                "20180930_140021.jpg": 5,
+                "20180926_082533.jpg": 2,
+                "20181025_173932.jpg": 15,
+                "20181025_174150.jpg": 3,
+                "20181025_174151.jpg": 1,
+                "20181025_174155.jpg": 4,
+                "20181025_183557.jpg": 6,
+                "20181026_105246.jpg": 3
+            }
+        },
+        "FocusToDo.exe": {
+            "total": 16,
+            "titles": {
+                "专注清单": 15,
+                "Unknown Title": 1
+            }
+        },
+        "Doubao.exe": {
+            "total": 276,
+            "titles": {
+                "doubao.com/chat/ - 豆包": 2,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 50,
+                "doubao://doubao-settings - 豆包": 1,
+                "豆包设置 - 豆包": 10,
+                "新对话 - 豆包 - 豆包": 117,
+                "新标签页 - 豆包": 6,
+                "查看 USB 硬盘版本 - 豆包 - 豆包": 90
+            }
+        },
+        "mintty.exe": {
+            "total": 62,
+            "titles": {
+                "/usr/bin/bash --login -i                                                  ": 3,
+                "MINGW64:/c/Users/byj19/Codes                                                  ": 59
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 3079,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 235,
+                "还没动手，岛上就有战损了？这次围岛军演离宝岛5海里不到？！": 109,
+                "【JUMP】赵匡胤怎么火到海外了？": 74,
+                "农民：我要验牌": 159,
+                "警员执法遇中国赶海小队，4人捕捞力能顶100美国人，给警员看蒙了~": 441,
+                "信息量很大！解放军台海演习第二天独家细节": 82,
+                "英国斩杀线": 173,
+                "简单到照抄 务实到惊悚：美国新护卫舰和登陆舰项目双双上马": 12,
+                "【李佳薇】《声生不息华流季》粤语独唱《孤雏》": 10,
+                "【4K 60帧】硬核创新！多剧种融合创新演绎，《三打白骨精》解锁戏曲新打开方式【2025B站跨年晚会单品】": 46,
+                "跑调的、插电的、神级的，鲨疯了！2026全平台跨年夜精华舞台盘点！": 127,
+                "1月2日海军052D型导弹驱逐舰又上新 台积电获美国\"特赦\" \"印度制造\"阅兵首现动物方队 高市早苗被爆造假 西方密谋\"除掉普京\" 赞比亚首推人民币缴税": 35,
+                "两年前在鹤岗2.5万买的房子，现在后悔了，今天准备把它给卖了": 5,
+                "从国家叛徒到电诈庇护者，洪森家族值得一场灭顶之灾": 67,
+                "美国主流媒体报道“斩杀线”承认但不服": 101,
+                "郑丽文只要和平，不谈统一？我还是那句话......": 37,
+                "解放军大军围台第二日，赖清德去向成谜？高市早苗终于闭嘴了！": 11,
+                "🔥发展速度过于离谱了🔥日本网友热议 深圳警察和T800机器人共同巡逻 #樱花妹#评论翻译#TIKTOK#二次元": 40,
+                "【DCS60帧】国外网友做的兔子打台短片-1歼20制空": 65,
+                "登录-哔哩哔哩": 79,
+                "undefined": 7,
+                "Unknown Title": 2,
+                "山姆“穷鬼套餐”大摸底！真是被老己穷笑了": 339,
+                "谁家学校大早上起床铃放《但》啊？！！": 28,
+                "【盘点】“影视贪官角色Top10”": 514,
+                "【盘点】“神仙下凡演员Top10”": 20,
+                "天津港活不起了！？现在去，是捡漏还是智商税？": 92,
+                "《美国全频带阻塞干扰3：纽约陷落》预告片#科幻电影 #纽约陷落#虚构故事 #科幻战争 #美国全频带阻塞干扰": 7,
+                "中学生的“几个动作”在外网炸锅了，动作太丝滑了，这气质学不来#外网 #外网评论 #油管 #老外看中国": 20,
+                "我承认这是最慌的一次": 128,
+                "还好我技高一筹": 14
+            }
+        },
+        "yuanbao.exe": {
+            "total": 208,
+            "titles": {
+                "元宝": 176,
+                "元宝设置": 31,
+                "Tauri App": 1
+            }
+        },
+        "Unity.exe": {
+            "total": 164,
+            "titles": {
+                "Unity is running as administrator.": 17,
+                "Unity Editor Software Terms": 3,
+                "Install Unity Hub": 11,
+                "Unity": 4,
+                "C:\\Program Files\\Unity 6000.4.0b2\\Editor\\Unity.exe": 1,
+                "Opening project...": 15,
+                "Project Upgrade Required": 2,
+                "URP Material upgrade": 4,
+                "zenrobot - Untitled - Windows, Mac, Linux - Unity 6.4 Beta (6000.4.0b2) <DX11>": 18,
+                "C:\\Program Files\\Unity 6000.0.26f1\\Editor\\Unity.exe": 2,
+                "Unity Package Manager": 58,
+                "Open Project": 1,
+                "zenrobot - Untitled - Windows, Mac, Linux - Unity 6 (6000.0.26f1) <DX11>": 23,
+                "Opening file failed": 5
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 232,
+            "titles": {
+                "登录 Steam": 2,
+                "Steam": 225,
+                "Menu": 4,
+                "Unknown Title": 1
+            }
+        },
+        "yysls_1.9.36_netease_setup.exe": {
+            "total": 13,
+            "titles": {
+                "燕云十六声安装程序": 13
+            }
+        },
+        "launcher.exe": {
+            "total": 641,
+            "titles": {
+                "launcher": 24,
+                "燕云十六声": 581,
+                "选择安装路径": 36
+            }
+        },
+        "WidgetBoard.exe": {
+            "total": 4,
+            "titles": {
+                "Windows 小组件": 4
+            }
+        },
+        "mmc.exe": {
+            "total": 84,
+            "titles": {
+                "计算机管理": 63,
+                "WD My Book 25EE USB Device 属性": 10,
+                "更新驱动程序 - WD SES Device USB Device": 3,
+                "WD SES Device USB Device 属性": 1,
+                "My Book (E:) 属性": 3,
+                "设备管理器": 4
+            }
+        },
+        "DGSetup_Home_BZNR.exe": {
+            "total": 30,
+            "titles": {
+                "驱动精灵安装向导 ": 30
+            }
+        },
+        "drivergenius.exe": {
+            "total": 320,
+            "titles": {
+                "驱动精灵": 271,
+                "Unknown Title": 49
+            }
+        },
+        "updateprog.exe": {
+            "total": 156,
+            "titles": {
+                "在线升级程序": 156
+            }
+        },
+        "DPInst64.exe": {
+            "total": 32,
+            "titles": {
+                "设备驱动程序安装向导": 32
+            }
+        },
+        "atheros_bt_8000010302_x64_911.exe": {
+            "total": 1,
+            "titles": {
+                "WinRAR self-extracting archive": 1
+            }
+        },
+        "setup.exe": {
+            "total": 14,
+            "titles": {
+                "Realtek Ethernet Controller Driver - InstallShield Wizard": 11,
+                "退出安装": 1,
+                "Unknown Title": 2
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 143,
+            "titles": {
+                "Windows PowerShell": 132,
+                "C:\\Program Files\\WSL\\wsl.exe": 11
+            }
+        },
+        "dwm.exe": {
+            "total": 2,
+            "titles": {
+                "驱动精灵 (未响应)": 2
+            }
+        },
+        "Everything.exe": {
+            "total": 16,
+            "titles": {
+                "阳光电影dygod.org. - Everything": 10,
+                "重命名": 6
+            }
+        },
+        "vc2015-2022_redist.x86.14.34.31931.exe": {
+            "total": 10,
+            "titles": {
+                "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31931 安装程序": 10
+            }
+        },
+        "vc2015-2022_redist.x64.14.34.31931.exe": {
+            "total": 5,
+            "titles": {
+                "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.34.31931 安装程序": 5
+            }
+        },
+        "uninstall.exe": {
+            "total": 17,
+            "titles": {
+                "驱动精灵卸载程序": 17
+            }
+        },
+        "_unins.tmp": {
+            "total": 11,
+            "titles": {
+                "Antigravity 卸载": 11
+            }
+        },
+        "Xmp.exe": {
+            "total": 88,
+            "titles": {
+                "迅雷影音": 88
+            }
+        },
+        "vlc.exe": {
+            "total": 53,
+            "titles": {
+                "[51ape.com]浪花兄弟、周杰伦 - 你是我的OK绷 - VLC media player": 9,
+                "浪花兄弟、周杰伦 - 你是我的OK绷 - VLC media player": 14,
+                "VLC media player 更新": 4,
+                "VLC media player": 1,
+                "[www.51ape.com]孙燕姿 - 开始懂了 - VLC media player": 11,
+                "vlc": 3,
+                "当前媒体信息": 9,
+                "孙燕姿 - 开始懂了 - VLC media player": 2
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "文件资源管理器 的跳转列表": 1,
+                "Cursor 的跳转列表": 2,
+                "Unity Hub 的跳转列表": 1
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 2,
+            "titles": {
+                "MainWindow": 1,
+                "Unknown Title": 1
+            }
+        },
+        "steam.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "yysls.exe": {
+            "total": 369,
+            "titles": {
+                "yysls.exe": 50,
+                "Unknown Title": 3,
+                "燕云十六声": 291,
+                "MPAY_POLICY_TIP_FORM": 1,
+                "登录": 24
+            }
+        },
+        "Tuanjie Hub.exe": {
+            "total": 14,
+            "titles": {
+                "Tuanjie Hub 1.3.8": 12,
+                "Unknown Title": 2
+            }
+        },
+        "UnitySetup64-6000.0.26f1.exe": {
+            "total": 105,
+            "titles": {
+                "verifying installer: 20%": 1,
+                "verifying installer: 32%": 1,
+                "verifying installer: 44%": 1,
+                "verifying installer: 56%": 1,
+                "verifying installer: 69%": 1,
+                "verifying installer: 81%": 1,
+                "verifying installer: 93%": 1,
+                "Unity 6000.0.26f1 Setup": 11,
+                "Unity 6000.0.26f1 Setup ": 87
+            }
+        },
+        "vcredist_x64.exe": {
+            "total": 2,
+            "titles": {
+                "Extracting Files": 2
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 4,
+            "titles": {
+                "截图工具覆盖": 4
+            }
+        },
+        "UnityCrashHandler64.exe": {
+            "total": 10,
+            "titles": {
+                "Unity Editor - Unity 6000.0.26f1_ccb7c73d2c02": 10
+            }
+        },
+        "pythonw.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        }
+    }
+}

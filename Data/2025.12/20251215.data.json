@@ -1,0 +1,125 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-15 21:31:07",
+            "end": "2025-12-15 22:27:00"
+        }
+    ],
+    "idle_seconds": 515,
+    "apps": {
+        "iCloudHome.exe": {
+            "total": 1,
+            "titles": {
+                "iCloud": 1
+            }
+        },
+        "clash-verge.exe": {
+            "total": 6,
+            "titles": {
+                "Clash Verge": 6
+            }
+        },
+        "SearchHost.exe": {
+            "total": 15,
+            "titles": {
+                "搜索": 15
+            }
+        },
+        "msedge.exe": {
+            "total": 2367,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 2,
+                "IIS Windows - 个人 - Microsoft​ Edge": 3,
+                "快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "新建标签页 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "设置 和另外 4 个页面 - 个人 - Microsoft​ Edge": 8,
+                "GPT5.2 发布！刷榜 Gemini 3、Claude，如何使用 GPT5.2？ - 知乎 和另外 3 个页面 - 个人 - Microsoft​ Edge": 449,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "知乎 - 安全中心 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "正在加载... 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "GPT5.2 发布！刷榜 Gemini 3、Claude，如何使用 GPT5.2？ - 知乎 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 7,
+                "todesk - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 16,
+                "ToDesk远程桌面软件-免费安全流畅的远程连接电脑手机 和另外 6 个页面 - 个人 - Microsoft​ Edge": 111,
+                "无标题 和另外 6 个页面 - 个人 - Microsoft​ Edge": 3,
+                "todesk - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 3,
+                "无标题 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "cn-todesk.cn 和另外 7 个页面 - 个人 - Microsoft​ Edge": 3,
+                "cn-todesk.cn 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "ChatGPT Plus 充值服务 | GPT 一键升级网 和另外 4 个页面 - 个人 - Microsoft​ Edge": 37,
+                "微信，是一个生活方式 和另外 5 个页面 - 个人 - Microsoft​ Edge": 5,
+                "微信 Windows 版 和另外 6 个页面 - 个人 - Microsoft​ Edge": 16,
+                "GPT-5.2 正式发布：三大版本全面碾压 Claude Opus 4.5 和 Gemini 3 Pro | getgpt.pro 和另外 5 个页面 - 个人 - Microsoft​ Edge": 95,
+                "ChatGPT Plus 充值服务 | GPT 一键升级网 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "getgpt.pro 和另外 5 个页面 - 个人 - Microsoft​ Edge": 4,
+                "隆重推出 GPT-5.2 | OpenAI 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "gpt5.2 - Google 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 1556,
+                "AI大佬锐评开源大模型：DS/Qwen/Kimi并列第一 硅谷巨头拉完了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "15.9元吃肯德基三件套 京东外卖与快递小哥有福了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5
+            }
+        },
+        "explorer.exe": {
+            "total": 12,
+            "titles": {
+                "Program Manager": 4,
+                "删除快捷方式": 2,
+                "Unknown Title": 6
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 112,
+            "titles": {
+                "Microsoft Store": 96,
+                "设置": 16
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 1,
+            "titles": {
+                "开始": 1
+            }
+        },
+        "QQMusic.exe": {
+            "total": 14,
+            "titles": {
+                "QQ音乐": 2,
+                "黄昏 - 周传雄   ": 12
+            }
+        },
+        "QQMusicUp.exe": {
+            "total": 3,
+            "titles": {
+                "Unknown Title": 3
+            }
+        },
+        "Hiddify.exe": {
+            "total": 11,
+            "titles": {
+                "Hiddify": 11
+            }
+        },
+        "AweSun.exe": {
+            "total": 165,
+            "titles": {
+                "Unknown Title": 7,
+                "向日葵远程控制": 150,
+                "StartReportDlg": 2,
+                "会员升级": 6
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 19,
+            "titles": {
+                "Windows Shell Experience 主机": 19
+            }
+        },
+        "Kimi.exe": {
+            "total": 110,
+            "titles": {
+                "Unknown Title": 110
+            }
+        }
+    }
+}

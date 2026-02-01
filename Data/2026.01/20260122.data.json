@@ -1,0 +1,171 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-22 19:11:02",
+            "end": "2026-01-22 21:32:30"
+        },
+        {
+            "start": "2026-01-22 21:33:47",
+            "end": "2026-01-22 21:38:55"
+        }
+    ],
+    "idle_seconds": 5460,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 25,
+            "titles": {
+                "搜索": 25
+            }
+        },
+        "msedge.exe": {
+            "total": 1768,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 12,
+                "还原页面": 2,
+                "intel openvino - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "「BOSS直聘简历」- 个人求职简历免费下载，使用打动hr的专业简历，抓住每个高薪机会 和另外 1 个页面 - 个人 - Microsoft​ Edge": 961,
+                "另存为": 2,
+                "BOSS直聘 和另外 2 个页面 - 个人 - Microsoft​ Edge": 216,
+                "「BOSS直聘简历」- 个人求职简历免费下载，使用打动hr的专业简历，抓住每个高薪机会 和另外 2 个页面 - 个人 - Microsoft​ Edge": 560,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Releases · vscode-icons/vscode-icons 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Releases · vscode-icons/vscode-icons 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "豆包_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Releases · vscode-icons/vscode-icons - 个人 - Microsoft​ Edge": 7
+            }
+        },
+        "Notepad--.exe": {
+            "total": 18,
+            "titles": {
+                "New 0 [文本模式] - Ndd": 3,
+                "New 1 [文本模式] - Ndd": 3,
+                "C:\\Users\\byj19\\Documents\\New 1.txt [文本模式] - Ndd": 12
+            }
+        },
+        "devenv.exe": {
+            "total": 60,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 4,
+                "Microsoft Visual Studio": 35,
+                "NSWebApi - UpdateUserCashAccountOrderType.sql - Microsoft Visual Studio": 3,
+                "NSWebApi - Microsoft Visual Studio": 2,
+                "NSWebApi - Program.cs - Microsoft Visual Studio": 11,
+                "NSWebApi - WebApplication [从元数据] [只读] - Microsoft Visual Studio": 5
+            }
+        },
+        "Doubao.exe": {
+            "total": 91,
+            "titles": {
+                "豆包": 91
+            }
+        },
+        "Thunder.exe": {
+            "total": 63,
+            "titles": {
+                "迅雷": 42,
+                "新建任务面板": 2,
+                "提示框": 1,
+                "确定要删除吗？": 1,
+                "重命名": 4,
+                "迅雷 ": 4,
+                "index.html": 2,
+                "消息提示框": 6,
+                "提示": 1
+            }
+        },
+        "OpenWith.exe": {
+            "total": 31,
+            "titles": {
+                "Unknown Title": 31
+            }
+        },
+        "chrome.exe": {
+            "total": 139,
+            "titles": {
+                "包寅俊-C%23.pdf - Google Chrome": 3,
+                "直聘简历 - Google Chrome": 134,
+                "无标题 - Google Chrome": 2
+            }
+        },
+        "explorer.exe": {
+            "total": 113,
+            "titles": {
+                "Unknown Title": 13,
+                "文件资源管理器": 1,
+                "迅雷下载 - 文件资源管理器": 36,
+                "Program Manager": 63
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 2,
+            "titles": {
+                "迅雷升级程序": 2
+            }
+        },
+        "Weixin.exe": {
+            "total": 338,
+            "titles": {
+                "微信": 334,
+                "Weixin": 4
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 4,
+            "titles": {
+                "Unknown Title": 4
+            }
+        },
+        "wps.exe": {
+            "total": 205,
+            "titles": {
+                "包寅俊-C#.pdf - WPS Office": 205
+            }
+        },
+        "wpspdf.exe": {
+            "total": 2,
+            "titles": {
+                "是否保存文档?": 1,
+                "Unknown Title": 1
+            }
+        },
+        "RadeonSoftware.exe": {
+            "total": 4,
+            "titles": {
+                "AMD Software: Adrenalin Edition": 4
+            }
+        },
+        "AMDInstallManager.exe": {
+            "total": 187,
+            "titles": {
+                "AMD Install Manager": 187
+            }
+        },
+        "Trae.exe": {
+            "total": 63,
+            "titles": {
+                "Trae": 4,
+                "zenbrightgamecocos - Trae": 30,
+                "扩展: Material Icon Theme - zenbrightgamecocos - Trae": 18,
+                "扩展: vscode-icons - zenbrightgamecocos - Trae": 11
+            }
+        },
+        "Cursor.exe": {
+            "total": 212,
+            "titles": {
+                "app_tracker.py - Statistics - Cursor": 93,
+                "Cursor": 2,
+                "daily.html - Statistics - Cursor": 44,
+                "20260119.log.txt - Statistics - Cursor": 2,
+                "20260121.data.json - Statistics - Cursor": 16,
+                "20260119.data.json - Statistics - Cursor": 3,
+                "20260118.data.json - Statistics - Cursor": 52
+            }
+        },
+        "pythonw.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        }
+    }
+}

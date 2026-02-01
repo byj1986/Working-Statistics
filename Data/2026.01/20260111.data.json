@@ -1,0 +1,224 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-11 21:02:34",
+            "end": "2026-01-11 22:40:00"
+        }
+    ],
+    "idle_seconds": 0,
+    "apps": {
+        "Weixin.exe": {
+            "total": 149,
+            "titles": {
+                "设置": 7,
+                "微信": 111,
+                "Weixin": 4,
+                "加载聊天记录": 15,
+                "另存为...": 12
+            }
+        },
+        "SearchHost.exe": {
+            "total": 25,
+            "titles": {
+                "搜索": 25
+            }
+        },
+        "Hiddify.exe": {
+            "total": 8,
+            "titles": {
+                "Hiddify": 8
+            }
+        },
+        "WeixinUpdate.exe": {
+            "total": 2,
+            "titles": {
+                "微信": 1,
+                "weixin update": 1
+            }
+        },
+        "Doubao.exe": {
+            "total": 6,
+            "titles": {
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 5,
+                "Unknown Title": 1
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 7,
+            "titles": {
+                "开始": 7
+            }
+        },
+        "chrome.exe": {
+            "total": 412,
+            "titles": {
+                "新标签页 - Google Chrome": 13,
+                "无标题 - Google Chrome": 6,
+                "设置 - 关于 Chrome - Google Chrome": 16,
+                "KDS - 在这里・看上海 - Google Chrome": 72,
+                "转发一篇文章《为什么最近大家都在怀念“以前的上海”？》 KDS - 上宽带山・一起看上海 - Google Chrome": 44,
+                "上海一男一女在斑马线上跳舞，警方通报 KDS - 上宽带山・一起看上海 - Google Chrome": 16,
+                "这对母女不错啊！ KDS - 上宽带山・一起看上海 - Google Chrome": 10,
+                "这种正规吗？ KDS - 上宽带山・一起看上海 - Google Chrome": 5,
+                "怎样算是xx真的厉害的男人？ KDS - 上宽带山・一起看上海 - Google Chrome": 23,
+                "南通越野赛出大事辣， KDS - 上宽带山・一起看上海 - Google Chrome": 8,
+                "这种身材几分 KDS - 上宽带山・一起看上海 - Google Chrome": 5,
+                "现在2.5万/平方 能买进外环内房子 KDS - 上宽带山・一起看上海 - Google Chrome": 4,
+                "吆吆！刘翔的教练现在在带美女夏思凝了嘛 KDS - 上宽带山・一起看上海 - Google Chrome": 42,
+                "馅饼女_百度搜索 - Google Chrome": 18,
+                "田径 馅饼女_百度搜索 - Google Chrome": 8,
+                "今天我受邀参加朋友公司年会及晚宴，有跳时尚舞蹈的女员工，主持人穿抹胸绿长裙很靓丽高歌一曲，你们喜欢么 KDS - 上宽带山・一起看上海 - Google Chrome": 47,
+                "那种贴车上的小纸条黄产是如何运作的？ KDS - 上宽带山・一起看上海 - Google Chrome": 3,
+                "房价终于回归正轨了 KDS - 上宽带山・一起看上海 - Google Chrome": 6,
+                "“丹麦首相忍无可忍” KDS - 上宽带山・一起看上海 - Google Chrome": 33,
+                "突发！特朗普决定对伊朗大规模打击！ KDS - 上宽带山・一起看上海 - Google Chrome": 25,
+                "无锡扫黑除恶深入校园呐~ KDS - 上宽带山・一起看上海 - Google Chrome": 8
+            }
+        },
+        "explorer.exe": {
+            "total": 68,
+            "titles": {
+                "Unknown Title": 19,
+                "2026-01 - 文件资源管理器": 4,
+                "此电脑 - 文件资源管理器": 6,
+                "下载 - 文件资源管理器": 18,
+                "Data (D:) - 文件资源管理器": 4,
+                "Tools - 文件资源管理器": 8,
+                "yolomodel - 文件资源管理器": 5,
+                "Program Manager": 4
+            }
+        },
+        "msedge.exe": {
+            "total": 450,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 57,
+                "设置 - 个人 - Microsoft​ Edge": 18,
+                "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！ - 个人 - Microsoft​ Edge": 11,
+                "【Find X9 Pro】OPPO Find X9 Pro 12GB+512GB 追光红 哈苏2亿长焦镜头 拍照 旗舰 智能手机 国家补贴【孙颖莎同款】【行情 报价 价格 评测】-京东 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "【Find X9 Pro】OPPO Find X9 Pro 12GB+512GB 追光红 哈苏2亿长焦镜头 7500mAh冰川电池 5G手机 【自拍屏摄影套装】【行情 报价 价格 评测】-京东 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "【Find X9 Pro】OPPO Find X9 Pro 12GB+512GB 追光红 哈苏2亿长焦镜头 7500mAh 5G手机 【孙颖莎限定礼盒套装】【行情 报价 价格 评测】-京东 和另外 1 个页面 - 个人 - Microsoft​ Edge": 58,
+                "京东商城 - 对比页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "【Find X9 Pro】OPPO Find X9 Pro 12GB+512GB 追光红 哈苏2亿长焦镜头 7500mAh 5G手机 【新品上市专属礼盒套装】【行情 报价 价格 评测】-京东 和另外 1 个页面 - 个人 - Microsoft​ Edge": 103,
+                "【Find X9 Pro】OPPO Find X9 Pro 16GB+512GB 追光红 哈苏2亿长焦镜头 7500mAh 5G手机 【新品上市专属礼盒套装】【行情 报价 价格 评测】-京东 和另外 1 个页面 - 个人 - Microsoft​ Edge": 179
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 28,
+            "titles": {
+                "Microsoft Store": 19,
+                "设置": 9
+            }
+        },
+        "Everything.exe": {
+            "total": 8,
+            "titles": {
+                "Everything": 1,
+                "yolomodel.7z - Everything": 7
+            }
+        },
+        "7zFM.exe": {
+            "total": 7,
+            "titles": {
+                "C:\\Users\\byj19\\Downloads\\yolomodel.7z\\": 4,
+                "5% 正在复制...": 1,
+                "41% 正在复制...": 1,
+                "86% 正在复制...": 1
+            }
+        },
+        "vlc.exe": {
+            "total": 9,
+            "titles": {
+                "五月天 - 干杯 - VLC media player": 9
+            }
+        },
+        "Trae.exe": {
+            "total": 100,
+            "titles": {
+                "Trae": 8,
+                "zenbrightgamecocos - Trae": 92
+            }
+        },
+        "Cursor.exe": {
+            "total": 83,
+            "titles": {
+                "Directory.Build.props - zencore - Cursor": 31,
+                "Cursor": 11,
+                "Cursor Settings - zencore - Cursor": 33,
+                "compile_packaging_publish2 - Cursor": 8
+            }
+        },
+        "Code.exe": {
+            "total": 19,
+            "titles": {
+                "Visual Studio Code": 2,
+                "Welcome - Visual Studio Code": 17
+            }
+        },
+        "devenv.exe": {
+            "total": 313,
+            "titles": {
+                "Microsoft Visual Studio": 27,
+                "Microsoft Visual Studio Community 2026": 4,
+                "zenFocusStore - ZenFocusStore.csproj - Microsoft Visual Studio": 10,
+                "zenCore.Camera - Microsoft Visual Studio": 95,
+                "zenCore - zenCore.Implements.csproj - Microsoft Visual Studio": 60,
+                "zenCore": 2,
+                "zenCore.Camera - 差异 - DetectorPro.cs - Microsoft Visual Studio": 15,
+                "删除文件": 3,
+                "检测到文件修改": 1,
+                "zenFocusStore - Microsoft Visual Studio": 39,
+                "zenCore.Camera - NuGet: WPF3Dpose - Microsoft Visual Studio": 13,
+                "zenCore.Camera - NuGet: zenCore.Camera - Microsoft Visual Studio": 30,
+                "zenCore.Camera - 差异 - WPF3Dpose.csproj - Microsoft Visual Studio": 4,
+                "zenCore.Camera - zenCore.Camera - Microsoft Visual Studio": 9,
+                "zenCore.Camera - zenCore.Camera* - Microsoft Visual Studio": 1
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 5,
+            "titles": {
+                "Visual Studio 的跳转列表": 4,
+                "Cursor 的跳转列表": 1
+            }
+        },
+        "setup.exe": {
+            "total": 6,
+            "titles": {
+                "Visual Studio Installer": 6
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 4129,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 65,
+                "外国博主们怎么突然开始吹中国手机了？？？【X.PIN】": 974,
+                "英国博主：英国生活有多难？来看看这份生活成本天价账单": 83,
+                "美媒：特朗普的算盘空了，委内瑞拉的高价油，中国连一桶都不肯买": 219,
+                "这让我更相信中国！英国\"夜行夫妇\"中国遭骗，粉丝联系政府介入12小时处理完毕": 568,
+                "官媒预告轰20即将登场，咱们核打击力量迎来历史性裂变": 134,
+                "外网评论：原来中国是这么的！真是震惊又可怕！": 173,
+                "外国网友看中国军人退役前后对比外国网友 -当兵后会变帅！ #退役军人 #转场 #中国军人#外国评论": 28,
+                "宫古海峡惊现“隐身幽灵”？F-15J撞上歼-20电子迷雾，全程抓瞎": 223,
+                "日本贿赂联合国机构这条视频，被举报了！他们说我是假新闻，大家看看是不是": 2,
+                "外国老丈人第一次坐中国高铁！": 141,
+                "【1月11日午】美国打伊朗方案已听取！美以通话谈伊朗！东大天马1000首飞，飞艇首商飞！东大Ai研究实力达到世界巅峰！加拿大也开始害怕美国！专家分析美国电力战": 239,
+                "【1月11日晚】以哈准备重新开战！以涉东大表态！美“末日飞机”现身！日本斩杀线！伊朗骚乱主要参与者已被捕！伊朗警告美国！美方再次亮明“弃台”主张": 150,
+                "中国海警发海报，登船检查长荣货轮，美国敢运海马斯我们就没收？海警预先喊话警告": 271,
+                "中国兵推惊雷美后院": 60,
+                "看完这部片后才能知道飞行员有多困难！不好看我可以倒立洗头！": 83,
+                "外国网友：中国是怎么做到的？": 83,
+                "李在明抵达北京，不到24小时，对华称呼变了，还将去特殊地方，平壤开始有新行动": 51,
+                "“中国方言顶级加密，不怕美军破译！”": 86,
+                "我的天啊：老外教你理解中文里的长度单位是什么意思？": 68,
+                "我在上海苏州南通之间，发现一条人少景美的宝藏自驾路线，附攻略！这条路线从太仓到常熟，主要打卡点都在长江南岸，全程50公里无任何门票，适合江浙沪自驾一日游": 61,
+                "带我德国父母解锁潮汕牛肉火锅": 367
+            }
+        }
+    }
+}

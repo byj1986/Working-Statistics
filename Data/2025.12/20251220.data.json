@@ -1,0 +1,311 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-20 00:00:00",
+            "end": "2025-12-20 00:16:30"
+        },
+        {
+            "start": "2025-12-20 09:16:26",
+            "end": "2025-12-20 11:02:30"
+        },
+        {
+            "start": "2025-12-20 21:02:23",
+            "end": "2025-12-20 22:27:30"
+        }
+    ],
+    "idle_seconds": 4627,
+    "apps": {
+        "msedge.exe": {
+            "total": 3048,
+            "titles": {
+                "WOB CRUSH80 C80 Remodel plan Aluminum Turd Mechanical keyboard Customized wireless three mode | Lazada 和另外 12 个页面 - 个人 - Microsoft​ Edge": 135,
+                "CRUSH80 - WOB欢迎您 和另外 12 个页面 - 个人 - Microsoft​ Edge": 7,
+                "CRUSH80 - WOB欢迎您 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "WOB CRUSH80 C80 Remodel plan Aluminum Turd Mechanical keyboard Customized wireless three mode | Lazada 和另外 10 个页面 - 个人 - Microsoft​ Edge": 1,
+                "wob 80 - 搜索 图片 和另外 9 个页面 - 个人 - Microsoft​ Edge": 7,
+                "wob 80 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 7,
+                "wob 80 紫 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 5,
+                "无标题 和另外 9 个页面 - 个人 - Microsoft​ Edge": 2,
+                "WOB Crush80 Reboot上手简评 - 键盘新品评测 - 全文阅读-外设天下(WWW.WSTX.COM) 和另外 9 个页面 - 个人 - Microsoft​ Edge": 1,
+                "键盘按键测试在线 - 键盘测试工具 - 键盘连键检测 和另外 9 个页面 - 个人 - Microsoft​ Edge": 1,
+                "键盘按键测试在线 - 键盘测试工具 - 键盘连键检测 和另外 8 个页面 - 个人 - Microsoft​ Edge": 68,
+                "在线键盘测试 | zFrontier 装备前线 和另外 7 个页面 - 个人 - Microsoft​ Edge": 13,
+                "wob 80 紫 - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "WOB Crush80 Reboot上手简评 - 键盘新品评测 - 全文阅读-外设天下(WWW.WSTX.COM) 和另外 5 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Microsoft Edge 帮助和学习 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Microsoft Edge 帮助和学习 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Microsoft Edge 帮助和学习 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "https://ssa-school.com/index.phpLLLlllrrrttyyyyyyyyuuuuuuuittttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "新建标签页 - 个人 - Microsoft​ Edge": 483,
+                "如何确定trae的版本 - 搜索 - 个人 - Microsoft​ Edge": 4,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "怎么判断自己下载的 trae 是国际版还是国内版？ - python后端实战经验分享 - SegmentFault 思否 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "怎么判断自己下载的 trae 是国际版还是国内版？ - python后端实战经验分享 - SegmentFault 思否 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "TRAE - Collaborate with Intelligence 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "如何确定trae的版本 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 14,
+                "trae 3.4.3无法升级 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "更新日志 - 文档 - TRAE CN 和另外 3 个页面 - 个人 - Microsoft​ Edge": 10,
+                "TRAE - Collaborate with Intelligence 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "什么是 TRAE？ - 文档 - TRAE 和另外 4 个页面 - 个人 - Microsoft​ Edge": 17,
+                "更新日志 - 文档 - TRAE 和另外 4 个页面 - 个人 - Microsoft​ Edge": 11,
+                "Changelog - Documentation - TRAE 和另外 4 个页面 - 个人 - Microsoft​ Edge": 10,
+                "更新日志 - 文档 - TRAE CN 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "trae 3.4.3无法升级 - 搜索 - 个人 - Microsoft​ Edge": 1,
+                "cn.bing.com - 个人 - Microsoft​ Edge": 4,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 19,
+                "百度一下，你就知道 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "vxe_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 27,
+                "vxe_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Vxe UI v4 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - 个人 - Microsoft​ Edge": 6,
+                "网易 - 个人 - Microsoft​ Edge": 57,
+                "快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 55,
+                "媒体发布“智驾战力天梯场景榜”：华为系倒数第一 尊界S800只拿5分--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 93,
+                "全球航司首台！东航C919飞行模拟机正式启用--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 18,
+                "首飞成功！我国彩虹7隐身无人机有多强 央视揭秘：堪称无敌--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 69,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "世界首个！我国发布原生电力大模型：35毫秒即可实时输出关键指标--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 24,
+                "车主早上买保险晚上出事 保险公司以次日生效为由拒赔--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 58,
+                "残暴11-1 樊振东欧冠首秀3-0速胜：再秀C罗庆祝动作 现场球迷狂欢|c罗|国乒|奥运会_网易订阅 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "“一体压铸”再引热议 一旦受损真的修不起吗？|魏建军|汽车|维修_网易汽车 和另外 1 个页面 - 个人 - Microsoft​ Edge": 457,
+                "“星途揽月”万余公里两次“趴窝”？4S店：已修复，达不到退换条件|维修|汽车|熄火|4s店_网易订阅 和另外 2 个页面 - 个人 - Microsoft​ Edge": 25,
+                "msn.cn/zh-cn/weather/forecast/in-上海市?loc=eyJsIjoi5LiK5rW35biCIiwiciI6IuS4iua1t%2BW4giIsImMiOiLkuK3ljY7kurrmsJHlhbHlkozlm70iLCJpIjoiQ04iLCJnIjoiemgtY24iLCJ4IjoiMTIxLjQzOTY5NzI2NTYyNSIsInkiOiIzMS4yMzcwMzE5MzY2NDU1MDgifQ%3D%3D&weadegreetype=C&ocid=msedgntp&cvid=6946070ef1c346d28d04089b54c68f61&pc=SCOODB&ei=10 - 个人 - Microsoft​ Edge": 1,
+                "上海市 天气预报 | MSN 天气 - 个人 - Microsoft​ Edge": 2,
+                "KDS - 在这里・看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 30,
+                "KDS - 在这里・看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "又到外面丢脸去了 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 30,
+                "林志玲不行了 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 24,
+                "国盾量子董事长吕品办公室内身亡，安徽合肥警方通报 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 31,
+                "天真的亮了！格记厉害了。。。 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "上海一女律师被围猎 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "这店的核心竞争力是啥 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "一言难尽。。。。 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "工作群泄密，事不关己高高挂起 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "大龄失业的人，你们都靠什么赚钱啊 KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "给外国人四万值得吗？ KDS - 上宽带山・一起看上海 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "壹快评｜南博在犯一个很危险的错|文物|藏品|捐品|捐赠者|捐赠人_网易订阅 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "设置 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Microsoft Edge | 年度回顾 - 个人 - Microsoft​ Edge": 19,
+                "100道神秘的门 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "100道神秘的门 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "100道门 (100 Doors Challenge) 🕹️ 免费游戏在线玩 | 小猪秒玩 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1064
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 2,
+            "titles": {
+                "截图工具覆盖": 2
+            }
+        },
+        "SearchHost.exe": {
+            "total": 87,
+            "titles": {
+                "搜索": 87
+            }
+        },
+        "explorer.exe": {
+            "total": 166,
+            "titles": {
+                "Program Manager": 8,
+                "Unknown Title": 140,
+                "文件资源管理器": 1,
+                "迅雷下载 - 文件资源管理器": 8,
+                "Trae-Setup-x64.exe 属性": 3,
+                "删除文件": 1,
+                "系统托盘溢出窗口。": 5
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 14,
+            "titles": {
+                "开始": 14
+            }
+        },
+        "Trae.exe": {
+            "total": 292,
+            "titles": {
+                "Trae": 47,
+                "zenbrightgamecocos - Trae": 193,
+                "settings.json - zenbrightgamecocos - Trae": 12,
+                "项目结构.md - zenbrightgamecocos - Trae": 24,
+                "设置 - zenbrightgamecocos - Trae": 16
+            }
+        },
+        "Hiddify.exe": {
+            "total": 112,
+            "titles": {
+                "Hiddify": 112
+            }
+        },
+        "Thunder.exe": {
+            "total": 16,
+            "titles": {
+                "迅雷": 10,
+                "新建任务面板": 1,
+                "Unknown Title": 5
+            }
+        },
+        "APlayer.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "ShellHost.exe": {
+            "total": 3,
+            "titles": {
+                "快速设置": 3
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 159,
+            "titles": {
+                "设置": 48,
+                "Microsoft Store": 111
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 695,
+            "titles": {
+                "登录 Steam": 35,
+                "Steam": 436,
+                "特惠": 7,
+                "Unknown Title": 6,
+                "Steam - 浏览器": 170,
+                "外部支付方式跳转": 2,
+                "WeChat QR code": 39
+            }
+        },
+        "Cursor.exe": {
+            "total": 142,
+            "titles": {
+                "compile_packaging_publish2 - Cursor": 36,
+                "Cursor": 106
+            }
+        },
+        "inno_updater.exe": {
+            "total": 1,
+            "titles": {
+                "Cursor": 1
+            }
+        },
+        "Notepad--.exe": {
+            "total": 17,
+            "titles": {
+                "New 0 [文本模式] - Ndd": 17
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 2319,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 143,
+                "undefined": 2,
+                "这老哥犯天条了，恐怕是我见过阵仗最大的群狼战术了": 1293,
+                "刚想装×就招雷劈！简直太爽了": 268,
+                "B站入駐!中天小姐姐來了": 16,
+                "韩国妈妈初次体验中国自助餐：中国冬天还能吃到西瓜？": 19,
+                "美国版全频带阻塞干扰《美国全境封锁2：洛杉矶遭遇战好莱坞陷落》预告片#科幻电影 #科幻战争 #美国全境封锁 #全频带阻塞干扰美国版": 99,
+                "WRC世界拉力锦标赛精彩-撞车、动作和极限进攻": 37,
+                "“柯南来了也得看监控”": 228,
+                "华家班韶关拉力赛 排位赛 短道赛段": 137,
+                "最近国内拉力赛又被网暴了wrc拉力赛 韶关拉力赛 拉力赛漂移": 49,
+                "［全频带阻塞干扰］你们辛苦了！该我们上了。": 28
+            }
+        },
+        "steam.exe": {
+            "total": 6,
+            "titles": {
+                "Steam": 6
+            }
+        },
+        "Doubao.exe": {
+            "total": 150,
+            "titles": {
+                "doubao.com/chat/ - 豆包": 5,
+                "新标签页 - 豆包": 1,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 141,
+                "Unknown Title": 2,
+                "无标题 - 豆包": 1
+            }
+        },
+        "chrome.exe": {
+            "total": 477,
+            "titles": {
+                "新标签页 - Google Chrome": 17,
+                "设置 - 关于 Chrome - Google Chrome": 7,
+                "备用24d-j6f6g-com.www-jfgsou-com.com/?fulione - Google Chrome": 1,
+                "集芳阁云搜 - 搜你所想,看你想看 - Google Chrome": 6,
+                "KDS - 在这里・看上海 - Google Chrome": 127,
+                "我怀疑日本现在其实是在和东大演戏 KDS - 上宽带山・一起看上海 - Google Chrome": 12,
+                "无标题 - Google Chrome": 9,
+                "大龄失业的人，你们都靠什么赚钱啊 KDS - 上宽带山・一起看上海 - Google Chrome": 4,
+                "袋鼠国废青组团0元购 KDS - 上宽带山・一起看上海 - Google Chrome": 6,
+                "它们还是孩子啊 KDS - 上宽带山・一起看上海 - Google Chrome": 33,
+                "高风亮节 KDS - 上宽带山・一起看上海 - Google Chrome": 10,
+                "笑死，大千苏北，无奇不有。 KDS - 上宽带山・一起看上海 - Google Chrome": 57,
+                "普京承认自己正在恋爱中 KDS - 上宽带山・一起看上海 - Google Chrome": 14,
+                "山上土匪有多少人五年内没换车的？ KDS - 上宽带山・一起看上海 - Google Chrome": 5,
+                "人间地狱了！ KDS - 上宽带山・一起看上海 - Google Chrome": 8,
+                "克林顿大尺度照片曝光 KDS - 上宽带山・一起看上海 - Google Chrome": 42,
+                "有道理吗 KDS - 上宽带山・一起看上海 - Google Chrome": 6,
+                "真的是人间地狱 KDS - 上宽带山・一起看上海 - Google Chrome": 16,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - Google Chrome": 1,
+                "集芳阁今日热播 Top100 - 集芳阁云搜 - Google Chrome": 35,
+                "户外露出强奸合集喝醉强奸路人露出勾引强奸野战女神撒尿 - 集芳阁云搜 - Google Chrome": 20,
+                "ROE-434 与他爱了 10 年的母亲连续 16 次发生乱伦性行为，并被灌入精液。 - 集芳阁云搜 - Google Chrome": 20,
+                "国内媚黑合集人妻少妇美少女们被黑人大屌操合集 - 集芳阁云搜 - Google Chrome": 19,
+                "备用24d-j6f6g-com.www-jfgsou-com.com/toplist.php?p=2 - Google Chrome": 1,
+                "新世界：强奸合法诱惑！柏木小夏×天马唯×本田瞳激情放纵 DVMM-286 - 集芳阁云搜 - Google Chrome": 1
+            }
+        },
+        "Xmind.exe": {
+            "total": 43,
+            "titles": {
+                "Xmind": 39,
+                "逻辑图": 4
+            }
+        },
+        "navicat.exe": {
+            "total": 4,
+            "titles": {
+                "Navicat Premium": 3,
+                "Navicat Updater": 1
+            }
+        },
+        "EXCEL.EXE": {
+            "total": 21,
+            "titles": {
+                "Excel": 2,
+                "工作簿1 - Excel": 16,
+                "Unknown Title": 3
+            }
+        },
+        "Xmind-for-Windows-x64bit-26.01.07153-202512110433.exe": {
+            "total": 4,
+            "titles": {
+                "Xmind 安装 ": 4
+            }
+        },
+        "OfficeC2RClient.exe": {
+            "total": 2,
+            "titles": {
+                "‪已是最新状态!‬": 2
+            }
+        },
+        "QQMusic.exe": {
+            "total": 34,
+            "titles": {
+                "黄昏 - 周传雄   ": 31,
+                "夜曲 - 周杰伦   ": 3
+            }
+        },
+        "QQMusicUp.exe": {
+            "total": 3,
+            "titles": {
+                "Unknown Title": 3
+            }
+        }
+    }
+}

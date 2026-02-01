@@ -1,0 +1,255 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-10 19:24:46",
+            "end": "2026-01-10 21:05:00"
+        }
+    ],
+    "idle_seconds": 453,
+    "apps": {
+        "Doubao.exe": {
+            "total": 25,
+            "titles": {
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 24,
+                "Unknown Title": 1
+            }
+        },
+        "SearchHost.exe": {
+            "total": 57,
+            "titles": {
+                "搜索": 57
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 40,
+            "titles": {
+                "Microsoft Store": 31,
+                "设置": 9
+            }
+        },
+        "explorer.exe": {
+            "total": 16,
+            "titles": {
+                "Unknown Title": 13,
+                "系统托盘溢出窗口。": 1,
+                "Program Manager": 2
+            }
+        },
+        "Hiddify.exe": {
+            "total": 5,
+            "titles": {
+                "Hiddify": 5
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 3,
+            "titles": {
+                "开始": 3
+            }
+        },
+        "chrome.exe": {
+            "total": 5,
+            "titles": {
+                "无标题 - Google Chrome": 3,
+                "新标签页 - Google Chrome": 2
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 3157,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 120,
+                "undefined": 1,
+                "【建议收藏】2026年1月份年货节性价手机终极推荐！43款全价位无广攻略：千元至万元性价比款，开年国补，小米 /vivo/ 华为 /iPhone 闭眼冲": 574,
+                "Unknown Title": 1,
+                "红警就这一个洞！难道一起钻洞，原来下面是美食街！": 491,
+                "【2026年1月手机推荐】寒假快到了，带你一起选新手机！游戏/日用/摄影 全品类手机推荐+总结，绝无恰饭 放心观看。 小米/iQOO/一加/真我/OPPO/荣耀": 633,
+                "“手机，只买跳水的”，2026年1月手机推荐": 702,
+                "哔哩哔哩-浏览器窗口": 4,
+                "全套防弹装具+9个弹匣！俄乌战场的经验教训，被解放军充分吸取？": 55,
+                "大陆对日本出重拳制裁 日本呛抵制 结果大陆品牌却卖翻": 41,
+                "【大虾沉浸式试车】第六代RAV4 荣放👉快来快来～带你沉浸式体验！": 162,
+                "【大虾沉浸式试车】哑光灰！26款凯迪拉克CT5👉快来快来～带你沉浸式体验！": 253,
+                "炸裂14连阳！全面制裁日本，芯片设备暴涨！": 68,
+                "喜人《大哥懂音乐？》": 48,
+                "是时候让日本感受一下，什么是生态级别的供应链压制【逸语道破】": 4
+            }
+        },
+        "ShellHost.exe": {
+            "total": 7,
+            "titles": {
+                "快速设置": 7
+            }
+        },
+        "QQMusic.exe": {
+            "total": 21,
+            "titles": {
+                "QQ音乐": 2,
+                "遇见 - 孙燕姿   ": 5,
+                "SPACE BOY - Dave Rodgers   ": 14
+            }
+        },
+        "PhoneExperienceHost.exe": {
+            "total": 13,
+            "titles": {
+                "SplashScreen loading": 1,
+                "手机连接": 12
+            }
+        },
+        "msedge.exe": {
+            "total": 2034,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 12,
+                "iqoo - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "iQOO官网 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "iQOO手机 - 未来电竞，悦享操控 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "oneplus - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加手机官网 - 一加 Turbo 6 系列 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加手机官网 - 一加 Turbo 6 系列 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "一加 Turbo 6 性能续航超新星 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 Turbo 6 参数规格 和另外 4 个页面 - 个人 - Microsoft​ Edge": 38,
+                "无标题 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "OPPO广东移动通信有限公司官网 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 Turbo 系列 和另外 5 个页面 - 个人 - Microsoft​ Edge": 7,
+                "一加 Turbo 6 和另外 5 个页面 - 个人 - Microsoft​ Edge": 64,
+                "一加 Turbo 6 参数规格 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 Turbo 6 性能续航超新星 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加手机官网 - 一加 Turbo 6 系列 和另外 5 个页面 - 个人 - Microsoft​ Edge": 11,
+                "OPPO广东移动通信有限公司官网 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 15 和另外 6 个页面 - 个人 - Microsoft​ Edge": 18,
+                "一加手机官网 - 一加 Turbo 6 系列 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "一加 15 性能 Ultra 超旗舰 和另外 6 个页面 - 个人 - Microsoft​ Edge": 5,
+                "一加 15 性能 Ultra 超旗舰 和另外 7 个页面 - 个人 - Microsoft​ Edge": 21,
+                "一加手机官网 - 一加 Turbo 6 系列 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 15 和另外 7 个页面 - 个人 - Microsoft​ Edge": 2,
+                "一加 15 性能 Ultra 超旗舰 和另外 8 个页面 - 个人 - Microsoft​ Edge": 7,
+                "一加 15 参数规格 和另外 9 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 15 参数规格 和另外 8 个页面 - 个人 - Microsoft​ Edge": 36,
+                "一加 Turbo 6 性能续航超新星 和另外 8 个页面 - 个人 - Microsoft​ Edge": 5,
+                "一加 15 和另外 8 个页面 - 个人 - Microsoft​ Edge": 2,
+                "一加 15 和另外 9 个页面 - 个人 - Microsoft​ Edge": 49,
+                "一加 Turbo 6 参数规格 和另外 9 个页面 - 个人 - Microsoft​ Edge": 11,
+                "新建标签页 和另外 10 个页面 - 个人 - Microsoft​ Edge": 4,
+                "OPPO 智能手机 | OPPO 官方网站 和另外 11 个页面 - 个人 - Microsoft​ Edge": 3,
+                "OPPO 智能手机 | OPPO 官方网站 和另外 12 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO Find X9 够清晰 够还原 够哈苏 | OPPO 官方网站 和另外 12 个页面 - 个人 - Microsoft​ Edge": 5,
+                "OPPO Find X9 产品参数 | OPPO 官方网站 和另外 12 个页面 - 个人 - Microsoft​ Edge": 4,
+                "OPPO Find X9 和另外 13 个页面 - 个人 - Microsoft​ Edge": 31,
+                "OPPO Enco R4 真无线耳机 云雾白 和另外 14 个页面 - 个人 - Microsoft​ Edge": 3,
+                "OPPO Find X9 产品参数 | OPPO 官方网站 和另外 13 个页面 - 个人 - Microsoft​ Edge": 3,
+                "OPPO Find X9 Pro 产品参数 | OPPO 官方网站 和另外 13 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 14 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO Find X9 Pro 和另外 14 个页面 - 个人 - Microsoft​ Edge": 49,
+                "新建标签页 和另外 15 个页面 - 个人 - Microsoft​ Edge": 3,
+                "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！ 和另外 15 个页面 - 个人 - Microsoft​ Edge": 12,
+                "京东验证 和另外 15 个页面 - 个人 - Microsoft​ Edge": 1,
+                "京东-欢迎登录 和另外 15 个页面 - 个人 - Microsoft​ Edge": 8,
+                "find x9pro - 商品搜索 - 京东 和另外 15 个页面 - 个人 - Microsoft​ Edge": 5,
+                "无标题 和另外 16 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO Find X9 Pro 旗舰手机 哈苏2亿超清长焦镜头 超动态大底主摄 7500mAh 冰川电池【线条小狗联名】 霜白 12GB+512GB【图片 价格 品牌 报价】-京东 和另外 16 个页面 - 个人 - Microsoft​ Edge": 29,
+                "OPPO Find X9 Pro 旗舰手机 哈苏2亿超清长焦镜头 超动态大底主摄 7500mAh 冰川电池【线条小狗联名】 霜白 16GB+512GB【图片 价格 品牌 报价】-京东 和另外 16 个页面 - 个人 - Microsoft​ Edge": 6,
+                "OPPO Find X9 Pro 旗舰手机 哈苏2亿超清长焦镜头 超动态大底主摄 7500mAh 冰川电池【线条小狗联名】 霜白 16GB+1TB【图片 价格 品牌 报价】-京东 和另外 16 个页面 - 个人 - Microsoft​ Edge": 2,
+                "OPPO Find X9 Pro 旗舰手机 哈苏2亿超清长焦镜头 超动态大底主摄 7500mAh 冰川电池【线条小狗联名】 霜白 12GB+256GB【图片 价格 品牌 报价】-京东 和另外 16 个页面 - 个人 - Microsoft​ Edge": 7,
+                "OPPO Find X9 Pro 旗舰手机 哈苏2亿超清长焦镜头 超动态大底主摄 7500mAh 冰川电池【线条小狗联名】 绒砂钛 12GB+512GB【图片 价格 品牌 报价】-京东 和另外 16 个页面 - 个人 - Microsoft​ Edge": 11,
+                "新建标签页 和另外 17 个页面 - 个人 - Microsoft​ Edge": 6,
+                "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！ 和另外 17 个页面 - 个人 - Microsoft​ Edge": 6,
+                "x300pro - 商品搜索 - 京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 29,
+                "无标题 和另外 18 个页面 - 个人 - Microsoft​ Edge": 1,
+                "【X300 Pro】vivo X300 Pro 16GB+512GB 旷野棕 蔡司2亿APO超级长焦 蓝图影像双芯 5年持久流畅OriginOS 6 AI手机【行情 报价 价格 评测】-京东 和另外 18 个页面 - 个人 - Microsoft​ Edge": 69,
+                "京东验证 和另外 18 个页面 - 个人 - Microsoft​ Edge": 6,
+                "无标题 和另外 19 个页面 - 个人 - Microsoft​ Edge": 1,
+                "3C电子城 和另外 19 个页面 - 个人 - Microsoft​ Edge": 6,
+                "【小米17 Pro】小米（MI）小米 17 Pro 妙享背屏 徕卡光影大师 第五代 骁龙 8 至尊版 白色 12GB+512GB 5G手机【行情 报价 价格 评测】-京东 和另外 18 个页面 - 个人 - Microsoft​ Edge": 3,
+                "【小米17 Pro】小米（MI）小米 17 Pro 妙享背屏 光影大师 第五代骁龙8至尊版 白色 16GB+512GB 5G手机【行情 报价 价格 评测】-京东 和另外 18 个页面 - 个人 - Microsoft​ Edge": 11,
+                "【小米17 Pro】小米（MI）小米 17 Pro 妙享背屏 徕卡光影大师 第五代 骁龙 8 至尊版 冷烟紫 16GB+512GB 5G手机【行情 报价 价格 评测】-京东 和另外 18 个页面 - 个人 - Microsoft​ Edge": 4,
+                "【小米17 Pro】小米（MI）小米 17 Pro 妙享背屏 徕卡光影大师 第五代 骁龙 8 至尊版 冷烟紫 12GB+512GB 5G手机【行情 报价 价格 评测】-京东 和另外 18 个页面 - 个人 - Microsoft​ Edge": 6,
+                "【小米REDMI K90 Pro Max】小米REDMI K90 Pro Max 第五代骁龙8至尊版 7560mAh大电池 BOSE联合调音流金白 12GB+512GB 红米5G手机【行情 报价 价格 评测】-京东 和另外 18 个页面 - 个人 - Microsoft​ Edge": 19,
+                "【小米REDMI K90 Pro Max】小米REDMI K90 Pro Max 第五代骁龙8至尊版 7560mAh大电池 BOSE联合调音流金白 16GB+512GB 红米5G手机【行情 报价 价格 评测】-京东 和另外 18 个页面 - 个人 - Microsoft​ Edge": 10,
+                "京东验证 和另外 17 个页面 - 个人 - Microsoft​ Edge": 1,
+                "京东-欢迎登录 和另外 17 个页面 - 个人 - Microsoft​ Edge": 5,
+                "认证魔方 和另外 17 个页面 - 个人 - Microsoft​ Edge": 25,
+                "1+ - 商品搜索 - 京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 9,
+                "iQOO手机 - 未来电竞，悦享操控 和另外 17 个页面 - 个人 - Microsoft​ Edge": 2,
+                "一加手机官网 - 一加 Turbo 6 系列 和另外 16 个页面 - 个人 - Microsoft​ Edge": 3,
+                "一加 Turbo 6 和另外 16 个页面 - 个人 - Microsoft​ Edge": 4,
+                "1+ - 商品搜索 - 京东 和另外 16 个页面 - 个人 - Microsoft​ Edge": 11,
+                "无标题 和另外 17 个页面 - 个人 - Microsoft​ Edge": 2,
+                "【一加Turbo 6】一加 Turbo 6 12GB+256GB 追光银 oppo 9000mAh冰川电池 165Hz高刷东方屏 智能游戏电竞手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 12,
+                "【一加Turbo 6】一加 Turbo 6 12GB+512GB 追光银 oppo 9000mAh冰川电池 165Hz高刷东方屏 智能游戏电竞手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 5,
+                "【一加Turbo 6】一加 Turbo 6 16GB+256GB 追光银 oppo 9000mAh冰川电池 165Hz高刷东方屏 智能游戏电竞手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 4,
+                "【一加Turbo 6】一加 Turbo 6 16GB+512GB 追光银 oppo 9000mAh冰川电池 165Hz高刷东方屏 智能游戏电竞手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 851,
+                "【一加 Ace 6T】一加 Ace 6T 12GB+256GB 闪速黑 oppo 第五代骁龙 8 165Hz 超高刷电竞屏 学生游戏智能手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 4,
+                "【一加 Ace 6T】一加 Ace 6T 16GB+256GB 闪速黑 oppo 第五代骁龙 8 165Hz 超高刷电竞屏 学生游戏智能手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 4,
+                "【一加 Ace 6T】一加 Ace 6T 16GB+512GB 闪速黑 oppo 第五代骁龙 8 165Hz 超高刷电竞屏 学生游戏智能手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 11,
+                "【一加 Ace 6T】一加 Ace 6T 12GB+512GB 闪速黑 oppo 第五代骁龙 8 165Hz 超高刷电竞屏 学生游戏智能手机 国家补贴【行情 报价 价格 评测】-京东 和另外 17 个页面 - 个人 - Microsoft​ Edge": 6,
+                "OPPO Find X9 Pro 旗舰手机 哈苏2亿超清长焦镜头 超动态大底主摄 7500mAh 冰川电池【线条小狗联名】 绒砂钛 12GB+512GB【图片 价格 品牌 报价】-京东 和另外 15 个页面 - 个人 - Microsoft​ Edge": 36,
+                "find x9pro - 商品搜索 - 京东 和另外 14 个页面 - 个人 - Microsoft​ Edge": 2,
+                "OPPO Find X9 Pro 和另外 12 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO Find X9 Pro 产品参数 | OPPO 官方网站 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OPPO 智能手机 | OPPO 官方网站 和另外 10 个页面 - 个人 - Microsoft​ Edge": 10,
+                "oppo - 搜索 和另外 9 个页面 - 个人 - Microsoft​ Edge": 3,
+                "一加 Turbo 6 和另外 8 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 Turbo 6 参数规格 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 Turbo 6 性能续航超新星 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 15 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 15 参数规格 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 15 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "一加 15 性能 Ultra 超旗舰 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "比亚迪 ota - 搜索 - 个人 - Microsoft​ Edge": 23,
+                "汽车之家|OTA升级开始了！比亚迪宋prodmi智驾版ota升级了|宋Pro/宋Pro新能源|论坛 和另外 1 个页面 - 个人 - Microsoft​ Edge": 38,
+                "汽车之家_看车 买车 用车 换车,省时省心省钱! 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                "中型SUV2026最新汽车之家报价-怎么选车-买什么车好-在售-关注度高-汽车之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 10,
+                "【比亚迪】_比亚迪汽车价格_比亚迪报价_图片_关注度高_在售_第1页-汽车之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 7,
+                "【宋L DM-i】比亚迪_宋L DM-i报价_宋L DM-i图片_汽车之家 和另外 4 个页面 - 个人 - Microsoft​ Edge": 8,
+                "汽车之家|宋L DM-i|论坛|社区|怎么样|买车网 和另外 5 个页面 - 个人 - Microsoft​ Edge": 54,
+                "无标题 和另外 6 个页面 - 个人 - Microsoft​ Edge": 3,
+                "汽车之家|压哨提车，26款宋Ldmi超越版（附发票）|宋L DM-i|论坛 和另外 6 个页面 - 个人 - Microsoft​ Edge": 17,
+                "Unknown Title": 7,
+                "汽车之家|宋L dmi 2025款的智驾能不能升级长续航模式啊|宋L DM-i|论坛 和另外 6 个页面 - 个人 - Microsoft​ Edge": 14,
+                "汽车之家|自从年初换了这台宋L DM-i，我的生活彻底变了样|宋L DM-i|论坛 和另外 6 个页面 - 个人 - Microsoft​ Edge": 9,
+                "汽车之家|有没有75KM车主跟我一起投诉OTA|宋L DM-i|论坛 和另外 6 个页面 - 个人 - Microsoft​ Edge": 27,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "百度一下，你就知道 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "比亚迪 ota_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 37,
+                "比亚迪 ota - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 25,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6
+            }
+        },
+        "Notepad--.exe": {
+            "total": 25,
+            "titles": {
+                "New 0 [文本模式] - Ndd": 6,
+                "New 1 [文本模式] - Ndd": 18,
+                "关闭文件之前，是否保存修改？ - Ndd": 1
+            }
+        },
+        "idea64.exe": {
+            "total": 46,
+            "titles": {
+                "Programmer – ConsoleApplication1.cpp": 35,
+                "IntelliJ IDEA 和插件更新": 2,
+                "插件更新": 2,
+                "Unknown Title": 3,
+                "ConsoleApplication1.cpp": 2,
+                "确认退出": 2
+            }
+        },
+        "java.exe": {
+            "total": 22,
+            "titles": {
+                "更新": 22
+            }
+        },
+        "Code.exe": {
+            "total": 74,
+            "titles": {
+                "Visual Studio Code": 1,
+                "Welcome - Visual Studio Code": 73
+            }
+        }
+    }
+}

@@ -1,0 +1,549 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-13 11:35:50",
+            "end": "2025-12-13 12:48:00"
+        },
+        {
+            "start": "2025-12-13 12:51:32",
+            "end": "2025-12-13 12:57:00"
+        },
+        {
+            "start": "2025-12-13 12:58:38",
+            "end": "2025-12-13 18:42:00"
+        },
+        {
+            "start": "2025-12-13 21:25:43",
+            "end": "2025-12-13 21:57:00"
+        }
+    ],
+    "idle_seconds": 10061,
+    "apps": {
+        "clash-verge.exe": {
+            "total": 632,
+            "titles": {
+                "Clash Verge": 632
+            }
+        },
+        "explorer.exe": {
+            "total": 374,
+            "titles": {
+                "Program Manager": 245,
+                "Unknown Title": 76,
+                "Statistics - 文件资源管理器": 3,
+                "贴靠助手": 1,
+                "zenbrightgamecocos - 文件资源管理器": 2,
+                "Codes - 文件资源管理器": 2,
+                "compile_packaging_publish2 - 文件资源管理器": 9,
+                "系统托盘溢出窗口。": 19,
+                "删除快捷方式": 1,
+                "所有控制面板项": 3,
+                "控制面板": 5,
+                "程序": 8
+            }
+        },
+        "SearchHost.exe": {
+            "total": 135,
+            "titles": {
+                "搜索": 135
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 13,
+            "titles": {
+                "开始": 13
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 843,
+            "titles": {
+                "设置": 125,
+                "Microsoft Store": 687,
+                "Armoury Crate": 31
+            }
+        },
+        "devenv.exe": {
+            "total": 501,
+            "titles": {
+                "Microsoft Visual Studio": 30,
+                "NSWebApi - NSWebApi - Microsoft Visual Studio": 63,
+                "Microsoft Visual Studio Community 2026": 10,
+                "zenFocusStore - HomeView.xaml.cs - Microsoft Visual Studio": 322,
+                "检测到文件修改": 2,
+                "选项": 3,
+                "颜色": 5,
+                "Unknown Title": 62,
+                "选项 - Microsoft Visual Studio": 1,
+                "zenFocusStore - Microsoft Visual Studio": 2,
+                "NSWebApi - Microsoft Visual Studio": 1
+            }
+        },
+        "setup.exe": {
+            "total": 114,
+            "titles": {
+                "Visual Studio Installer": 114
+            }
+        },
+        "steam.exe": {
+            "total": 2,
+            "titles": {
+                "Steam": 2
+            }
+        },
+        "Trae.exe": {
+            "total": 108,
+            "titles": {
+                "Trae": 8,
+                "项目结构.md - zenbrightgamecocos - Trae": 18,
+                "更新日志 - zenbrightgamecocos - Trae": 4,
+                "设置 - zenbrightgamecocos - Trae": 3,
+                "Editor 设置 - zenbrightgamecocos - Trae": 3,
+                "settings.json - zenbrightgamecocos - Trae": 44,
+                "扩展: Atom One Dark Theme - zenbrightgamecocos - Trae": 5,
+                "扩展: One Dark Pro - zenbrightgamecocos - Trae": 12,
+                "扩展: Atom One Light Theme - zenbrightgamecocos - Trae": 11
+            }
+        },
+        "Cursor.exe": {
+            "total": 723,
+            "titles": {
+                "Cursor": 14,
+                "Preview 功能说明.md - zenbrightgamecocos - Cursor": 90,
+                "Cursor Settings - zenbrightgamecocos - Cursor": 3,
+                "Settings - zenbrightgamecocos - Cursor": 6,
+                "settings.json - zenbrightgamecocos - Cursor": 87,
+                "● settings.json - zenbrightgamecocos - Cursor": 33,
+                "Extension: Atom One Dark Theme - zenbrightgamecocos - Cursor": 17,
+                "Extension: One Dark Pro - zenbrightgamecocos - Cursor": 10,
+                "功能说明.md - zenbrightgamecocos - Cursor": 1,
+                "zenbrightgamecocos - Cursor": 8,
+                "Extension: Atom One Light Theme - zenbrightgamecocos - Cursor": 13,
+                "Open Folder": 3,
+                "compile_packaging_publish2 - Cursor": 383,
+                "http_util提示词.txt - compile_packaging_publish2 - Cursor": 55
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 238,
+            "titles": {
+                "特惠": 19,
+                "Steam": 126,
+                "登录 Steam": 25,
+                "Unknown Title": 2,
+                "Steam - 浏览器": 66
+            }
+        },
+        "TraeSetup-stable-1.0.26198.tmp": {
+            "total": 5,
+            "titles": {
+                "安装 - Trae (User)": 5
+            }
+        },
+        "yuanbao.exe": {
+            "total": 12,
+            "titles": {
+                "腾讯元宝": 8,
+                "元宝设置": 4
+            }
+        },
+        "Everything.exe": {
+            "total": 32,
+            "titles": {
+                "Everything": 13,
+                "关于 Everything": 2,
+                "sone  - Everything": 3,
+                "sone 56 - Everything": 1,
+                "sone 5 - Everything": 13
+            }
+        },
+        "AMDInstallManager.exe": {
+            "total": 164,
+            "titles": {
+                "AMD Install Manager": 164
+            }
+        },
+        "RadeonSoftware.exe": {
+            "total": 43,
+            "titles": {
+                "AMD Software: Adrenalin Edition": 43
+            }
+        },
+        "chrome.exe": {
+            "total": 1858,
+            "titles": {
+                "无标题 - Google Chrome": 7,
+                "How to Install AMD Ryzen™ Chipset Drivers on a Windows® Based System - Google Chrome": 13,
+                "您的 AdBlock 已更新！ - Google Chrome": 2,
+                "Drivers and Support for Processors and Graphics - Google Chrome": 279,
+                "新标签页 - Google Chrome": 26,
+                "快科技--科技改变未来 - Google Chrome": 40,
+                "MissAV | 免费高清AV在线看 - Google Chrome": 5,
+                "sone 560的搜寻结果 - MissAV | 免费高清AV在线看 - Google Chrome": 61,
+                "SONE-560 S1 PRECIOUS GIRLS 2024 24场全明星聚会 哈林岛特辑 - 奥田咲 - - Google Chrome": 209,
+                "missav.ws/pop?url=https%3A%2F%2Fdiffusedpassionquaking.com%2F1919723%2F%3F3 - Google Chrome": 1,
+                "新国标电动车限定时速25公里到底能不能偷偷改：九号、爱玛、雅迪等确认了！--快科技--科技改变未来 - Google Chrome": 33,
+                "离完美回收只差一步！朱雀三号总师首次披露火箭回收细节--快科技--科技改变未来 - Google Chrome": 168,
+                "AMD Software: Adrenalin Edition™ Application - Google Chrome": 39,
+                "Get Drivers with AMD Auto-Detect and Install Tool - Google Chrome": 3,
+                "阿斯麦CEO：中国不可能接受被“卡脖子”不如让其保持依赖 以防自主研发形成竞争力--快科技--科技改变未来 - Google Chrome": 40,
+                "存储疯涨下：戴尔打响PC涨价第一枪 128GB内存上涨1657元--快科技--科技改变未来 - Google Chrome": 17,
+                "全球首款RGB-MiniLED显示器来了：背光进入彩色时代--快科技--科技改变未来 - Google Chrome": 13,
+                "摩尔线程回应“拟用75亿元闲置募资现金理财”：符合公司及全体股东利益 金额将小于上限--快科技--科技改变未来 - Google Chrome": 2,
+                "missav.ws - Google Chrome": 1,
+                "www.amd.com - Google Chrome": 1,
+                "AMD Ryzen™ and Athlon™ Mobile (Chipset) Drivers and Downloads | Latest Version - Google Chrome": 34,
+                "另存为": 2,
+                "近期的下载记录": 28,
+                "员工“踢了一脚”：救了老板一命--快科技--科技改变未来 - Google Chrome": 3,
+                "AMD Ryzen™ 7 7840HS Drivers and Downloads | Latest Version - Google Chrome": 14,
+                "bilibili大会员有什么功能_百度搜索 - Google Chrome": 648,
+                "百度一下，你就知道 - Google Chrome": 1,
+                "GPT5.2_百度搜索 - Google Chrome": 15,
+                "中央重磅定调生育、教育政策_百度搜索 - Google Chrome": 8,
+                "中央重磅定调生育、教育政策 - Google Chrome": 5,
+                "设置 - 关于 Chrome - Google Chrome": 19,
+                "设置 - Google Chrome": 1,
+                "accounts.google.com/v3/signin/accountchooser?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&prompt=consent&redirect_uri=http%3A%2F%2Flocalhost%3A53016%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%": 1,
+                "登录 - Google 账号 - Google Chrome": 73,
+                "验证身份 为了确保您的账号安全，Google 希望确认是您本人在操作 - Google Chrome": 22,
+                "Google Antigravity - Google Chrome": 2,
+                "Google Antigravity Auth Success - Google Chrome": 9,
+                "ToDesk_百度搜索 - Google Chrome": 4,
+                "ToDesk远程桌面软件-免费安全流畅的远程连接电脑手机 - Google Chrome": 9
+            }
+        },
+        "Thunder.exe": {
+            "total": 530,
+            "titles": {
+                "迅雷": 504,
+                "新建任务面板": 8,
+                "Unknown Title": 4,
+                "确定要删除吗？": 2,
+                "index.html": 5,
+                "提示框": 4,
+                "任务已存在": 3
+            }
+        },
+        "APlayer.exe": {
+            "total": 6,
+            "titles": {
+                "Unknown Title": 6
+            }
+        },
+        "amd-software-adrenalin-edition-25.12.1-minimalsetup-251207_web.exe": {
+            "total": 2,
+            "titles": {
+                "AMD Software Adrenalin Edition": 2
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 1,
+            "titles": {
+                "迅雷升级程序": 1
+            }
+        },
+        "Xmp.exe": {
+            "total": 46,
+            "titles": {
+                "迅雷影音": 44,
+                "消息提示": 2
+            }
+        },
+        "AMD_Chipset_Software_7.11.26.2142.exe": {
+            "total": 9,
+            "titles": {
+                "AMD 芯片组软件: 正在安装": 9
+            }
+        },
+        "CCleaner.exe": {
+            "total": 12,
+            "titles": {
+                "Unknown Title": 7,
+                "CCleaner": 4,
+                "CCleaner：设置": 1
+            }
+        },
+        "Setup.exe": {
+            "total": 19,
+            "titles": {
+                "AMD Chipset Software Installer": 19
+            }
+        },
+        "AMDSoftwareInstaller.exe": {
+            "total": 128,
+            "titles": {
+                "AMD SOFTWARE": 128
+            }
+        },
+        "pythonw.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "Hiddify.exe": {
+            "total": 10,
+            "titles": {
+                "Hiddify": 10
+            }
+        },
+        "navicat.exe": {
+            "total": 11,
+            "titles": {
+                "About Navicat": 3,
+                "Navicat Premium": 5,
+                "Navicat Updater": 3
+            }
+        },
+        "msedge.exe": {
+            "total": 891,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 18,
+                "windows store 更新很慢 - 搜索 - 个人 - Microsoft​ Edge": 4,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "rgb to hex - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 35,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                "Google 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "Google Search 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "antigravity - Google 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "antigravity - Google 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "Google Antigravity 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Google Antigravity Download 和另外 3 个页面 - 个人 - Microsoft​ Edge": 11,
+                "DevTools - antigravity.google/download": 10,
+                "rgb to hex - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 23,
+                "另存为": 2,
+                "程序员编辑器背景色 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 9,
+                "zhihu.com/question/382725548 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "为什么大多数的程序员的编程界面背景都是黑色的? - 知乎 和另外 4 个页面 - 个人 - Microsoft​ Edge": 97,
+                "windows store 更新很慢 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 5,
+                "编程用什么背景色好 • Worktile社区 和另外 4 个页面 - 个人 - Microsoft​ Edge": 11,
+                "为什么大多数的程序员的编程界面背景都是黑色的? - 知乎 和另外 2 个页面 - 个人 - Microsoft​ Edge": 41,
+                "antigravity - Google 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Google Antigravity Download 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "101.43.108.231/users/sign_in 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "登录 · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "项目 · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "ZenSystem / compile_packaging_publish2 · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "设置 - 个人 - Microsoft​ Edge": 25,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 7,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "纯视觉、激光雷达路线再引争议！博主称除了华为 没几家车企爱用激光雷达数据--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 64,
+                "Google 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "gpt - Google 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "gpt - Google 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "gpt5.2 - Google 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "gpt5.2 - Google 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 5,
+                "ChatGPT 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "GPT-5 系统卡更新：GPT-5.2 | OpenAI 和另外 3 个页面 - 个人 - Microsoft​ Edge": 5,
+                "gpt5.2 - Google 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "GPT5.2 发布！刷榜 Gemini 3、Claude，如何使用 GPT5.2？ - 知乎 和另外 4 个页面 - 个人 - Microsoft​ Edge": 27,
+                "还原页面": 1,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 5,
+                "deepseek - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "DeepSeek | 深度求索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 15,
+                "DeepSeek App 和另外 7 个页面 - 个人 - Microsoft​ Edge": 10,
+                "新建标签页 和另外 8 个页面 - 个人 - Microsoft​ Edge": 4,
+                "无标题 和另外 10 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Kimi - K2 长思考上线 和另外 10 个页面 - 个人 - Microsoft​ Edge": 80,
+                "NuGet服务器与库 - Kimi 和另外 10 个页面 - 个人 - Microsoft​ Edge": 53,
+                "新建标签页 和另外 11 个页面 - 个人 - Microsoft​ Edge": 4,
+                "kimi - 搜索 和另外 11 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Kimi - K2 长思考上线 和另外 12 个页面 - 个人 - Microsoft​ Edge": 11,
+                "kimi - 搜索 和另外 12 个页面 - 个人 - Microsoft​ Edge": 22,
+                "kimi.moonshot.cn/download/app?ref 和另外 13 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Kimi - 会推理解析，能深度思考的 AI 助手 和另外 13 个页面 - 个人 - Microsoft​ Edge": 3,
+                "kimi官网 - 搜索 和另外 12 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Kimi - K2 长思考上线 和另外 13 个页面 - 个人 - Microsoft​ Edge": 18,
+                "kimi官网 - 搜索 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "IIS Windows - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "如何搭建并使用 NuGet Server: 从零到一的实战指南-CSDN博客 和另外 11 个页面 - 个人 - Microsoft​ Edge": 18,
+                "NuGet服务器与库 - Kimi 和另外 9 个页面 - 个人 - Microsoft​ Edge": 2,
+                "DeepSeek App 和另外 9 个页面 - 个人 - Microsoft​ Edge": 3,
+                "kimi - 搜索 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "NuGet服务器与库 - Kimi 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "GPT-5 系统卡更新：GPT-5.2 | OpenAI 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "隆重推出 GPT-5.2 | OpenAI 和另外 4 个页面 - 个人 - Microsoft​ Edge": 18,
+                "隆重推出 GPT-5.2 | OpenAI 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 70,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "内存转接卡是什么 它能帮你度过内存涨价潮吗--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 9,
+                "首款骁龙8E5双潜望旗舰来了！OPPO Find X9 Ultra明年Q1见--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 10,
+                "为啥公共厕所的门下都要空一截？原因竟是……--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 18,
+                "我国科学家重磅发现：地球深处可能存在一个“超级海洋”！--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "网络文学作家痞子老妖突发心梗离世：故事未完结 他便离开了这世界--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 2,
+            "titles": {
+                "截图工具覆盖": 2
+            }
+        },
+        "mspaint.exe": {
+            "total": 44,
+            "titles": {
+                "无标题 - 画图": 17,
+                "Unknown Title": 27
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "Cursor 的跳转列表": 2
+            }
+        },
+        "Code.exe": {
+            "total": 113,
+            "titles": {
+                "Visual Studio Code": 3,
+                "1.1.1.ipynb - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 44,
+                "settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 27,
+                "Settings - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 14,
+                "Extension: One Dark Pro - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 4,
+                "Release Notes: 1.107.0 - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 13,
+                "● settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 2,
+                "Extension: Atom One Light Theme - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 6
+            }
+        },
+        "VSIXInstaller.exe": {
+            "total": 14,
+            "titles": {
+                "VSIX Installer": 14
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 8448,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 85,
+                "undefined": 1,
+                "老谢“车帮买”，台湾离谱车价真的比大陆贵不止一倍！！": 95,
+                "君子爱财，取之有道！这钱挣的脸都不要了！": 358,
+                "人和人的差距，比人和狗还大！": 7,
+                "爱丽丝•魏德尔丨“我在中国被人认出来，我很惊讶”": 20,
+                "在上海，35岁之后还是未婚未育是种怎样的体验？": 49,
+                "万米黑飞，破解伪造，是谁在挑战航空安全底线？难度?星": 79,
+                "锐评锐评锐评从夯到拉从夯到拉从夯到拉": 63,
+                "《2025十大冷门好剧》：不火，但用心拍的剧，值得被看到！": 150,
+                "轻松学会！高手都在用的AI编程大法！": 7541
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 38,
+            "titles": {
+                "MainWindow": 38
+            }
+        },
+        "Antigravity.tmp": {
+            "total": 17,
+            "titles": {
+                "安装 - Antigravity (User)": 15,
+                "文件夹存在": 1,
+                "Unknown Title": 1
+            }
+        },
+        "Antigravity.exe": {
+            "total": 20,
+            "titles": {
+                "Antigravity": 20
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 1,
+            "titles": {
+                "Terminal": 1
+            }
+        },
+        "icarus_ui.exe": {
+            "total": 8,
+            "titles": {
+                "CCleaner": 8
+            }
+        },
+        "Androws.exe": {
+            "total": 100,
+            "titles": {
+                "DeepSeek": 98,
+                "确定要退出DeepSeek吗？": 2
+            }
+        },
+        "AndrowsStore.exe": {
+            "total": 2,
+            "titles": {
+                "腾讯应用宝移动应用引擎": 2
+            }
+        },
+        "EXCEL.EXE": {
+            "total": 16,
+            "titles": {
+                "正在打开 - Excel": 3,
+                "Excel": 3,
+                "工作簿1 - Excel": 10
+            }
+        },
+        "OfficeClickToRun.exe": {
+            "total": 53,
+            "titles": {
+                "‪正在检查更新‬": 7,
+                "‪正在下载 Microsoft 365 和 Office 更新...‬": 20,
+                "‪正在关闭应用...‬": 26
+            }
+        },
+        "Doubao.exe": {
+            "total": 251,
+            "titles": {
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 154,
+                "Unknown Title": 2,
+                "无标题 - 豆包": 1,
+                "open.douyin.com/platform/oauth/connect?client_key=awi9bxweb2hc2yb9&optionalScope=mobile%2C1&client_id=awi9bxweb2hc2yb9&redirect_uri=https%3A%2F%2Fwww.doubao.com%2Fauth%2Fcallback&response_type=code&scope=user_info%2Cmobile&state=eyJlbnRyeSI6Ii9jbGllbnQtbG9naW4tbW9kYWwiLCJ0cmFja01ldGEiOnsibG9naW5fZW50cmFuY2UiOiJzaWduX2luIn0sInBsYXRmb3JtIjoiYXdlbWVfdjIiLCJuYXZpZ2F0ZVBhdGgiOiIvY2xpZW50LWxvZ2luLW1vZGFsP2VudHJ5PXNldHRpbmdzJmZlYXR1cmU9bG9naW5fYnV0dG9uJmlzVGFiPXRydWUmb3JpZ2luX2xhbmRpbmc9aHR0cHMlM0ElMkYlMkZ3d3cuZG": 1,
+                "抖音授权 - 豆包": 13,
+                "豆包 - 豆包": 1,
+                "doubao.com/chat/ - 豆包": 2,
+                "新对话 - 豆包 - 豆包": 39,
+                "搭建私有 NuGet 服务的多种方案及注意事项 - 豆包 - 豆包": 38
+            }
+        },
+        "kimi_2.1.3.tmp": {
+            "total": 66,
+            "titles": {
+                "安装 - Kimi": 66
+            }
+        },
+        "Kimi.exe": {
+            "total": 180,
+            "titles": {
+                "Unknown Title": 180
+            }
+        },
+        "ToDesk_4.8.3.3.exe": {
+            "total": 7,
+            "titles": {
+                "ToDesk安装程序": 7
+            }
+        },
+        "ToDesk.exe": {
+            "total": 69,
+            "titles": {
+                "ToDesk": 69
+            }
+        },
+        "AacMouseSetup.exe": {
+            "total": 3,
+            "titles": {
+                "Unknown Title": 3
+            }
+        },
+        "cmd.exe": {
+            "total": 1,
+            "titles": {
+                "C:\\WINDOWS\\system32\\cmd.exe": 1
+            }
+        },
+        "OptionalFeatures.exe": {
+            "total": 114,
+            "titles": {
+                "Windows 功能": 114
+            }
+        }
+    }
+}

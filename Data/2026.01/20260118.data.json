@@ -1,0 +1,181 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-18 21:20:07",
+            "end": "2026-01-18 22:18:00"
+        },
+        {
+            "start": "2026-01-18 22:21:32",
+            "end": "2026-01-18 22:23:00"
+        }
+    ],
+    "idle_seconds": 295,
+    "apps": {
+        "Doubao.exe": {
+            "total": 59,
+            "titles": {
+                "豆包": 32,
+                "Unknown Title": 3,
+                "doubao://doubao-settings/settings - 豆包浏览器": 1,
+                "豆包设置 - 豆包浏览器": 22,
+                "无标题 - 豆包浏览器": 1
+            }
+        },
+        "explorer.exe": {
+            "total": 249,
+            "titles": {
+                "Program Manager": 215,
+                "Unknown Title": 31,
+                "系统托盘溢出窗口。": 3
+            }
+        },
+        "SearchHost.exe": {
+            "total": 37,
+            "titles": {
+                "搜索": 37
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 7,
+            "titles": {
+                "开始": 7
+            }
+        },
+        "ThunderStart.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "Thunder.exe": {
+            "total": 7,
+            "titles": {
+                "迅雷": 6,
+                "thunder": 1
+            }
+        },
+        "Cursor.exe": {
+            "total": 51,
+            "titles": {
+                "Cursor": 2,
+                "Cursor Settings - zencore - Cursor": 27,
+                "launch.json - zencore - Cursor": 22
+            }
+        },
+        "devenv.exe": {
+            "total": 74,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 1,
+                "Microsoft Visual Studio": 1,
+                "新增功能 - Microsoft Visual Studio": 6,
+                "NSWebApi - Microsoft Visual Studio": 1,
+                "NSWebApi - NSWebApi - Microsoft Visual Studio": 56,
+                "编辑项": 9
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 1,
+            "titles": {
+                "迅雷升级程序": 1
+            }
+        },
+        "Weixin.exe": {
+            "total": 223,
+            "titles": {
+                "微信": 218,
+                "Weixin": 2,
+                "设置": 3
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 146,
+            "titles": {
+                "Unknown Title": 6,
+                "微信": 140
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 2281,
+            "titles": {
+                "undefined": 1,
+                "如何鉴别网友是真人还是AI？": 75,
+                "【大虾沉浸式试车】看看蔚来的科技旗舰座驾！蔚来ET9👉快来快来～带你沉浸式体验！": 278,
+                "王之李昊！李昊连续宇宙级扑救，国足机会寥寥全场被动，王钰栋点球被黑，U23国足点球4比2乌兹进军四强！": 329,
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 59,
+                "还有高手？年底的沙雕新闻竞争的太激烈啦 ！": 489,
+                "王楚淇解说：曼联三球越位，仍二比零战胜曼城。": 16,
+                "掌控全局！卡里克执教首秀 姆伯莫破门 曼联2比0曼城": 812,
+                "成本3元卖30，利润翻10倍！高端烧鸟，批量倒闭": 33,
+                "江浙沪独生女的斩杀线是印度人？？？《最 骚 营 销 号 92》": 92,
+                "我怎么被上海斩杀的！（私密拍摄，友情提示：本视频仅为本人真实经历": 23,
+                "你们中国人提出斩杀线把美警雇员搞的焦虑不安": 53,
+                "【熟肉】美国时事博主看中国发明“斩杀线”！中国人是对的！中国人太会造词太贴切了！": 21
+            }
+        },
+        "setup.exe": {
+            "total": 4,
+            "titles": {
+                "Visual Studio Installer": 4
+            }
+        },
+        "Code.exe": {
+            "total": 16,
+            "titles": {
+                "Welcome - Visual Studio Code": 16
+            }
+        },
+        "Trae.exe": {
+            "total": 26,
+            "titles": {
+                "zenbrightgamecocos - Trae": 14,
+                "更新日志 - zenbrightgamecocos - Trae": 12
+            }
+        },
+        "TraeSetup-stable-2.3.3149.tmp": {
+            "total": 1,
+            "titles": {
+                "安装 - Trae (User)": 1
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 3,
+            "titles": {
+                "MainWindow": 3
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 42,
+            "titles": {
+                "Armoury Crate": 16,
+                "设置": 12,
+                "Microsoft Store": 14
+            }
+        },
+        "RadeonSoftware.exe": {
+            "total": 6,
+            "titles": {
+                "AMD Software: Adrenalin Edition": 6
+            }
+        },
+        "AMDInstallManager.exe": {
+            "total": 6,
+            "titles": {
+                "AMD Install Manager": 6
+            }
+        },
+        "navicat.exe": {
+            "total": 19,
+            "titles": {
+                "About Navicat": 4,
+                "Navicat Premium": 7,
+                "Navicat Updater": 8
+            }
+        },
+        "Updater.exe": {
+            "total": 2,
+            "titles": {
+                "Navicat Updater": 2
+            }
+        }
+    }
+}

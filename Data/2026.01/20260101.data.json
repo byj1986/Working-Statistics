@@ -1,0 +1,279 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-01 21:09:08",
+            "end": "2026-01-01 22:34:00"
+        }
+    ],
+    "idle_seconds": 1430,
+    "apps": {
+        "explorer.exe": {
+            "total": 396,
+            "titles": {
+                "Unknown Title": 84,
+                "Program Manager": 33,
+                "系统托盘溢出窗口。": 10,
+                "运行": 3,
+                "启动 - 文件资源管理器": 22,
+                "Python314 - 文件资源管理器": 4,
+                "start_app_tracker 属性": 5,
+                "文件资源管理器": 1,
+                "此电脑 - 文件资源管理器": 24,
+                "Data (D:) - 文件资源管理器": 45,
+                "Statistics - 文件资源管理器": 13,
+                "删除文件": 2,
+                "迅雷云盘 - 文件资源管理器": 1,
+                "迅雷下载 - 文件资源管理器": 57,
+                "藏海传[全40集][国语配音+中文字幕].Legend.of.Zang.Hai.S01.2025.2160p.WEB-DL.H265.DTS5.1-BlackTV - 文件资源管理器": 12,
+                "曲库 - 文件资源管理器": 1,
+                "configurations - 文件资源管理器": 6,
+                "System (C:) - 文件资源管理器": 2,
+                "用户 - 文件资源管理器": 2,
+                "byj19 - 文件资源管理器": 4,
+                "Codes - 文件资源管理器": 40,
+                "996.ICU - 文件资源管理器": 1,
+                "AngularProxy - 文件资源管理器": 1,
+                "Programmer - 文件资源管理器": 6,
+                "intermediate - 文件资源管理器": 1,
+                "elementary - 文件资源管理器": 4,
+                "Project1 - 文件资源管理器": 3,
+                "ConsoleApplication1 - 文件资源管理器": 3,
+                "snake_tare - 文件资源管理器": 2,
+                "TRAE_POC - 文件资源管理器": 1,
+                "WorkingTimer - 文件资源管理器": 1,
+                "zenbrightgamecocos - 文件资源管理器": 2
+            }
+        },
+        "SearchHost.exe": {
+            "total": 47,
+            "titles": {
+                "搜索": 47
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 3,
+            "titles": {
+                "开始": 3
+            }
+        },
+        "Trae.exe": {
+            "total": 241,
+            "titles": {
+                "Trae": 26,
+                "zenbrightgamecocos - Trae": 94,
+                "Release Notes - zenbrightgamecocos - Trae": 121
+            }
+        },
+        "Cursor.exe": {
+            "total": 17,
+            "titles": {
+                "Cursor": 3,
+                "loan_calculator.py - LearningPython - Cursor": 14
+            }
+        },
+        "Hiddify.exe": {
+            "total": 40,
+            "titles": {
+                "Hiddify": 40
+            }
+        },
+        "TraeSetup-stable-1.0.27449.tmp": {
+            "total": 32,
+            "titles": {
+                "安装 - Trae (User)": 32
+            }
+        },
+        "steam.exe": {
+            "total": 1,
+            "titles": {
+                "Steam": 1
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 150,
+            "titles": {
+                "登录 Steam": 26,
+                "Steam": 121,
+                "Unknown Title": 3
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 1,
+            "titles": {
+                "MainWindow": 1
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 130,
+            "titles": {
+                "Armoury Crate": 34,
+                "Microsoft Store": 79,
+                "设置": 17
+            }
+        },
+        "idea64.exe": {
+            "total": 100,
+            "titles": {
+                "Unknown Title": 2,
+                "Programmer": 42,
+                "Programmer – Project1.sln": 2,
+                "注册新文件类型关联": 2,
+                "Programmer – notes.txt": 10,
+                "Programmer – ConsoleApplication1.cpp": 31,
+                "打开文件或项目": 9,
+                "确认退出": 2
+            }
+        },
+        "iCloudHome.exe": {
+            "total": 3,
+            "titles": {
+                "iCloud": 3
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 113,
+            "titles": {
+                "任务管理器": 113
+            }
+        },
+        "Notepad.exe": {
+            "total": 15,
+            "titles": {
+                "app_tracker.py - Notepad": 9,
+                "整体思路.txt - Notepad": 3,
+                "notes.txt - Notepad": 3
+            }
+        },
+        "Everything.exe": {
+            "total": 58,
+            "titles": {
+                "Everything": 6,
+                ". - Everything": 1,
+                ".java - Everything": 28,
+                "ma - Everything": 2,
+                "main - Everything": 1,
+                "main. - Everything": 2,
+                "main.ja - Everything": 2,
+                "jav - Everything": 1,
+                "java - Everything": 15
+            }
+        },
+        "7zFM.exe": {
+            "total": 2,
+            "titles": {
+                "D:\\Statistics.7z\\": 2
+            }
+        },
+        "Xmp.exe": {
+            "total": 512,
+            "titles": {
+                "迅雷影音": 512
+            }
+        },
+        "chrome.exe": {
+            "total": 723,
+            "titles": {
+                "新标签页 - Google Chrome": 46,
+                "已添加书签": 2,
+                "扩展程序": 3,
+                "集芳阁云搜 - 官方地址发布 - Google Chrome": 5,
+                "无标题 - Google Chrome": 5,
+                "第一福利导航 - fulione.app - Google Chrome": 6,
+                "草榴社區 1024 - t66y.com - Google Chrome": 1,
+                "草榴社區 - t66y.com - Google Chrome": 7,
+                "cl.guuc6j.vip - Google Chrome": 2,
+                "cl.5xgxjj.vip - Google Chrome": 1,
+                "亞洲有碼原創區 | 草榴社區 - t66y.com - Google Chrome": 20,
+                "[HD/4.76G] ABF-304 俺に沼ってる最高の女。-男本位の避妊なし中出しSEX- 鈴村あいり - 亞洲有碼原創區 | 草榴社區 - t66y.com - Google Chrome": 13,
+                "[HD/6.00G] ABF-305 釈アリスと朝まで過ごせる 超高級デートクラブ 釈アリス - 亞洲有碼原創區 | 草榴社區 - t66y.com - Google Chrome": 13,
+                "请稍候… - Google Chrome": 6,
+                "MissAV | 免费高清AV在线看 - Google Chrome": 47,
+                "WAAA-371 五日市芽衣让妹妹（清醒、害羞、对性不感兴趣）完全沉迷于性，高潮迭起，把她变成了中出肉小便池。 - Google Chrome": 18,
+                "missav.ws/pop?url=https%3A%2F%2Ftsyndicate.com%2Fapi%2Fv1%2Fdirect%2Fc65c80b49bf04c139b29dba8137a6419%3F4 - Google Chrome": 1,
+                "abf 305的搜寻结果 - MissAV | 免费高清AV在线看 - Google Chrome": 98,
+                "ABF-305 超高档的约会俱乐部，你可以在那里和爱丽丝·莎库共度良宵。 - 释アリス - MissAV | - Google Chrome": 24,
+                "ABF-292 新人 Prestige 独家持续出道 Mikasi - 三佳诗 - MissAV | 免费高清 - Google Chrome": 19,
+                "missav.ws/pop?url=https%3A%2F%2Fgo.myavlive.com%2Feasy%3FcampaignId%3Dff0b763268d316cf081ec8d3bd43ab3e5d8dd09b8fb261d4a3f1a3449ba4186b%26userId%3D050103608cf9b4d04684e5804b8637ff881d466e3ceaf77c1cc78be33cb1f3fe - Google Chrome": 5,
+                "ABF-290 极致奶油派温泉旅馆 - 尽情享受极致紧致的私处 - Umi Yakake - 八挂うみ - M - Google Chrome": 14,
+                "missav.ws/pop?url=https%3A%2F%2Fdiffusedpassionquaking.com%2F1919723%2F%3F3 - Google Chrome": 1,
+                "ABF-269 和素人单独相处一整天。中森奈奈美 - 中森ななみ - MissAV | 免费高清AV在线看 - Google Chrome": 11,
+                "sone 624的搜寻结果 - MissAV | 免费高清AV在线看 - Google Chrome": 17,
+                "SONE-962 新人NO.1 STYLE：她是美女还是素人？她有才华吗？ - 初美なのか - MissAV - Google Chrome": 13,
+                "GNI-006 新人威望独家登场，绝对宝石。回归“绝对美少女制造者”的本源。 中森七海【附10分钟限定特典片段 - Google Chrome": 8,
+                "无码流出 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 75,
+                "NTRH-001 你错过了末班车吗？我家就在附近……我让可爱的女同事在我家过夜，我们一直做爱到天亮——成人女同 - Google Chrome": 34,
+                "BBAN-328 “我还是不喜欢......”我被一个讨厌我的同事强奸...... Sei Maihara Y - Google Chrome": 11,
+                "NTRH-025 一场与一群美女共度的学校旅行！我们是几个好不容易交到女朋友的软弱男生，结果一群性感火辣的女生 - Google Chrome": 54,
+                "MIRD-270 MOODYZ首部专属超级后宫作品，《MOODYZ ONLY ONE STARS》，我爱你们所 - Google Chrome": 49,
+                "ADN-707 请原谅我…鳏夫的忧郁 7 叶山沙由里 - 叶山さゆり - MissAV | 免费高清AV在线看 - Google Chrome": 13,
+                "missav.ws/pop?url=https%3A%2F%2Fdiffusedpassionquaking.com%2F1919723%2F%3F2 - Google Chrome": 1,
+                "SNOS-016 每次我去归还被风吹走的内衣时，邻居家的L罩杯姐姐都会笑眯眯地走出来，乳沟完全暴露在外——鹫尾 - Google Chrome": 17,
+                "SNOS-008 我醒来发现自己独自一人待在饭店房间里，身边还有一个只穿著内衣的性感模特儿……我惊慌失措，她却 - Google Chrome": 2,
+                "MIDA-387 “请穿上它们，石川小姐……”保健委员会主席无意识地在室内勾引我，她没穿内裤，暴露自己，我一次 - Google Chrome": 15,
+                "IPZZ-732 有传言说，如果男员工被邀请参加有身材火辣的美女的睡衣派对，他总是会被强奸并榨干直到天亮……日 - Google Chrome": 4,
+                "结城结弦 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 9,
+                "MIAB-593 “嘿老师，用手就不算出轨！”一个过度迷恋班主任（我）的学生偷偷给我手淫，让我随时随地高潮20 - Google Chrome": 17,
+                "设置 - 关于 Chrome - Google Chrome": 9,
+                "ndd: notepad--是一个国产跨平台、轻量级的文本编辑器，是替换notepad++的一种选择。其内置强大的代码对比功能，让你丢掉付费的beyond compare。 - Google Chrome": 4,
+                "notepad--v3.6.3 · 爬山虎/ndd - Gitee.com - Google Chrome": 3
+            }
+        },
+        "msedge.exe": {
+            "total": 12,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 9,
+                "设置 - 个人 - Microsoft​ Edge": 3
+            }
+        },
+        "Weixin.exe": {
+            "total": 45,
+            "titles": {
+                "微信": 34,
+                "Weixin": 7,
+                "设置": 4
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "QQMusic.exe": {
+            "total": 8,
+            "titles": {
+                "QQ音乐": 1,
+                "大海 - 张雨生   ": 7
+            }
+        },
+        "QQMusicUp.exe": {
+            "total": 9,
+            "titles": {
+                "Unknown Title": 3,
+                "QQ音乐升级": 6
+            }
+        },
+        "Notepad--.exe": {
+            "total": 15,
+            "titles": {
+                "New 0 [文本模式] - Ndd": 11,
+                "Notepad-- Version v3.6.3 (date 20251211) - Ndd": 4
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 964,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 43,
+                "undefined": 1,
+                "元旦特别篇，年度大盘点": 920
+            }
+        },
+        "Code.exe": {
+            "total": 13,
+            "titles": {
+                "Visual Studio Code": 4,
+                "Welcome - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 9
+            }
+        }
+    }
+}

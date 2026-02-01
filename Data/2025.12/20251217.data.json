@@ -1,0 +1,128 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-17 20:28:03",
+            "end": "2025-12-17 21:21:30"
+        },
+        {
+            "start": "2025-12-17 21:22:52",
+            "end": "2025-12-17 21:56:30"
+        }
+    ],
+    "idle_seconds": 2244,
+    "apps": {
+        "clash-verge.exe": {
+            "total": 198,
+            "titles": {
+                "Clash Verge": 198
+            }
+        },
+        "SearchHost.exe": {
+            "total": 35,
+            "titles": {
+                "搜索": 35
+            }
+        },
+        "explorer.exe": {
+            "total": 76,
+            "titles": {
+                "Unknown Title": 53,
+                "Program Manager": 18,
+                "系统托盘溢出窗口。": 5
+            }
+        },
+        "setup.exe": {
+            "total": 96,
+            "titles": {
+                "Visual Studio Installer": 96
+            }
+        },
+        "Trae.exe": {
+            "total": 60,
+            "titles": {
+                "Trae": 10,
+                "settings.json - zenbrightgamecocos - Trae": 24,
+                "Editor 设置 - zenbrightgamecocos - Trae": 2,
+                "项目结构.md - zenbrightgamecocos - Trae": 1,
+                "zenbrightgamecocos - Trae": 13,
+                "扩展: .NET Install Tool - zenbrightgamecocos - Trae": 10
+            }
+        },
+        "Code.exe": {
+            "total": 107,
+            "titles": {
+                "settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 105,
+                "Visual Studio Code": 2
+            }
+        },
+        "Cursor.exe": {
+            "total": 31,
+            "titles": {
+                "http_util提示词.txt - compile_packaging_publish2 - Cursor": 7,
+                "Cursor": 8,
+                "compile_packaging_publish2 - Cursor": 16
+            }
+        },
+        "Hiddify.exe": {
+            "total": 16,
+            "titles": {
+                "Hiddify": 16
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 7,
+            "titles": {
+                "开始": 7
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 135,
+            "titles": {
+                "登录 Steam": 24,
+                "特惠": 30,
+                "Steam": 81
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 412,
+            "titles": {
+                "Microsoft Store": 59,
+                "设置": 40,
+                "Armoury Crate": 313
+            }
+        },
+        "Kimi.exe": {
+            "total": 101,
+            "titles": {
+                "Unknown Title": 101
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 1684,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 1176,
+                "真心话大冒险": 231,
+                "一个认真教，一个学不会": 64,
+                "台湾女生在大陆生活的一天vlog！": 53,
+                "留学，但是房东挂了": 40,
+                "亚洲特快：歼-15“锁定”了日本飞机吗？": 24,
+                "12月16日美国机密文件曝光 东大有600多枚\"航母杀手\"导弹? 尹锡悦内部政变细节曝光 泰国对柬埔寨\"断油\" 马杜罗宣布制造高端芯片 泽连斯基放弃加入北约": 50,
+                "他穿了反甲": 46
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 2,
+            "titles": {
+                "MainWindow": 2
+            }
+        },
+        "navicat.exe": {
+            "total": 11,
+            "titles": {
+                "About Navicat": 3,
+                "Navicat Premium": 5,
+                "Navicat Updater": 3
+            }
+        }
+    }
+}

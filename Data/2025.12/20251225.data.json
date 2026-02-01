@@ -1,0 +1,119 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-25 19:06:30",
+            "end": "2025-12-25 22:09:30"
+        }
+    ],
+    "idle_seconds": 76,
+    "apps": {
+        "explorer.exe": {
+            "total": 17,
+            "titles": {
+                "Unknown Title": 17
+            }
+        },
+        "SearchHost.exe": {
+            "total": 27,
+            "titles": {
+                "搜索": 27
+            }
+        },
+        "Hiddify.exe": {
+            "total": 2,
+            "titles": {
+                "Hiddify": 2
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 20,
+            "titles": {
+                "Microsoft Store": 14,
+                "设置": 6
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "开始": 4
+            }
+        },
+        "msedge.exe": {
+            "total": 10142,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 20,
+                "在线键盘测试 - 搜索 - 个人 - Microsoft​ Edge": 3,
+                "在线键盘测试 | zFrontier 装备前线 和另外 1 个页面 - 个人 - Microsoft​ Edge": 319,
+                "在线键盘测试 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "键盘按键测试在线 - 键盘测试工具 - 键盘连键检测 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8878,
+                "设置 - 个人 - Microsoft​ Edge": 36,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "网易 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 80,
+                "无察觉！老板能实时监视员工的微信、硬盘等软件只需300元：杀毒软件查不出 涉嫌侵权--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 346,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "沃尔沃发动机被曝大面积故障 厂家只修不召回引不满--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 337,
+                "男子高速上开辅助驾驶 车辆瞬间失控撞隧道！自负全责--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 36,
+                "朱孝天爆料“大麦与黄牛挂钩”大麦回应：已对不实信息进行取证--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "朱孝天 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "699元 小米Buds 6发布：半入耳降噪 全链路无损音频--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "1899元！小米米家漫反射吸顶灯发布：10000lm超高亮度不刺眼、无频闪--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 25,
+                "真赚大发了：买两块9100 PRO SSD却收到整整两箱！价值超4万元--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 35,
+                "在线键盘测试 | zFrontier 装备前线 - 个人 - Microsoft​ Edge": 1
+            }
+        },
+        "iCloudHome.exe": {
+            "total": 1,
+            "titles": {
+                "iCloud": 1
+            }
+        },
+        "steam.exe": {
+            "total": 5,
+            "titles": {
+                "Steam": 5
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 570,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 24,
+                "undefined": 1,
+                "12月25日日本要造核潜艇? 日本启动深海稀土开采 美韩达成核潜艇合作协议 尹锡悦庭审爆\"惊人\"理由 美司法部涂黑文件被一键破解 乌披露\"和平计划\"草案细节": 57,
+                "《斩杀那个美利坚人》英文填词（cover杀死那个石家庄人）": 150,
+                "可以展示！解放军实战预演现场画面": 46,
+                "全网封禁！军方连夜封锁现场，巴西究竟发生了什么？多人表示有UFO坠毁在丛林，美军介入": 92,
+                "美国军力还是世界第一吗？欧洲战场揭开北约实力面纱，欧美武力到底是个什么水平？": 200
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 17,
+            "titles": {
+                "登录 Steam": 2,
+                "Steam": 15
+            }
+        },
+        "Cursor.exe": {
+            "total": 5,
+            "titles": {
+                "loan_calculator.py - LearningPython - Cursor": 3,
+                "Cursor": 2
+            }
+        },
+        "Trae.exe": {
+            "total": 47,
+            "titles": {
+                "trae.settings.json - zenbrightgamecocos - Trae": 13,
+                "Trae": 5,
+                "Release Notes - zenbrightgamecocos - Trae": 29
+            }
+        },
+        "TraeSetup-stable-1.0.27216.tmp": {
+            "total": 32,
+            "titles": {
+                "安装 - Trae (User)": 32
+            }
+        }
+    }
+}

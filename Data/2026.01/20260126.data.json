@@ -1,0 +1,243 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-26 21:05:25",
+            "end": "2026-01-26 22:38:00"
+        }
+    ],
+    "idle_seconds": 1848,
+    "apps": {
+        "Doubao.exe": {
+            "total": 590,
+            "titles": {
+                "豆包": 590
+            }
+        },
+        "SearchHost.exe": {
+            "total": 19,
+            "titles": {
+                "搜索": 19
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "开始": 4
+            }
+        },
+        "devenv.exe": {
+            "total": 141,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 1,
+                "Microsoft Visual Studio": 11,
+                "NSWebApi - Microsoft Visual Studio": 14,
+                "NSWebApi - NSWebApi: 连接的服务 - Microsoft Visual Studio": 107,
+                "Unknown Title": 8
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 52,
+            "titles": {
+                "Microsoft Store": 10,
+                "设置": 20,
+                "Windows 安全中心": 12,
+                "Armoury Crate": 10
+            }
+        },
+        "explorer.exe": {
+            "total": 31,
+            "titles": {
+                "系统托盘溢出窗口。": 2,
+                "Unknown Title": 26,
+                "nswebapi - 文件资源管理器": 3
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 2,
+            "titles": {
+                "MainWindow": 2
+            }
+        },
+        "navicat.exe": {
+            "total": 11,
+            "titles": {
+                "About Navicat": 4,
+                "Navicat Premium": 4,
+                "Navicat Updater": 3
+            }
+        },
+        "Cursor.exe": {
+            "total": 548,
+            "titles": {
+                "app_tracker.py (Working Tree) (app_tracker.py) - Statistics - Cursor": 1,
+                "auto_start.bat - Statistics - Cursor": 38,
+                "Cursor": 32,
+                "Open Folder": 8,
+                "UserRegistrationService.cs - nswebapi - Cursor": 74,
+                "DTO与数据库表差异处理策略.md - nswebapi - Cursor": 2,
+                "nswebapi - Cursor": 13,
+                "ModelValidationAttribute.cs - nswebapi - Cursor": 179,
+                "Messages.en-US.resx - nswebapi - Cursor": 4,
+                "Messages.zh-CN.resx - nswebapi - Cursor": 3,
+                "OkObjectResult.cs - nswebapi - Cursor": 5,
+                "ApiResponse.cs - nswebapi - Cursor": 49,
+                "● ModelValidationAttribute.cs - nswebapi - Cursor": 25,
+                "PermissionAttribute.cs - nswebapi - Cursor": 71,
+                "ModelValidationAttribute.cs (Working Tree) (ModelValidationAttribute.cs) - nswebapi - Cursor": 37,
+                "AcademyDynamicController.cs - nswebapi - Cursor": 7
+            }
+        },
+        "msedge.exe": {
+            "total": 1803,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 16,
+                "单机游戏排行榜_单机游戏排行榜_热门单机游戏-游侠网 和另外 7 个页面 - 个人 - Microsoft​ Edge": 2,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Steam 上的 中国式相亲 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "杀手3 游戏 - 搜索 - 个人 - Microsoft​ Edge": 1,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "github trending - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "github trending - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "trending · GitHub Topics 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "trending · GitHub Topics 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "Trending repositories on GitHub today 和另外 2 个页面 - 个人 - Microsoft​ Edge": 22,
+                "davidteather/TikTok-Api: The Unofficial TikTok API Wrapper In Python 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "Trending repositories on GitHub today 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "RAG - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "一文彻底搞懂大模型 - RAG（检索、增强、生成）-CSDN博客 和另外 3 个页面 - 个人 - Microsoft​ Edge": 18,
+                "RAG - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "一文彻底搞懂大模型 - RAG（检索、增强、生成）-CSDN博客 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Trending repositories on GitHub today 和另外 3 个页面 - 个人 - Microsoft​ Edge": 24,
+                "Trending repositories on GitHub this week 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "remotion-dev/remotion: 🎥 Make videos programmatically with React 和另外 3 个页面 - 个人 - Microsoft​ Edge": 15,
+                "remotion-dev/remotion: 🎥 Make videos programmatically with React 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Creating a new project | Remotion | Make videos programmatically 和另外 4 个页面 - 个人 - Microsoft​ Edge": 14,
+                "新建标签页 和另外 4 个页面 - 个人 - Microsoft​ Edge": 15,
+                "MissAV | 免费高清AV在线看 和另外 4 个页面 - 个人 - Microsoft​ Edge": 37,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 13,
+                "pornhub - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "新建标签页 和另外 6 个页面 - 个人 - Microsoft​ Edge": 13,
+                "pornhub - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "免费色情视频和色情电影 - 色情片、X级视频、色情视频网站 | Pornhub 和另外 5 个页面 - 个人 - Microsoft​ Edge": 24,
+                "模特名人堂：赚钱拿钱 和另外 5 个页面 - 个人 - Microsoft​ Edge": 19,
+                "模特名人堂：赚钱拿钱 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Eu Quero Minha Buceta Cheia De Porra Todo Os Dias, Então use Meu Corpo Quando Ficamos Sozinhos Em Casa! - Pornhub.com 和另外 6 个页面 - 个人 - Microsoft​ Edge": 19,
+                "火车上陌生人坐在我旁边。她想要什么？ - Pornhub.com 和另外 6 个页面 - 个人 - Microsoft​ Edge": 22,
+                "Pornhub.com：免费色情性爱图片 和另外 5 个页面 - 个人 - Microsoft​ Edge": 12,
+                "相册 - 浏览次数最多的相册 和另外 5 个页面 - 个人 - Microsoft​ Edge": 7,
+                "相册 - 浏览次数最多的相册 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "相册 - 浏览次数最多的相册 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Am I cute? - Purple Bitch's Albums 和另外 7 个页面 - 个人 - Microsoft​ Edge": 4,
+                "OUR BEST | lingerie | blowjob | panties | fuck - Rotationleft's Albums 和另外 6 个页面 - 个人 - Microsoft​ Edge": 7,
+                "相册 - 评分最高的相册 和另外 5 个页面 - 个人 - Microsoft​ Edge": 16,
+                "相册 - 评分最高的相册 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Board - abdlmasonmace's Albums 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "sexy pics;) - unknown's Albums 和另外 6 个页面 - 个人 - Microsoft​ Edge": 8,
+                "无标题 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Live Adult Cams & Private Video Chat | livehdcams.com 和另外 6 个页面 - 个人 - Microsoft​ Edge": 6,
+                "livehdcams.com - Live Adult Cams & Private Video Chat 和另外 6 个页面 - 个人 - Microsoft​ Edge": 8,
+                "livehdcams.com - Girls - Asian 和另外 6 个页面 - 个人 - Microsoft​ Edge": 17,
+                "观看最活的色情明星及影片| Pornhub 和另外 6 个页面 - 个人 - Microsoft​ Edge": 48,
+                "观看最活的色情明星及影片| Pornhub 和另外 7 个页面 - 个人 - Microsoft​ Edge": 4,
+                "观看最活的色情明星及影片| Pornhub 和另外 8 个页面 - 个人 - Microsoft​ Edge": 1,
+                "内射色情视频：免费的屁眼内射色情电视| Pornhub 和另外 8 个页面 - 个人 - Microsoft​ Edge": 9,
+                "淫荡的女孩脱光衣服，骑着鸡巴，射满了精液！！ - Pornhub.com 和另外 8 个页面 - 个人 - Microsoft​ Edge": 22,
+                "多人轮流色情电影：免费的多人内射色情电影| Pornhub 和另外 7 个页面 - 个人 - Microsoft​ Edge": 21,
+                "多人轮流色情电影：免费的多人内射色情电影| Pornhub 和另外 8 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Frances Bentley’s FIRST GANGBANG Turns into WILD Shower ORGY with Yasmina Khan & Kazumi - Pornhub.com 和另外 8 个页面 - 个人 - Microsoft​ Edge": 19,
+                "Fantastic Japanese Mummy Wakaba Onoue BJ's and Plays with Pecker in Messy Modes - Uncensored JAV! - Pornhub.com 和另外 8 个页面 - 个人 - Microsoft​ Edge": 12,
+                "18岁丰满继女。继父操她，她的大胸上下晃动。 - Pornhub.com 和另外 7 个页面 - 个人 - Microsoft​ Edge": 30,
+                "怀孕 9 个月的家庭主妇在健身房操她的前教练 - Pinay Valentines 中出 - Pornhub.com 和另外 7 个页面 - 个人 - Microsoft​ Edge": 15,
+                "免费色情视频和色情电影 - 色情片、X级视频、色情视频网站 | Pornhub 和另外 6 个页面 - 个人 - Microsoft​ Edge": 8,
+                "免费色情视频和色情电影 - 色情片、X级视频、色情视频网站 | Pornhub - 个人 - Microsoft​ Edge": 25,
+                "免费色情视频和色情电影 - 色情片、X级视频、色情视频网站 | Pornhub 和另外 1 个页面 - 个人 - Microsoft​ Edge": 34,
+                "Johnny Sins just Destroyed my Tiny little Asian Pussy and Creamed inside - Rikako Katayama - Pornhub.com 和另外 1 个页面 - 个人 - Microsoft​ Edge": 20,
+                "免费色情视频和色情电影 - 色情片、X级视频、色情视频网站 | Pornhub 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "台 灣 學 生色情片 | Pornhub.com 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "台 灣 學 生色情片 | Pornhub.com 和另外 3 个页面 - 个人 - Microsoft​ Edge": 33,
+                "台 灣 學 生色情片 | Pornhub.com 和另外 4 个页面 - 个人 - Microsoft​ Edge": 10,
+                "(IG: @wuwur_0217)【 教你5招】打手槍 幫男生尻槍 !! 打手槍秘訣 打飛機 1分鐘就射出來的方法 日本NPG Tiara Pro潤滑 - Pornhub.com 和另外 4 个页面 - 个人 - Microsoft​ Edge": 29,
+                "快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "快科技--科技改变未来 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "麒麟9030供货进入爬坡阶段！华为正加快Mate 80 Pro Max产能--快科技--科技改变未来 和另外 5 个页面 - 个人 - Microsoft​ Edge": 29,
+                "與台灣女大學生的酥麻晨砲 - Pornhub.com 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "(IG: @wuwur_0217)【 教你5招】打手槍 幫男生尻槍 !! 打手槍秘訣 打飛機 1分鐘就射出來的方法 日本NPG Tiara Pro潤滑 - Pornhub.com 和另外 5 个页面 - 个人 - Microsoft​ Edge": 214,
+                "與台灣女大學生的酥麻晨砲 - Pornhub.com 和另外 4 个页面 - 个人 - Microsoft​ Edge": 49,
+                "快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 179,
+                "马化腾点名豆包手机 ：腾讯一贯坚守产品安全性 豆包手机疑回应--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 8,
+                "越降越贵！宝马新车到手价反比官价还贵 终端优惠也大减--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 36,
+                "华为靳玉志-30℃极寒下亲自测试奕境SUV：表现很稳--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 18,
+                "80 90后的养老游戏回来了！马化腾官宣：QQ农场将回归--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 6,
+                "印度街头千万富翁乞丐被抓：白天乞讨 晚上放高利贷--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 15,
+                "Windows开年首更大翻车！微软建议卸载：没曾想卸载也出错--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "《地平线6》首发550辆汽车！国产神车五菱宏光S在内--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "均速103km/h 特斯拉Model S用FSD跑4958公里全程零接管！--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "大爷2万多网购宝马X5 5天趴窝4次欲哭无泪：网友都看无语 监管部门已介入调查--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 17,
+                "错过路口强行变道遭半挂猛撞！小车女司机：我打了转向灯啊--快科技--科技改变未来 和另外 4 个页面 - 个人 - Microsoft​ Edge": 51,
+                "麒麟9030供货进入爬坡阶段！华为正加快Mate 80 Pro Max产能--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 71,
+                "全球首款双2亿像素小屏旗舰！OPPO Find X9s来了--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 21,
+                "用上问界M7同款舱内激光视觉 宝骏大六座SUV华境S实车曝光--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "1399元！比亚迪上线驾控升级服务：仰望U8可横向移动--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 24,
+                "realme为什么没能成为第二个红米--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 30,
+                "近40%美国人拿不出400美元应急！美国首次回应斩杀线困境--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 16,
+                "[素人] 在蓝天阳台上，赤身裸体地进行奶油派性爱 素人情侣/美少女/白皙美乳/中出/完整视频（50分钟） - Pornhub.com 和另外 4 个页面 - 个人 - Microsoft​ Edge": 41,
+                "台灣美麗瑜伽老師的私人課程 - Pornhub.com 和另外 5 个页面 - 个人 - Microsoft​ Edge": 16,
+                "臺灣北海岸約會做愛實錄 - Pornhub.com 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "免费色情视频和色情电影 - 色情片、X级视频、色情视频网站 | Pornhub 和另外 3 个页面 - 个人 - Microsoft​ Edge": 5,
+                "栗子外流色情片 | Pornhub.com 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "淫荡亚洲女士户外团体演习与调皮的日本辣妹在温暖 - 令人印象深刻 - Pornhub.com 和另外 4 个页面 - 个人 - Microsoft​ Edge": 18,
+                "结成结玄的搜寻结果 - MissAV | 免费高清AV在线看 和另外 4 个页面 - 个人 - Microsoft​ Edge": 8,
+                "UMD-909 我在配对应用程式上遇到的人是一位受虐狂女王！ “首先，我们要检查我们身体的兼容性♪”正如他所说 和另外 4 个页面 - 个人 - Microsoft​ Edge": 5,
+                "NSSTL-029 已婚女子修罗场凛 NTR 与弟弟初见凛结成的妻子 - 初美铃 - MissAV | 免费高 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "百度一下，你就知道 和另外 5 个页面 - 个人 - Microsoft​ Edge": 10,
+                "结成结弦年龄_百度搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 15,
+                "MissAV | 免费高清AV在线看 和另外 5 个页面 - 个人 - Microsoft​ Edge": 6,
+                "结成结弦的搜寻结果 - MissAV | 免费高清AV在线看 和另外 4 个页面 - 个人 - Microsoft​ Edge": 9,
+                "结成结弦的搜寻结果 - MissAV | 免费高清AV在线看 和另外 5 个页面 - 个人 - Microsoft​ Edge": 12,
+                "结成结弦的搜寻结果 - MissAV | 免费高清AV在线看 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "EBOD-277 第一枪 H 杯 罕见的羽生结弦 - 羽生稀 - MissAV | 免费高清AV在线看 和另外 6 个页面 - 个人 - Microsoft​ Edge": 6,
+                "百度一下，你就知道 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Unknown Title": 19
+            }
+        },
+        "Hiddify.exe": {
+            "total": 84,
+            "titles": {
+                "Hiddify": 84
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 4,
+            "titles": {
+                "截图工具覆盖": 4
+            }
+        },
+        "chrome.exe": {
+            "total": 407,
+            "titles": {
+                "新标签页 - Google Chrome": 14,
+                "设置 - 关于 Chrome - Google Chrome": 2,
+                "MissAV | 免费高清AV在线看 - Google Chrome": 48,
+                "结成结弦的搜寻结果 - MissAV | 免费高清AV在线看 - Google Chrome": 6,
+                "NHDTC-082 平胸女孩试穿男士泳衣。一个大屌男在当地游泳池发现她是女孩，就射在她体内……这真是太糟糕了！ - Google Chrome": 71,
+                "最近更新 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 81,
+                "SNOS-056 一对男女在酒精的作用下，于平凡的日常生活中越过了界限，度过了一个放荡的周末。原始而普通，却也 - Google Chrome": 2,
+                "DEAB-006 才华洋溢、美貌动人的钢琴家早濑堇，这位吸引了全世界目光的钢琴家，即将出演AV作品。 - 早濑 - Google Chrome": 4,
+                "START-490 我去参加了一个新年关东煮派对，因为大家都说自己有女朋友，结果她们都跟我上床到天亮，最后我还 - Google Chrome": 3,
+                "START-451 性欲治疗专家 性门诊 26 特别版 SODSTAR 小凑四叶 一位新护士的透明汁液粘稠而真 - Google Chrome": 50,
+                "无标题 - Google Chrome": 2,
+                "PRED-833 我只能眼睁睁地看著我的偶像三好老师穿著比赛泳装被人轮奸……更糟的是，我最后竟然也加入了，狠狠 - Google Chrome": 38,
+                "结城结弦 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 38,
+                "MIKR-069 我给年长的妻子日奈子穿上制服，和她进行了一番充满青春活力的性爱。我幻想我心爱的妻子十几岁时的 - Google Chrome": 3,
+                "ATID-650 她平常严肃安静，但一谈到性，她就变成了一个眼神楚楚可怜、拥有一双美腿的秘书，她挑逗我，让我疯 - Google Chrome": 4,
+                "BLK-685 我不小心在医务室的床上碰到了我青梅竹马的一个活泼女孩，于是我翘课和她做了一整天，直到我精尽人亡 - Google Chrome": 4,
+                "无码流出 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 15,
+                "VRNC-066 古铜色的肌肤真性感！夏夜，四位美丽的沙滩排球少女[椿/奈奈/奈奈/千奈美] 享受著激烈的奶油 - Google Chrome": 16,
+                "CJOD-494 白人女孩王牌 Moka Chin 接受无限次奶油派！我被秘密性学校 Haruhi Moka - Google Chrome": 6
+            }
+        }
+    }
+}

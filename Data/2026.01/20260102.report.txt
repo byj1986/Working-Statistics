@@ -1,0 +1,515 @@
+开机时间:2026-01-02 10:45:17
+关机时间:2026-01-02 22:48:06
+共使用: 6:35:41
+闲置: 2:58:52
+------------------------------
+应用程序使用详情 (按时长倒序):
+哔哩哔哩.exe 0:51:19
+    【盘点】“影视贪官角色Top10” 0:8:34
+    警员执法遇中国赶海小队，4人捕捞力能顶100美国人，给警员看蒙了~ 0:7:21
+    山姆“穷鬼套餐”大摸底！真是被老己穷笑了 0:5:39
+    哔哩哔哩 (゜-゜)つロ 干杯~-bilibili 0:3:55
+    英国斩杀线 0:2:53
+    农民：我要验牌 0:2:39
+    我承认这是最慌的一次 0:2:8
+    跑调的、插电的、神级的，鲨疯了！2026全平台跨年夜精华舞台盘点！ 0:2:7
+    还没动手，岛上就有战损了？这次围岛军演离宝岛5海里不到？！ 0:1:49
+    美国主流媒体报道“斩杀线”承认但不服 0:1:41
+    天津港活不起了！？现在去，是捡漏还是智商税？ 0:1:32
+    信息量很大！解放军台海演习第二天独家细节 0:1:22
+    登录-哔哩哔哩 0:1:19
+    【JUMP】赵匡胤怎么火到海外了？ 0:1:14
+    从国家叛徒到电诈庇护者，洪森家族值得一场灭顶之灾 0:1:7
+    【DCS60帧】国外网友做的兔子打台短片-1歼20制空 0:1:5
+    【4K 60帧】硬核创新！多剧种融合创新演绎，《三打白骨精》解锁戏曲新打开方式【2025B站跨年晚会单品】 0:0:46
+    🔥发展速度过于离谱了🔥日本网友热议 深圳警察和T800机器人共同巡逻 #樱花妹#评论翻译#TIKTOK#二次元 0:0:40
+    郑丽文只要和平，不谈统一？我还是那句话...... 0:0:37
+    1月2日海军052D型导弹驱逐舰又上新 台积电获美国"特赦" "印度制造"阅兵首现动物方队 高市早苗被爆造假 西方密谋"除掉普京" 赞比亚首推人民币缴税 0:0:35
+    谁家学校大早上起床铃放《但》啊？！！ 0:0:28
+    【盘点】“神仙下凡演员Top10” 0:0:20
+    中学生的“几个动作”在外网炸锅了，动作太丝滑了，这气质学不来#外网 #外网评论 #油管 #老外看中国 0:0:20
+    还好我技高一筹 0:0:14
+    简单到照抄 务实到惊悚：美国新护卫舰和登陆舰项目双双上马 0:0:12
+    解放军大军围台第二日，赖清德去向成谜？高市早苗终于闭嘴了！ 0:0:11
+    【李佳薇】《声生不息华流季》粤语独唱《孤雏》 0:0:10
+    undefined 0:0:7
+    《美国全频带阻塞干扰3：纽约陷落》预告片#科幻电影 #纽约陷落#虚构故事 #科幻战争 #美国全频带阻塞干扰 0:0:7
+    两年前在鹤岗2.5万买的房子，现在后悔了，今天准备把它给卖了 0:0:5
+    Unknown Title 0:0:2
+explorer.exe 0:39:49
+    Program Manager 0:3:51
+    此电脑 - 文件资源管理器 0:2:57
+    电影 - 文件资源管理器 0:2:41
+    迅雷下载 - 文件资源管理器 0:2:36
+    Unknown Title 0:2:23
+    下载 - 文件资源管理器 0:1:53
+    手机 - 文件资源管理器 0:1:31
+    Data (D:) - 文件资源管理器 0:1:30
+    电视剧 - 文件资源管理器 0:1:21
+    My Book (E:) - 文件资源管理器 0:1:6
+    Programs - 文件资源管理器 0:0:49
+    Camera - 文件资源管理器 0:0:49
+    系统托盘溢出窗口。 0:0:48
+    zenrobot - 文件资源管理器 0:0:44
+    已完成 91% 0:0:43
+    已完成 0% 0:0:40
+    周杰伦、浪花兄弟 - 你是我的ok绷.flac 属性 0:0:36
+    已完成 83% 0:0:29
+    PBD-502 - 文件资源管理器 0:0:28
+    音乐 - 文件资源管理器 0:0:25
+    2 个正在运行的操作 0:0:23
+    已完成 9% 0:0:21
+    Cursor快速入门与实战 - 文件资源管理器 0:0:19
+    游戏 - 文件资源管理器 0:0:18
+    BaiduNetdiskDownload - 文件资源管理器 0:0:17
+    已完成 82% 0:0:17
+    SteamLibrary 属性 0:0:15
+    Season 01 - 文件资源管理器 0:0:14
+    已完成 59% 0:0:14
+    已完成 60% 0:0:14
+    已完成 61% 0:0:14
+    已完成 62% 0:0:14
+    已完成 80% 0:0:14
+    已完成 81% 0:0:14
+    已完成 8% 0:0:13
+    Suits - 文件资源管理器 0:0:13
+    Microsoft Flight Simulator 属性 0:0:13
+    已完成 79% 0:0:12
+    皓维那些年 - 文件资源管理器 0:0:11
+    精选 - 文件资源管理器 0:0:11
+    已完成 84% 0:0:11
+    System (C:) - 文件资源管理器 0:0:10
+    WSL Settings 属性 0:0:10
+    删除文件夹 0:0:9
+    已完成 1% 0:0:9
+    24 - 文件资源管理器 0:0:9
+    Unity 6000.4.0b2 属性 0:0:9
+    替换或跳过文件 0:0:9
+    已完成 22% 0:0:8
+    Program Files - 文件资源管理器 0:0:8
+    孙燕姿 - 开始懂了.ape 属性 0:0:8
+    Editor - 文件资源管理器 0:0:8
+    已完成 17% 0:0:7
+    已完成 2% 0:0:7
+    迅雷云盘 - 文件资源管理器 0:0:7
+    已完成 25% 0:0:6
+    电池指示器 0:0:6
+    WSL 属性 0:0:6
+    你懂的 - 文件资源管理器 0:0:6
+    已完成 18% 0:0:6
+    已完成 20% 0:0:6
+    已完成 10% 0:0:6
+    Codes - 文件资源管理器 0:0:5
+    已完成 15% 0:0:5
+    已完成 19% 0:0:5
+    已完成 4% 0:0:5
+    已完成 5% 0:0:5
+    已完成 7% 0:0:5
+    The.Long.Night.EP01-12.2020.4K.HDR.WEB-DL.HEVC.DDP5.1-HQC - 文件资源管理器 0:0:5
+    MIRD-255 - 文件资源管理器 0:0:5
+    Window Dialog 0:0:5
+    弹出 USB 大容量存储设备 时出问题 0:0:5
+    启动 - 文件资源管理器 0:0:4
+    删除文件 0:0:4
+    byj19 - 文件资源管理器 0:0:4
+    已完成 16% 0:0:4
+    已完成 51% 0:0:4
+    已完成 12% 0:0:4
+    已完成 21% 0:0:4
+    Eddie.The.Eagle.2016.1080p.WEB-DL.AAC2.0.H264-RARBG - 文件资源管理器 0:0:4
+    已完成 71% 0:0:4
+    已完成 6% 0:0:4
+    2025.03 - 文件资源管理器 0:0:4
+    删除快捷方式 0:0:3
+    已完成 23% 0:0:3
+    曲库 - 文件资源管理器 0:0:3
+    红色警戒3起义时刻 - 文件资源管理器 0:0:3
+    已完成 70% 0:0:3
+    已完成 3% 0:0:3
+    已完成 29% 0:0:3
+    UNNATURAL - 文件资源管理器 0:0:3
+    轮到你了 - 文件资源管理器 0:0:3
+    已完成 43% 0:0:3
+    已完成 13% 0:0:3
+    IPZZ-586 - 文件资源管理器 0:0:3
+    Unity 6000.4.0b2 - 文件资源管理器 0:0:3
+    运行 0:0:2
+    文件夹正在使用 0:0:2
+    步兵 - 文件资源管理器 0:0:2
+    iCloud 照片 - 文件资源管理器 0:0:2
+    已完成 48% 0:0:2
+    SteamLibrary - 文件资源管理器 0:0:2
+    Tencent - 文件资源管理器 0:0:2
+    The.Big.Short.2015.720p.WEB-DL.XviD.AC3-RARBG - 文件资源管理器 0:0:2
+    火锅英雄.Chongqing.Hot.Pot.2016.HD1080P.X264.AAC.Mandarin.CHS-ENG.Mp4Ba - 文件资源管理器 0:0:2
+    交响情人梦 - 文件资源管理器 0:0:2
+    Natsume Yuujinchou Season 01-04 - 文件资源管理器 0:0:2
+    Breaking Bad - 文件资源管理器 0:0:2
+    1 个已中断的操作 0:0:2
+    已完成 58% 0:0:2
+    已完成 63% 0:0:2
+    已完成 11% 0:0:2
+    已完成 26% 0:0:2
+    已完成 40% 0:0:2
+    已完成 42% 0:0:2
+    已完成 50% 0:0:2
+    任务切换 0:0:2
+    yysls_medium - 文件资源管理器 0:0:2
+    已完成 97% 0:0:1
+    用户 - 文件资源管理器 0:0:1
+    大疆 - 文件资源管理器 0:0:1
+    Androws - 文件资源管理器 0:0:1
+    已完成 72% 0:0:1
+    硅谷 - 文件资源管理器 0:0:1
+    101次求婚(1991) - 文件资源管理器 0:0:1
+    3年A班 - 文件资源管理器 0:0:1
+    2024.8, ... 属性 0:0:1
+    公用 - 文件资源管理器 0:0:1
+    迅雷下载 属性 0:0:1
+    软件 - 文件资源管理器 0:0:1
+    已完成 14% 0:0:1
+    已完成 24% 0:0:1
+    已完成 27% 0:0:1
+    已完成 28% 0:0:1
+    已完成 30% 0:0:1
+    已完成 31% 0:0:1
+    已完成 32% 0:0:1
+    已完成 33% 0:0:1
+    已完成 34% 0:0:1
+    已完成 35% 0:0:1
+    已完成 36% 0:0:1
+    已完成 37% 0:0:1
+    已完成 38% 0:0:1
+    已完成 39% 0:0:1
+    已完成 44% 0:0:1
+    已完成 45% 0:0:1
+    已完成 46% 0:0:1
+    已完成 47% 0:0:1
+    已完成 49% 0:0:1
+    已完成 52% 0:0:1
+    已完成 53% 0:0:1
+    已完成 86% 0:0:1
+    文件资源管理器 0:0:1
+    燕云十六声 - 文件资源管理器 0:0:1
+    DJI - 文件资源管理器 0:0:1
+    已完成 75% 0:0:1
+    已完成 77% 0:0:1
+    已完成 78% 0:0:1
+msedge.exe 0:22:1
+    微信登录 - 个人 - Microsoft​ Edge 0:7:12
+    Unity 6000.0.51f1 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:3:8
+    Unknown Title 0:2:49
+    Unity 6000.4.0b2 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:1:2
+    Unity 6000.x Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:48
+    支持中心-长江存储 - 个人 - Microsoft​ Edge 0:0:39
+    Download Archive 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:38
+    新建分支 · ZenSystem / ZenRobot · GitLab - 个人 - Microsoft​ Edge 0:0:34
+    文件 · fix/eye-state-error · ZenSystem / ZenRobot · GitLab - 个人 - Microsoft​ Edge 0:0:33
+    支持中心-长江存储 和另外 7 个页面 - 个人 - Microsoft​ Edge 0:0:29
+    新建标签页 - 个人 - Microsoft​ Edge 0:0:24
+    驱动精灵_驱动全、匹配准、下载快！ 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:23
+    CrystalDiskMark - Crystal Dew World [en] 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:23
+    Unity 6000.0.26f1 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:16
+    驱动精灵_驱动全、匹配准、下载快！ 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:16
+    新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:15
+    Unity 6000.0.51f1 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:10
+    另存为 0:0:10
+    disk benchmark - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:10
+    开始您的创意项目并下载 Unity Hub | Unity 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:9
+    DevTools - unity.com/releases/editor/beta/6000.4.0b2 0:0:9
+    首页|长江存储官网-长江存储 和另外 7 个页面 - 个人 - Microsoft​ Edge 0:0:9
+    项目 · GitLab - 个人 - Microsoft​ Edge 0:0:8
+    登录 · GitLab - 个人 - Microsoft​ Edge 0:0:7
+    ZenSystem / ZenRobot · GitLab - 个人 - Microsoft​ Edge 0:0:7
+    CrystalDiskMark - Crystal Dew World [en] 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:6
+    Window Dialog 0:0:5
+    新建标签页 和另外 6 个页面 - 个人 - Microsoft​ Edge 0:0:5
+    unity6000下载 - 搜索 - 个人 - Microsoft​ Edge 0:0:4
+    Unity 6 版本与支持：LTS 和更新版本 | Unity 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:4
+    unity6000下载 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    unity6000下载 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    Download Archive 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    disk benchmark - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    Download Archive 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    致态 - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    驱动精灵 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    Unity ID - Close window - 个人 - Microsoft​ Edge 0:0:1
+    开始您的创意项目并下载 Unity Hub | Unity 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    unity.com/releases/editor/beta/6000.4.0b2#installs 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    DevTools 0:0:1
+    驱动精灵 - 搜索 - 个人 - Microsoft​ Edge 0:0:1
+    无标题 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    cn.bing.com/search?pglt=419&q=驱动精灵&cvid=e01124e3b5ef4600904ad689e9112ff6&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0NDAxajBqMagCCLACAQ&FORM=ANNTA1&adppc=EdgeStart&PC=SCOODB&ntref=1 - 个人 - Microsoft​ Edge 0:0:1
+chrome.exe 0:15:6
+    燕云十六声游戏官网_周年版本「饮马渡秋水」现已开启 - Google Chrome 0:3:53
+    MongoDB: The World’s Leading Modern Database | MongoDB - Google Chrome 0:1:15
+    Unity ID - Google Chrome 0:1:14
+    QQ邮箱 - Google Chrome 0:0:59
+    Try MongoDB Atlas Products | MongoDB - Google Chrome 0:0:34
+    《燕云十六声》官方下载_天生武侠，世界无羁 - Google Chrome 0:0:31
+    新标签页 - Google Chrome 0:0:30
+    unity3d.com/get-unity/download - Google Chrome 0:0:29
+    Atlas Onboarding | Cloud: MongoDB Cloud - Google Chrome 0:0:27
+    微信登录 - Google Chrome 0:0:25
+    Atlas Database | MongoDB - Google Chrome 0:0:24
+    Unity - 实时内容开发平台 | 3D、2D、VR & AR可视化 - Google Chrome 0:0:23
+    网易游戏下载 - Google Chrome 0:0:20
+    账号与安全 - Google Chrome 0:0:17
+    Project Overview | Cloud: MongoDB Cloud - Google Chrome 0:0:15
+    下载确认 - Google Chrome 0:0:13
+    近期的下载记录 0:0:13
+    验证身份 为了确保您的账号安全，Google 希望确认是您本人在操作 - Google Chrome 0:0:13
+    Download MongoDB Community Server | MongoDB - Google Chrome 0:0:13
+    无标题 - Google Chrome 0:0:11
+    Page Redirection To Login - Google Chrome 0:0:11
+    登录 - Google 账号 - Google Chrome 0:0:10
+    Privacy Policy & Terms of Service | MongoDB - Google Chrome 0:0:10
+    专注清单 - 番茄工作法 & 任务清单（番茄钟app） - Google Chrome 0:0:9
+    开始您的创意项目并下载 Unity Hub | Unity - Google Chrome 0:0:8
+    MongoDB 8.0 现已发布 | MongoDB - Google Chrome 0:0:8
+    Deploy your cluster | Cloud: MongoDB Cloud - Google Chrome 0:0:7
+    MongoDB Atlas | MongoDB - Google Chrome 0:0:7
+    下载记录 - Google Chrome 0:0:6
+    mongodb_百度搜索 - Google Chrome 0:0:6
+    Registration Success - Google Chrome 0:0:6
+    拉卡拉POS机 - Google Chrome 0:0:5
+    百度一下，你就知道 - Google Chrome 0:0:5
+    www.focustodo.cn - Google Chrome 0:0:4
+    燕云十六声游戏官网_百度搜索 - Google Chrome 0:0:4
+    MongoDB Cloud - 登录 - Google Chrome 0:0:4
+    Cloud: MongoDB Cloud - Google Chrome 0:0:3
+    wx.mail.qq.com/list/readtemplate?name=login_jump.html&scene=1&login_type=qq&from=qq_panel&code=375922A88C9E22288BAADF7033F03115 - Google Chrome 0:0:2
+    设置 - 关于 Chrome - Google Chrome 0:0:2
+    Unity ID - Phone login - Google Chrome 0:0:2
+    baidu.com/link?url=UOLUAT1cOjY0z6n1d7LBoNBryIDbNxWe3eeAoxp7DjNzv5NftRMyzjyuTYvkdZLf&wd=&eqid=c897658b01b39c2a000000046957cb5f - Google Chrome 0:0:2
+    baidu.com - Google Chrome 0:0:1
+    Databases | Cloud: MongoDB Cloud - Google Chrome 0:0:1
+    baidu.com/link?url=x3tALjgfRa5lfRsJ9I4URQOzZ3xnjHaJ7s1dBXnKlKVkVY3DoevUHtAxqXHQL2-g&wd=&eqid=9112449900c86396000000046957cc51 - Google Chrome 0:0:1
+    unity.cn/security/sept-2025-01/remediation - Google Chrome 0:0:1
+    Unity中国官网 - 实时内容开发平台 | 3D、2D、VR & AR可视化 - Google Chrome 0:0:1
+    api.unity.cn/v1/oauth2/authorize?client_id=community_cn&locale=zh_CN&redirect_uri=https%3A%2F%2Funity.cn%2Fauth%2Fcallback%3Fredirect_to%3D%252Fsecurity%252Fsept-2025-01%252Fremediation&response_type=code&scope=identity&state=3219c797-857a-4e27-ab36-3109e45c5fb5 - Google Chrome 0:0:1
+launcher.exe 0:10:41
+    燕云十六声 0:9:41
+    选择安装路径 0:0:36
+    launcher 0:0:24
+Cursor.exe 0:8:48
+    zenrobot - Cursor 0:2:49
+    ProjectVersion.txt (Working Tree) (ProjectVersion.txt) - zenrobot - Cursor 0:2:20
+    manifest.json (Working Tree) (manifest.json) - zenrobot - Cursor 0:1:15
+    ProjectVersion.txt - zenrobot - Cursor 0:0:44
+    Cursor 0:0:43
+    ProjectSettings.asset (Working Tree) (ProjectSettings.asset) - zenrobot - Cursor 0:0:30
+    loan_calculator.py - LearningPython - Cursor 0:0:16
+    Open Folder 0:0:5
+    zenrobot.slnx - zenrobot - Cursor 0:0:5
+    .vsconfig - zenrobot - Cursor 0:0:1
+yysls.exe 0:6:9
+    燕云十六声 0:4:51
+    yysls.exe 0:0:50
+    登录 0:0:24
+    Unknown Title 0:0:3
+    MPAY_POLICY_TIP_FORM 0:0:1
+Unity Hub.exe 0:5:47
+    Unity Hub 3.3.3-c5 0:4:20
+    Select the Editor you wish to add 0:0:44
+    Choose location for new project 0:0:13
+    选择要添加的编辑器 0:0:12
+    Unknown Title 0:0:7
+    选择一个要打开的项目... 0:0:6
+    Select a location to install Unity 0:0:5
+drivergenius.exe 0:5:20
+    驱动精灵 0:4:31
+    Unknown Title 0:0:49
+Doubao.exe 0:4:36
+    新对话 - 豆包 - 豆包 0:1:57
+    查看 USB 硬盘版本 - 豆包 - 豆包 0:1:30
+    豆包 - 字节跳动旗下 AI 智能助手 - 豆包 0:0:50
+    豆包设置 - 豆包 0:0:10
+    新标签页 - 豆包 0:0:6
+    doubao.com/chat/ - 豆包 0:0:2
+    doubao://doubao-settings - 豆包 0:0:1
+Thunder.exe 0:3:56
+    迅雷 0:3:10
+    index.html 0:0:19
+    新建任务面板 0:0:17
+    确定要删除吗？ 0:0:5
+    Unknown Title 0:0:3
+    提示框 0:0:2
+steamwebhelper.exe 0:3:52
+    Steam 0:3:45
+    Menu 0:0:4
+    登录 Steam 0:0:2
+    Unknown Title 0:0:1
+ZHITAI_UNIMASTER_SSD.exe 0:3:31
+    ZHITAI UNIMASTER SSD 0:2:32
+    ZHITAI_UNIMASTER_SSD 0:0:59
+SearchHost.exe 0:3:28
+    搜索 0:3:28
+yuanbao.exe 0:3:28
+    元宝 0:2:56
+    元宝设置 0:0:31
+    Tauri App 0:0:1
+Hiddify.exe 0:2:56
+    Hiddify 0:2:56
+Unity.exe 0:2:44
+    Unity Package Manager 0:0:58
+    zenrobot - Untitled - Windows, Mac, Linux - Unity 6 (6000.0.26f1) <DX11> 0:0:23
+    zenrobot - Untitled - Windows, Mac, Linux - Unity 6.4 Beta (6000.4.0b2) <DX11> 0:0:18
+    Unity is running as administrator. 0:0:17
+    Opening project... 0:0:15
+    Install Unity Hub 0:0:11
+    Opening file failed 0:0:5
+    Unity 0:0:4
+    URP Material upgrade 0:0:4
+    Unity Editor Software Terms 0:0:3
+    Project Upgrade Required 0:0:2
+    C:\Program Files\Unity 6000.0.26f1\Editor\Unity.exe 0:0:2
+    C:\Program Files\Unity 6000.4.0b2\Editor\Unity.exe 0:0:1
+    Open Project 0:0:1
+updateprog.exe 0:2:36
+    在线升级程序 0:2:36
+WindowsTerminal.exe 0:2:23
+    Windows PowerShell 0:2:12
+    C:\Program Files\WSL\wsl.exe 0:0:11
+ApplicationFrameHost.exe 0:2:2
+    设置 0:1:20
+    Microsoft Store 0:0:39
+    Windows 安全中心 0:0:3
+UnitySetup64-6000.0.26f1.exe 0:1:45
+    Unity 6000.0.26f1 Setup  0:1:27
+    Unity 6000.0.26f1 Setup 0:0:11
+    verifying installer: 20% 0:0:1
+    verifying installer: 32% 0:0:1
+    verifying installer: 44% 0:0:1
+    verifying installer: 56% 0:0:1
+    verifying installer: 69% 0:0:1
+    verifying installer: 81% 0:0:1
+    verifying installer: 93% 0:0:1
+Xmp.exe 0:1:28
+    迅雷影音 0:1:28
+mmc.exe 0:1:24
+    计算机管理 0:1:3
+    WD My Book 25EE USB Device 属性 0:0:10
+    设备管理器 0:0:4
+    更新驱动程序 - WD SES Device USB Device 0:0:3
+    My Book (E:) 属性 0:0:3
+    WD SES Device USB Device 属性 0:0:1
+7zFM.exe 0:1:10
+    E:\皓维那些年\皓维那些年1.zip\Work\ 0:0:22
+    C:\Users\byj19\Downloads\致态天枢大师固态硬盘管理软件【SSD】 (1).zip\ 0:0:13
+    C:\Users\byj19\Downloads\SC001 XT Smart Tool【SSD】.zip\ZHITAI SC001 XT Smart Tool_V1.2\ 0:0:11
+    C:\Users\byj19\Downloads\致态天枢大师固态硬盘管理软件【SSD】.zip\ 0:0:4
+    C:\Users\byj19\Downloads\SC001 XT Smart Tool【SSD】.zip\ 0:0:4
+    C:\Users\byj19\Downloads\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4\ 0:0:2
+    100% 正在复制... 0:0:2
+    诊断信息 0:0:2
+     正在复制... 0:0:2
+    E:\皓维那些年\皓维那些年1.zip\ 0:0:2
+    D:\迅雷下载\v2rayN-windows-64-SelfContained.zip\ 0:0:2
+    C:\Users\byj19\Downloads\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar\ 0:0:1
+    Window Dialog 0:0:1
+     正在打开... 0:0:1
+    10% 正在复制... 0:0:1
+mintty.exe 0:1:2
+    MINGW64:/c/Users/byj19/Codes                                                   0:0:59
+    /usr/bin/bash --login -i                                                   0:0:3
+Photos.exe 0:0:57
+    20181025_173932.jpg 0:0:15
+    照片 0:0:9
+    20181025_183557.jpg 0:0:6
+    20180930_140021.jpg 0:0:5
+    20181025_174155.jpg 0:0:4
+    IMG_20241217_102506.jpg 0:0:3
+    IMG_20241216_193937.jpg 0:0:3
+    20181025_174150.jpg 0:0:3
+    20181026_105246.jpg 0:0:3
+    new.jpg 0:0:2
+    20180926_082533.jpg 0:0:2
+    887790fagw1emwmrm2lwvj20c8cd61ky.jpg 0:0:1
+    20181025_174151.jpg 0:0:1
+vlc.exe 0:0:53
+    浪花兄弟、周杰伦 - 你是我的OK绷 - VLC media player 0:0:14
+    [www.51ape.com]孙燕姿 - 开始懂了 - VLC media player 0:0:11
+    [51ape.com]浪花兄弟、周杰伦 - 你是我的OK绷 - VLC media player 0:0:9
+    当前媒体信息 0:0:9
+    VLC media player 更新 0:0:4
+    vlc 0:0:3
+    孙燕姿 - 开始懂了 - VLC media player 0:0:2
+    VLC media player 0:0:1
+QQ.exe 0:0:47
+    QQ 0:0:35
+    QQEdit 0:0:12
+ZHITAI SC001 XT Smart Tool_V1.2.exe 0:0:36
+    MainWindow 0:0:36
+DPInst64.exe 0:0:32
+    设备驱动程序安装向导 0:0:32
+DGSetup_Home_BZNR.exe 0:0:30
+    驱动精灵安装向导  0:0:30
+Trae.exe 0:0:23
+    zenbrightgamecocos - Trae 0:0:19
+    Trae 0:0:4
+UnityHubSetup.exe 0:0:21
+    Unity Hub 安装  0:0:21
+UnitySetup64-6000.4.0b2.exe 0:0:20
+    Unity 6000.4.0b2 Setup  0:0:13
+    Unity 6000.4.0b2 Setup 0:0:7
+uninstall.exe 0:0:17
+    驱动精灵卸载程序 0:0:17
+FocusToDo.exe 0:0:16
+    专注清单 0:0:15
+    Unknown Title 0:0:1
+Everything.exe 0:0:16
+    阳光电影dygod.org. - Everything 0:0:10
+    重命名 0:0:6
+setup.exe 0:0:14
+    Realtek Ethernet Controller Driver - InstallShield Wizard 0:0:11
+    Unknown Title 0:0:2
+    退出安装 0:0:1
+Tuanjie Hub.exe 0:0:14
+    Tuanjie Hub 1.3.8 0:0:12
+    Unknown Title 0:0:2
+StartMenuExperienceHost.exe 0:0:13
+    开始 0:0:13
+yysls_1.9.36_netease_setup.exe 0:0:13
+    燕云十六声安装程序 0:0:13
+PickerHost.exe 0:0:11
+    Windows 安全中心 0:0:11
+_unins.tmp 0:0:11
+    Antigravity 卸载 0:0:11
+Taskmgr.exe 0:0:10
+    任务管理器 0:0:10
+vc2015-2022_redist.x86.14.34.31931.exe 0:0:10
+    Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31931 安装程序 0:0:10
+UnityCrashHandler64.exe 0:0:10
+    Unity Editor - Unity 6000.0.26f1_ccb7c73d2c02 0:0:10
+vc2015-2022_redist.x64.14.34.31931.exe 0:0:5
+    Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.34.31931 安装程序 0:0:5
+ShellHost.exe 0:0:4
+    快速设置 0:0:4
+APlayer.exe 0:0:4
+    Unknown Title 0:0:4
+XLLiveUD.exe 0:0:4
+    迅雷升级程序 0:0:4
+WidgetBoard.exe 0:0:4
+    Windows 小组件 0:0:4
+ShellExperienceHost.exe 0:0:4
+    Cursor 的跳转列表 0:0:2
+    文件资源管理器 的跳转列表 0:0:1
+    Unity Hub 的跳转列表 0:0:1
+SnippingTool.exe 0:0:4
+    截图工具覆盖 0:0:4
+dwm.exe 0:0:2
+    驱动精灵 (未响应) 0:0:2
+AcPowerNotification.exe 0:0:2
+    MainWindow 0:0:1
+    Unknown Title 0:0:1
+vcredist_x64.exe 0:0:2
+    Extracting Files 0:0:2
+atheros_bt_8000010302_x64_911.exe 0:0:1
+    WinRAR self-extracting archive 0:0:1
+steam.exe 0:0:1
+    Unknown Title 0:0:1
+pythonw.exe 0:0:1
+    Unknown Title 0:0:1

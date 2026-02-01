@@ -1,0 +1,305 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-07 19:49:48",
+            "end": "2026-01-07 20:42:30"
+        },
+        {
+            "start": "2026-01-07 20:43:56",
+            "end": "2026-01-07 20:48:00"
+        },
+        {
+            "start": "2026-01-07 20:49:36",
+            "end": "2026-01-07 22:43:00"
+        }
+    ],
+    "idle_seconds": 5096,
+    "apps": {
+        "Doubao.exe": {
+            "total": 110,
+            "titles": {
+                "www.doubao.com - 豆包": 100,
+                "新标签页 - 豆包": 1,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 9
+            }
+        },
+        "SearchHost.exe": {
+            "total": 66,
+            "titles": {
+                "搜索": 66
+            }
+        },
+        "devenv.exe": {
+            "total": 948,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 5,
+                "Microsoft Visual Studio": 28,
+                "zenCore - NuGet.Config - Microsoft Visual Studio": 118,
+                "zenCore - zenCore.Implements.csproj - Microsoft Visual Studio": 24,
+                "zenCore.Camera - AppConstants.cs - Microsoft Visual Studio": 77,
+                "zenCore.Camera - Microsoft Visual Studio": 42,
+                "检测到文件修改": 1,
+                "zenCore - Microsoft Visual Studio": 1,
+                "zenCore.Camera (正在运行) - AppConstants.cs - Microsoft Visual Studio": 2,
+                "zenCore.Camera (正在运行) - StandingHuman_Front.json - Microsoft Visual Studio": 1,
+                "zenCore.Camera (正在运行) - DetectorPro.cs - Microsoft Visual Studio": 2,
+                "zenCore.Camera (正在调试) - DetectorPro.cs - Microsoft Visual Studio": 23,
+                "zenCore.Camera (正在调试) - DetectorPro.cs* - Microsoft Visual Studio": 1,
+                "zenCore.Camera - DetectorPro.cs - Microsoft Visual Studio": 272,
+                "zenCore.Camera": 10,
+                "zenCore.Camera - App.xaml.cs - Microsoft Visual Studio": 16,
+                "zenCore.Camera - MainWindow.xaml.cs - Microsoft Visual Studio": 140,
+                "zenCore.Camera - MainWindow.xaml.cs* - Microsoft Visual Studio": 1,
+                "zenCore.Camera (正在运行) - MainWindow.xaml.cs - Microsoft Visual Studio": 47,
+                "签出 'feature/using-playback-analyze'": 3,
+                "zenCore.Camera - WPF3Dpose.csproj - Microsoft Visual Studio": 13,
+                "zenCore.Camera - WPF3Dpose.csproj* - Microsoft Visual Studio": 1,
+                "zenCore.Camera - zenCore.Camera.csproj - Microsoft Visual Studio": 22,
+                "zenCore.Camera - zenCore.Camera.csproj* - Microsoft Visual Studio": 3,
+                "zenCore.Camera (正在运行) - zenCore.Camera.csproj - Microsoft Visual Studio": 3,
+                "zenCore.Camera - CameraCapture.cs - Microsoft Visual Studio": 11,
+                "zenCore.Camera - CoordinateSystem.cs - Microsoft Visual Studio": 11,
+                "zenCore.Camera - 差异 - zenCore.Camera.csproj - Microsoft Visual Studio": 10,
+                "zenCore.Camera - 差异 - WPF3Dpose.csproj - Microsoft Visual Studio": 16,
+                "zenCore.Camera - BodyInfo.cs - Microsoft Visual Studio": 22,
+                "zenCore.Camera - DetectorPro.cs* - Microsoft Visual Studio": 8,
+                "zenCore.Camera - 差异 - DetectorPro.cs - Microsoft Visual Studio": 14
+            }
+        },
+        "explorer.exe": {
+            "total": 121,
+            "titles": {
+                "Unknown Title": 35,
+                "任务切换": 2,
+                "文件资源管理器": 1,
+                "WPF3DPose - 文件资源管理器": 2,
+                "bin - 文件资源管理器": 1,
+                "net8.0-windows10.0.22621.0 - 文件资源管理器": 29,
+                "zenCore.Interfaces.dll 属性": 7,
+                "Program Manager": 1,
+                "系统托盘溢出窗口。": 1,
+                "zencore.camera - 文件资源管理器": 7,
+                "贴靠助手": 1,
+                "此电脑 - 文件资源管理器": 2,
+                "Data (D:) - 文件资源管理器": 2,
+                "Tools - 文件资源管理器": 2,
+                "ZBRobot - 文件资源管理器": 7,
+                "Codes - 文件资源管理器": 11,
+                "BodyDetect - 文件资源管理器": 10
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 14,
+            "titles": {
+                "Visual Studio 的跳转列表": 5,
+                "Cursor 的跳转列表": 6,
+                "WPF3Dpose 的跳转列表": 2,
+                "Microsoft Edge 的跳转列表": 1
+            }
+        },
+        "Trae.exe": {
+            "total": 15,
+            "titles": {
+                "Trae": 7,
+                "zenbrightgamecocos - Trae": 8
+            }
+        },
+        "Hiddify.exe": {
+            "total": 125,
+            "titles": {
+                "Hiddify": 125
+            }
+        },
+        "Cursor.exe": {
+            "total": 877,
+            "titles": {
+                "zencore - Cursor": 27,
+                "Cursor": 18,
+                "publish_dlls.py - compile_packaging_publish2 - Cursor": 17,
+                "delete_dlls.py - compile_packaging_publish2 - Cursor": 2,
+                "compile_packaging_publish2 - Cursor": 3,
+                "Open Folder": 56,
+                "zencore.camera - Cursor": 13,
+                "StandingHuman_Front.json - zencore.camera - Cursor": 14,
+                "StandingHuman_Front2.json - zencore.camera - Cursor": 388,
+                "Directory.Build.props - zencore - Cursor": 38,
+                "edit_keypoints.py - zencore.camera - Cursor": 42,
+                "example_usage.py - zencore.camera - Cursor": 149,
+                "● example_usage.py - zencore.camera - Cursor": 28,
+                "● StandingHuman_Front2.json - zencore.camera - Cursor": 4,
+                "MainWindow.xaml.cs (Working Tree) (MainWindow.xaml.cs) - zencore.camera - Cursor": 3,
+                "StandingHuman_Front2.json (Working Tree) (StandingHuman_Front2.json) - zencore.camera - Cursor": 14,
+                "README.zh-CN.md - zencore.camera - Cursor": 9,
+                "Preview README.zh-CN.md - zencore.camera - Cursor": 52
+            }
+        },
+        "msedge.exe": {
+            "total": 2333,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 10,
+                "yolo 11下载 - 搜索 - 个人 - Microsoft​ Edge": 3,
+                "项目 · GitLab - 个人 - Microsoft​ Edge": 16,
+                "项目 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "yolo 11下载 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "ZenSystem / zenCore · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "文件 · migrate/zenCore-in-app · ZenSystem / zenCore · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 22,
+                "文件 · migrate/zenCore-in-app · ZenSystem / zenCore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "PROJECT_EVALUATION.md · migrate/zenCore-in-app · ZenSystem / zenCore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 19,
+                "提交 · migrate/zenCore-in-app · ZenSystem / zenCore · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 17,
+                "提交 · main · ZenSystem / zenCore · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "提交 · main · ZenSystem / zenCore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "remove newtonsoft arttributes (900e647b) · 提交 · ZenSystem / zenCore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Merge branch 'main' into 'migrate/zenCore-in-app' (fadd39b3) · 提交 · ZenSystem / zenCore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "提交 · migrate/zenCore-in-app · ZenSystem / zenCore · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "yinjun bao · GitLab 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 10,
+                "cn.bing.com/search?qs=MT&pq=基于yolo&sk=CSYN1LT3MT2&sc=13-6&pglt=419&q=基于yolov11的目标检测&cvid=917ea31a14ea43278da8b98d2127e780&gs_lcrp=EgRlZGdlKgYIBRAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg4MzQ2ajBqMagCALACAA&FORM=ANNTA1&adppc=EdgeStart&PC=SCOODB 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "基于yolov11的目标检测 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 19,
+                "新建标签页 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "yolo版本 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 30,
+                "yolo版本 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "YOLO新版本已经到13，为何落地首选仍是 v5/v8？你可能已经听说过，YOLO 系列目标检测模型已经迭代到了 YOL - 掘金 和另外 5 个页面 - 个人 - Microsoft​ Edge": 43,
+                "yolo - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "yolo - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "主页 - Ultralytics YOLO 文档 和另外 5 个页面 - 个人 - Microsoft​ Edge": 10,
+                "Ultralytics YOLO11 - Ultralytics YOLO 文档 和另外 5 个页面 - 个人 - Microsoft​ Edge": 16,
+                "Ultralytics YOLO11 - Ultralytics YOLO 文档 和另外 6 个页面 - 个人 - Microsoft​ Edge": 47,
+                "Ultralytics YOLO26 - Ultralytics YOLO 文档 和另外 6 个页面 - 个人 - Microsoft​ Edge": 55,
+                "Ultralytics YOLO11 - Ultralytics YOLO 文档 和另外 7 个页面 - 个人 - Microsoft​ Edge": 66,
+                "无标题 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "ultralytics/ultralytics: Ultralytics YOLO 🚀 和另外 7 个页面 - 个人 - Microsoft​ Edge": 10,
+                "Releases · ultralytics/ultralytics 和另外 7 个页面 - 个人 - Microsoft​ Edge": 7,
+                "Ultralytics YOLO26 - Ultralytics YOLO 文档 和另外 7 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Ultralytics YOLO11 - Ultralytics YOLO 文档 和另外 8 个页面 - 个人 - Microsoft​ Edge": 1,
+                "COCO-segment 数据集 - Ultralytics YOLO 文档 和另外 8 个页面 - 个人 - Microsoft​ Edge": 27,
+                "新建标签页 和另外 9 个页面 - 个人 - Microsoft​ Edge": 5,
+                "yolo - 搜索 和另外 9 个页面 - 个人 - Microsoft​ Edge": 12,
+                "yolo - 搜索 和另外 10 个页面 - 个人 - Microsoft​ Edge": 18,
+                "yolo - 搜索 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "YOLO 不止检测，从注意力机制到 Mamba 113篇论文+20+数据集+5大类改进方向，从理论到落地一应俱全！ - 文章 - 开发者社区 - 火山引擎 和另外 11 个页面 - 个人 - Microsoft​ Edge": 15,
+                "万字长文全面解读YOLO的前世今生：从 YOLO-v1 到 YOLO-v12 - 文章 - 开发者社区 - 火山引擎 和另外 11 个页面 - 个人 - Microsoft​ Edge": 15,
+                "新建标签页 和另外 12 个页面 - 个人 - Microsoft​ Edge": 5,
+                "yolo背景 - 搜索 和另外 12 个页面 - 个人 - Microsoft​ Edge": 516,
+                "yolo11下载 - 搜索 和另外 12 个页面 - 个人 - Microsoft​ Edge": 9,
+                "无标题 和另外 13 个页面 - 个人 - Microsoft​ Edge": 2,
+                "2026最新保姆级教程：Windows 下使用uv极速配置YOLO11 GPU环境（告别Conda，自动管理CUDA）-CSDN博客 和另外 13 个页面 - 个人 - Microsoft​ Edge": 30,
+                "windows上yolov11环境搭建安装教程-腾讯云开发者社区-腾讯云 和另外 13 个页面 - 个人 - Microsoft​ Edge": 135,
+                "yolo11下载 - 搜索 和另外 13 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Ultralytics YOLO11 - Ultralytics YOLO 文档 和另外 13 个页面 - 个人 - Microsoft​ Edge": 47,
+                "Ultralytics YOLO11 - Ultralytics YOLO 文档 和另外 14 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Google NotebookLM | AI 研究工具与思考伙伴 和另外 14 个页面 - 个人 - Microsoft​ Edge": 4,
+                "新建标签页 和另外 14 个页面 - 个人 - Microsoft​ Edge": 7,
+                "yolo 11 for C# - 搜索 和另外 14 个页面 - 个人 - Microsoft​ Edge": 27,
+                "yolo 11 for C# - 搜索 和另外 15 个页面 - 个人 - Microsoft​ Edge": 5,
+                "基于vs2022+C#实现yolov11的推理_yolosharp-CSDN博客 和另外 15 个页面 - 个人 - Microsoft​ Edge": 15,
+                "yolo 11 for C# - 搜索 和另外 16 个页面 - 个人 - Microsoft​ Edge": 1,
+                "zhuanlan.zhihu.com/p/1940221427094619898 和另外 16 个页面 - 个人 - Microsoft​ Edge": 1,
+                "[C#]winform部署官方yolov11-obb旋转框检测的onnx模型_yolov11 obb-CSDN博客 和另外 16 个页面 - 个人 - Microsoft​ Edge": 33,
+                "[C#]winform部署官方yolov11-obb旋转框检测的onnx模型_yolov11 obb-CSDN博客 和另外 17 个页面 - 个人 - Microsoft​ Edge": 2,
+                "ultralytics/ultralytics: Ultralytics YOLO 🚀 和另外 17 个页面 - 个人 - Microsoft​ Edge": 6,
+                "Releases · ultralytics/ultralytics 和另外 17 个页面 - 个人 - Microsoft​ Edge": 22,
+                "Tags · ultralytics/ultralytics 和另外 17 个页面 - 个人 - Microsoft​ Edge": 11,
+                "无标题 和另外 17 个页面 - 个人 - Microsoft​ Edge": 1,
+                "csdn - 安全中心 和另外 17 个页面 - 个人 - Microsoft​ Edge": 1,
+                "AtomGit AI社区 - 开源大模型_多模态模型免费下载及部署方案 和另外 17 个页面 - 个人 - Microsoft​ Edge": 1,
+                "推理API - YOLO11 - GitCode 和另外 17 个页面 - 个人 - Microsoft​ Edge": 37,
+                "打开": 5,
+                "(1 封私信) 实战 | C# 中使用YOLOv11实现目标检测 （步骤 + 代码） - 知乎 和另外 15 个页面 - 个人 - Microsoft​ Edge": 49,
+                "[C#]使用纯opencvsharp部署yolov11-onnx图像分类模型-腾讯云开发者社区-腾讯云 和另外 15 个页面 - 个人 - Microsoft​ Edge": 43,
+                "YOLO 不止检测，从注意力机制到 Mamba 113篇论文+20+数据集+5大类改进方向，从理论到落地一应俱全！ - 文章 - 开发者社区 - 火山引擎 和另外 10 个页面 - 个人 - Microsoft​ Edge": 9,
+                "yolo11 下载 - 搜索 和另外 9 个页面 - 个人 - Microsoft​ Edge": 3,
+                "yolo11 下载 - 搜索 和另外 10 个页面 - 个人 - Microsoft​ Edge": 1,
+                "目标检测：YOLOv11(Ultralytics)环境配置，适合0基础纯小白，超详细-CSDN博客 和另外 10 个页面 - 个人 - Microsoft​ Edge": 23,
+                "Releases · ultralytics/ultralytics 和另外 10 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Release v8.3.249 - `ultralytics 8.3.249` Jetson AGX Thor and DGX Spark Docker (#23111) · ultralytics/ultralytics 和另外 10 个页面 - 个人 - Microsoft​ Edge": 13,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 219,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "支持所有RTX显卡！ NVIDIA正式发布DLSS 4 .5：提升6倍帧率、画质猛增、覆盖400多款游戏--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "小米官宣新一代SU7！预计2026年4月上市：今天开启小订--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 46,
+                "快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "循环寿命超10万次！Donut Lab官宣全球首款可量产全固态电池问世--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 20,
+                "支持所有RTX显卡！ NVIDIA正式发布DLSS 4 .5：提升6倍帧率、画质猛增、覆盖400多款游戏--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 29,
+                "news.mydrivers.com 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "巨星陨落！我国夜视技术奠定人周立伟院士逝世--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "还要大涨！内存市场进入超级牛市 价格已超2018年历史高点--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "存储全球涨价！三星警告：所有电子产品面临涨价--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "和新一代小米SU7打擂 鸿蒙智行全新轿跑尚界Z7官宣--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 62,
+                "联想发布自动扭转笔记本电脑：屏幕会自动转向--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "时隔两年！东方甄选主播YOYO向董宇辉道歉--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 42,
+                "31.98万起 吉利新MPV银河V900预售：车长近5米4 可选8个座--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "网友自制“大姜”无人机：线控操作犹如真机--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 24,
+                "打工人有权休息！光线高管炮轰大厂年假制度恐怖：谁家公司年假还在以日积累在积攒--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 13,
+                "宝马开年直降30万上热搜！网友：以后没钱只能买BBA了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 37,
+                "宝马开年直降30万上热搜！网友：以后没钱只能买BBA了--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "S4ef61b0f-98b7-45bb-9f65-2eddeb251fa9.png (600×215) 和另外 2 个页面 - 个人 - Microsoft​ Edge": 12,
+                "AYANEO艺术级Mini PC AM03发布：i9-12900H 准系统2699元起--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 32,
+                "大爷拍的“素颜巴黎”火了！网友：法国旅游迎来最严厉的父亲--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "大学教授实测AI眼镜“作弊”：30分钟斩获92.5分 碾压95%的学生--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 20,
+                "超低级错误！罗技忘记更换SSL证书：Options+/G Hub全部没法用--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "泉南高速一小车定速巡航故障 刹车失灵140km/h狂飙 交警护航250公里才停下--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 31,
+                "纽北赛道最慢纪录被“老头乐”打破：跑完一圈用时28分25.8秒--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 24,
+                "扫地机长出“双腿”！石头科技G-Rover惊艳CES 构建家庭机器人新拼图--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "喜来登豪华套房惊现30多只活飞虫 万豪回应：无法约束旗下酒店--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 18,
+                "网友看到绿牌本田电动车冒黑烟 提醒车起火了！车主：我装的柴暖--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6
+            }
+        },
+        "WPF3Dpose.exe": {
+            "total": 355,
+            "titles": {
+                "Unknown Title": 9,
+                "MainWindow": 346
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 3,
+            "titles": {
+                "开始": 3
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 20,
+            "titles": {
+                "设置": 20
+            }
+        },
+        "ShellHost.exe": {
+            "total": 7,
+            "titles": {
+                "快速设置": 7
+            }
+        },
+        "SystemPropertiesAdvanced.exe": {
+            "total": 7,
+            "titles": {
+                "系统属性": 4,
+                "环境变量": 3
+            }
+        },
+        "ZBRobot.exe": {
+            "total": 15,
+            "titles": {
+                "ZBRobot": 15
+            }
+        },
+        "Thunder.exe": {
+            "total": 72,
+            "titles": {
+                "迅雷": 53,
+                "新建任务面板": 2,
+                "支付优惠卡": 1,
+                "消息提示框": 13,
+                "index.html": 2,
+                "确定要删除吗？": 1
+            }
+        },
+        "7zFM.exe": {
+            "total": 13,
+            "titles": {
+                "D:\\迅雷下载\\ultralytics-8.3.249.zip\\": 1,
+                "D:\\迅雷下载\\ultralytics-8.3.249.zip\\ultralytics-8.3.249\\": 6,
+                "7-Zip": 6
+            }
+        }
+    }
+}

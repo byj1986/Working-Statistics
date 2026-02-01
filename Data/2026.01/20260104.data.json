@@ -1,0 +1,97 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-04 19:55:18",
+            "end": "2026-01-04 20:10:00"
+        }
+    ],
+    "idle_seconds": 151,
+    "apps": {
+        "Doubao.exe": {
+            "total": 28,
+            "titles": {
+                "www.doubao.com - 豆包": 28
+            }
+        },
+        "SearchHost.exe": {
+            "total": 26,
+            "titles": {
+                "搜索": 26
+            }
+        },
+        "ThunderStart.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "Thunder.exe": {
+            "total": 7,
+            "titles": {
+                "迅雷": 6,
+                "index.html": 1
+            }
+        },
+        "APlayer.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 2,
+            "titles": {
+                "迅雷升级程序": 2
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "开始": 2
+            }
+        },
+        "devenv.exe": {
+            "total": 28,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 1,
+                "Microsoft Visual Studio": 5,
+                "zenCore.Camera - IResetable.cs - Microsoft Visual Studio": 21,
+                "zenCore.Camera - Microsoft Visual Studio": 1
+            }
+        },
+        "explorer.exe": {
+            "total": 8,
+            "titles": {
+                "Unknown Title": 8
+            }
+        },
+        "Trae.exe": {
+            "total": 38,
+            "titles": {
+                "Trae": 3,
+                "zenbrightgamecocos - Trae": 35
+            }
+        },
+        "chrome.exe": {
+            "total": 587,
+            "titles": {
+                "新标签页 - Google Chrome": 8,
+                "www.baidu.com - Google Chrome": 4,
+                "携程_百度搜索 - Google Chrome": 2,
+                "无标题 - Google Chrome": 1,
+                "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理 - Google Chrome": 17,
+                "www.ctrip.com 想要": 3,
+                "特价机票 - Google Chrome": 54,
+                "上海(SHA)到亚庇(BKI)机票预订-上海(SHA)到亚庇(BKI)单程机票查询-【携程国际机票】 - Google Chrome": 3,
+                "flights.ctrip.com 想要": 4,
+                "上海到亚庇机票查询预订, 上海到亚庇特价往返机票【携程国际机票】 - Google Chrome": 491
+            }
+        },
+        "Hiddify.exe": {
+            "total": 3,
+            "titles": {
+                "Hiddify": 3
+            }
+        }
+    }
+}

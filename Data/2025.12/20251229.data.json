@@ -1,0 +1,225 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-29 20:08:20",
+            "end": "2025-12-29 22:53:00"
+        }
+    ],
+    "idle_seconds": 546,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 26,
+            "titles": {
+                "搜索": 26
+            }
+        },
+        "explorer.exe": {
+            "total": 18,
+            "titles": {
+                "Unknown Title": 14,
+                "系统托盘溢出窗口。": 2,
+                "贴靠助手": 1,
+                "Program Manager": 1
+            }
+        },
+        "msedge.exe": {
+            "total": 2746,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 8,
+                "设置 - 个人 - Microsoft​ Edge": 5,
+                "Unknown Title": 7,
+                "GitHub - Snapchat/Valdi: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. - 个人 - Microsoft​ Edge": 720,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1740,
+                "动物园用金钱豹爪印做日历寓意新年豹富 园方：不对外售卖--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 30,
+                "本周冷空气频繁来袭：气温起伏明显--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "投资人蹲守大疆楼下抢人 提出2000万元启动资金--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 13,
+                "老外盘点苹果2025年最失败产品！iPhone Air不是最糟--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 17,
+                "《仙剑奇侠传四：重制版》战斗惹众议！老外：第一部类33游戏--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "95后美女销冠一年卖出56套房价值3亿元 本人回应：天生就是干销售的料--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 12,
+                "神秘消失的18斤大鹅已找到 全身都是伤：主人决定抽水追凶--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 26,
+                "特斯拉上海急招Robotaxi人才--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 6,
+                "私募魔女李蓓卖课：12888元4节 回应称“我不缺那几千万”--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 12,
+                "我曾经也小鲜肉过！71岁成龙自曝已做告别曲：送别太多人、人终会一老--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 13,
+                "突然移动 美国男子在麦当劳窗口被自己开的车夹死--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "春节买机票便宜啦！国内航线旅客燃油附加费 元旦后下调--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 37,
+                "上海地铁新站标识闹乌龙！呼玛路变“Human Road”--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 32,
+                "日本俳句 变成了中国网友的“鬼子砍刀”--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 15,
+                "《仙剑奇侠传四》重制版正式预告：韩菱纱、柳梦璃亮相--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "黄仁勋的阳谋！H200性能翻6倍售价仅微涨30%：让中国客户无法拒绝--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "华为悬赏300万元求解难题背后：要改变中国重计算、轻存储局面--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Sign in to GitHub · GitHub - 个人 - Microsoft​ Edge": 6,
+                "Snapchat/Valdi: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. - 个人 - Microsoft​ Edge": 8
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 50,
+            "titles": {
+                "Microsoft Store": 22,
+                "设置": 15,
+                "Armoury Crate": 13
+            }
+        },
+        "Hiddify.exe": {
+            "total": 23,
+            "titles": {
+                "Hiddify": 23
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "开始": 2
+            }
+        },
+        "chrome.exe": {
+            "total": 6107,
+            "titles": {
+                "新标签页 - Google Chrome": 69,
+                "KDS - 在这里・看上海 - Google Chrome": 254,
+                "发布网红负面行为清单 包括宣扬躺平 KDS - 上宽带山・一起看上海 - Google Chrome": 50,
+                "诀别 KDS - 上宽带山・一起看上海 - Google Chrome": 11,
+                "姜昆唱红歌事件真假之相 KDS - 上宽带山・一起看上海 - Google Chrome": 15,
+                "数据造假是我们民族的陋习吗？ KDS - 上宽带山・一起看上海 - Google Chrome": 11,
+                "无标题 - Google Chrome": 23,
+                "谈朋友第一次可以要求闻味道到吗 KDS - 上宽带山・一起看上海 - Google Chrome": 9,
+                "谁顶得住 KDS - 上宽带山・一起看上海 - Google Chrome": 2,
+                "小学生23字满分作文！ KDS - 上宽带山・一起看上海 - Google Chrome": 6,
+                "国内中年男人的斩杀线。 KDS - 上宽带山・一起看上海 - Google Chrome": 34,
+                "燕冬萍_百度搜索 - Google Chrome": 5,
+                "燕冬萍的微笑_百度百科 - Google Chrome": 55,
+                "百科参考资料 - Google Chrome": 2,
+                "心酸！燕冬萍的微笑，深深刺痛了普通人的神经_家庭_婚姻_丈夫 - Google Chrome": 52,
+                "国人最大的问题 KDS - 上宽带山・一起看上海 - Google Chrome": 10,
+                "伊朗经济不行了？ KDS - 上宽带山・一起看上海 - Google Chrome": 3,
+                "这都有6000人看。。。。 KDS - 上宽带山・一起看上海 - Google Chrome": 9,
+                "机器还在转 人已经走了 KDS - 上宽带山・一起看上海 - Google Chrome": 14,
+                "不结婚的大龄单身男性有多惨 KDS - 上宽带山・一起看上海 - Google Chrome": 15,
+                "快科技--科技改变未来 - Google Chrome": 79,
+                "国产大作逃不过这一遭吗 Steam惊现《影之刃零正版》--快科技--科技改变未来 - Google Chrome": 13,
+                "比亚迪 ota_百度搜索 - Google Chrome": 14,
+                "搜索 - Microsoft 必应 - Google Chrome": 15,
+                "比亚迪 ota - 搜索 - Google Chrome": 9,
+                "比亚迪迎来OTA大升级，手车互联支持中国所有主流手机品牌 | BitAuto Global - Google Chrome": 4,
+                "OTA - 迪粉之家 - 比亚迪汽车粉丝之家 - Google Chrome": 1666,
+                "京东网上商城 - Google Chrome": 1,
+                "【龟牌G-4085DA】龟牌（Turtle Wax）硬壳玻璃水0度汽车去油膜强力去污除虫胶鸟粪雨刮水通用2L*2瓶【行情 报价 价格 评测】-京东 - Google Chrome": 1,
+                "京东-欢迎登录 - Google Chrome": 3,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - Google Chrome": 3,
+                "集芳阁云搜 - 官方地址发布 - Google Chrome": 11,
+                "历史记录 - Google Chrome": 42,
+                "请稍候… - Google Chrome": 34,
+                "第一福利导航 - fulione.app - Google Chrome": 21,
+                "白峰美羽出演的 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 422,
+                "ADN-746 一位神秘的年长女性，原本对我毫无兴趣，却在得知我有女朋友后立刻嫉妒不已，吻了我，并继续瞧不起我 - Google Chrome": 26,
+                "PRED-516 “我已经高潮了！”美腿美女半哭又高潮了！追求中出活塞 Miu Shiramine - 白峰美 - Google Chrome": 46,
+                "IPX-589 万众期待之F罩杯写真偶像明星AV出道 白峰美羽 - MissAV | 免费高清AV在线看 - Google Chrome": 58,
+                "Just a moment... - Google Chrome": 4,
+                "IPX-635 没有性交就无法生活... 绝顶159回小屄痉挛2048回 鬼般活塞3211回 无法预测的快感潮 - Google Chrome": 48,
+                "IPX-806 -Unveiled- 人生的第一次阴道射精性开侃是不同的。中出追求！ ！！白岭妙 - 白峰美羽 - Google Chrome": 54,
+                "missav.ws/pop?url=https%3A%2F%2Ftsyndicate.com%2Fapi%2Fv1%2Fdirect%2Fc65c80b49bf04c139b29dba8137a6419%3F6 - Google Chrome": 1,
+                "zh.stripchat.com/xiaowan_x?abTest=gototheroom_fitest3&abTestVariant=gototheroom_fitest3_aaa_1&dpm=50&modelId=222064808&p1=4131917&referrer=https%3A%2F%2Fmissav.ws%2F&sound=off&sourceId=895190&stripbotVariation=NullWidget&trafficType=popunder - Google Chrome": 1,
+                "Xiaowan_x主播：免费直播性爱表演和聊天 | Stripchat - Google Chrome": 23,
+                "MissAV | 免费高清AV在线看 - Google Chrome": 88,
+                "已添加书签": 11,
+                "missav.ws/dm66/cn/ipx-652-uncensored-leak#88aa3286-7f60-4efb-b67a-c8365584674c_desktop-home-segment-items - Google Chrome": 1,
+                "IPX-652 出差住同房NTR 被上司内射一晚上的美人女社员 白峰美羽 - MissAV | 免费高清AV在 - Google Chrome": 28,
+                "IPX-271 年轻人妻希崎杰西卡被公公内射玩弄 - 希崎洁西卡 - MissAV | 免费高清AV在线看 - Google Chrome": 36,
+                "ADN-503 岳父的吻舔著我 Miu Shiramine - 白峰美羽 - MissAV | 免费高清AV在 - Google Chrome": 44,
+                "JUQ-326 对不起你我正在和我的岳父生孩子…… - 与陷入新娘潜意识诱惑的岳父的中出性爱 - 仓本堇 - - Google Chrome": 5,
+                "IPX-846 在对丈夫感到内疚的同时，我今天反复射在我岳父的密集飞跃上...... Iyona Fujii - Google Chrome": 8,
+                "FC2-PPV-4820966 【截至16日，积分1290分】娇小可爱，极具偶像气质的女儿。 “哦，我要高潮了 - Google Chrome": 15,
+                "FC2-PPV-4821474 *新年特惠截止至1月15日【无删减版】千万别错过！ 2025 MVP。终于，“ - Google Chrome": 10,
+                "burn_百度搜索 - Google Chrome": 16,
+                "anthropic收购_百度搜索 - Google Chrome": 10,
+                "首次收购直指OpenAI腹地！Anthropic斥资数亿美元购入编程工具Bun，捍卫AI编程业务 - Google Chrome": 28,
+                "凤姐离斩杀线还远吗？ KDS - 上宽带山・一起看上海 - Google Chrome": 1511,
+                "中国人在美国能存下钱吗？ KDS - 上宽带山・一起看上海 - Google Chrome": 10,
+                "柏阿姨：我直播带货不为钱 KDS - 上宽带山・一起看上海 - Google Chrome": 7,
+                "搞不动斩杀线是怎么火起来的 KDS - 上宽带山・一起看上海 - Google Chrome": 116,
+                "GitHub - Google Chrome": 19,
+                "pranshuparmar/witr: Why is this running? - Google Chrome": 83,
+                "MIAA-812 我的丈夫是一位已婚女按摩师，他没有早泄并给我免费的恢复活力按摩，而我是一个大家伙，一遍又一遍 - Google Chrome": 38,
+                "JUQ-238 老婆就在身边…老婆的闺蜜（小恶魔）在2天1夜的旅行中继续低声诱惑我 温泉恋情黑川堇 - Mis - Google Chrome": 4,
+                "JUR-236 毕业典礼结束后...这是婆婆送给成年的你的礼物。江户真理子 - 古东まりこ - MissAV - Google Chrome": 6,
+                "JUR-337 毕业典礼结束后...这是婆婆送给成年的你的礼物。加藤绫乃 - 加藤绫野 - MissAV | - Google Chrome": 7,
+                "结城结弦 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 96,
+                "IPZZ-732 有传言说，如果男员工被邀请参加有身材火辣的美女的睡衣派对，他总是会被强奸并榨干直到天亮……日 - Google Chrome": 94,
+                "MNGS-022 趁著女儿不在家，一个DQN（变态网）占领了她的家，在13个令人难堪的轮奸场景中强迫她高潮。 - Google Chrome": 79,
+                "HMN-777 “求你了……！别停，直到我高潮！”我哥哥的女朋友，一个性欲旺盛的女人，发现了他的性能力……如果 - Google Chrome": 131,
+                "NAIAD-010 街头阴道 Shunri - MissAV | 免费高清AV在线看 - Google Chrome": 75,
+                "标配华为乾崑智驾！宝骏华境S将于2026年上半年上市 定位大六座SUV--快科技--科技改变未来 - Google Chrome": 19,
+                "全系65度大电池 华为顶级智驾！岚图泰山26天交付5000辆--快科技--科技改变未来 - Google Chrome": 6,
+                "战友眼中的徐湖平：一个在部队偷鸡摸狗的混混！ KDS - 上宽带山・一起看上海 - Google Chrome": 96,
+                "FPRE-202 身为家教，我发现了我的学生一个她不想让家人知道的弱点，于是趁她一脸嫌弃地看著我的时候，我把精 - Google Chrome": 80,
+                "CJOD-483 汗流浃背、性欲旺盛的荡妇！我被迫在一个逃犯体内射精…14 八神惠美 - 八神のえみ - Mi - Google Chrome": 5,
+                "什么时候能上岛活捉志玲。 KDS - 上宽带山・一起看上海 - Google Chrome": 11,
+                "她去深圳台发展会有升职空间么，五年前去深圳主持招商会和嘉宾眉目传情，从脚背到膝盖全是淤青，什么原因呢 KDS - 上宽带山・一起看上海 - Google Chrome": 38,
+                "一个小语种翻译，月薪才给一万多 KDS - 上宽带山・一起看上海 - Google Chrome": 11,
+                "邻居许家、白家吵起来了！ KDS - 上宽带山・一起看上海 - Google Chrome": 3,
+                "missav.ws/cn/waaa-579 - Google Chrome": 1,
+                "WAAA-579 新井莉玛让女友的妹妹（外表平平、害羞内向、对性不感兴趣）在高潮中沉沦，最后变成了一个奶油派小 - Google Chrome": 13
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 14,
+            "titles": {
+                "登录 Steam": 1,
+                "Steam": 12,
+                "Unknown Title": 1
+            }
+        },
+        "Trae.exe": {
+            "total": 57,
+            "titles": {
+                "Trae": 9,
+                "zenbrightgamecocos - Trae": 8,
+                "Release Notes - zenbrightgamecocos - Trae": 40
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "Windows Shell Experience 主机": 4
+            }
+        },
+        "TraeSetup-stable-1.0.27288.tmp": {
+            "total": 24,
+            "titles": {
+                "安装 - Trae (User)": 24
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 2,
+            "titles": {
+                "MainWindow": 2
+            }
+        },
+        "Doubao.exe": {
+            "total": 45,
+            "titles": {
+                "无标题 - 豆包": 2,
+                "doubao.com/chat/ - 豆包": 3,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 40
+            }
+        },
+        "devenv.exe": {
+            "total": 7,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 2,
+                "Microsoft Visual Studio": 5
+            }
+        },
+        "Cursor.exe": {
+            "total": 199,
+            "titles": {
+                "loan_calculator.py - LearningPython - Cursor": 185,
+                "Cursor": 1,
+                "提示词.txt - LearningPython - Cursor": 3,
+                "Environment changes - LearningPython - LearningPython - Cursor": 10
+            }
+        }
+    }
+}

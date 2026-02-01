@@ -1,0 +1,324 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-28 15:16:31",
+            "end": "2025-12-28 23:13:30"
+        }
+    ],
+    "idle_seconds": 13364,
+    "apps": {
+        "explorer.exe": {
+            "total": 296,
+            "titles": {
+                "Unknown Title": 130,
+                "系统托盘溢出窗口。": 9,
+                "Program Manager": 103,
+                "此电脑 - 文件资源管理器": 2,
+                "下载 - 文件资源管理器": 43,
+                "System (C:) - 文件资源管理器": 2,
+                "用户 - 文件资源管理器": 1,
+                "byj19 - 文件资源管理器": 4,
+                "删除文件": 2
+            }
+        },
+        "SearchHost.exe": {
+            "total": 55,
+            "titles": {
+                "搜索": 55
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 195,
+            "titles": {
+                "设置": 149,
+                "Armoury Crate": 20,
+                "Microsoft Store": 26
+            }
+        },
+        "msedge.exe": {
+            "total": 1342,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 57,
+                "设置 - 个人 - Microsoft​ Edge": 4,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 1110,
+                "马斯克亲测无安全员Robotaxi：直呼“完美驾驶”--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "妈妈看孩子作业气得呼吸性碱中毒 医生：可以戴个口罩--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "索赔80亿美元！闻泰科技：必须夺回安世半导体--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "官方明确！明年“国补”继续：将调整优化补贴范围和标准--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 20,
+                "展品过于接地气！网友玩梗称深圳博物馆“不怕被盗”--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 27,
+                "巴西里约著名海滩附近一飞机坠海 飞行员死亡--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 42,
+                "送车主85元福利！广东阳信高速今日通车 半年内免费通行--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "G胖看了都要懵！V社什么时候出空气炸锅了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 42,
+                "小米澎湃OS 3正式版宣布覆盖更多机型：REDMI K60等15款设备在列--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6
+            }
+        },
+        "chrome.exe": {
+            "total": 6051,
+            "titles": {
+                "新标签页 - Google Chrome": 80,
+                "设置 - 关于 Chrome - Google Chrome": 15,
+                "Changelog | TRAE - Collaborate with Intelligence - Google Chrome": 6,
+                "集芳阁云搜 - 官方地址发布 - Google Chrome": 2,
+                "GitHub - Google Chrome": 8,
+                "无标题 - Google Chrome": 11,
+                "tw93/Mole: 🐹 Deep clean and optimize your Mac. - Google Chrome": 1623,
+                "Trending repositories on GitHub today - Google Chrome": 50,
+                "Trending repositories on GitHub this month - Google Chrome": 89,
+                "anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - Google Chrome": 22,
+                "github valid_百度搜索 - Google Chrome": 17,
+                "github trend \\valid_百度搜索 - Google Chrome": 3,
+                "github trend_百度搜索 - Google Chrome": 45,
+                "trend · GitHub Topics - Google Chrome": 55,
+                "10个技巧，3分钟教会你github高效寻找开源项目 - jack_Meng - 博客园 - Google Chrome": 25,
+                "Trending developers on GitHub today - Google Chrome": 46,
+                "doggy8088 (Will 保哥) - Google Chrome": 15,
+                "zhuzilin (Zilin Zhu) - Google Chrome": 25,
+                "wwwillchen (Will Chen) - Google Chrome": 31,
+                "Trending repositories on GitHub this week - Google Chrome": 11,
+                "Tencent/WeKnora: LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. - Google Chrome": 25,
+                "WeKnora - Google Chrome": 10,
+                "Notifications - Google Chrome": 61,
+                "Google - Google Chrome": 13,
+                "gemini3 - Google 搜索 - Google Chrome": 15,
+                "Gemini 3 - Google DeepMind - Google Chrome": 16,
+                "‎Google Gemini - Google Chrome": 1,
+                "Google Gemini - Google Chrome": 10,
+                "Gemini - Google Chrome": 14,
+                "Unknown Title": 5,
+                "Google AI Studio - Google Chrome": 55,
+                "google.com/search?q=antigravity&sca_esv=d412fff20e7449cb&sxsrf=AE3TifMOhw4zoR5Uaj3jTHNCbymP3bc6Wg%3A1766919875185&ei=ww5RaYj7Cunk2roPh6yd8AQ&oq=anti&gs_lp=Egxnd3Mtd2l6LXNlcnAiBGFudGkqAggAMgoQIxiABBgnGIoFMgQQIxgnMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIlA5QAFjHA3AAeAGQAQCYAc0BoAGaBaoBBTAuMy4xuAEDyAEA-AEBmAIEoAKoBcICCxAuGIAEGNEDGMcBmAMAkgcFMC4zLjGgB70dsgcFMC4zLjG4B6gFwgcFMC4zLjHIBwqACAA&sclient=gws-wiz-serp - Google Chrome": 1,
+                "antigravity - Google 搜索 - Google Chrome": 5,
+                "Google Antigravity - Google Chrome": 1,
+                "Google Antigravity Download - Google Chrome": 5,
+                "百度一下，你就知道 - Google Chrome": 149,
+                "飞猪_百度搜索 - Google Chrome": 14,
+                "飞机票查询-机票预订、酒店预订查询、客栈民宿、旅游度假、门票签证【飞猪旅行】 - Google Chrome": 18,
+                "www.fliggy.com 想要": 2,
+                "携程_百度搜索 - Google Chrome": 4,
+                "www.ctrip.com 想要": 3,
+                "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票 - Google Chrome": 3,
+                "特价机票 - Google Chrome": 126,
+                "上海到曼谷机票查询预订, 上海到曼谷特价往返机票【携程国际机票】 - Google Chrome": 155,
+                "flights.ctrip.com 想要": 28,
+                "素万纳普_百度搜索 - Google Chrome": 15,
+                "地图 - Google 搜索 - Google Chrome": 2,
+                "Google 地图 - Google Chrome": 178,
+                "普吉岛 - Google 地图 - Google Chrome": 1,
+                "普吉府 - Google 地图 - Google Chrome": 42,
+                "上海到亚庇机票查询预订, 上海到亚庇特价往返机票【携程国际机票】 - Google Chrome": 10,
+                "沙巴 - Google 地图 - Google Chrome": 214,
+                "12月在日中国旅客数量_百度搜索 - Google Chrome": 18,
+                "11月在日中国旅客数量_百度搜索 - Google Chrome": 38,
+                "2024,2025年在日中国旅客数量_百度搜索 - Google Chrome": 7,
+                "2024,2025年赴日中国旅客数量_百度搜索 - Google Chrome": 19,
+                "百度文心助手 - 办公学习一站解决 - Google Chrome": 26,
+                "外交部提醒“避免前往日本”，不少中国游客仍然赴日，背后原因尽显无奈 - Google Chrome": 18,
+                "马蜂窝_百度搜索 - Google Chrome": 4,
+                "旅游攻略,自由行,自助游攻略,旅游社交分享网站 - 马蜂窝 - Google Chrome": 7,
+                "搜索结果页 - 马蜂窝 - Google Chrome": 6,
+                "2025曼谷旅游攻略,曼谷自由行攻略,马蜂窝曼谷出游攻略游记 - 马蜂窝 - Google Chrome": 4,
+                "曼谷景点介绍,曼谷旅游景点,曼谷景点推荐 - 马蜂窝 - Google Chrome": 83,
+                "曼谷大皇宫攻略,曼谷大皇宫门票_地址,曼谷大皇宫游览攻略 - 马蜂窝 - Google Chrome": 53,
+                "曼谷泰国卧佛寺攻略,泰国卧佛寺门票_地址,泰国卧佛寺游览攻略 - 马蜂窝 - Google Chrome": 17,
+                "曼谷郑王庙攻略,郑王庙门票_地址,郑王庙游览攻略 - 马蜂窝 - Google Chrome": 5,
+                "曼谷四面佛攻略,四面佛门票_地址,四面佛游览攻略 - 马蜂窝 - Google Chrome": 21,
+                "四面佛_百度搜索 - Google Chrome": 8,
+                "四面佛_百度图片搜索 - Google Chrome": 31,
+                "四面佛的搜索结果_百度图片搜索 - Google Chrome": 14,
+                "泰国四面佛许愿攻略：5年经验分享 - Google Chrome": 2,
+                "曼谷 四面佛_百度搜索 - Google Chrome": 1,
+                "曼谷四面佛怎么拜最灵_百度搜索 - Google Chrome": 8,
+                "曼谷四面佛求什么_百度搜索 - Google Chrome": 61,
+                "曼谷四面佛灵验程度_百度搜索 - Google Chrome": 59,
+                "mp.weixin.qq.com/s?__biz=MzA3MTA2NzIwNQ==&mid=2651591616&idx=1&sn=410874dd05fef1826708f2c04a92e6c2&chksm=85cbb3aa81c59b503bb88ebf6661b99af8f1c80cb69f6d4f7cecee79aa513a0f5daaf48a6bb3&scene=27 - Google Chrome": 1,
+                "微信公众平台 - Google Chrome": 1,
+                "泰国四面佛真的很灵验吗 - Google Chrome": 29,
+                "泰国有求必应最灵验的四面佛，成千上万人和明星慕名而来朝拜 - Google Chrome": 8,
+                "曼谷考山路攻略,考山路门票_地址,考山路游览攻略 - 马蜂窝 - Google Chrome": 19,
+                "曼谷毒蛇研究中心攻略,毒蛇研究中心门票_地址,毒蛇研究中心游览攻略 - 马蜂窝 - Google Chrome": 31,
+                "wKgEaVxvZAqAWvn4AB0DOQIs4gU28.jpeg (200×120) - Google Chrome": 1,
+                "上海到昆明机票查询预订-上海到昆明往返机票多少钱-[携程机票] - Google Chrome": 3,
+                "上海到昆明机票查询预订, 上海到昆明特价往返机票【携程国际机票】 - Google Chrome": 1357,
+                "oem高度_百度搜索 - Google Chrome": 1,
+                "oem高度和原厂高度区别_百度搜索 - Google Chrome": 135,
+                "初号机配色_百度搜索 - Google Chrome": 8,
+                "初号机配色_百度图片搜索 - Google Chrome": 7,
+                "accounts.google.com/v3/signin/accountchooser?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&prompt=consent&redirect_uri=http%3A%2F%2Flocalhost%3A63354%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%": 1,
+                "登录 - Google 账号 - Google Chrome": 10,
+                "accounts.google.com/v3/signin/challenge/ootp?TL=AHE1sGV-76Ywvy44AntvKeAjHjTfcrcGZ1Sp6qM1BTB9bj79_g2DBKlad39MckF2&authuser=0&cid=4&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hAPuylSzKrtg3UKRvG0DeZPmDwRwI2ET4Majay9bl-uCI6NBfWrMTWsYKwRifm58_ZoWMkwDBdYiwMQVRp0SIsLfItkWTA1DDAmu7bIJICGjt5yUG15-C16-BFOWnQ5Wuqiw4_uRvTQdZ8B5GHt8zpUTDJgRFkqHh1oEGhjl2YzJZY4Mfc8AK0f4nXW56GkMpC4RsQblsyzmiAPFP0RQHmiHWcz4kxGbiaGWAYgxZQNeMsPiBZFmGbckZk3Iviq9TJ9F3704mwOgpdfDThcpccCAMO8": 1,
+                "验证身份 为了确保您的账号安全，Google 希望确认是您本人在操作 - Google Chrome": 36,
+                "Google Antigravity Auth Success - Google Chrome": 110,
+                "github-trending · GitHub Topics - Google Chrome": 1,
+                "程序员那些事_百度搜索 - Google Chrome": 5,
+                "微博 - Google Chrome": 1,
+                "@程序员的那些事 的个人主页 - 微博 - Google Chrome": 375,
+                "去泰国旅行需要带转换插头吗_百度搜索 - Google Chrome": 20
+            }
+        },
+        "Hiddify.exe": {
+            "total": 61,
+            "titles": {
+                "Hiddify": 61
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 140,
+            "titles": {
+                "登录 Steam": 24,
+                "Steam": 114,
+                "Menu": 1,
+                "关机": 1
+            }
+        },
+        "Code.exe": {
+            "total": 25,
+            "titles": {
+                "Welcome - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 24,
+                "Visual Studio Code": 1
+            }
+        },
+        "Cursor.exe": {
+            "total": 89,
+            "titles": {
+                "loan_calculator.py - LearningPython - Cursor": 59,
+                "Cursor": 30
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 2,
+            "titles": {
+                "MainWindow": 2
+            }
+        },
+        "Trae.exe": {
+            "total": 63,
+            "titles": {
+                "trae.settings.json - zenbrightgamecocos - Trae": 20,
+                "Trae": 6,
+                "Release Notes - zenbrightgamecocos - Trae": 16,
+                "zenbrightgamecocos - Trae": 21
+            }
+        },
+        "idea64.exe": {
+            "total": 17,
+            "titles": {
+                "Programmer": 16,
+                "确认退出": 1
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 5,
+            "titles": {
+                "开始": 5
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 6244,
+            "titles": {
+                "为什么中国人看《阿凡达3》浑身难受？因为这真是我们的故事": 348,
+                "《阿凡达3:洋务运动》": 88,
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 129,
+                "【实操者解惑】火控雷达怎么用？歼15锁没锁F15J？": 77,
+                "“50年前的那场惊心动魄，已经没有00后相信了。”": 16,
+                "【12月】中国在海外十大最火的相关内容（事件）&ep.1": 194,
+                "为了让绿牌好看点，电车车主们都开始扎堆违法了？【X.PIN】": 573,
+                "《美国全境封锁4：迈阿密风云》美国版全频带阻塞干扰预告片 #科幻 #科幻战争 #美国全境封锁 #全频带阻塞干扰美国版 #迈阿密风云": 99,
+                "《美国全境封锁5：圣诞攻势》美国版全频带阻塞干扰预告片#科幻电影 #科幻战争 #美国全境封锁 #全频带阻塞干扰美国版 #圣诞攻势": 57,
+                "全频带阻塞干扰之《解放台湾，统一全国》台湾回归#一个中国 #国家统一 #中国统一 #台湾当归 #全频带阻塞干扰": 100,
+                "日本版全频带阻塞干扰《日本全境封锁：东京沉没》预告片#科幻电影 #全频带阻塞干扰 #科幻战争 #日本全境封锁 #全频带阻塞干扰日本版": 54,
+                "《美国全境封锁：纽约陷落》美国版全频带阻塞干扰#科幻电影 #全频带阻塞干扰 #科幻战争 #美国全境封锁 #全频带阻塞干扰美国版": 22,
+                "《美国全境封锁2：洛杉矶遭遇战&好莱坞陷落》美国版全频带阻塞干扰预告片#科幻电影 #科幻战争 #美国全境封锁 #全频带阻塞干扰美国版": 13,
+                "花了十多万！选出“年度好用AI工具”！【小白必备】": 537,
+                "美国多疑小哥初到中国：偷感十足，节目效果拉满！": 39,
+                "美国多疑哥中国魔幻一日：从头懵到尾！": 1258,
+                "美专家一句：东大打赢自卫队只需5天？日本网民集体破防，高市早苗自取灭亡！": 240,
+                "婚 后“狼 狈 为 奸”， 夫 妻 关 系 都 和 谐 了 ！": 68,
+                "中国的民企都能生产导弹了😨？日本专家拿着东风17模型进行解说：根本没有办法拦截（2025年12月11日报道）": 736,
+                "外媒记者：中国为什么不接受难民？大佬神级驳斥，太厉害了！": 74,
+                "解放军来了！！！": 12,
+                "【12月28日 下午】俄军再度发动联合打击 基辅电力全面中断；日本创纪录防卫预算；无人机模型上076 未来可能上舰": 488,
+                "一句想死啊 出租车撞飞30米「让你碰瓷」": 39,
+                "沉默10天，中国突然对美国强硬出手，力度之大、范围之广从没见过": 314,
+                "美国政客告诉我们中国正在失败! (关于中国的谎言）": 468,
+                "自带弹道计算机，全重8.5公斤，解放军钛合金60迫PBP201有多离谱？": 201
+            }
+        },
+        "Xmind.exe": {
+            "total": 31,
+            "titles": {
+                "Xmind": 21,
+                "逻辑图": 10
+            }
+        },
+        "Thunder.exe": {
+            "total": 22,
+            "titles": {
+                "迅雷": 12,
+                "新建任务面板": 1,
+                "Unknown Title": 8,
+                "确定要删除吗？": 1
+            }
+        },
+        "APlayer.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 1,
+            "titles": {
+                "迅雷升级程序": 1
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 16,
+            "titles": {
+                "Windows Shell Experience 主机": 16
+            }
+        },
+        "Doubao.exe": {
+            "total": 474,
+            "titles": {
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 64,
+                "新对话 - 豆包 - 豆包": 410
+            }
+        },
+        "Antigravity.tmp": {
+            "total": 9,
+            "titles": {
+                "安装 - Antigravity (User)": 8,
+                "Unknown Title": 1
+            }
+        },
+        "Antigravity.exe": {
+            "total": 25,
+            "titles": {
+                "Antigravity": 25
+            }
+        },
+        "7zFM.exe": {
+            "total": 9,
+            "titles": {
+                "C:\\Users\\byj19\\Downloads\\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar\\": 2,
+                "C:\\Users\\byj19\\Downloads\\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar\\ROSÉ&Bruno Mars-APT MP3-FLAC-MP4\\": 4,
+                "100% 正在复制...": 3
+            }
+        },
+        "Photos.exe": {
+            "total": 15,
+            "titles": {
+                "照片": 1,
+                "new.jpg": 3,
+                "887790fagw1emwmrm2lwvj20c8cd61ky.jpg": 11
+            }
+        },
+        "vlc.exe": {
+            "total": 33,
+            "titles": {
+                "五月天 - 干杯 - VLC media player": 33
+            }
+        }
+    }
+}

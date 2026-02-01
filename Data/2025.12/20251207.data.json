@@ -18,7 +18,11 @@
         },
         {
             "start": "2025-12-07 22:58:54",
-            "end": "2025-12-07 23:18:00"
+            "end": "2025-12-07 23:22:05"
+        },
+        {
+            "start": "2025-12-07 23:23:09",
+            "end": "2025-12-07 23:25:00"
         }
     ],
     "idle_seconds": 2002,
@@ -30,11 +34,11 @@
             }
         },
         "explorer.exe": {
-            "total": 415,
+            "total": 429,
             "titles": {
                 "Program Manager": 133,
                 "删除快捷方式": 3,
-                "Unknown Title": 24,
+                "Unknown Title": 27,
                 "此电脑 - 文件资源管理器": 4,
                 "Data (D:) - 文件资源管理器": 3,
                 "System (C:) - 文件资源管理器": 20,
@@ -51,29 +55,31 @@
                 "Codes - 文件资源管理器": 8,
                 "compile_packaging_publish2 - 文件资源管理器": 2,
                 "运行": 5,
-                "启动 - 文件资源管理器": 103,
+                "启动 - 文件资源管理器": 109,
                 "创建快捷方式": 15,
                 "浏览文件或文件夹": 2,
                 "pythonw.exe 属性": 53,
                 "任务切换": 1,
                 "Statistics - 文件资源管理器": 1,
                 "Data - 文件资源管理器": 16,
-                "start_app_tracker 属性": 2
+                "start_app_tracker 属性": 3,
+                "贴靠助手": 3,
+                "start_view_data_statistics 属性": 1
             }
         },
         "WindowsTerminal.exe": {
-            "total": 40,
+            "total": 42,
             "titles": {
                 "auto_start.bat": 15,
                 "Windows PowerShell": 7,
                 "Terminal": 1,
-                "命令提示符": 17
+                "命令提示符": 19
             }
         },
         "SearchHost.exe": {
-            "total": 38,
+            "total": 39,
             "titles": {
-                "搜索": 38
+                "搜索": 39
             }
         },
         "ApplicationFrameHost.exe": {
@@ -90,7 +96,7 @@
             }
         },
         "Trae.exe": {
-            "total": 2116,
+            "total": 2345,
             "titles": {
                 "项目结构.md - zenbrightgamecocos - Trae": 25,
                 "Trae": 11,
@@ -99,16 +105,18 @@
                 "Statistics - Trae": 29,
                 "mac_app_tracker.py - Statistics - Trae": 36,
                 "auto_start.bat - Statistics - Trae": 546,
-                "create_startup_lnk_win.py - Statistics - Trae": 276,
+                "create_startup_lnk_win.py - Statistics - Trae": 315,
                 "● create_startup_lnk_win.py - Statistics - Trae": 45,
                 "statistics.ico - Statistics - Trae": 31,
                 "start_server.bat - Statistics - Trae": 2,
-                "server.py - Statistics - Trae": 294,
+                "server.py - Statistics - Trae": 369,
                 "run_view_data_statistics.py - Statistics - Trae": 443,
                 "● run_view_data_statistics.py - Statistics - Trae": 15,
-                "miscellaneous.py - Statistics - Trae": 38,
+                "miscellaneous.py - Statistics - Trae": 142,
                 "● miscellaneous.py - Statistics - Trae": 2,
-                "app_tracker.py - Statistics - Trae": 2
+                "app_tracker.py - Statistics - Trae": 2,
+                "daily.html - Statistics - Trae": 1,
+                "server.log - Statistics - Trae": 10
             }
         },
         "Cursor.exe": {
@@ -119,9 +127,9 @@
             }
         },
         "Hiddify.exe": {
-            "total": 59,
+            "total": 61,
             "titles": {
-                "Hiddify": 59
+                "Hiddify": 61
             }
         },
         "Code.exe": {
@@ -149,9 +157,9 @@
             }
         },
         "msedge.exe": {
-            "total": 146,
+            "total": 207,
             "titles": {
-                "新建标签页 - 个人 - Microsoft​ Edge": 31,
+                "新建标签页 - 个人 - Microsoft​ Edge": 44,
                 "把python脚本打包成命令 - 搜索 - 个人 - Microsoft​ Edge": 10,
                 "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
                 "项目 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
@@ -164,7 +172,11 @@
                 "还原页面": 1,
                 "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 20,
                 "Unknown Title": 1,
-                "每日使用统计报告 和另外 2 个页面 - 个人 - Microsoft​ Edge": 23
+                "每日使用统计报告 和另外 2 个页面 - 个人 - Microsoft​ Edge": 54,
+                "byj1986/AI_Level3_Course - 个人 - Microsoft​ Edge": 1,
+                "byj1986 - 个人 - Microsoft​ Edge": 9,
+                "byj1986/Working-Statistics - 个人 - Microsoft​ Edge": 4,
+                "add shortcut to startup to fix shell prompt when startup · byj1986/Working-Statistics@3e08c70 - 个人 - Microsoft​ Edge": 3
             }
         },
         "Notepad.exe": {
@@ -205,9 +217,9 @@
             }
         },
         "pythonw.exe": {
-            "total": 2,
+            "total": 3,
             "titles": {
-                "Unknown Title": 2
+                "Unknown Title": 3
             }
         },
         "wscript.exe": {
@@ -217,18 +229,23 @@
             }
         },
         "Taskmgr.exe": {
-            "total": 9,
+            "total": 15,
             "titles": {
-                "任务管理器": 9
+                "任务管理器": 15
             }
         },
         "Doubao.exe": {
-            "total": 28,
+            "total": 66,
             "titles": {
-                "无标题 - 豆包": 2,
-                "doubao.com/chat/ - 豆包": 1,
-                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 19,
-                "新对话 - 豆包 - 豆包": 6
+                "无标题 - 豆包": 4,
+                "doubao.com/chat/ - 豆包": 2,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 22,
+                "新对话 - 豆包 - 豆包": 6,
+                "杂项翻译及用法 - 豆包 - 豆包": 2,
+                "Unknown Title": 1,
+                "豆包 - 豆包": 4,
+                "open.douyin.com/platform/oauth/connect?client_key=awi9bxweb2hc2yb9&optionalScope=mobile%2C1&client_id=awi9bxweb2hc2yb9&redirect_uri=https%3A%2F%2Fwww.doubao.com%2Fauth%2Fcallback&response_type=code&scope=user_info%2Cmobile&state=eyJlbnRyeSI6IiIsInRyYWNrTWV0YSI6eyJsb2dpbl9lbnRyYW5jZSI6InNpZ25faW4ifSwicGxhdGZvcm0iOiJhd2VtZV92MiIsIm5hdmlnYXRlUGF0aCI6Ii9jaGF0Lz9vcmlnaW5fbGFuZGluZz1odHRwcyUzQSUyRiUyRnd3dy5kb3ViYW8uY29tJTJGY2xpZW50LWxvZ2luLXJlcGxhY2UiLCJ0eXBlIjoibG9naW4iLCJ0aW1lc3RhbXAiOjE3NjUxMjEwNzYxOTUsImNzcm": 2,
+                "抖音授权登录 - 豆包": 23
             }
         },
         "PickerHost.exe": {

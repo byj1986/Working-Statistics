@@ -1,0 +1,366 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-18 19:41:31",
+            "end": "2025-12-18 22:26:30"
+        }
+    ],
+    "idle_seconds": 1006,
+    "apps": {
+        "clash-verge.exe": {
+            "total": 492,
+            "titles": {
+                "Clash Verge": 489,
+                "打开": 2,
+                "Unknown Title": 1
+            }
+        },
+        "SearchHost.exe": {
+            "total": 72,
+            "titles": {
+                "搜索": 72
+            }
+        },
+        "ThunderStart.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "Thunder.exe": {
+            "total": 362,
+            "titles": {
+                "迅雷": 325,
+                "支付优惠卡": 1,
+                "消息提示框": 6,
+                "确定要删除吗？": 9,
+                "支付中心": 12,
+                "新建任务面板": 2,
+                "index.html": 6,
+                "提示": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 12,
+            "titles": {
+                "迅雷升级程序": 12
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 54,
+            "titles": {
+                "Microsoft Store": 24,
+                "设置": 30
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "开始": 4
+            }
+        },
+        "explorer.exe": {
+            "total": 199,
+            "titles": {
+                "Unknown Title": 58,
+                "Program Manager": 4,
+                "删除快捷方式": 2,
+                "此电脑 - 文件资源管理器": 2,
+                "迅雷下载 - 文件资源管理器": 80,
+                "v2rayN-windows-64-SelfContained - 文件资源管理器": 28,
+                "bin - 文件资源管理器": 5,
+                "Trae-Setup-x64.exe 属性": 4,
+                "删除文件夹": 4,
+                "文件夹正在使用": 4,
+                "系统托盘溢出窗口。": 1,
+                "删除文件": 1,
+                "MIRD-255 - 文件资源管理器": 1,
+                "UNNATURAL - 文件资源管理器": 5
+            }
+        },
+        "Trae.exe": {
+            "total": 99,
+            "titles": {
+                "Trae": 32,
+                "zenbrightgamecocos - Trae": 67
+            }
+        },
+        "Hiddify.exe": {
+            "total": 343,
+            "titles": {
+                "Hiddify": 343
+            }
+        },
+        "Code.exe": {
+            "total": 40,
+            "titles": {
+                "settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 33,
+                "Visual Studio Code": 3,
+                "Settings - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 1,
+                "计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 3
+            }
+        },
+        "chrome.exe": {
+            "total": 1564,
+            "titles": {
+                "无标题 - Google Chrome": 15,
+                "github.com/login?client_id=01ab8ac9400c4e429b23&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D01ab8ac9400c4e429b23%26code_challenge%3Db6eMk1ZrSsuxOLOIS7agDOHRg5heXo1bxH-aSVBtj60%26code_challenge_method%3DS256%26prompt%3Dselect_account%26redirect_uri%3Dhttps%253A%252F%252Fvscode.dev%252Fredirect%26scope%3Dread%253Auser%2Brepo%2Buser%253Aemail%2Bworkflow%26state%3Dhttp%253A%252F%252F127.0.0.1%253A62288%252Fcallback%253Fnonce%253Do72JcO5MqpoAKAm8eaTLPw%25253D%25253D - Google Chrome": 1,
+                "Sign in to GitHub · GitHub - Google Chrome": 8,
+                "设置 - 关于 Chrome - Google Chrome": 8,
+                "新标签页 - Google Chrome": 41,
+                "www.google.com - Google Chrome": 5,
+                "Google - Google Chrome": 7,
+                "google antigravity - Google 搜索 - Google Chrome": 5,
+                "Google Antigravity - Google Chrome": 6,
+                "Google Antigravity Download - Google Chrome": 26,
+                "下载谷歌antigravity很慢_百度搜索 - Google Chrome": 20,
+                "体验antigravity(反重力)+Gemini 3 Pro_antigravity下载-CSDN博客 - Google Chrome": 28,
+                "谷歌浏览器下载慢怎么办 谷歌浏览器下载慢解决办法_百度知道 - Google Chrome": 3,
+                "missav.ws - Google Chrome": 6,
+                "MissAV | 免费高清AV在线看 - Google Chrome": 74,
+                "OFSD-053 业界首创！想看多少就看多少，想什么时候看就什么时候看！何不试试这项梦幻的新服务，找到您的理想 - Google Chrome": 17,
+                "REBD-994 卡琳 我最喜欢的东西的温度 - 动人的瞬间 - 托诺哈纳林 - 塔乃花铃 - MissAV - Google Chrome": 9,
+                "FC2-PPV-4815435 356_【怀孕退休】“我的肚子，我不知道是谁的种子，但我的阴道却在悸动”老公？ - Google Chrome": 10,
+                "FC2-PPV-4815370 ♀191 “啊，好舒服！”一位身材苗条、敏感度极高的美女在冬夜里发出呻吟！第二 - Google Chrome": 11,
+                "missav.ws/pop?url=https%3A%2F%2Fgo.myavlive.com%2Feasy%3FcampaignId%3Dff0b763268d316cf081ec8d3bd43ab3e5d8dd09b8fb261d4a3f1a3449ba4186b%26userId%3D050103608cf9b4d04684e5804b8637ff881d466e3ceaf77c1cc78be33cb1f3fe - Google Chrome": 2,
+                "本月热门 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 167,
+                "SNOS-003 无声地强奸我够不著的花：我拼命压抑声音，以免被抓──川北彩香 - 河北彩花 - MissAV - Google Chrome": 7,
+                "SNOS-008 我醒来发现自己独自一人待在饭店房间里，身边还有一个只穿著内衣的性感模特儿……我惊慌失措，她却 - Google Chrome": 6,
+                "SONE-961 我最好的朋友的女朋友太棒了，我根本招架不住……NTR露营，我偷偷把他抓进帐篷里，然后和他发生 - Google Chrome": 5,
+                "SONE-960 隔壁的女孩是个懒散的女孩，身材很好，但是腿比较松弛，所以我才能跟她发生性关系。梦乃爱华 - - Google Chrome": 8,
+                "MIKR-051 “她是不是想勾引我？”哥哥不在家三天，我实在抵挡不住粗心大意的嫂子那透明内裤的诱惑，于是在家 - Google Chrome": 16,
+                "START-463 SODSTAR毕业庆典：双重禁欲，包括群交和吞精！ 【无限射精】20人狂欢，精液四溅的盛宴 - Google Chrome": 14,
+                "MIDA-438 拥有H罩杯和最灿烂笑容的国宝级美女福田悠亚，为庆祝MOODYZ成立25周年，隆重推出全新AV - Google Chrome": 28,
+                "ADN-749 我开始把那个外表稚气未脱、胸部却很丰满的朋友当成异性看待。 ——美园和歌 - 美园和花 - M - Google Chrome": 17,
+                "MIRD-267 MOODYZ粉丝答谢祭 Bang Bang Bus Tour 2025 VR Another - Google Chrome": 30,
+                "FNS-114 在参加完仲夏节回家的路上，一场突如其来的暴雨透过她的大胸，让她失去了理智，在车里发生了激情性爱 - Google Chrome": 13,
+                "START-475 SODSTAR新成员天神上和一之宫瑠衣体验了一天的SOD女员工生活。在工作体验期间，她们准 - Google Chrome": 44,
+                "SNOS-022 在他青少年时期，他逃了暑期课程，和女友的两个闺蜜进行了一次不道德的三人性行为，她们吸吮、舔舐 - Google Chrome": 66,
+                "START-470 “我十年来的第一次性经历竟然和一个处女发生了。”一位性欲旺盛的已婚女性在兼职工作中遇到了一 - Google Chrome": 17,
+                "START-467 MINAMO Junction R18 24小时巢穴生活 性爱 无限射精 OK 硬核模式 - Google Chrome": 16,
+                "Just a moment... - Google Chrome": 2,
+                "请稍候… - Google Chrome": 54,
+                "SONE-908 “随时都可以用我的阴道。”一个不想被冷落的女学生用自己的身体来讨好同学。儿玉奈奈美 - 儿玉 - Google Chrome": 5,
+                "REAL-953 对调皮的小妹妹下手过重，用奶油派性爱让她怀孕。将白色的精液注入她的阴道，直到它流回体内。天满 - Google Chrome": 7,
+                "START-459 她搬到东京后，住进了一间超便宜的合租房，室友全是暴力男性。她被骗与一群男人合租一间房，每天 - Google Chrome": 58,
+                "良心云 - Google Chrome": 19,
+                "menu.dashboard - 良心云 - Google Chrome": 2,
+                "登录 - 良心云 - Google Chrome": 6,
+                "要保存密码吗？": 1,
+                "商店 - 良心云 - Google Chrome": 7,
+                "确认订单 - 良心云 - Google Chrome": 41,
+                "支付订单 - 良心云 - Google Chrome": 18,
+                "epy.jhlwlkeji876.com/submit.php?money=4&name=2025121821120767347755047&notify_url=https%3A%2F%2Fliangxin.xyz%2Fapi%2Fv1%2Fguest%2Fpayment%2Fnotify%2FEPay%2FBrsqF7V5&out_trade_no=2025121821120767347755047&pid=1135&return_url=https%3A%2F%2Fapiweb.liangxin.xyz%2F%23%2Forder%2F2025121821120767347755047&sign=57aedddef0ebca3429411ad62972c2c8&sign_type=MD5 - Google Chrome": 1,
+                "收银台 | 8090支付 - Google Chrome": 10,
+                "正在为您跳转到支付页面，请稍候... - Google Chrome": 1,
+                "微信扫码支付 - Google Chrome": 16,
+                "Attention Required! | Cloudflare - Google Chrome": 12,
+                "仪表盘 - 良心云 - Google Chrome": 155,
+                "missav.ws/pop?url=https%3A%2F%2Ftsyndicate.com%2Fapi%2Fv1%2Fdirect%2Fc65c80b49bf04c139b29dba8137a6419%3F5 - Google Chrome": 1,
+                "SONE-959 因在社群媒体上走红而走红的漂亮汽车餐厅服务员，竟然在后台遭到强暴。七森莉莉 - MissAV - Google Chrome": 12,
+                "MFYD-063 “一场严肃的比赛，看看谁的丈夫拥有最雄壮、最能让人射精的阴茎……！！”饥渴的妻子们超级交换伴 - Google Chrome": 56,
+                "REAL-954 女学生受孕旅馆：一群女孩踏上旅程，却落入残酷旅馆的催情陷阱，不断被强迫受孕和内射，直到精液回 - Google Chrome": 31,
+                "DAZD-265 “我的阴道快要裂开了……”她猛烈地弓起背，达到高潮，但即使她疯狂地呻吟，猛烈的抽插仍在继续。 - Google Chrome": 30,
+                "JUMS-150 Meguri 一周年纪念 8 小时～完全复活的性感熟女，一周年纪念最佳～ - 惠理 (藤浦惠 - Google Chrome": 20,
+                "SNOS-002 我想救出被欺负的双胞胎姊妹，然后扒光她们的衣服。浅野心，榊原萌 - 浅野こころ - Miss - Google Chrome": 10,
+                "‎Hiddify Proxy & VPN App - App Store - Google Chrome": 8,
+                "trae - Google 搜索 - Google Chrome": 23,
+                "TRAE - Collaborate with Intelligence - Google Chrome": 13,
+                "Kiro: Agentic AI development from prototype to production - Google Chrome": 34,
+                "登录 - Google 账号 - Google Chrome": 18,
+                "accounts.google.com/v3/signin/challenge/ootp?TL=AHE1sGU63xXeT4xggiVvPYYE24Npz8SonsFgR3_0BAi7R388v0Vw2gr7EfdTTeh2&authuser=0&cid=4&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hANSuP6lW2zMj0ZtomH0origjB7NyGj8kmFd_AwCzdgzDv7yVyOiPlW9s_JIUIeVlEI6c0AbGx_ehs6B460eNf39nCScPDgpDIkRK13cPnWgj6xsOkLLNRJixDeL1pq_pFEbgmMMPs30nU6QLAM2fleY1CDIzX7pyUdfH86sdrwgnveVaqVDIHpDqSz3mnXqcUu9H6ZpYN-d-szgyOST2nBcZW7ip01TZY3YiZZWdaIk3PDbjc_3yH6IOSk1NAJ0kJ2t-ahZvjtqO1Qh9pLC637hqYM": 1,
+                "验证身份 为了确保您的账号安全，Google 希望确认是您本人在操作 - Google Chrome": 24,
+                "baidu.com - Google Chrome": 9,
+                "Google Antigravity Auth Success - Google Chrome": 43,
+                "kiro是什么 - Google 搜索 - Google Chrome": 9,
+                "https://www.youtube.com/watch?v=HI_qexVlU2Y&embeds_referring_euri=https%3A%2F%2Fkiro.dev%2F - Google Chrome": 32,
+                "youtube.com/watch?v=HI_qexVlU2Y&embeds_referring_euri=https%3A%2F%2Fkiro.dev%2F - Google Chrome": 1,
+                "Build with Custom AI Agents in Terminal | Kiro CLI Full Demo - YouTube - Google Chrome": 18
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 1,
+            "titles": {
+                "迅雷 的跳转列表": 1
+            }
+        },
+        "APlayer.exe": {
+            "total": 30,
+            "titles": {
+                "Unknown Title": 30
+            }
+        },
+        "yuanbao.exe": {
+            "total": 7,
+            "titles": {
+                "元宝": 7
+            }
+        },
+        "Cursor.exe": {
+            "total": 61,
+            "titles": {
+                "compile_packaging_publish2 - Cursor": 52,
+                "Cursor": 9
+            }
+        },
+        "inno_updater.exe": {
+            "total": 2,
+            "titles": {
+                "Cursor": 2
+            }
+        },
+        "msedge.exe": {
+            "total": 4630,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 1520,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 294,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "设置 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "新一代游戏神U！AMD锐龙7 9850X3D偷跑上架：要价不便宜--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 36,
+                "10岁熊孩子掰断老爹50块三星M.2 SSD！价值1亿越南盾--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 77,
+                "可变化三种形态的机器人来了！逐际动力TRON 2发布：4.98万起售--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "vivo X300系列叫好又叫座：天玑9500旗舰芯成致胜法宝--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "又见Windows内存刺客！Win11关键功能悄悄占用大量内存--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 24,
+                "打破国外垄断！国内首款飞秒激光角膜屈光治疗机明年上市：近视手术费能降50%--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "博主体验L3级有条件自动驾驶：用的是问界M9--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "小轿车高速上定速巡航、刹车失灵！115km/h时速跑490公里 耗干油箱才停下--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 49,
+                "“元宝AI自动回复太像真人”引质疑 腾讯为其发声--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 15,
+                "路虎揽胜既视感 小鹏全尺寸SUV非官效果图出炉：一眼高级--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 20,
+                "55岁三星长公主李富真露面 腿脚不便引关注--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 15,
+                "“鞠婧祎收入”热搜 十年收入税前1.39亿人民币--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "男子工厂吹玻璃30年肌肉拉伤严重：腮帮肿大成“青蛙王子”--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "荣耀Magic8 Mini要来了！6.3英寸小直屏+天玑9500--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 13,
+                "跟燃油车同权！日本确定对电动汽车按重量征税：车越重缴费越多--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "博主征集100位秦L车主数据：比亚迪OTA后 平均油耗下降16.5%--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1490,
+                "设置 - 个人 - Microsoft​ Edge": 2,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "宋L dmi ota - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 18,
+                "【OTA资讯】24款宋L DM-i获推1.2.0版本OTA，主要新增哨兵模式、QQ音乐等7项功能及3项优化 - OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "【龟牌G-4085DA】龟牌（Turtle Wax）硬壳玻璃水0度汽车去油膜强力去污除虫胶鸟粪雨刮水通用2L*2瓶【行情 报价 价格 评测】-京东 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 2 个页面 - 个人 - Microsoft​ Edge": 76,
+                "OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "25款海狮07 DM-i获推1.5.0 OTA！主要新增荣耀车联、HUD账号记忆等13项功能及8项优化 - OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 584,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "25款海豹06 DM-i（旅行版）获推1.2.0 OTA！主要新增荣耀车联等3项功能及10项优化 - OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 35,
+                "迪粉桌面 - App Center - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 12,
+                "大爷在冰面上用水壶模仿冰壶运动 网友：冰是真的冰 壶也是真的壶--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "我国发现全新矿物！中文名“金秀矿”--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "IGN给出10分满分！完美复刻有史以来最畅销PC主机--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "dydytt.net - 个人 - Microsoft​ Edge": 6,
+                "KDS - 在这里・看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "KDS - 在这里・看上海 - 个人 - Microsoft​ Edge": 29,
+                "上海大型国企裁员方案 KDS - 上宽带山・一起看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 20,
+                "78年的小姑娘现在行情怎么样？ KDS - 上宽带山・一起看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 19,
+                "男的肯定建模不行！ KDS - 上宽带山・一起看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "被禁的佳能补偿金图！不知道这里能发否？ KDS - 上宽带山・一起看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "女人真的那么毒吗？ KDS - 上宽带山・一起看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "不得了了，出大事了，重磅消息， KDS - 上宽带山・一起看上海 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "美国布朗大学发布会手语女翻译走红：因表情动作夸张 被误以为在乱比划--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 58,
+                "比亚迪、华为手表联动：驾驶员失能汽车自动叫救援--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "全球冠军！浙大、交大、复旦联合战队碾压欧美 创造亚洲历史--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "苹果回应iPhone内存用完就坏了：建议及时清理空间--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 40,
+                "C罗电影首秀 加盟《速度与激情11》：《速激》演员欢迎新家人--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7
+            }
+        },
+        "Xmp.exe": {
+            "total": 231,
+            "titles": {
+                "迅雷影音": 227,
+                "账号信息": 1,
+                "gamebox ad": 1,
+                "SettingCenter": 2
+            }
+        },
+        "XmpLiveUD.exe": {
+            "total": 3,
+            "titles": {
+                "迅雷影音升级程序": 3
+            }
+        },
+        "PickerHost.exe": {
+            "total": 4,
+            "titles": {
+                "Windows 安全中心": 4
+            }
+        },
+        "Weixin.exe": {
+            "total": 77,
+            "titles": {
+                "微信": 74,
+                "设置": 3
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 9,
+            "titles": {
+                "微信": 8,
+                "Unknown Title": 1
+            }
+        },
+        "WeixinUpdate.exe": {
+            "total": 6,
+            "titles": {
+                "weixin update": 6
+            }
+        },
+        "7zG.exe": {
+            "total": 1,
+            "titles": {
+                "13% 正在解压 D:\\迅雷下载\\v2rayN-win ... -SelfContained.zip": 1
+            }
+        },
+        "Antigravity.tmp": {
+            "total": 11,
+            "titles": {
+                "安装 - Antigravity (User)": 9,
+                "Unknown Title": 2
+            }
+        },
+        "Trae-Setup-x64.tmp": {
+            "total": 6,
+            "titles": {
+                "安装 - Trae (User)": 5,
+                "退出安装程序": 1
+            }
+        },
+        "Antigravity.exe": {
+            "total": 24,
+            "titles": {
+                "Antigravity": 24
+            }
+        },
+        "v2rayN.exe": {
+            "total": 221,
+            "titles": {
+                "v2rayN - V7.16.1 - X64 - 以非管理员身份运行": 139,
+                "订阅分组设置": 8,
+                "v2rayN - V7.16.1 - X64 - 以管理员身份运行": 72,
+                "Unknown Title": 2
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 6,
+            "titles": {
+                "任务管理器": 6
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 4,
+            "titles": {
+                "命令提示符": 1,
+                "命令提示符 - node": 3
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 297,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 14,
+                "undefined": 1,
+                "12月18日福建舰首过台海训练 泰柬边境冲突背后是\"反电诈战争\"? 美国离不开委内瑞拉的真相 美日军事联动再升级 美媒曝美军大动作 欧洲汽车禁令为何软化?": 118,
+                "“这是您向中国认错的最后一次机会了哦😃？”高市早苗被在野党议员质问：你敢不敢把话说清楚（2025年12月16日报道）": 77,
+                "给马克龙当面科普乳法梗是什么体验？": 87
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-09 20:16:29",
+            "end": "2026-01-09 20:44:30"
+        }
+    ],
+    "idle_seconds": 487,
+    "apps": {
+        "Doubao.exe": {
+            "total": 82,
+            "titles": {
+                "www.doubao.com - 豆包": 1,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 80,
+                "Unknown Title": 1
+            }
+        },
+        "explorer.exe": {
+            "total": 27,
+            "titles": {
+                "Program Manager": 6,
+                "Unknown Title": 19,
+                "系统托盘溢出窗口。": 2
+            }
+        },
+        "SearchHost.exe": {
+            "total": 18,
+            "titles": {
+                "搜索": 18
+            }
+        },
+        "Code.exe": {
+            "total": 33,
+            "titles": {
+                "Visual Studio Code": 2,
+                "Welcome - Visual Studio Code": 17,
+                "Release Notes: 1.108.0 - Visual Studio Code": 14
+            }
+        },
+        "Hiddify.exe": {
+            "total": 8,
+            "titles": {
+                "Hiddify": 8
+            }
+        },
+        "AweSun.exe": {
+            "total": 1012,
+            "titles": {
+                "向日葵远程控制": 129,
+                "Unknown Title": 86,
+                "154 989 994 8": 439,
+                "StartReportDlg": 1,
+                "向日葵": 2,
+                "张伟年 笔记本": 355
+            }
+        },
+        "Qianwen.exe": {
+            "total": 12,
+            "titles": {
+                "千问-Qwen最新模型体验": 12
+            }
+        }
+    }
+}

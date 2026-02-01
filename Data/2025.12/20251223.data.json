@@ -1,0 +1,162 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-23 22:06:35",
+            "end": "2025-12-23 22:40:30"
+        }
+    ],
+    "idle_seconds": 656,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 17,
+            "titles": {
+                "搜索": 17
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 7,
+            "titles": {
+                "开始": 7
+            }
+        },
+        "explorer.exe": {
+            "total": 42,
+            "titles": {
+                "Unknown Title": 11,
+                "下载 - 文件资源管理器": 8,
+                "Program Manager": 20,
+                "系统托盘溢出窗口。": 1,
+                "运行": 2
+            }
+        },
+        "Weixin.exe": {
+            "total": 96,
+            "titles": {
+                "微信": 87,
+                "Weixin": 1,
+                "设置": 2,
+                "另存为...": 6
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 19,
+            "titles": {
+                "Unknown Title": 19
+            }
+        },
+        "WeixinUpdate.exe": {
+            "total": 9,
+            "titles": {
+                "微信": 5,
+                "weixin update": 4
+            }
+        },
+        "TraeSetup-stable-1.0.26989.tmp": {
+            "total": 46,
+            "titles": {
+                "安装 - Trae (User)": 45,
+                "Unknown Title": 1
+            }
+        },
+        "Trae.exe": {
+            "total": 17,
+            "titles": {
+                "trae.settings.json - zenbrightgamecocos - Trae": 16,
+                "Trae": 1
+            }
+        },
+        "chrome.exe": {
+            "total": 138,
+            "titles": {
+                "无标题 - Google Chrome": 2,
+                "docs.trae.ai - Google Chrome": 5,
+                "更新日志 - 文档 - TRAE - Google Chrome": 33,
+                "新标签页 - Google Chrome": 6,
+                "比亚迪 ota_百度搜索 - Google Chrome": 21,
+                "baidu.com/link?url=FwMADET9V-Vc-efoC6XZoIMW1KxCI3q8HvjH4UIPb8hFtgNEtMiJ4mClFkcC9Te-Rgl2XaCyFHd9GPG0uE5270sX3o6__-fRwdm5EzalrC3&wd=&eqid=e5cc07e50054b8d200000004694aa761 - Google Chrome": 1,
+                "比亚迪实现OTA降油耗，资深工程师建议升级前检查车辆 - Google Chrome": 68,
+                "设置 - 关于 Chrome - Google Chrome": 2
+            }
+        },
+        "Hiddify.exe": {
+            "total": 46,
+            "titles": {
+                "Hiddify": 46
+            }
+        },
+        "Cursor.exe": {
+            "total": 32,
+            "titles": {
+                "Cursor": 9,
+                "loan_calculator.py - LearningPython - Cursor": 23
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 64,
+            "titles": {
+                "设置": 10,
+                "Armoury Crate": 21,
+                "Microsoft Store": 33
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 3,
+            "titles": {
+                "MainWindow": 3
+            }
+        },
+        "AacMouseSetup.exe": {
+            "total": 5,
+            "titles": {
+                "Unknown Title": 5
+            }
+        },
+        "Doubao.exe": {
+            "total": 112,
+            "titles": {
+                "无标题 - 豆包": 1,
+                "doubao.com/chat/ - 豆包": 4,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 35,
+                "添加防火墙入站规则 - 豆包 - 豆包": 21,
+                "Unknown Title": 2,
+                "DevTools - www.doubao.com/chat/": 48,
+                "DevTools": 1
+            }
+        },
+        "mmc.exe": {
+            "total": 39,
+            "titles": {
+                "高级安全 Windows Defender 防火墙": 37,
+                "AweSun 属性": 2
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 137,
+            "titles": {
+                "登录 Steam": 6,
+                "Steam": 131
+            }
+        },
+        "msedge.exe": {
+            "total": 542,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 5,
+                "Unknown Title": 4,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 10,
+                "摩尔线程发布MTT AIBOOK笔记本：首发自研长江SoC！32GB+1TB售价9999元--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 29,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "比亚迪 ota - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 2 个页面 - 个人 - Microsoft​ Edge": 48,
+                "京东网上商城 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "【龟牌G-4085DA】龟牌（Turtle Wax）硬壳玻璃水0度汽车去油膜强力去污除虫胶鸟粪雨刮水通用2L*2瓶【行情 报价 价格 评测】-京东 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "25款海狮05 DM-i（智驾版）获推1.5.0 OTA！新增荣耀车联等3项功能及11项优化 - OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 416,
+                "设置 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "25款海狮05 DM-i（智驾版）获推1.5.0 OTA！新增荣耀车联等3项功能及11项优化 - OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "设置 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "OTA - 迪粉之家 - 比亚迪汽车粉丝之家 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "设置 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3
+            }
+        }
+    }
+}

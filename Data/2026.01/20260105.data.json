@@ -1,0 +1,272 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-05 19:56:40",
+            "end": "2026-01-05 22:18:00"
+        }
+    ],
+    "idle_seconds": 4070,
+    "apps": {
+        "Doubao.exe": {
+            "total": 65,
+            "titles": {
+                "www.doubao.com - 豆包": 38,
+                "doubao.com/chat/ - 豆包": 4,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 23
+            }
+        },
+        "SearchHost.exe": {
+            "total": 50,
+            "titles": {
+                "搜索": 50
+            }
+        },
+        "Hiddify.exe": {
+            "total": 20,
+            "titles": {
+                "Hiddify": 20
+            }
+        },
+        "explorer.exe": {
+            "total": 73,
+            "titles": {
+                "Unknown Title": 29,
+                "Program Manager": 5,
+                "删除快捷方式": 1,
+                "文件资源管理器": 3,
+                "Builds - 文件资源管理器": 2,
+                "zenrobot - 文件资源管理器": 5,
+                "ZenFocusStore - 文件资源管理器": 2,
+                "bin - 文件资源管理器": 4,
+                "Debug - 文件资源管理器": 1,
+                "net8.0-windows10.0.26100.0 - 文件资源管理器": 8,
+                "ov_model - 文件资源管理器": 1,
+                "ZBRobot - 文件资源管理器": 5,
+                "yolo - 文件资源管理器": 2,
+                "Beat - 文件资源管理器": 3,
+                "yolomodel - 文件资源管理器": 2
+            }
+        },
+        "QQMusic.exe": {
+            "total": 1067,
+            "titles": {
+                "QQ音乐": 2,
+                "难念的经 - 周华健   ": 7,
+                "吻得太逼真 - 张敬轩   ": 1,
+                "最后 - 黄欣彬   ": 2,
+                "江南 - 林俊杰   ": 2,
+                "七秒钟的记忆 - 徐良 / 孙羽幽   ": 1053
+            }
+        },
+        "QQMusicUp.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 82,
+            "titles": {
+                "Microsoft Store": 49,
+                "设置": 33
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 10,
+            "titles": {
+                "开始": 10
+            }
+        },
+        "Trae.exe": {
+            "total": 40,
+            "titles": {
+                "Trae": 8,
+                "zenbrightgamecocos - Trae": 25,
+                "更新日志 - zenbrightgamecocos - Trae": 7
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 268,
+            "titles": {
+                "特惠": 17,
+                "Unknown Title": 1,
+                "Steam": 250
+            }
+        },
+        "Cursor.exe": {
+            "total": 234,
+            "titles": {
+                "Builds.7z - zenrobot - Cursor": 2,
+                "BuildScript.cs - zenrobot - Cursor": 41,
+                "Cursor": 6,
+                "unlock-iis-config.bat - NugetServer - Cursor": 2,
+                "NugetServer - Cursor": 2,
+                "publish_dlls.py - zencore - Cursor": 108,
+                "ExternalResourcePath.cs - zencore - Cursor": 25,
+                "● ExternalResourcePath.cs - zencore - Cursor": 1,
+                "IExternalResource.cs - zencore - Cursor": 14,
+                "AbstractResourceModel.cs - zencore - Cursor": 33
+            }
+        },
+        "TraeSetup-stable-1.0.27572.tmp": {
+            "total": 1,
+            "titles": {
+                "安装 - Trae (User)": 1
+            }
+        },
+        "msedge.exe": {
+            "total": 214,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 11,
+                "qwen - 搜索 - 个人 - Microsoft​ Edge": 8,
+                "Qwen 和另外 1 个页面 - 个人 - Microsoft​ Edge": 17,
+                "项目 · GitLab - 个人 - Microsoft​ Edge": 5,
+                "yinjun bao · GitLab - 个人 - Microsoft​ Edge": 173
+            }
+        },
+        "Thunder.exe": {
+            "total": 11,
+            "titles": {
+                "迅雷": 6,
+                "新建任务面板": 1,
+                "Unknown Title": 1,
+                "提示框": 3
+            }
+        },
+        "Qwen-1.0.3.44-release-win-x64.exe": {
+            "total": 10,
+            "titles": {
+                "Qwen 安装 ": 10
+            }
+        },
+        "Qwen.exe": {
+            "total": 29,
+            "titles": {
+                "Qwen": 29
+            }
+        },
+        "chrome.exe": {
+            "total": 73,
+            "titles": {
+                "无标题 - Google Chrome": 1,
+                "chat.qwen.ai/auth?callback=qwen://open - Google Chrome": 1,
+                "Qwen Chat - Google Chrome": 62,
+                "登录 - Google 账号 - Google Chrome": 6,
+                "chat.qwen.ai/auth#email=baoyinjun4412@gmail.com&name=包寅俊&picture=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAIAAABt+uBvAAAAA3NCSVQICAjb4U/gAAAABmJLR0QAAACJAHvQcDPEAAAL90lEQVR4nO2ceVRTVxrAv7yXBRICxhjWQAOyBTEgq2yCqKBSsdZaW5fjqNNTtdXWLthjp6VaO7XqTFvHU0Zat2I37VSt1akbYmVRAWUTqayC0bDvW5KXzB8PYyYJuS8RZ+w57/fXy3tf7rvvx733u/e+HBjwybtAMzrY/7sCTzq0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IAS0IATMMSxrqqv7O5HTAGCYUC/++YcxLFnHm+ExmaWFvUqlyatfzJrXNji": 1,
+                "大模型服务平台百炼 - 大模型应用构建 - 阿里云 - Google Chrome": 2
+            }
+        },
+        "PickerHost.exe": {
+            "total": 3,
+            "titles": {
+                "Windows 安全中心": 3
+            }
+        },
+        "Un_A.exe": {
+            "total": 5,
+            "titles": {
+                "Qwen 解除安装": 2,
+                "Qwen 解除安装 ": 3
+            }
+        },
+        "Qianwen.exe": {
+            "total": 63,
+            "titles": {
+                "千问-Qwen最新模型体验": 63
+            }
+        },
+        "devenv.exe": {
+            "total": 1857,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 3,
+                "Microsoft Visual Studio": 19,
+                "zenCore - NuGet.Config - Microsoft Visual Studio": 47,
+                "zenCore.Camera - Microsoft Visual Studio": 1,
+                "检测到文件修改": 8,
+                "zenCore - Microsoft Visual Studio": 13,
+                "zenCore - publish_dlls.py* - Microsoft Visual Studio": 60,
+                "是否保存对以下项所做的更改?": 1,
+                "zenCore.Camera - IResetable.cs - Microsoft Visual Studio": 91,
+                "zenCore - ExternalResourcePath.cs - Microsoft Visual Studio": 318,
+                "zenCore - EmbeddedResource.cs - Microsoft Visual Studio": 127,
+                "zenCore": 4,
+                "zenCore - EmbeddedResource.cs": 10,
+                "zenCore - ExternalResourcePath.cs* - Microsoft Visual Studio": 112,
+                "选项": 31,
+                "zenCore - StereoCalibrationModel.cs - Microsoft Visual Studio": 3,
+                "zenCore - MockupAssemblyResources.cs - Microsoft Visual Studio": 24,
+                "添加新项": 7,
+                "zenCore - AppConstants.cs - Microsoft Visual Studio": 111,
+                "zenCore - AppConstants.cs* - Microsoft Visual Studio": 109,
+                "zenCore - README.md - Microsoft Visual Studio": 3,
+                "zenCore.Camera - AppConstants.cs - Microsoft Visual Studio": 81,
+                "zenCore.Camera": 4,
+                "zenCore.Camera - MainWindow.xaml.cs - Microsoft Visual Studio": 52,
+                "zenCore - MainWindow.xaml.cs - Microsoft Visual Studio": 34,
+                "zenCore - MainWindow.xaml.cs* - Microsoft Visual Studio": 25,
+                "zenCore (正在运行) - MainWindow.xaml.cs - Microsoft Visual Studio": 5,
+                "zenFocusStore - Microsoft Visual Studio": 2,
+                "zenFocusStore - HomeView.xaml.cs - Microsoft Visual Studio": 20,
+                "zenCore (正在调试) - MainWindow.xaml.cs - Microsoft Visual Studio": 21,
+                "zenCore (正在调试) - AppConstants.cs - Microsoft Visual Studio": 83,
+                "zenCore (正在运行) - AppConstants.cs - Microsoft Visual Studio": 1,
+                "zenFocusStore - ZenFocusStore - Microsoft Visual Studio": 3,
+                "zenCore (正在调试) - ExternalResourcePath.cs - Microsoft Visual Studio": 1,
+                "zenCore (正在调试) - AppConstants.cs* - Microsoft Visual Studio": 12,
+                "zenCore - ExternalResourcePath.cs": 35,
+                "zenCore - ExternalResourcePath.cs*": 9,
+                "zenCore - IEmbeddedResourceHelper.cs - Microsoft Visual Studio": 68,
+                "zenCore - EmbeddedResourceHelper.cs - Microsoft Visual Studio": 90,
+                "zenCore - IEmbeddedResource.cs - Microsoft Visual Studio": 12,
+                "zenCore - EmbeddedResource.cs* - Microsoft Visual Studio": 111,
+                "zenCore - zenCore.Implements.csproj - Microsoft Visual Studio": 2,
+                "zenCore - zenCore.Demonstration - Microsoft Visual Studio": 4,
+                "zenCore - CommonDirectories.cs - Microsoft Visual Studio": 15,
+                "zenCore - AbstractResourceModel.cs - Microsoft Visual Studio": 61,
+                "zenCore - vctmp24736_450322.ExternalResourcePath.e2ed16d7.cs [只读] - Microsoft Visual Studio": 3,
+                "选项 - Microsoft Visual Studio": 1
+            }
+        },
+        "ShellHost.exe": {
+            "total": 133,
+            "titles": {
+                "快速设置": 133
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 3,
+            "titles": {
+                "Visual Studio 的跳转列表": 3
+            }
+        },
+        "SystemPropertiesAdvanced.exe": {
+            "total": 60,
+            "titles": {
+                "系统属性": 9,
+                "环境变量": 3,
+                "新建用户变量": 11,
+                "打开": 24,
+                "进度": 1,
+                "已完成 97%": 1,
+                "浏览文件夹": 8,
+                "编辑用户变量": 3
+            }
+        },
+        "Everything.exe": {
+            "total": 27,
+            "titles": {
+                "Everything": 1,
+                "z - Everything": 1,
+                "zb - Everything": 1,
+                "zbro - Everything": 11,
+                "yolo11l - Everything": 13
+            }
+        },
+        "zenCore.Demonstration.exe": {
+            "total": 1,
+            "titles": {
+                "MainWindow": 1
+            }
+        }
+    }
+}

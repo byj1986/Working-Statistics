@@ -1,0 +1,86 @@
+开机时间:2026-01-22 19:11:02
+关机时间:2026-01-22 21:38:55
+共使用: 2:26:35
+闲置: 1:31:0
+------------------------------
+应用程序使用详情 (按时长倒序):
+msedge.exe 0:29:28
+    「BOSS直聘简历」- 个人求职简历免费下载，使用打动hr的专业简历，抓住每个高薪机会 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:16:1
+    「BOSS直聘简历」- 个人求职简历免费下载，使用打动hr的专业简历，抓住每个高薪机会 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:9:20
+    BOSS直聘 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:3:36
+    新建标签页 - 个人 - Microsoft​ Edge 0:0:12
+    Releases · vscode-icons/vscode-icons - 个人 - Microsoft​ Edge 0:0:7
+    无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    还原页面 0:0:2
+    intel openvino - 搜索 - 个人 - Microsoft​ Edge 0:0:2
+    另存为 0:0:2
+    Releases · vscode-icons/vscode-icons 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    Releases · vscode-icons/vscode-icons 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    豆包_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:1
+Weixin.exe 0:5:38
+    微信 0:5:34
+    Weixin 0:0:4
+Cursor.exe 0:3:32
+    app_tracker.py - Statistics - Cursor 0:1:33
+    20260118.data.json - Statistics - Cursor 0:0:52
+    daily.html - Statistics - Cursor 0:0:44
+    20260121.data.json - Statistics - Cursor 0:0:16
+    20260119.data.json - Statistics - Cursor 0:0:3
+    Cursor 0:0:2
+    20260119.log.txt - Statistics - Cursor 0:0:2
+wps.exe 0:3:25
+    包寅俊-C#.pdf - WPS Office 0:3:25
+AMDInstallManager.exe 0:3:7
+    AMD Install Manager 0:3:7
+chrome.exe 0:2:19
+    直聘简历 - Google Chrome 0:2:14
+    包寅俊-C%23.pdf - Google Chrome 0:0:3
+    无标题 - Google Chrome 0:0:2
+explorer.exe 0:1:53
+    Program Manager 0:1:3
+    迅雷下载 - 文件资源管理器 0:0:36
+    Unknown Title 0:0:13
+    文件资源管理器 0:0:1
+Doubao.exe 0:1:31
+    豆包 0:1:31
+Thunder.exe 0:1:3
+    迅雷 0:0:42
+    消息提示框 0:0:6
+    重命名 0:0:4
+    迅雷  0:0:4
+    新建任务面板 0:0:2
+    index.html 0:0:2
+    提示框 0:0:1
+    确定要删除吗？ 0:0:1
+    提示 0:0:1
+Trae.exe 0:1:3
+    zenbrightgamecocos - Trae 0:0:30
+    扩展: Material Icon Theme - zenbrightgamecocos - Trae 0:0:18
+    扩展: vscode-icons - zenbrightgamecocos - Trae 0:0:11
+    Trae 0:0:4
+devenv.exe 0:1:0
+    Microsoft Visual Studio 0:0:35
+    NSWebApi - Program.cs - Microsoft Visual Studio 0:0:11
+    NSWebApi - WebApplication [从元数据] [只读] - Microsoft Visual Studio 0:0:5
+    Microsoft Visual Studio Community 2026 0:0:4
+    NSWebApi - UpdateUserCashAccountOrderType.sql - Microsoft Visual Studio 0:0:3
+    NSWebApi - Microsoft Visual Studio 0:0:2
+OpenWith.exe 0:0:31
+    Unknown Title 0:0:31
+SearchHost.exe 0:0:25
+    搜索 0:0:25
+Notepad--.exe 0:0:18
+    C:\Users\byj19\Documents\New 1.txt [文本模式] - Ndd 0:0:12
+    New 0 [文本模式] - Ndd 0:0:3
+    New 1 [文本模式] - Ndd 0:0:3
+WeChatAppEx.exe 0:0:4
+    Unknown Title 0:0:4
+RadeonSoftware.exe 0:0:4
+    AMD Software: Adrenalin Edition 0:0:4
+XLLiveUD.exe 0:0:2
+    迅雷升级程序 0:0:2
+wpspdf.exe 0:0:2
+    是否保存文档? 0:0:1
+    Unknown Title 0:0:1
+pythonw.exe 0:0:1
+    Unknown Title 0:0:1

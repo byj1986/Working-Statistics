@@ -1,0 +1,189 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-06 20:11:20",
+            "end": "2026-01-06 21:42:00"
+        }
+    ],
+    "idle_seconds": 492,
+    "apps": {
+        "Doubao.exe": {
+            "total": 14,
+            "titles": {
+                "www.doubao.com - 豆包": 3,
+                "doubao.com/chat/ - 豆包": 4,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 7
+            }
+        },
+        "SearchHost.exe": {
+            "total": 33,
+            "titles": {
+                "搜索": 33
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 104,
+            "titles": {
+                "Microsoft Store": 75,
+                "设置": 29
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 6,
+            "titles": {
+                "开始": 6
+            }
+        },
+        "Hiddify.exe": {
+            "total": 26,
+            "titles": {
+                "Hiddify": 26
+            }
+        },
+        "navicat.exe": {
+            "total": 6,
+            "titles": {
+                "Navicat Premium": 4,
+                "Navicat Updater": 2
+            }
+        },
+        "devenv.exe": {
+            "total": 153,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 3,
+                "Microsoft Visual Studio": 8,
+                "zenCore.Camera - Microsoft Visual Studio": 2,
+                "zenCore.Camera - AppConstants.cs - Microsoft Visual Studio": 53,
+                "zenCore - Microsoft Visual Studio": 1,
+                "zenCore - NuGet.Config - Microsoft Visual Studio": 43,
+                "检测到文件修改": 3,
+                "zenCore.Camera - delete_dlls.py - Microsoft Visual Studio": 39,
+                "选项 - Microsoft Visual Studio": 1
+            }
+        },
+        "explorer.exe": {
+            "total": 62,
+            "titles": {
+                "zencore.camera - 文件资源管理器": 10,
+                "Codes - 文件资源管理器": 2,
+                "compile_packaging_publish2 - 文件资源管理器": 14,
+                "Unknown Title": 31,
+                "系统托盘溢出窗口。": 2,
+                "任务切换": 3
+            }
+        },
+        "Cursor.exe": {
+            "total": 1808,
+            "titles": {
+                "AbstractResourceModel.cs - zencore - Cursor": 6,
+                "Cursor": 8,
+                "Open Folder": 5,
+                "publish_version.py - compile_packaging_publish2 - Cursor": 27,
+                "zencore - Cursor": 351,
+                "publish_dlls.py - compile_packaging_publish2 - Cursor": 926,
+                "publish_dlls.py (Working Tree) (publish_dlls.py) - compile_packaging_publish2 - Cursor": 287,
+                "delete_dlls.py - compile_packaging_publish2 - Cursor": 188,
+                "● publish_dlls.py - compile_packaging_publish2 - Cursor": 10
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 73,
+            "titles": {
+                "登录 Steam": 15,
+                "特惠": 2,
+                "Steam": 56
+            }
+        },
+        "ShellHost.exe": {
+            "total": 82,
+            "titles": {
+                "快速设置": 82
+            }
+        },
+        "QQMusic.exe": {
+            "total": 495,
+            "titles": {
+                "七秒钟的记忆 - 徐良 / 孙羽幽   ": 3,
+                "海阔天空 - BEYOND   ": 13,
+                "晴天 - 周杰伦   ": 7,
+                "切换品质": 4,
+                "红色高跟鞋 - 蔡健雅   ": 26,
+                "遇见 - 孙燕姿   ": 442
+            }
+        },
+        "chrome.exe": {
+            "total": 1115,
+            "titles": {
+                "新标签页 - Google Chrome": 43,
+                "nuget search api_百度搜索 - Google Chrome": 30,
+                "nuget_百度搜索 - Google Chrome": 2,
+                "baidu.com/link?url=iH3VhAJRurLna2mGtF5Xvlf3rYn8peWuBr-wKJ1RMzy&wd=&eqid=fa7d3c7c000fa51b00000004695cff27 - Google Chrome": 1,
+                "NuGet Gallery | Home - Google Chrome": 4,
+                "NuGet Gallery | Downloads - Google Chrome": 14,
+                "NuGet 文档 | Microsoft Learn - Google Chrome": 15,
+                "使用 nuget.exe CLI 创建 NuGet 包 | Microsoft Learn - Google Chrome": 22,
+                "搜寻 | Microsoft Learn - Google Chrome": 4,
+                "NuGet 命令行接口 (CLI) 参考 | Microsoft Learn - Google Chrome": 7,
+                "NuGet CLI search 命令 | Microsoft Learn - Google Chrome": 41,
+                "NuGet Private Repository - Google Chrome": 28,
+                "localhost:9000/nuget/Packages - Google Chrome": 13,
+                "IIS 10.0 详细错误 - 404.0 - Not Found - Google Chrome": 20,
+                "nuget search NuGet.Server v3.4.2.0_百度搜索 - Google Chrome": 10,
+                "baidu.com/link?url=5YRKmMOlQutV70hnDUBa-XJZx51BmuhVkhGfZhyoKgL3ALWXsb8qC3mTa4um3cYeM-4g5i540VVuuXGvmp632K&wd=&eqid=dba2055f000f63df00000004695d001e - Google Chrome": 1,
+                "NuGet Gallery | NuGet.Server 3.4.2 - Google Chrome": 20,
+                "NuGet Gallery | Packages matching NuGet.Server - Google Chrome": 8,
+                "NuGet/NuGet.Server: NuGet Server is a lightweight standalone NuGet server - Google Chrome": 13,
+                "nuget.server 3.4.2 执行nuget search_百度搜索 - Google Chrome": 29,
+                "无标题 - Google Chrome": 2,
+                "百度文心助手 - 办公学习一站解决 - Google Chrome": 64,
+                "nuget.server 3.4.2 /index.json的地址_百度搜索 - Google Chrome": 3,
+                "baidu.com/link?url=XFYjblRAjQjfShqNyyH7HxHL2mt6QeaifTVdoszHWXjLvc14S-bsNBk72IZEf039eeUsdgG1_hHw_c5yFTp-9j2_8EuEaUK8YK9k4Atrl1UwyiEoEK-fRgbDmc8r3EUU&wd=&eqid=d2c3d532001ae3ce00000004695d01d3 - Google Chrome": 2,
+                "常见的 NuGet 配置 | Microsoft Learn - Google Chrome": 4,
+                "NuGet CLI list 命令 | Microsoft Learn - Google Chrome": 19,
+                "nuget 查找包版本_百度搜索 - Google Chrome": 18,
+                "baidu.com/link?url=wWcAYr449MJHeOxVpkStiGzgl_OqTqe6_zoCt34vCGu5gmTrFmfyjc-djn-kCRIcWW_pxxsU-1A_SgkxUEmYfgQFESD9G48W21BA8qfDJAK&wd=&eqid=f36a6cdf00040fb900000004695d0702 - Google Chrome": 3,
+                "NuGet 包版本参考 | Microsoft Learn - Google Chrome": 17,
+                "NuGet CLI delete 命令 | Microsoft Learn - Google Chrome": 15,
+                "NuGet HTTPS Everywhere | Microsoft Learn - Google Chrome": 585,
+                "nuget 删除包版本_百度搜索 - Google Chrome": 10,
+                "本地nuget 删除包版本_百度搜索 - Google Chrome": 34,
+                "baidu.com/link?url=3yNGJYlfzq8uFgmqmJWW0CcXhZLSEK35TeQE3DQDtFbppy8GaVQ9LwPnsKqVvW6CD4l34iF9rJCVD5r-uEWUJrirEY6fhTcWbkudjmJonalULaOv1c3ZL6i_TGGQYgOiZQv6x2ZBzpkw0Gy9t40oSthlNLA0h19k9ID0iZINDmS&wd=&eqid=fac8f31f0000331700000004695d0b46 - Google Chrome": 2,
+                "NuGet - Delete Package Version - REST API (Azure DevOps Artifacts Package Types) | Microsoft Learn - Google Chrome": 12
+            }
+        },
+        "Notepad--.exe": {
+            "total": 215,
+            "titles": {
+                "notepad-- - Ndd": 1,
+                "New 0 [文本模式] - Ndd": 213,
+                "Ndd": 1
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 8,
+            "titles": {
+                "命令提示符": 8
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 740,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 34,
+                "undefined": 1,
+                "2025年世界航母天梯榜": 44,
+                "神预测! 斩首马杜罗": 39,
+                "顶级预判！魔笛的防守移动甚至比进攻球员更快！40岁的他再次将米兰送上意甲榜首！": 113,
+                "专治弯腰驼背：第5代揽胜一周体验报告": 122,
+                "杀人还要诛心？央视曝光：中国空军模拟8架歼-16“围猎”6架阵风杀人还要诛心？央视曝光：中国空军模拟8架歼-16“围猎”6架阵风": 206,
+                "“2026年强劲的日本经济绝对会震惊所有人😡！”幻想时间到：日本真的能够成功逆袭吗（2026年1月4日报道）": 38,
+                "什么？广州是农村？日本酒蒙子初到广州，最后却被一道空心菜征服！日本话痨仙人": 143
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 1,
+            "titles": {
+                "终端 的跳转列表": 1
+            }
+        }
+    }
+}

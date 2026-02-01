@@ -1,0 +1,304 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-25 20:08:00",
+            "end": "2026-01-25 20:54:00"
+        },
+        {
+            "start": "2026-01-25 20:57:16",
+            "end": "2026-01-25 22:56:30"
+        }
+    ],
+    "idle_seconds": 1380,
+    "apps": {
+        "Doubao.exe": {
+            "total": 62,
+            "titles": {
+                "豆包": 62
+            }
+        },
+        "explorer.exe": {
+            "total": 206,
+            "titles": {
+                "Program Manager": 12,
+                "Unknown Title": 34,
+                "bilibili - 文件资源管理器": 10,
+                "resources - 文件资源管理器": 3,
+                "app.asar.unpacked - 文件资源管理器": 2,
+                "node_modules - 文件资源管理器": 2,
+                "ele - “bilibili”中的搜索结果 - 文件资源管理器": 9,
+                "迅雷下载 - 文件资源管理器": 10,
+                "完蛋！我被美女包围了！v2025.7.11 中文版 - 文件资源管理器": 38,
+                "此电脑 - 文件资源管理器": 1,
+                "Data (D:) - 文件资源管理器": 23,
+                "游戏 - 文件资源管理器": 31,
+                "WD Love Is All Around - 文件资源管理器": 20,
+                "Games - 文件资源管理器": 10,
+                "删除文件夹": 1
+            }
+        },
+        "SearchHost.exe": {
+            "total": 38,
+            "titles": {
+                "搜索": 38
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 58,
+            "titles": {
+                "Microsoft Store": 44,
+                "设置": 14
+            }
+        },
+        "RadeonSoftware.exe": {
+            "total": 5,
+            "titles": {
+                "AMD Software: Adrenalin Edition": 5
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 3,
+            "titles": {
+                "开始": 3
+            }
+        },
+        "Cursor.exe": {
+            "total": 30,
+            "titles": {
+                "Cursor": 3,
+                "daily.html - Statistics - Cursor": 17,
+                "app_tracker.py (Working Tree) (app_tracker.py) - Statistics - Cursor": 10
+            }
+        },
+        "devenv.exe": {
+            "total": 50,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 1,
+                "Microsoft Visual Studio": 6,
+                "NSWebApi - Microsoft Visual Studio": 21,
+                "NSWebApi - UpdateUserCashAccountOrderType.sql - Microsoft Visual Studio": 22
+            }
+        },
+        "Code.exe": {
+            "total": 49,
+            "titles": {
+                "Visual Studio Code": 7,
+                "20260120.data.json - Visual Studio Code": 4,
+                "Extension: GitHub Copilot Chat - Visual Studio Code": 5,
+                "Welcome - Visual Studio Code": 33
+            }
+        },
+        "idea64.exe": {
+            "total": 147,
+            "titles": {
+                "每日小技巧": 2,
+                "Programmer – ConsoleApplication1.cpp": 136,
+                "IntelliJ IDEA 和插件更新": 2,
+                "插件更新": 1,
+                "Unknown Title": 2,
+                "ConsoleApplication1.cpp": 2,
+                "确认退出": 2
+            }
+        },
+        "Hiddify.exe": {
+            "total": 116,
+            "titles": {
+                "Hiddify": 116
+            }
+        },
+        "setup.exe": {
+            "total": 3,
+            "titles": {
+                "Visual Studio Installer": 3
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 122,
+            "titles": {
+                "特惠": 22,
+                "Steam": 95,
+                "登录 Steam": 4,
+                "Unknown Title": 1
+            }
+        },
+        "Trae.exe": {
+            "total": 32,
+            "titles": {
+                "zenbrightgamecocos - Trae": 29,
+                "Trae": 3
+            }
+        },
+        "Weixin.exe": {
+            "total": 2,
+            "titles": {
+                "微信": 2
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 1945,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 24,
+                "【1月24晚报】一抹黑东大案披露！34国军官被美召集开会！伊朗已做最坏打算！中使馆摊煎饼！东大提醒暂往阿富汗！美人工智能声波武器！美催保护费！格陵兰企鹅菲律宾人": 78,
+                "「小白」全隐身！这个流氓App让各品牌手机全军覆没？": 880,
+                "生“搬”哈兰德+统领防线！英超至今还未适应1米75的利马？": 607,
+                "阿根廷防线后继无人？20岁天才中卫横空出世！单场2断单刀+首秀征服多特球迷！": 356
+            }
+        },
+        "Taskmgr.exe": {
+            "total": 8,
+            "titles": {
+                "任务管理器": 8
+            }
+        },
+        "Notepad.exe": {
+            "total": 16,
+            "titles": {
+                "LICENSE.electron.txt - Notepad": 3,
+                "publish_dlls.py - Notepad": 2,
+                "无标题 - Notepad": 3,
+                "游戏启动说明.txt - Notepad": 8
+            }
+        },
+        "java.exe": {
+            "total": 5,
+            "titles": {
+                "更新": 5
+            }
+        },
+        "msedge.exe": {
+            "total": 4746,
+            "titles": {
+                "火花游戏(4) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 18,
+                "金山文档 | WPS云文档 和另外 12 个页面 - 个人 - Microsoft​ Edge": 2,
+                "pan.quark.cn/s/87f0b10b10ef 和另外 12 个页面 - 个人 - Microsoft​ Edge": 1,
+                "夸克网盘分享 和另外 12 个页面 - 个人 - Microsoft​ Edge": 42,
+                "设置 和另外 12 个页面 - 个人 - Microsoft​ Edge": 2,
+                "夸克网盘分享 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1352,
+                "火花游戏(4) 和另外 10 个页面 - 个人 - Microsoft​ Edge": 636,
+                "新建标签页 - 个人 - Microsoft​ Edge": 11,
+                "全面战争 - 搜索 - 个人 - Microsoft​ Edge": 28,
+                "全面战争（2000年英国The Creative Assembly开发大型策略类系列游戏）_百度百科 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "中国式相亲 游戏 - 搜索 - 个人 - Microsoft​ Edge": 7,
+                "中国式相亲 游戏 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "Steam 上的 中国式相亲 和另外 1 个页面 - 个人 - Microsoft​ Edge": 43,
+                "杀手3 游戏 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "杀手3 游戏 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "杀手3（2021年潜行动作类游戏）_百度百科 和另外 2 个页面 - 个人 - Microsoft​ Edge": 613,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 17,
+                "无标题 - 个人 - Microsoft​ Edge": 1,
+                "狙击精英4 - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "狙击精英4_狙击精英4下载_狙击精英4攻略专题_游侠网 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "狙击精英4 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 13,
+                "金山文档 | WPS云文档 和另外 11 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Unknown Title": 5,
+                "无标题 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "武装突袭援德行动 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 66,
+                "密室逃脱模拟器 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 42,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "密室逃脱模拟器电脑版下载-密室逃脱模拟器PC版下载安装_3DM单机 和另外 2 个页面 - 个人 - Microsoft​ Edge": 13,
+                "极品飞车14 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "极品飞车14热力追踪3_极品飞车14热力追踪3下载_极品飞车14热力追踪3攻略专题_游侠网 和另外 2 个页面 - 个人 - Microsoft​ Edge": 15,
+                "新建标签页 和另外 11 个页面 - 个人 - Microsoft​ Edge": 6,
+                "FIFA zuqiu - 搜索 和另外 11 个页面 - 个人 - Microsoft​ Edge": 4,
+                "无标题 和另外 12 个页面 - 个人 - Microsoft​ Edge": 1,
+                "FIFA系列下载_FIFA全系列_FIFA系列专题-游侠网 和另外 12 个页面 - 个人 - Microsoft​ Edge": 14,
+                "极品飞车14 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "极品飞车21 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "极品飞车：热度_极品飞车：热度下载_极品飞车：热度攻略专题_游侠网 和另外 3 个页面 - 个人 - Microsoft​ Edge": 17,
+                "极品飞车：热度图片_极品飞车：热度截图_高清壁纸-游侠网 和另外 4 个页面 - 个人 - Microsoft​ Edge": 12,
+                "极品飞车：热度_极品飞车：热度下载_极品飞车：热度攻略专题_游侠网 和另外 4 个页面 - 个人 - Microsoft​ Edge": 5,
+                "无标题 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "虾说_游戏鉴赏平台_单机游戏大全_游戏库_新报_游侠网 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无标题 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "2025单机游戏下载_2025单机游戏年鉴_热门单机游戏_单机游戏排行_游侠网 和另外 6 个页面 - 个人 - Microsoft​ Edge": 36,
+                "虾说_游戏鉴赏平台_单机游戏大全_游戏库_新报_游侠网 和另外 6 个页面 - 个人 - Microsoft​ Edge": 3,
+                "单机游戏排行榜_单机游戏排行榜_热门单机游戏-游侠网 和另外 7 个页面 - 个人 - Microsoft​ Edge": 27,
+                "总站（6） 和另外 10 个页面 - 个人 - Microsoft​ Edge": 2,
+                "account.wps.cn/passport/singlesso?cb=https%3A%2F%2Fwww.kdocs.cn%2Fl%2FcbX59rtzXVka%3FsheetId%3D4&appid=375024576&f=c&codechallenge=mWodmS-RN7TPfYJx9uAyI6FIhb6j_o2TMX62VOvwPGM&singlesignhost=account.kdocs.cn&plusreffer=www.kdocs.cn 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "火花影视库2(5) 和另外 11 个页面 - 个人 - Microsoft​ Edge": 14,
+                "火花影视库2(5) 和另外 12 个页面 - 个人 - Microsoft​ Edge": 465,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - 个人 - Microsoft​ Edge": 9,
+                "pan.quark.cn 和另外 12 个页面 - 个人 - Microsoft​ Edge": 1,
+                "总站（6） 和另外 11 个页面 - 个人 - Microsoft​ Edge": 1,
+                "www.kdocs.cn 和另外 10 个页面 - 个人 - Microsoft​ Edge": 2,
+                "总站（6） 和另外 9 个页面 - 个人 - Microsoft​ Edge": 1,
+                "www.kdocs.cn 和另外 8 个页面 - 个人 - Microsoft​ Edge": 1,
+                "总站（6） 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "2024年上海地铁2号线各站点运营时间表，首末班车发车时间 - 上海都市圈 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "总站（6） 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "收藏！上海地铁全网首末班车时刻表已更新_腾讯新闻 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "上海地铁2号线末班车 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "总站（6） 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "火花游戏(4) 和另外 3 个页面 - 个人 - Microsoft​ Edge": 104,
+                "夸克网盘分享 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "火花影视库2(5) 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 156,
+                "华为上线14999元智能门锁 经销商：门锁利润不高 能把高净值客户圈进来就好--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 10,
+                "雷军：REDMI Turbo 5 Max首销电池保5年 健康度低于80%免费换--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 18,
+                "被骗多年！你的手机能炸掉加油站就是个笑话...--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "新疆野生雪豹伤人 律师：游客若有重大过失 损失需自行承担--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "日本U23为U23国足列队鼓掌 白岩松评U23国足：教练牛、队员牛、成绩牛--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 19,
+                "九号公司CEO放话：未来十年电动车要超越燃油车--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 21,
+                "获汽车5年使用权！长安向两名U23重庆球员配送启源A06--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "新车刚提6天遭4S店员开门杀！协商未果卖车 贬值3.5万元--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 25,
+                "OPPO Find X9 Ultra三月登场：机圈最强望远镜来了--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 29,
+                "停车11分钟收费16元 车主抱怨太贵引发热议：官方回应了--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 22,
+                "Realme Neo8 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 9,
+                "bing.com/ck/a?!&&p=2509ff17c4b3a2f51930a4f0654d261bdecd4bc4f73a541880e289eaa7b3faaeJmltdHM9MTc2OTI5OTIwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&psq=Realme+Neo8&u=a1aHR0cHM6Ly93d3cucmVhbG1lLmNvbS9jbi9yZWFsbWUtbmVvLTg&ntb=1 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "真我 Neo8立即购买-realme真我官方商城 和另外 4 个页面 - 个人 - Microsoft​ Edge": 13,
+                "真我商城 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "真我Neo8 (起源白12GB+256GB) 和另外 4 个页面 - 个人 - Microsoft​ Edge": 111,
+                "真我Neo8上手：性能全面开挂--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 31,
+                "为应对高额分成 共享充电宝转战电动自行车流动运营--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "鸿蒙智行车主人在越南 车在深圳！跨国2540公里成功使用VPD泊车移位--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 43,
+                "6TB空间+极速下载 夸克网盘SVIP双年卡官方三折 低至7.5元/月--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 18,
+                "一波音747-400客机起飞时引擎故障 推力失衡致飞机冲出跑道--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 449,
+                "已发生多起！为省260元山姆年卡钱被骗3万多--快科技--科技改变未来 和另外 3 个页面 - 个人 - Microsoft​ Edge": 23,
+                "总站（6） - 个人 - Microsoft​ Edge": 1
+            }
+        },
+        "quark.exe": {
+            "total": 612,
+            "titles": {
+                "夸克网盘 - 夸克": 500,
+                "untitled": 58,
+                "网盘设置 - 夸克": 7,
+                "设置 - 个人中心 - 夸克": 3,
+                "设置 - 关于夸克 - 夸克": 15,
+                "Unknown Title": 26,
+                "选择文件": 3
+            }
+        },
+        "steam.exe": {
+            "total": 5,
+            "titles": {
+                "Steam": 5
+            }
+        },
+        "Xmp.exe": {
+            "total": 93,
+            "titles": {
+                "迅雷影音": 93
+            }
+        },
+        "WD Love Is All Around.part1.exe": {
+            "total": 35,
+            "titles": {
+                "WinRAR 自解压文件": 26,
+                "浏览文件夹": 9
+            }
+        },
+        "WD.exe": {
+            "total": 133,
+            "titles": {
+                "完蛋！我被美女包围了！": 129,
+                "Love Is All Around": 1,
+                "トキメキ！コイしたいライフ！": 1,
+                "젠장! 미녀들한테 포위당했어!": 1,
+                "Thôi Xong! Tui Bị Người Đẹp Bao Vây Rồi!": 1
+            }
+        }
+    }
+}

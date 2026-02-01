@@ -1,0 +1,129 @@
+开机时间:2025-12-07 21:44:09
+关机时间:2025-12-07 23:22:05
+共使用: 1:35:59
+闲置: 0:33:22
+------------------------------
+应用程序使用详情 (按时长倒序):
+Trae.exe 0:38:36
+    auto_start.bat - Statistics - Trae 0:9:6
+    run_view_data_statistics.py - Statistics - Trae 0:7:23
+    server.py - Statistics - Trae 0:5:59
+    create_startup_lnk_win.py - Statistics - Trae 0:5:7
+    compile_packaging_publish2 - Trae 0:5:6
+    miscellaneous.py - Statistics - Trae 0:2:22
+    ● create_startup_lnk_win.py - Statistics - Trae 0:0:45
+    mac_app_tracker.py - Statistics - Trae 0:0:36
+    statistics.ico - Statistics - Trae 0:0:31
+    Statistics - Trae 0:0:29
+    项目结构.md - zenbrightgamecocos - Trae 0:0:25
+    打开 0:0:15
+    ● run_view_data_statistics.py - Statistics - Trae 0:0:15
+    Trae 0:0:11
+    start_server.bat - Statistics - Trae 0:0:2
+    ● miscellaneous.py - Statistics - Trae 0:0:2
+    app_tracker.py - Statistics - Trae 0:0:2
+explorer.exe 0:7:1
+    Program Manager 0:2:13
+    启动 - 文件资源管理器 0:1:43
+    pythonw.exe 属性 0:0:53
+    Unknown Title 0:0:27
+    System (C:) - 文件资源管理器 0:0:20
+    Data - 文件资源管理器 0:0:16
+    创建快捷方式 0:0:15
+    Codes - 文件资源管理器 0:0:8
+    运行 0:0:5
+    此电脑 - 文件资源管理器 0:0:4
+    i4Tools8 - 文件资源管理器 0:0:4
+    删除快捷方式 0:0:3
+    Data (D:) - 文件资源管理器 0:0:3
+    文件访问被拒绝 0:0:3
+    系统托盘溢出窗口。 0:0:3
+    byj19 - 文件资源管理器 0:0:3
+    贴靠助手 0:0:3
+    用户 - 文件资源管理器 0:0:2
+    compile_packaging_publish2 - 文件资源管理器 0:0:2
+    浏览文件或文件夹 0:0:2
+    start_app_tracker 属性 0:0:2
+    删除多个项目 0:0:1
+    已完成 0% 0:0:1
+    已完成 80% 0:0:1
+    已完成 50% 0:0:1
+    MCHOSE - 文件资源管理器 0:0:1
+    任务切换 0:0:1
+    Statistics - 文件资源管理器 0:0:1
+ApplicationFrameHost.exe 0:5:38
+    Microsoft Store 0:4:37
+    设置 0:1:1
+msedge.exe 0:2:55
+    新建标签页 - 个人 - Microsoft​ Edge 0:0:44
+    每日使用统计报告 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:23
+    新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:20
+    Microsoft store下载速度过慢_microsoft store下载速度很慢-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:16
+    为什么Microsoft Store（微软应用商店）下载速度特别慢？ - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:15
+    把python脚本打包成命令 - 搜索 - 个人 - Microsoft​ Edge 0:0:10
+    ZenSystem / compile_packaging_publish2 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:9
+    windows store 更新很慢 - 搜索 - 个人 - Microsoft​ Edge 0:0:9
+    byj1986 - 个人 - Microsoft​ Edge 0:0:9
+    新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:5
+    byj1986/Working-Statistics - 个人 - Microsoft​ Edge 0:0:4
+    项目 · GitLab 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    add shortcut to startup to fix shell prompt when startup · byj1986/Working-Statistics@3e08c70 - 个人 - Microsoft​ Edge 0:0:2
+    zhuanlan.zhihu.com/p/1921244353118077781 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    还原页面 0:0:1
+    Unknown Title 0:0:1
+    byj1986/AI_Level3_Course - 个人 - Microsoft​ Edge 0:0:1
+Code.exe 0:2:6
+    settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code 0:1:21
+    Visual Studio Code 0:0:17
+    20251202.data.json - Visual Studio Code 0:0:10
+    Extension: Black - Visual Studio Code 0:0:9
+    1.1.1.ipynb - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code 0:0:7
+    Open Folder 0:0:2
+Cursor.exe 0:2:5
+    Preview 功能说明.md - zenbrightgamecocos - Cursor 0:1:55
+    Cursor 0:0:10
+Hiddify.exe 0:0:59
+    Hiddify 0:0:59
+WindowsTerminal.exe 0:0:42
+    命令提示符 0:0:19
+    auto_start.bat 0:0:15
+    Windows PowerShell 0:0:7
+    Terminal 0:0:1
+SearchHost.exe 0:0:39
+    搜索 0:0:39
+Doubao.exe 0:0:28
+    豆包 - 字节跳动旗下 AI 智能助手 - 豆包 0:0:19
+    新对话 - 豆包 - 豆包 0:0:6
+    无标题 - 豆包 0:0:2
+    doubao.com/chat/ - 豆包 0:0:1
+chrome.exe 0:0:14
+    Ink.Handwriting.Main.zh-Hans.1.0 - Microsoft Apps - Google Chrome 0:0:12
+    新标签页 - Google Chrome 0:0:2
+clash-verge.exe 0:0:12
+    Clash Verge 0:0:12
+Taskmgr.exe 0:0:12
+    任务管理器 0:0:12
+yuanbao.exe 0:0:9
+    腾讯元宝设置 0:0:8
+    腾讯元宝 0:0:1
+Notepad.exe 0:0:6
+    Main_20250222_ulog.log - Notepad 0:0:6
+StartMenuExperienceHost.exe 0:0:5
+    开始 0:0:5
+PickerHost.exe 0:0:5
+    Windows 安全中心 0:0:5
+wscript.exe 0:0:4
+    Windows Script Host 0:0:4
+mspaint.exe 0:0:3
+    temp.bmp - 画图 0:0:3
+AcPowerNotification.exe 0:0:3
+    MainWindow 0:0:3
+SnippingTool.exe 0:0:3
+    截图工具覆盖 0:0:3
+pythonw.exe 0:0:3
+    Unknown Title 0:0:3
+inno_updater.exe 0:0:2
+    Cursor 0:0:2
+OpenWith.exe 0:0:1
+    Unknown Title 0:0:1

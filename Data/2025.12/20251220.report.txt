@@ -1,0 +1,47 @@
+开机时间:2025-12-19 20:27:50
+关机时间:2025-12-20 00:00:00
+共使用: 3:32:10
+闲置: 0:34:47
+------------------------------
+应用程序使用详情 (按时长倒序):
+msedge.exe 2:44:29
+    键盘按键测试在线 - 键盘测试工具 - 键盘连键检测 和另外 7 个页面 - 个人 - Microsoft​ Edge 1:42:36
+    新建标签页 - 个人 - Microsoft​ Edge 0:31:49
+    WOB CRUSH80 C80 Remodel plan Aluminum Turd Mechanical keyboard Customized wireless three mode | Lazada 和另外 12 个页面 - 个人 - Microsoft​ Edge 0:12:26
+    Microsoft Edge 帮助和学习 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:4:6
+    DevTools - support.microsoft.com/zh-cn/microsoft-edge 0:3:46
+    Unknown Title 0:3:39
+    https://ssa-school.com/index.phpLLLlllrrrttyyyyyyyyuuuuuuuittttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu - 搜索 - 个人 - Microsoft​ Edge 0:2:13
+    wob 80 - 搜索 图片 和另外 12 个页面 - 个人 - Microsoft​ Edge 0:1:1
+    CRUSH80 - WOB欢迎您 和另外 10 个页面 - 个人 - Microsoft​ Edge 0:0:47
+    wob 80 - 搜索 图片 和另外 11 个页面 - 个人 - Microsoft​ Edge 0:0:17
+    Microsoft Edge 帮助和学习 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:14
+    新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:14
+    新建标签页 和另外 8 个页面 - 个人 - Microsoft​ Edge 0:0:13
+    在线键盘测试 | zFrontier 装备前线 和另外 6 个页面 - 个人 - Microsoft​ Edge 0:0:12
+    wob 80 - 搜索 和另外 10 个页面 - 个人 - Microsoft​ Edge 0:0:10
+    无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge 0:0:9
+    WOB欢迎您！ 和另外 9 个页面 - 个人 - Microsoft​ Edge 0:0:5
+    关闭插入光标浏览? 0:0:4
+    wob 80 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge 0:0:4
+    CRUSH80 - WOB欢迎您 和另外 9 个页面 - 个人 - Microsoft​ Edge 0:0:4
+    无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    无标题 和另外 12 个页面 - 个人 - Microsoft​ Edge 0:0:3
+    在线键盘测试 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    在线键盘测试 - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge 0:0:2
+    Microsoft Edge 帮助和学习 和另外 1 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    无标题 和另外 9 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    无标题 和另外 10 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    WOB欢迎您！ 和另外 10 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    Antibot Challenge Page 和另外 12 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    无标题 和另外 13 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    lazada.com.my/products/wob-crush80-c80-remodel-plan-aluminum-turd-mechanical-keyboard-customized-wireless-three-mode-i4292721825.html 和另外 13 个页面 - 个人 - Microsoft​ Edge 0:0:1
+    CRUSH80 - WOB欢迎您 和另外 12 个页面 - 个人 - Microsoft​ Edge 0:0:1
+explorer.exe 0:12:21
+    Unknown Title 0:12:21
+SearchHost.exe 0:0:10
+    搜索 0:0:10
+SnippingTool.exe 0:0:6
+    截图工具覆盖 0:0:6

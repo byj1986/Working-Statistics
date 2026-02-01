@@ -1,0 +1,272 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-21 21:25:41",
+            "end": "2026-01-21 23:14:30"
+        }
+    ],
+    "idle_seconds": 380,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 45,
+            "titles": {
+                "搜索": 45
+            }
+        },
+        "explorer.exe": {
+            "total": 111,
+            "titles": {
+                "Unknown Title": 35,
+                "贴靠助手": 2,
+                "zenfocusstore - 文件资源管理器": 6,
+                "Codes - 文件资源管理器": 5,
+                "zencontrolstore - 文件资源管理器": 4,
+                "下载 - 文件资源管理器": 11,
+                "Statistics - 文件资源管理器": 32,
+                "此电脑 - 文件资源管理器": 2,
+                "Data (D:) - 文件资源管理器": 3,
+                "替换或跳过文件": 1,
+                "已完成 0%": 1,
+                "已完成 97%": 1,
+                "2026.01 - 文件资源管理器": 8
+            }
+        },
+        "Thunder.exe": {
+            "total": 46,
+            "titles": {
+                "迅雷": 33,
+                "支付优惠卡": 1,
+                "新建任务面板": 4,
+                "index.html": 2,
+                "提示框": 3,
+                "确定要删除吗？": 1,
+                "迅雷播放组件": 1,
+                "DLNA投屏播放": 1
+            }
+        },
+        "APlayer.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 2,
+            "titles": {
+                "迅雷升级程序": 2
+            }
+        },
+        "Code.exe": {
+            "total": 69,
+            "titles": {
+                "Visual Studio Code": 1,
+                "Welcome - Visual Studio Code": 37,
+                "20260120.data.json - Visual Studio Code": 31
+            }
+        },
+        "devenv.exe": {
+            "total": 964,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 9,
+                "Microsoft Visual Studio": 25,
+                "NSWebApi - NSWebApi - Microsoft Visual Studio": 45,
+                "Unknown Title": 4,
+                "NSWebApi - UpdateUserCashAccountOrderType.sql - Microsoft Visual Studio": 65,
+                "NSWebApi": 1,
+                "zenFocusStore - Microsoft Visual Studio": 12,
+                "zenFocusStore - App.xaml.cs - Microsoft Visual Studio": 62,
+                "zenFocusStore": 4,
+                "zenFocusStore - CalibratePoint.cs - Microsoft Visual Studio": 53,
+                "zenFocusStore - README.md - Microsoft Visual Studio": 4,
+                "zenFocusStore - SecondaryWindow.xaml - Microsoft Visual Studio": 11,
+                "zenFocusStore - Window [从元数据] [只读] - Microsoft Visual Studio": 3,
+                "zenFocusStore - PrimaryWindow.g.i.cs - Microsoft Visual Studio": 5,
+                "zenFocusStore - PrimaryWindow.xaml - Microsoft Visual Studio": 3,
+                "zenFocusStore - PrimaryWindow.xaml.cs - Microsoft Visual Studio": 7,
+                "zenFocusStore - WindowDisplayHelper.cs - Microsoft Visual Studio": 57,
+                "zenFocusStore - App.config - Microsoft Visual Studio": 17,
+                "zenFocusStore - TrajectoryControl.xaml - Microsoft Visual Studio": 10,
+                "zenFocusStore - TrajectoryControl.xaml.cs - Microsoft Visual Studio": 344,
+                "zenFocusStore - ReadingTraineeView.xaml - Microsoft Visual Studio": 31,
+                "zenFocusStore - ReadingTraineeView.xaml.cs* - Microsoft Visual Studio": 4,
+                "zenFocusStore - ReadingTraineeView.xaml.cs - Microsoft Visual Studio": 4,
+                "zenFocusStore - ReadingViewModel.cs - Microsoft Visual Studio": 37,
+                "zenFocusStore - ReadingCoachView.xaml - Microsoft Visual Studio": 81,
+                "zenFocusStore - MainWindowViewModel.cs - Microsoft Visual Studio": 44,
+                "ZenControlStore - Microsoft Visual Studio": 6,
+                "ZenControlStore - App.xaml.cs - Microsoft Visual Studio": 16
+            }
+        },
+        "Trae.exe": {
+            "total": 9,
+            "titles": {
+                "Trae": 2,
+                "zenbrightgamecocos - Trae": 3,
+                "更新日志 - zenbrightgamecocos - Trae": 4
+            }
+        },
+        "setup.exe": {
+            "total": 88,
+            "titles": {
+                "Visual Studio Installer": 87,
+                "Unknown Title": 1
+            }
+        },
+        "TraeSetup-stable-2.3.4434.tmp": {
+            "total": 14,
+            "titles": {
+                "安装 - Trae (User)": 14
+            }
+        },
+        "idea64.exe": {
+            "total": 50,
+            "titles": {
+                "每日小技巧": 2,
+                "Programmer – ConsoleApplication1.cpp": 47,
+                "确认退出": 1
+            }
+        },
+        "Cursor.exe": {
+            "total": 212,
+            "titles": {
+                "launch.json - zencore - Cursor": 9,
+                "Cursor": 3,
+                "mac_app_tracker.py - Statistics - Cursor": 49,
+                "server.log - Statistics - Cursor": 10,
+                "Browser Tab - Statistics - Cursor": 1,
+                "每日使用统计报告 - Statistics - Cursor": 52,
+                "Developer Tools - http://localhost:8000/": 28,
+                "20260119.data.json - Statistics - Cursor": 34,
+                "20260121.data.json - Statistics - Cursor": 10,
+                "daily.html - Statistics - Cursor": 11,
+                "app_tracker.py - Statistics - Cursor": 5
+            }
+        },
+        "Doubao.exe": {
+            "total": 234,
+            "titles": {
+                "豆包": 121,
+                "Unknown Title": 10,
+                "欢迎 - 豆包": 15,
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 30,
+                "doubao.com/chat/?from_login=1 - 豆包": 1,
+                "豆包设置 - 豆包浏览器": 46,
+                "无标题 - 豆包浏览器": 1,
+                "豆包官网 - 豆包浏览器": 10
+            }
+        },
+        "chrome.exe": {
+            "total": 34,
+            "titles": {
+                "新标签页 - Google Chrome": 4,
+                "设置 - 关于 Chrome - Google Chrome": 25,
+                "您的 AdBlock 已更新！ - Google Chrome": 4,
+                "Unknown Title": 1
+            }
+        },
+        "msedge.exe": {
+            "total": 1037,
+            "titles": {
+                "Microsoft Edge 的新增功能 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "设置 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "新建标签页 - 个人 - Microsoft​ Edge": 24,
+                "boss直聘 - 搜索 - 个人 - Microsoft​ Edge": 3,
+                "BOSS直聘-找工作上BOSS直聘直接谈！招聘求职找工作！ 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "boss直聘 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "BOSS直聘-找工作上BOSS直聘直接谈！招聘求职找工作！ - 个人 - Microsoft​ Edge": 12,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "设置 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "【BOSS直聘注册登录】boss直聘在线注册登录-BOSS直聘 - 个人 - Microsoft​ Edge": 18,
+                "BOSS直聘 - 个人 - Microsoft​ Edge": 1,
+                "请稍候 - BOSS直聘 - 个人 - Microsoft​ Edge": 1,
+                "求职|找工作|招聘信息-BOSS直聘 - 个人 - Microsoft​ Edge": 1,
+                "「上海招聘」-2026年上海人才招聘信息 - BOSS直聘 - 个人 - Microsoft​ Edge": 320,
+                "百度一下，你就知道 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "豆包_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 19,
+                "百度文心助手 - 办公学习一站解决 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "baidu.com/link?url=e3bbrSlJUDVdZ8KIMRYyibgvLqcdUv1LnPOE4d_mwEwW6W9o0_d37sUnergeLe2WPCSJeVw-B7a3NUm7kLhPS_&wd=&eqid=a2d23044003b69e9000000046970d821 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "doubao.com/chat/?ref=willenyao.com 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "豆包 - 字节跳动旗下 AI 智能助手 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "「上海招聘」-2026年上海人才招聘信息 - BOSS直聘 和另外 2 个页面 - 个人 - Microsoft​ Edge": 46,
+                "「BOSS直聘简历」- 个人求职简历免费下载，使用打动hr的专业简历，抓住每个高薪机会 和另外 3 个页面 - 个人 - Microsoft​ Edge": 6,
+                "豆包 - 字节跳动旗下 AI 智能助手 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "豆包_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "「BOSS直聘简历」- 个人求职简历免费下载，使用打动hr的专业简历，抓住每个高薪机会 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "「上海招聘」-2026年上海人才招聘信息 - BOSS直聘 和另外 1 个页面 - 个人 - Microsoft​ Edge": 48,
+                "BOSS直聘 和另外 1 个页面 - 个人 - Microsoft​ Edge": 35,
+                "「BOSS直聘简历」- 个人求职简历免费下载，使用打动hr的专业简历，抓住每个高薪机会 和另外 1 个页面 - 个人 - Microsoft​ Edge": 428,
+                "intel openvino - 搜索 - 个人 - Microsoft​ Edge": 15
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 102,
+            "titles": {
+                "设置": 48,
+                "Microsoft Store": 54
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "开始": 4
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 26,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 26
+            }
+        },
+        "unst1769003014693-copied.exe": {
+            "total": 5,
+            "titles": {
+                "豆包": 5
+            }
+        },
+        "doubao_client_dbkhd_360rgzone_windows_v1085008_c5b3_1766979442.exe": {
+            "total": 17,
+            "titles": {
+                "豆包": 17
+            }
+        },
+        "Notepad--.exe": {
+            "total": 3006,
+            "titles": {
+                "警告 - Ndd": 2,
+                "New 0 [文本模式] - Ndd": 3,
+                "New 1 [文本模式] - Ndd": 2770,
+                "保存文件 'New 1'": 5,
+                "C:\\Users\\byj19\\Documents\\New 1.txt [文本模式] - Ndd": 226
+            }
+        },
+        "QQMusic.exe": {
+            "total": 27,
+            "titles": {
+                "QQ音乐": 2,
+                "SPACE BOY - Dave Rodgers   ": 21,
+                "执迷不悔 (国语版) - 王菲   ": 3,
+                "爱的可能 - 叶蒨文   ": 1
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 2,
+            "titles": {
+                "Visual Studio 的跳转列表": 2
+            }
+        },
+        "Weixin.exe": {
+            "total": 34,
+            "titles": {
+                "微信": 31,
+                "另存为...": 3
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,524 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-21 09:13:41",
+            "end": "2025-12-21 14:09:00"
+        }
+    ],
+    "idle_seconds": 8667,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 53,
+            "titles": {
+                "搜索": 53
+            }
+        },
+        "explorer.exe": {
+            "total": 470,
+            "titles": {
+                "Unknown Title": 76,
+                "迅雷下载 - 文件资源管理器": 149,
+                "Trae-Setup-x64.exe 属性": 3,
+                "删除文件": 3,
+                "此电脑 - 文件资源管理器": 32,
+                "Data (D:) - 文件资源管理器": 58,
+                "GongHeGuoZhiHui1.0 - 文件资源管理器": 8,
+                "文件资源管理器": 1,
+                "无名的人（电影《雄狮少年》主题曲） - 文件资源管理器": 2,
+                "System (C:) - 文件资源管理器": 2,
+                "用户 - 文件资源管理器": 11,
+                "byj19 - 文件资源管理器": 2,
+                "下载 - 文件资源管理器": 31,
+                "系统托盘溢出窗口。": 9,
+                "迅雷下载 属性": 1,
+                "Microsoft Flight Simulator 属性": 6,
+                "Program Files - 文件资源管理器": 4,
+                "Tencent - 文件资源管理器": 3,
+                "Androws - 文件资源管理器": 2,
+                "AndrowsData - 文件资源管理器": 3,
+                "app - 文件资源管理器": 2,
+                "ProgramData - 文件资源管理器": 1,
+                "videoCache - 文件资源管理器": 1,
+                "962c967045d6c9c2d6371c2f54361aa4_contents - 文件资源管理器": 2,
+                "Quark - 文件资源管理器": 1,
+                "SteamLibrary - 文件资源管理器": 1,
+                "steamapps - 文件资源管理器": 6,
+                "common - 文件资源管理器": 2,
+                "曲库 - 文件资源管理器": 3,
+                "迅雷云盘 - 文件资源管理器": 1,
+                "Program Manager": 2,
+                "贴靠助手": 1,
+                "Python314 - 文件资源管理器": 8,
+                "Python - 文件资源管理器": 4,
+                "Programs - 文件资源管理器": 5,
+                "Local - 文件资源管理器": 3,
+                "include - 文件资源管理器": 2,
+                "Scripts - 文件资源管理器": 17,
+                "LearningPython - 文件资源管理器": 1,
+                "Loan2 - 文件资源管理器": 1
+            }
+        },
+        "QQMusic.exe": {
+            "total": 189,
+            "titles": {
+                "QQ音乐": 2,
+                "海阔天空 - BEYOND   ": 25,
+                "无名的人 - 毛不易   ": 60,
+                "音量": 3,
+                "only my railgun - fripSide   ": 5,
+                "残酷な天使のテーゼ (残酷天使的行动纲领) (Director Edit version) - 高橋洋子   ": 32,
+                "Unknown Title": 1,
+                "毛不易 (平凡的一天) - 语海小公主   ": 18,
+                "一程山路 - 毛不易   ": 6,
+                "播放模式选择": 3,
+                "十面埋伏 - S.H.E   ": 7,
+                "给我一首歌的时间 - 周杰伦   ": 6,
+                "干杯 - 五月天   ": 14,
+                "被风吹过的夏天 - 林俊杰 / 金莎   ": 3,
+                "我从草原来 - 凤凰传奇   ": 4
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 31,
+            "titles": {
+                "Microsoft Store": 12,
+                "设置": 19
+            }
+        },
+        "Hiddify.exe": {
+            "total": 73,
+            "titles": {
+                "Hiddify": 73
+            }
+        },
+        "chrome.exe": {
+            "total": 2664,
+            "titles": {
+                "新标签页 - Google Chrome": 198,
+                "快科技--科技改变未来 - Google Chrome": 543,
+                "Google - Google Chrome": 13,
+                "集芳阁云搜 - 官方地址发布 - Google Chrome": 6,
+                "电影天堂_免费电影_迅雷电影下载_电影天堂网 - Google Chrome": 4,
+                "KDS - 在这里・看上海 - Google Chrome": 4,
+                "备用24d-j6f6g-com.www-jfgsou-com.com/?fulione - Google Chrome": 1,
+                "集芳阁云搜 - 搜你所想,看你想看 - Google Chrome": 4,
+                "集芳阁今日热播 Top100 - 集芳阁云搜 - Google Chrome": 12,
+                "户外露出强奸合集喝醉强奸路人露出勾引强奸野战女神撒尿 - 集芳阁云搜 - Google Chrome": 79,
+                "请稍候… - Google Chrome": 13,
+                "MissAV | 免费高清AV在线看 - Google Chrome": 34,
+                "google antigravity - Google 搜索 - Google Chrome": 6,
+                "TRAE - Collaborate with Intelligence - Google Chrome": 27,
+                "Google Antigravity - Google Chrome": 3,
+                "Google Antigravity Download - Google Chrome": 16,
+                "无标题 - Google Chrome": 8,
+                "登录 - Google 账号 - Google Chrome": 10,
+                "验证身份 为了确保您的账号安全，Google 希望确认是您本人在操作 - Google Chrome": 28,
+                "Google Antigravity Auth Success - Google Chrome": 18,
+                "MEYD-514 交换我们的爱妻来互相内射体验不一样的性爱 - 筱田优 - MissAV | 免费高清AV在线 - Google Chrome": 7,
+                "MEYD-827 已婚情侣NTR～想要戴绿帽的两对情侣～黑川堇 森泽佳奈 - 森泽佳奈 (饭冈佳奈子) - M - Google Chrome": 4,
+                "IPX-388 被强迫参加了换妻派对我美丽的新婚妻子被老头们玩弄内射我只能干他们的死肥猪老婆 岬奈奈美 - M - Google Chrome": 8,
+                "Download | TRAE - Collaborate with Intelligence - Google Chrome": 13,
+                "Log In | TRAE - Collaborate with Intelligence - Google Chrome": 11,
+                "GitHub - cxasm/notepad--: 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。 - Google Chrome": 4,
+                "ndd: notepad--是一个国产跨平台、轻量级的文本编辑器，是替换notepad++的一种选择。其内置强大的代码对比功能，让你丢掉付费的beyond compare。 - Google Chrome": 9,
+                "Release notepad--v3.6.1 · cxasm/notepad-- · GitHub - Google Chrome": 3,
+                "Notepad-- - Browse /notepad-v3.6.1 at SourceForge.net - Google Chrome": 10,
+                "notepad--v3.6.3 · 爬山虎/ndd - Gitee.com - Google Chrome": 16,
+                "车位内放一铁架子 多款热门车实测自动泊车：只有特斯拉没翻车--快科技--科技改变未来 - Google Chrome": 60,
+                "一年最冷的日子要来了！今日冬至 微信上线限定状态--快科技--科技改变未来 - Google Chrome": 5,
+                "印度考公把机场跑道当考场：考生直接露天作答--快科技--科技改变未来 - Google Chrome": 5,
+                "华为辅助驾驶上车、车身加长！全新奥迪QL预售：31.3万起--快科技--科技改变未来 - Google Chrome": 14,
+                "老牌IT刊物《电脑爱好者》注销！创刊32年 一个时代落幕--快科技--科技改变未来 - Google Chrome": 20,
+                "“零负债人群”引发热议：房贷、车贷、网贷一律没有--快科技--科技改变未来 - Google Chrome": 1022,
+                "第四家国产GPU公司天数智芯冲刺上市：国内首发7nm显卡--快科技--科技改变未来 - Google Chrome": 9,
+                "长安汽车获得中国首块L3级自动驾驶号牌：渝AD0001Z--快科技--科技改变未来 - Google Chrome": 25,
+                "985大学推出0.985元考研早餐：为考生加油--快科技--科技改变未来 - Google Chrome": 3,
+                "别等618降价了！手机成本暴涨：已发布产品也要涨价--快科技--科技改变未来 - Google Chrome": 20,
+                "车型没悬念！定速巡航、刹车失灵狂奔490公里司机要求退车退款 并索赔5万：网友质疑声不断--快科技--科技改变未来 - Google Chrome": 36,
+                "原来微信长按2秒钟这么好用：很多人都不知道--快科技--科技改变未来 - Google Chrome": 13,
+                "C罗身材照走红全网 马斯克被“卷”到回复点评--快科技--科技改变未来 - Google Chrome": 14,
+                "网红穿骑手服直播影响秩序被驱赶 号召19000位粉丝“人肉”保安 官方通报--快科技--科技改变未来 - Google Chrome": 45,
+                "日本官方发预测：东京大地震至少造成1.8万人死亡--快科技--科技改变未来 - Google Chrome": 26,
+                "《互联网平台价格行为规则》发布：平台促销不得夸大补贴金额、不能强制经营者降价--快科技--科技改变未来 - Google Chrome": 3,
+                "雷军加入战斗！小米汽车已获L3级道路测试牌照--快科技--科技改变未来 - Google Chrome": 3,
+                "顺丰无人机仅用20分钟飞过琼州海峡：效率碾压陆运+水运--快科技--科技改变未来 - Google Chrome": 10,
+                "家用充电桩也能赚钱了！比亚迪App上线充电桩共享功能--快科技--科技改变未来 - Google Chrome": 138,
+                "Opening Jupyter Application - Google Chrome": 1,
+                "Home - Google Chrome": 12,
+                "Jupyter Notebook - Notebook - Google Chrome": 1,
+                "Untitled - Google Chrome": 67
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 9,
+            "titles": {
+                "开始": 9
+            }
+        },
+        "Trae.exe": {
+            "total": 42,
+            "titles": {
+                "设置 - zenbrightgamecocos - Trae": 11,
+                "Trae": 3,
+                "项目结构.md - zenbrightgamecocos - Trae": 1,
+                "settings.json - zenbrightgamecocos - Trae": 1,
+                "zenbrightgamecocos - Trae": 14,
+                "trae.settings.json - zenbrightgamecocos - Trae": 12
+            }
+        },
+        "msedge.exe": {
+            "total": 1158,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 33,
+                "Unknown Title": 7,
+                "请稍候… - 个人 - Microsoft​ Edge": 6,
+                "MissAV | 免费高清AV在线看 - 个人 - Microsoft​ Edge": 37,
+                "MissAV | 免费高清AV在线看 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "FC2-PPV-4702503 仅用一个视频就震惊全世界的传奇美女… - MissAV | 免费高清AV在线看 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "NHDTC-082 平胸女孩试穿男士泳衣。一个大屌男在当地游泳池发现她是女孩，就射在她体内……这真是太糟糕了！ 和另外 1 个页面 - 个人 - Microsoft​ Edge": 53,
+                "FCH-110 [所有帐号封锁] 直播聊天自慰 [vol.01] - 弥生美月 - MissAV | 免费高清 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "MILK-270 平胸女孩的男士泳装挑战 AAA罩杯恋物癖 卡哇伊希娜 - 河合阳菜 - MissAV | 免 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "最近更新 AV 在线看 - MissAV | 免费高清AV在线看 - 个人 - Microsoft​ Edge": 57,
+                "最近更新 AV 在线看 - MissAV | 免费高清AV在线看 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "DLDSS-452 “对不起……”老板的阴茎顶到了我的G点，但感觉太好了，我一边扭动著臀部一边道歉，在女上位达 和另外 1 个页面 - 个人 - Microsoft​ Edge": 24,
+                "OFJE-585 连S1女星也绝对服从！一场变态的性爱狂欢，男根同时塞进她的嘴和阴道，让她无法抗拒（OFJE- 和另外 1 个页面 - 个人 - Microsoft​ Edge": 148,
+                "SONE-955 这位刚从大学毕业的女班主任个性随和，做事干练，结果被学生们欺负得不轻。仓木春 - 仓木华 - 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "MNGS-022 趁著女儿不在家，一个DQN（变态网）占领了她的家，在13个令人难堪的轮奸场景中强迫她高潮。 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "SNOS-008 我醒来发现自己独自一人待在饭店房间里，身边还有一个只穿著内衣的性感模特儿……我惊慌失措，她却 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "MIDA-473 Arina的最后一场演出，Arina的AV退休特别版，220分钟特别版！ ！ - 新有菜 ( 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8,
+                "无名的人 下载 - 搜索 - 个人 - Microsoft​ Edge": 8,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "bing.com/ck/a?!&&p=aef8fed3779ae770276543a429158424e4e4520dc9e1e3418f024ea1e5593f08JmltdHM9MTc2NjE4ODgwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&psq=无名的人+下载&u=a1aHR0cDovL2VldjMuY29tL21wMy9ta2Rtbmttd3YuaHRtbA&ntb=1 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "eev3.com 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "无名的人 flac 下载 - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "无名的人 flac 下载 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "music.sonyselect.net 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无名的人 flac 下载 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "无名的人 flac 下载 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 10,
+                "毛不易 无名的人 flac 下载 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "bing.com/ck/a?!&&p=adba2f244a2234d90becee4bb263e6743b1d0aa8d1037eb032e1f496fb1a83ddJmltdHM9MTc2NjE4ODgwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&psq=毛不易+无名的人+flac+下载&u=a1aHR0cHM6Ly93d3cuYWlnZWkuY29tL2l0ZW0vbWFvX2J1X3lpX3dfMjkuaHRtbA&ntb=1 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "www.aigei.com 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "www.aigei.com 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "www.aigei.com 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "《无名的人》毛不易 高品质 【mp3/flac】-百度贴吧 和另外 2 个页面 - 个人 - Microsoft​ Edge": 24,
+                "《无名的人》毛不易 高品质 【mp3/flac】-百度贴吧 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "提示-百度贴吧 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "请输入访问密码 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "毛不易 - 无名的人 FLAC.rar - 木石青依 的分享 和另外 3 个页面 - 个人 - Microsoft​ Edge": 32,
+                "group1-ctc-data.tv002.com 和另外 3 个页面 - 个人 - Microsoft​ Edge": 7,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "url53.ctfile.com/f/1538653-530392852-92f03c 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "www.aigei.com 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "毛不易 无名的人 flac 下载 - 搜索 - 个人 - Microsoft​ Edge": 4,
+                "bing.com/ck/a?!&&p=adba2f244a2234d90becee4bb263e6743b1d0aa8d1037eb032e1f496fb1a83ddJmltdHM9MTc2NjE4ODgwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&psq=毛不易+无名的人+flac+下载&u=a1aHR0cHM6Ly93d3cuYWlnZWkuY29tL2l0ZW0vbWFvX2J1X3lpX3dfMjkuaHRtbA&ntb=1 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "毛不易 无名的人 flac 下载 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "配乐_背景音乐_配乐网 BGM 素材免费下载 - 爱给网 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "《无名的人》毛不易 高品质 【mp3/flac】-百度贴吧 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "52木石青依-百度贴吧 和另外 1 个页面 - 个人 - Microsoft​ Edge": 35,
+                "百度贴吧 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 - 个人 - Microsoft​ Edge": 1,
+                "百度贴吧 - 个人 - Microsoft​ Edge": 1,
+                "《APT.》ROSÉ 朴彩英(BLACKPINK)&Bruno Mars-百度贴吧 - 个人 - Microsoft​ Edge": 17,
+                "提示-百度贴吧 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "请输入访问密码 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5,
+                "ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar - 木石青依 的分享 和另外 1 个页面 - 个人 - Microsoft​ Edge": 18,
+                "《APT.》ROSÉ 朴彩英(BLACKPINK)&Bruno Mars-百度贴吧 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "ROSÉ&Bruno Mars-APT MP3-FLAC-MP4.rar - 木石青依 的分享 - 个人 - Microsoft​ Edge": 25,
+                "是否离开网站?": 1,
+                "你的文件仍在下载中": 1,
+                "crush 80 - 搜索 - 个人 - Microsoft​ Edge": 3,
+                "crush 80 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "CRUSH80 - WOB欢迎您 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "WOB欢迎您！ 和另外 1 个页面 - 个人 - Microsoft​ Edge": 68,
+                "WOB欢迎您！ 和另外 2 个页面 - 个人 - Microsoft​ Edge": 3,
+                "WOB欢迎您！ 和另外 3 个页面 - 个人 - Microsoft​ Edge": 97,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "www.wobwxe.com 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "上海天气 - 搜索 - 个人 - Microsoft​ Edge": 8,
+                "上海天气预报,上海7天天气预报,上海15天天气预报,上海天气查询 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "bing.com/ck/a?!&&p=cea2018775e6c05328ca9356eea0ac45e490255997c7b6d2fed74458c5524b01JmltdHM9MTc2NjE4ODgwMA&ptn=3&ver=2&hsh=4&fclid=3edfd472-2e4e-6d93-3baa-c7e22f9c6c43&psq=上海天气&u=a1aHR0cHM6Ly93d3cudGlhbnFpLmNvbS9zaGFuZ2hhaS8&ntb=1 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "【上海天气预报】上海天气预报一周,上海天气预报15天,30天,今天,明天,7天,10天,未来上海一周天气预报查询—天气网 和另外 1 个页面 - 个人 - Microsoft​ Edge": 17,
+                "菜摊母子三人遇难邻居自发帮忙卖菜 卖菜母子遇难有人买点生姜付一百元 - 天气加 和另外 2 个页面 - 个人 - Microsoft​ Edge": 22,
+                "Welcome to Python.org - 个人 - Microsoft​ Edge": 2,
+                "Download Python | Python.org - 个人 - Microsoft​ Edge": 15,
+                "Python Release Python 3.14.2 | Python.org - 个人 - Microsoft​ Edge": 16,
+                "daikuan.bmcx.com - 个人 - Microsoft​ Edge": 4,
+                "贷款计算器最新2025 - 贷款利息计算 - 贷款月供计算器 - 个人 - Microsoft​ Edge": 143,
+                "DevTools - daikuan.bmcx.com/": 45,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "r 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "bmcx - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "便民查询网 - 免费查询工具大全 - 原51240便民查询网 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "贷款计算器最新2025 - 贷款利息计算 - 贷款月供计算器 和另外 1 个页面 - 个人 - Microsoft​ Edge": 5
+            }
+        },
+        "Cursor.exe": {
+            "total": 3148,
+            "titles": {
+                "Cursor": 43,
+                "Settings - Cursor": 3,
+                "settings.json - Cursor": 13,
+                "compile_packaging_publish2 - Cursor": 7,
+                "http_util提示词.txt - compile_packaging_publish2 - Cursor": 5,
+                "README.md - compile_packaging_publish2 - Cursor": 42,
+                "publish_version.py - compile_packaging_publish2 - Cursor": 158,
+                "installer.nsi - compile_packaging_publish2 - Cursor": 2,
+                "build.py - compile_packaging_publish2 - Cursor": 210,
+                "shutil.py - compile_packaging_publish2 - Cursor": 6,
+                "● build.py - compile_packaging_publish2 - Cursor": 3,
+                "config.py - compile_packaging_publish2 - Cursor": 10,
+                "generate_changelog_md.py - compile_packaging_publish2 - Cursor": 5,
+                "get_token.py - compile_packaging_publish2 - Cursor": 8,
+                "http_util.py - compile_packaging_publish2 - Cursor": 6,
+                "read_write_file.py - compile_packaging_publish2 - Cursor": 2,
+                "upload_file.py - compile_packaging_publish2 - Cursor": 4,
+                "● publish_version.py - compile_packaging_publish2 - Cursor": 6,
+                "shutil.pyi - compile_packaging_publish2 - Cursor": 8,
+                "2025-08-28T06_02_51_586Z-debug-0.log - LearningPython - Cursor": 7,
+                "JsonFilter.py - LearningPython - Cursor": 29,
+                "提示词.txt - LearningPython - Cursor": 671,
+                "● 提示词.txt - LearningPython - Cursor": 1151,
+                "Review: @Loan2/提示词.txt - LearningPython - Cursor": 25,
+                "loan_calculator.py - LearningPython - Cursor": 42,
+                "main.py - LearningPython - Cursor": 600,
+                "python.exe - LearningPython - Cursor": 3,
+                "settings.json - LearningPython - Cursor": 18,
+                "Settings - LearningPython - Cursor": 6,
+                "● settings.json - LearningPython - Cursor": 3,
+                "README.md - LearningPython - Cursor": 12,
+                "Sample.py - LearningPython - Cursor": 6,
+                "s.py - LearningPython - Cursor": 34
+            }
+        },
+        "Thunder.exe": {
+            "total": 258,
+            "titles": {
+                "迅雷": 212,
+                "新建任务面板": 3,
+                "任务已存在": 1,
+                "支付优惠卡": 1,
+                "提示框": 5,
+                "提示": 3,
+                "确定要删除吗？": 9,
+                "index.html": 21,
+                "迅雷 ": 3
+            }
+        },
+        "APlayer.exe": {
+            "total": 7,
+            "titles": {
+                "Unknown Title": 7
+            }
+        },
+        "Antigravity.tmp": {
+            "total": 24,
+            "titles": {
+                "安装 - Antigravity (User)": 23,
+                "Unknown Title": 1
+            }
+        },
+        "7zFM.exe": {
+            "total": 12,
+            "titles": {
+                "D:\\迅雷下载\\iCloud 照片.zip\\": 1,
+                "D:\\迅雷下载\\毛不易 - 无名的人 FLAC.rar\\": 10,
+                "D:\\迅雷下载\\CefSharp-master.zip\\": 1
+            }
+        },
+        "Antigravity.exe": {
+            "total": 13,
+            "titles": {
+                "Antigravity": 13
+            }
+        },
+        "OpenWith.exe": {
+            "total": 5,
+            "titles": {
+                "Unknown Title": 5
+            }
+        },
+        "Notepad.exe": {
+            "total": 41,
+            "titles": {
+                "except.txt - Notepad": 3,
+                "Main_20250222_ulog.log - Notepad": 2,
+                "无标题 - Notepad": 1,
+                "记事本": 1,
+                "必读【固件更新】Rainy固件以及使用说明.txt - Notepad": 27,
+                "【必读】Rainy75【RGB网页驱动固件】说明.txt - Notepad": 7
+            }
+        },
+        "vlc.exe": {
+            "total": 26,
+            "titles": {
+                "毛不易 - 无名的人 - VLC media player": 26
+            }
+        },
+        "Everything.exe": {
+            "total": 31,
+            "titles": {
+                "无名 - Everything": 18,
+                "Everything": 1,
+                "t - Everything": 1,
+                "trae - Everything": 1,
+                "trae. - Everything": 10
+            }
+        },
+        "Rainy75-RGB驱动内测版【使用前务必先安装RGB驱动固件更新】.exe": {
+            "total": 10,
+            "titles": {
+                "Rainy75": 10
+            }
+        },
+        "Rainy75.exe": {
+            "total": 3,
+            "titles": {
+                "Rainy75": 1,
+                "Unknown Title": 2
+            }
+        },
+        "Rainy75【RGB固件】(升级此固件后支持自研驱动).exe": {
+            "total": 8,
+            "titles": {
+                "Dongle FW OTA Tool": 8
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 4,
+            "titles": {
+                "Windows Shell Experience 主机": 2,
+                "QQ音乐 的跳转列表": 1,
+                "VLC media player 的跳转列表": 1
+            }
+        },
+        "ShellHost.exe": {
+            "total": 19,
+            "titles": {
+                "快速设置": 19
+            }
+        },
+        "Rainy75-RGB（用于刷错固件修复）.exe": {
+            "total": 3,
+            "titles": {
+                "mouse&keybaord usb ota": 3
+            }
+        },
+        "Notepad--.exe": {
+            "total": 67,
+            "titles": {
+                "D:\\迅雷下载\\【必读】Rainy75【RGB网页驱动固件】说明.txt [文本模式] - Ndd": 19,
+                "New 0 [文本模式] - Ndd": 29,
+                "关闭文件之前，是否保存修改？ - Ndd": 1,
+                "Notepad-- Version v3.3 (date 20250512) - Ndd": 2,
+                "捐赠获取注册码 v3.3 - Ndd": 11,
+                "Notepad-- Version v3.6.3 (date 20251211) - Ndd": 5
+            }
+        },
+        "Au_.exe": {
+            "total": 5,
+            "titles": {
+                "Rainy75": 5
+            }
+        },
+        "CredentialUIBroker.exe": {
+            "total": 2,
+            "titles": {
+                "Windows 安全中心": 2
+            }
+        },
+        "Reflector.exe": {
+            "total": 12,
+            "titles": {
+                "应用程序正在打开，请稍候": 1,
+                "Trial Expired": 11
+            }
+        },
+        "wps.exe": {
+            "total": 14,
+            "titles": {
+                "e157540a665474e1c212cae1cdf1224a.xls - WPS Office": 14
+            }
+        },
+        "et.exe": {
+            "total": 3,
+            "titles": {
+                "WPS Office": 1,
+                "Unknown Title": 1,
+                "是否保存文档？": 1
+            }
+        },
+        "Photos.exe": {
+            "total": 2,
+            "titles": {
+                "照片": 1,
+                "DT.jpg": 1
+            }
+        },
+        "Notepad--v3.6.3-plugin-Installer.tmp": {
+            "total": 10,
+            "titles": {
+                "安装": 2,
+                "安装 - Notepad-- 版本 3.6.3": 8
+            }
+        },
+        "_iu14D2N.tmp": {
+            "total": 2,
+            "titles": {
+                "Notepad-- 卸载": 2
+            }
+        },
+        "Xmp.exe": {
+            "total": 260,
+            "titles": {
+                "迅雷影音": 260
+            }
+        },
+        "Code.exe": {
+            "total": 274,
+            "titles": {
+                "Visual Studio Code": 3,
+                "计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 8,
+                "Welcome - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 26,
+                "Settings - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 2,
+                "settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 128,
+                "1.1.1.ipynb (Working Tree) (1.1.1.ipynb) - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 62,
+                "● settings.json - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 38,
+                "Extension: Material Icon Theme - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 7
+            }
+        },
+        "python-3.14.2-amd64.exe": {
+            "total": 44,
+            "titles": {
+                "Python 3.14.2 (64-bit) Setup": 42,
+                "Unknown Title": 2
+            }
+        },
+        "python-3.14.0-amd64.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 16,
+            "titles": {
+                "Windows PowerShell": 16
+            }
+        },
+        "SystemPropertiesAdvanced.exe": {
+            "total": 12,
+            "titles": {
+                "系统属性": 4,
+                "环境变量": 3,
+                "编辑环境变量": 5
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 1,
+            "titles": {
+                "截图工具覆盖": 1
+            }
+        }
+    }
+}

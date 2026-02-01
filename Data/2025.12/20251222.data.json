@@ -1,0 +1,118 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-22 21:02:09",
+            "end": "2025-12-22 22:22:00"
+        }
+    ],
+    "idle_seconds": 2232,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 42,
+            "titles": {
+                "搜索": 42
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 63,
+            "titles": {
+                "Microsoft Store": 51,
+                "设置": 12
+            }
+        },
+        "Hiddify.exe": {
+            "total": 71,
+            "titles": {
+                "Hiddify": 71
+            }
+        },
+        "explorer.exe": {
+            "total": 23,
+            "titles": {
+                "Unknown Title": 15,
+                "Program Manager": 6,
+                "系统托盘溢出窗口。": 1,
+                "贴靠助手": 1
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 9,
+            "titles": {
+                "开始": 9
+            }
+        },
+        "steam.exe": {
+            "total": 1,
+            "titles": {
+                "Steam": 1
+            }
+        },
+        "Cursor.exe": {
+            "total": 930,
+            "titles": {
+                "main.py - LearningPython - Cursor": 337,
+                "loan_calculator.py - LearningPython - Cursor": 465,
+                "README.md - LearningPython - Cursor": 17,
+                "● main.py - LearningPython - Cursor": 1,
+                "Cursor": 10,
+                "loan_calculator.py (Working Tree) (loan_calculator.py) - LearningPython - Cursor": 31,
+                "main.py (Working Tree) (main.py) - LearningPython - Cursor": 23,
+                "● loan_calculator.py - LearningPython - Cursor": 46
+            }
+        },
+        "steamwebhelper.exe": {
+            "total": 552,
+            "titles": {
+                "Steam": 515,
+                "外部支付方式跳转": 2,
+                "WeChat QR code": 26,
+                "Unknown Title": 1,
+                "Steam 对话": 8
+            }
+        },
+        "Trae.exe": {
+            "total": 49,
+            "titles": {
+                "trae.settings.json - zenbrightgamecocos - Trae": 38,
+                "Trae": 11
+            }
+        },
+        "Code.exe": {
+            "total": 61,
+            "titles": {
+                "Visual Studio Code": 9,
+                "1.1.1.ipynb (Working Tree) (1.1.1.ipynb) - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 24,
+                "Extension: Material Icon Theme - 计算所_人工智能训练师_3级_sucai 2 - Visual Studio Code": 28
+            }
+        },
+        "Thunder.exe": {
+            "total": 13,
+            "titles": {
+                "迅雷": 11,
+                "确定要删除吗？": 2
+            }
+        },
+        "APlayer.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "msedge.exe": {
+            "total": 35,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 18,
+                "还原页面": 1,
+                "贷款计算器最新2025 - 贷款利息计算 - 贷款月供计算器 - 个人 - Microsoft​ Edge": 2,
+                "贷款计算器最新2025 - 贷款利息计算 - 贷款月供计算器 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "复利怎么计算年化利率 - 搜索 - 个人 - Microsoft​ Edge": 13
+            }
+        },
+        "acr.exe": {
+            "total": 699,
+            "titles": {
+                "Assetto Corsa Rally  ": 699
+            }
+        }
+    }
+}

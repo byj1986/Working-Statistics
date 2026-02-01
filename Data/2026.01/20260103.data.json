@@ -1,0 +1,769 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-03 09:37:37",
+            "end": "2026-01-03 13:20:30"
+        },
+        {
+            "start": "2026-01-03 18:59:14",
+            "end": "2026-01-03 22:34:30"
+        }
+    ],
+    "idle_seconds": 1742,
+    "apps": {
+        "Doubao.exe": {
+            "total": 688,
+            "titles": {
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 104,
+                "Unknown Title": 3,
+                "新对话 - 豆包 - 豆包": 59,
+                "[] - 豆包 - 豆包": 66,
+                "www.doubao.com - 豆包": 6,
+                "搭建私有 NuGet 服务的多种方案及注意事项 - 豆包 - 豆包": 34,
+                "IIS 401.3 错误及解决方案 - 豆包 - 豆包": 276,
+                "无标题 - 豆包": 2,
+                "豆包设置 - 豆包": 3,
+                "奶牛快传｜免费大文件传输工具，上传下载不限速 CowTransfer | Unlimited Send Large Files - 豆包": 91,
+                "打开": 10,
+                "产品介绍-奶牛快传 Product｜CowTransfer - 豆包": 3,
+                "我的云盘-奶牛快传 Storage｜CowTransfer - 豆包": 12,
+                "定价方案-奶牛快传 Pricing｜CowTransfer - 豆包": 9,
+                "奶牛快传 - 豆包": 7,
+                "奶牛快传 | 0% - 豆包": 1,
+                "奶牛快传 | 45% - 豆包": 1,
+                "奶牛快传 | 100% - 豆包": 1
+            }
+        },
+        "explorer.exe": {
+            "total": 1278,
+            "titles": {
+                "Program Manager": 16,
+                "删除快捷方式": 1,
+                "Unknown Title": 94,
+                "Assets - 文件资源管理器": 3,
+                "系统托盘溢出窗口。": 6,
+                "此电脑 - 文件资源管理器": 33,
+                "System (C:) - 文件资源管理器": 4,
+                "byj19 - 文件资源管理器": 3,
+                "Codes - 文件资源管理器": 15,
+                "迅雷下载 - 文件资源管理器": 13,
+                "zencore.camera - 文件资源管理器": 52,
+                "zencore - 文件资源管理器": 48,
+                "贴靠助手": 1,
+                "文件资源管理器": 4,
+                "NugetServer - 文件资源管理器": 19,
+                "Debug - 文件资源管理器": 1,
+                "net10.0 - 文件资源管理器": 14,
+                "publish - 文件资源管理器": 34,
+                "publish 属性": 11,
+                "publish 的权限": 5,
+                "选择用户或组": 25,
+                "位置": 3,
+                "选择用户或组 (高级)": 71,
+                "repos - 文件资源管理器": 7,
+                "已完成 48%": 1,
+                "app.publish - 文件资源管理器": 54,
+                "bin - 文件资源管理器": 13,
+                "app.publish 属性": 15,
+                "app.publish 的权限": 13,
+                "任务切换": 1,
+                "Data (D:) - 文件资源管理器": 35,
+                "NugetPackages - 文件资源管理器": 8,
+                "控制面板": 2,
+                "程序": 5,
+                "下载 - 文件资源管理器": 83,
+                "aspnet_client - 文件资源管理器": 1,
+                "system_web - 文件资源管理器": 1,
+                "4_0_30319 - 文件资源管理器": 2,
+                "Packages - 文件资源管理器": 1,
+                "NugetPackages 属性": 6,
+                "NugetPackages的高级安全设置": 6,
+                "NugetPackages 的权限项目": 2,
+                "NugetPackages 的权限": 5,
+                "Nuget - 文件资源管理器": 20,
+                "文件夹访问被拒绝": 1,
+                "已移动 116 个项目": 1,
+                "Nuget 属性": 10,
+                "Nuget 的权限": 6,
+                "应用安全信息时出错": 2,
+                "Server - 文件资源管理器": 13,
+                "删除文件": 6,
+                "运行": 1,
+                "Tools - 文件资源管理器": 16,
+                "NuGet - 文件资源管理器": 18,
+                "config - 文件资源管理器": 2,
+                "Config - 文件资源管理器": 6,
+                "Builds - 文件资源管理器": 16,
+                "Builds 属性": 3,
+                "zenrobot - 文件资源管理器": 24,
+                "删除文件夹": 1,
+                "FF520 (E:) - 文件资源管理器": 229,
+                "已完成 9%": 1,
+                "已完成 18%": 1,
+                "已完成 27%": 1,
+                "人工智能课程 - 文件资源管理器": 5,
+                "Movies - 文件资源管理器": 1,
+                "庆余年第二季 - 文件资源管理器": 1,
+                "FF520 (E:) 属性": 2,
+                "Alarms, ... 属性": 1,
+                "Sounds, ... 属性": 3,
+                "删除多个项目": 2,
+                ".fseventsd, ... 属性": 2,
+                "[阳光电影-www.dygod.org]扫毒风暴-20~28 - 文件资源管理器": 1,
+                "扫毒风暴-11~19 - 文件资源管理器": 5,
+                "扫毒风暴-01~10 - 文件资源管理器": 2,
+                "扫毒风暴-20~28 - 文件资源管理器": 3,
+                "扫毒风暴 - 文件资源管理器": 124,
+                "D3D12 - 文件资源管理器": 1,
+                "电池指示器": 10
+            }
+        },
+        "SearchHost.exe": {
+            "total": 129,
+            "titles": {
+                "搜索": 129
+            }
+        },
+        "Unity.exe": {
+            "total": 678,
+            "titles": {
+                "Unity": 10,
+                "C:\\Program Files\\Unity 6000.0.26f1\\Editor\\Unity.exe": 2,
+                "Unity Package Manager": 15,
+                "Importing (iteration 3) - Compress 50% ": 2,
+                "Importing (iteration 3) - Script preprocess 20% ": 1,
+                "Importing (iteration 3) - Script postprocess 40% ": 1,
+                "Importing (iteration 3) - Compress 90% ": 2,
+                "Importing (iteration 3)  ": 4,
+                "zenrobot - Untitled - Windows, Mac, Linux - Unity 6 (6000.0.26f1) <DX11>": 589,
+                "Package Manager": 2,
+                "Open Project": 18,
+                "Compiling Scripts": 17,
+                "Loading Initial Domain With User Assemblies": 10,
+                "Hold on...": 1,
+                "zenrobot - Origin - Windows, Mac, Linux - Unity 6 (6000.0.26f1) <DX11>": 3,
+                "Building Player (busy for 01:27)...": 1
+            }
+        },
+        "Unity Hub.exe": {
+            "total": 48,
+            "titles": {
+                "Unity Hub": 37,
+                "Unknown Title": 11
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 15,
+            "titles": {
+                "开始": 15
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 4664,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 59,
+                "立政客：中国必须明白，立陶宛经济离不开中国，中立关系必须恢复": 84,
+                "人过了2025，听歌就得成熟一点": 121,
+                "大胆一点 也许这世界本该如此": 208,
+                "中式暴力美学重装合成旅，每个都有灭国实力，我国网友：人均不够": 480,
+                "解放台湾难度大吗？【军事榨菜44】": 931,
+                "看完笑出屎的18X喜剧猛片，1分钟笑10次，建议硬盘独自“观赏”！《假期历险记》": 791,
+                "你管这叫40岁？C罗2025年度15佳球---倒钩，世界波，NBA暴扣，凌空斩观赏性拉满！": 782,
+                "整个日本这几天真让人目不暇接，来看看吧！": 162,
+                "委内瑞拉——美国为何围而不攻，人均反美战神，给美军量身定做的天选泥潭！": 76,
+                "六分钟了解俄军六大集群": 25,
+                "美媒突然“倒戈”，给歼-20S封“将军”，笃定是“准六代机”": 454,
+                "这是一段9分18秒的视频": 29,
+                "日本反华议员狂言中国落后日本千年": 37,
+                "反战浪潮蔓延日本！东京抗议者走上街头 围堵以色列使馆": 2,
+                "好家伙！军工大佬年底\"卷业绩\"，掏出的家伙一个比一个科幻！": 13,
+                "26.1.2“2025一幕幕太戳泪！”": 84,
+                "26.1.3美国威胁干涉伊朗，国际局势量大管饱": 139,
+                "军演结束后日本认清局势？着手准备下架高市早苗？李在明争当中国第一个新年贵客": 105,
+                "新加坡毒虾战略失灵，黄循财替日站台遭全民声讨，《联合早报》坐不住了，前外长连忙道歉": 80,
+                "Unknown Title": 2
+            }
+        },
+        "chrome.exe": {
+            "total": 8121,
+            "titles": {
+                "无标题 - Google Chrome": 22,
+                "购买Unity | 资源商店 - Unity官方商店 - Google Chrome": 39,
+                "新标签页 - Google Chrome": 14,
+                "波罗的海三傻_百度搜索 - Google Chrome": 15,
+                "波罗的海三国为啥叫三傻_百度知道 - Google Chrome": 8,
+                "GC.SuppressFinalize(Object) 方法 (System) | Microsoft Learn - Google Chrome": 4256,
+                "Home page - NugetServer - Google Chrome": 7,
+                "IIS 10.0 详细错误 - 500.19 - Internal Server Error - Google Chrome": 2851,
+                "localhost - Google Chrome": 2,
+                "NuGet Server - NugetServer - Google Chrome": 3,
+                "IIS 10.0 Detailed Error - 500.19 - Internal Server Error - Google Chrome": 7,
+                "NuGet Private Repository - Google Chrome": 4,
+                "Index - Google Chrome": 4,
+                "近期的下载记录": 4,
+                "访问被拒绝。 - Google Chrome": 94,
+                "常见的 NuGet 配置 | Microsoft Learn - Google Chrome": 28,
+                "历史记录 - Google Chrome": 58,
+                "请稍候… - Google Chrome": 8,
+                "结城结弦 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 143,
+                "ATID-650 她平常严肃安静，但一谈到性，她就变成了一个眼神楚楚可怜、拥有一双美腿的秘书，她挑逗我，让我疯 - Google Chrome": 10,
+                "EBWH-329 第七期 Miss Weekly ●● 2024 “我想出演AV！”真正的写真偶像 桃川千穗即 - Google Chrome": 29,
+                "MIAB-593 “嘿老师，用手就不算出轨！”一个过度迷恋班主任（我）的学生偷偷给我手淫，让我随时随地高潮20 - Google Chrome": 71,
+                "开始您的创意项目并下载 Unity Hub | Unity - Google Chrome": 47,
+                "奶牛快传_百度搜索 - Google Chrome": 8,
+                "奶牛快传｜免费大文件传输工具，上传下载不限速 CowTransfer | Unlimited Send Large Files - Google Chrome": 91,
+                "白峰美羽出演的 AV 在线看 - MissAV | 免费高清AV在线看 - Google Chrome": 50,
+                "IPX-718 请打破我......反向爸爸活动高潮SEX我试图通过充分利用SNS来收集全国业馀性自豪感以达到 - Google Chrome": 7,
+                "IPX-683 有女友的我错过末班车在女同事家过夜整晚干不停 白峰美羽 - MissAV | 免费高清AV在线 - Google Chrome": 4,
+                "IPX-668 新任女教师被不良学生监禁轮奸 白峰美羽 - MissAV | 免费高清AV在线看 - Google Chrome": 4,
+                "IPX-652 出差住同房NTR 被上司内射一晚上的美人女社员 白峰美羽 - MissAV | 免费高清AV在 - Google Chrome": 3,
+                "missav.ws/dm59/cn/ipx-635 - Google Chrome": 1,
+                "IPX-635 没有性交就无法生活... 绝顶159回小屄痉挛2048回 鬼般活塞3211回 无法预测的快感潮 - Google Chrome": 3,
+                "missav.ws/dm137/cn/actresses/白峰美羽?sort=released_at&page=1 - Google Chrome": 1,
+                "missav.ws/cn/adn-757-uncensored-leak - Google Chrome": 1,
+                "ADN-757 我嫂子（我哥哥的妻子）今年又回来了，我们打算花一周时间享受一年一度的亲密关系。白峰美羽 - M - Google Chrome": 3,
+                "ADN-746 一位神秘的年长女性，原本对我毫无兴趣，却在得知我有女朋友后立刻嫉妒不已，吻了我，并继续瞧不起我 - Google Chrome": 2,
+                "DASS-820 她服用了催情剂，浑身是汗，欲火焚身！她双腿大张，自然小便！敏感的热瑜珈课，伴著颤抖抽搐，白峰 - Google Chrome": 3,
+                "missav.ws/dm137/cn/actresses/白峰美羽?sort=released_at&page=2 - Google Chrome": 1,
+                "选择要上传的文件夹": 11,
+                "打开": 4,
+                "txc.qq.com/products/290592/blog/785271 - Google Chrome": 1,
+                "奶牛快传 - Google Chrome": 2,
+                "我的云盘-奶牛快传 Storage｜CowTransfer - Google Chrome": 6,
+                "public-cdn.cloud.unitychina.cn - Google Chrome": 5,
+                "ABF-261 耳边传来的低语，邀请你参与一场注定会毁掉你家庭的婚外情。七岛麻衣 - MissAV | 免费高 - Google Chrome": 32,
+                "missav.ws/pop?url=https%3A%2F%2Ftsyndicate.com%2Fapi%2Fv1%2Fdirect%2Fc65c80b49bf04c139b29dba8137a6419%3F5 - Google Chrome": 1,
+                "ABF-259 周六早上，带著晨勃做爱。 Asuna Kawai - MissAV | 免费高清AV在线看 - Google Chrome": 23,
+                "SONE-852 一位新娘即将迎来婚礼，但她不愿与新郎深情相拥，而是宁愿被一名男婚礼策划师强奸，让自己的阴部湿 - Google Chrome": 13,
+                "ABF-250 “在荒郊野外与青梅竹马的激情性爱时光。Case.14 中森七海 [附10分钟独家花絮]”：MG - Google Chrome": 51,
+                "YUJ-042 “你对我的身体不感兴趣吗？”家庭教师三宫椿被一名青春期学生怀上了，这名学生认真对待她的挑衅，并 - Google Chrome": 9,
+                "MIDA-243 G罩杯新任女教师遭侵犯。我被复仇热情的学生当作性爱满足目标……小色由希 - 夕木こいろ - - Google Chrome": 7,
+                "MIDA-209 父母出门旅行的时候，我儿时玩伴过来问我：“我刚交了初恋男友，你能跟我做爱一次吗？”她带了保险 - Google Chrome": 30,
+                "DLDSS-405 在一个周末，当我妻子不在家时，我无法抵挡她最好的朋友的诱惑，当她用舌头缠绕我并狂喜地摇动我 - Google Chrome": 17,
+                "SONE-697 “Zaaako，zaaako” 虽然她是个可爱的小家伙，但她耳边的低语和挑逗的女上位姿势是如 - Google Chrome": 3
+            }
+        },
+        "OpenWith.exe": {
+            "total": 23,
+            "titles": {
+                "Unknown Title": 23
+            }
+        },
+        "Trae.exe": {
+            "total": 100,
+            "titles": {
+                "Trae": 5,
+                "zenbrightgamecocos - Trae": 95
+            }
+        },
+        "Cursor.exe": {
+            "total": 2190,
+            "titles": {
+                "zenrobot - Cursor": 103,
+                "Cursor": 19,
+                "HeadSetting.cs - zenrobot - Cursor": 469,
+                "ZenBalanceDataAdapter.cs - zenrobot - Cursor": 16,
+                "Settings.json (Working Tree) (Settings.json) - zenrobot - Cursor": 4,
+                "URPProjectSettings.asset (Working Tree) (URPProjectSettings.asset) - zenrobot - Cursor": 2,
+                "ShaderGraphSettings.asset (Working Tree) (ShaderGraphSettings.asset) - zenrobot - Cursor": 1,
+                "EditorBuildSettings.asset (Working Tree) (EditorBuildSettings.asset) - zenrobot - Cursor": 1,
+                "Material.001.mat (Working Tree) (Material.001.mat) - zenrobot - Cursor": 114,
+                "texture_pbr_20250901_roughness.png.meta - zenrobot - Cursor": 1,
+                "texture_pbr_20250901_roughness.png - zenrobot - Cursor": 4,
+                "texture_pbr_20250901_normal.png.meta - zenrobot - Cursor": 2,
+                "texture_pbr_20250901_normal.png - zenrobot - Cursor": 1,
+                ".vsconfig - zenrobot - Cursor": 31,
+                "Origin.cs - zenrobot - Cursor": 392,
+                "HeadSettings.cs - zenrobot - Cursor": 110,
+                "Search: Closeeyes... - zenrobot - Cursor": 44,
+                "Open Folder": 17,
+                "NugetServer - Cursor": 208,
+                "Review: Localhost 9000 报错 - NugetServer - Cursor": 18,
+                "Review: Localhost 9000 error - NugetServer - Cursor": 12,
+                "Extension: PowerShell - NugetServer - Cursor": 62,
+                "Install from VSIX": 8,
+                "unlock-iis-config.ps1 - NugetServer - Cursor": 44,
+                "unlock-iis-config.bat - NugetServer - Cursor": 38,
+                "zencore - Cursor": 2,
+                "publish_dlls.py - zencore - Cursor": 257,
+                "Nuget.config - zencore - Cursor": 6,
+                "Nuget.Config - zencore - Cursor": 30,
+                "● Nuget.Config - zencore - Cursor": 1,
+                "● HeadSetting.cs - zenrobot - Cursor": 1,
+                "EnhancedIKBinder.cs - zenrobot - Cursor": 26,
+                "BuildScript.cs - zenrobot - Cursor": 103,
+                "Builds.7z - zenrobot - Cursor": 43
+            }
+        },
+        "msedge.exe": {
+            "total": 1452,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 189,
+                "Welcome to Python.org - 个人 - Microsoft​ Edge": 3,
+                "Download Python | Python.org - 个人 - Microsoft​ Edge": 9,
+                "Python Release Python 3.14.2 | Python.org - 个人 - Microsoft​ Edge": 9,
+                "项目 · GitLab - 个人 - Microsoft​ Edge": 6,
+                "ZenSystem / zenCore.Camera · GitLab - 个人 - Microsoft​ Edge": 7,
+                "文件 · cleaned-history · ZenSystem / zenCore.Camera · GitLab - 个人 - Microsoft​ Edge": 35,
+                "新建标签页 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "git bash - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "Git for Windows 和另外 2 个页面 - 个人 - Microsoft​ Edge": 11,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "ZenSystem · GitLab - 个人 - Microsoft​ Edge": 8,
+                "ZenSystem / zenCore · GitLab - 个人 - Microsoft​ Edge": 7,
+                "搭建nuget服务器 - 搜索 - 个人 - Microsoft​ Edge": 10,
+                "无标题 - 个人 - Microsoft​ Edge": 4,
+                "十分钟搭建自己的私有NuGet服务器-BaGet_baget ,myget ,proget 对比-CSDN博客 - 个人 - Microsoft​ Edge": 9,
+                "zhuanlan.zhihu.com/p/671682116 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "搭建一个私有NuGet服务器 - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "(1 封私信) 搭建一个私有NuGet服务器 - 知乎 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "百度一下，你就知道 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "搭建nuget服务器_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 20,
+                "asp.net搭建nuget服务器_百度搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 39,
+                "新建标签页 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "windows 11添加入栈规则 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Windows 防火墙规则 | Microsoft Learn 和另外 3 个页面 - 个人 - Microsoft​ Edge": 25,
+                "windows 11添加入栈规则 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 7,
+                "windows 11添加入栈规则 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "windows10,11 修改防火墙配置入站规则，使局域网其他电脑可访问本机_windows防火墙放行ip地址-CSDN博客 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "百度文心助手 - 办公学习一站解决 和另外 2 个页面 - 个人 - Microsoft​ Edge": 29,
+                "搭建nuget服务器 - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "asp.net搭建nuget服务器_百度搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 7,
+                "asp.net搭建nuget服务器_百度搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "手动搭建自己的nuget服务器及使用-腾讯云开发者社区-腾讯云 和另外 2 个页面 - 个人 - Microsoft​ Edge": 58,
+                "nuget server 0x8007000d - 搜索 - 个人 - Microsoft​ Edge": 6,
+                "【c#】完美解决部署IIS 报错 0x8007000d-CSDN博客 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "nuget server 0x8007000d - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                ".net 10 nuget server - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                ".net 10 nuget server - 搜索 和另外 2 个页面 - 个人 - Microsoft​ Edge": 2,
+                "使用 NuGet.Server 托管 NuGet 源 | Microsoft Learn 和另外 2 个页面 - 个人 - Microsoft​ Edge": 50,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 9,
+                "百度一下，你就知道 和另外 3 个页面 - 个人 - Microsoft​ Edge": 2,
+                "不能在此路径中使用此配置节。如果在父级别上锁定了该节,便会出现这种情况。锁定_百度搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 16,
+                "百度文心助手 - 办公学习一站解决 和另外 4 个页面 - 个人 - Microsoft​ Edge": 15,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 8,
+                "VS 2026 垂直滚动条模式 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 5,
+                "滚动条图模式和条形模式 - Visual Studio (Windows) | Microsoft Learn 和另外 6 个页面 - 个人 - Microsoft​ Edge": 6,
+                "不能在此路径中使用此配置节。如果在父级别上锁定了该节,便会出现这种情况。锁定_百度搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "baidu.com/link?url=5cDe6l0DijRBMca2QcJQetY1DCqGgUM66-6pgP3xvMPwonBcn7hgY48XxVsCfS1PRFWzV6DoTxgDaMU4w5YBJK&wd=&eqid=c4e2ffc802a4e13b0000000469590ad3 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "不能在此路径中使用此配置节。如果在父级别上锁定了该节，便会出现这种情况。锁定是默认设置的(overrideModeDefault=\"Deny\")，或者是通过包含 oveoverrideMode.... - 信铁寒胜 - 博客园 和另外 5 个页面 - 个人 - Microsoft​ Edge": 24,
+                "1942581-20240124103945153-443874545.png (1018×651) 和另外 6 个页面 - 个人 - Microsoft​ Edge": 10,
+                "百度文心助手 - 办公学习一站解决 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "不能在此路径中使用此配置节。如果在父级别上锁定了该节，便会出现这种情况。锁定是默认设置的(overrideModeDefault=\"Deny\")，或者是通过包含 oveoverrideMode.... - 信铁寒胜 - 博客园 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "百度文心助手 - 办公学习一站解决 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "nuget - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "nuget - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "NuGet Gallery | Home 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "NuGet Gallery | Downloads 和另外 1 个页面 - 个人 - Microsoft​ Edge": 11,
+                "192.168.0.11:9000/nuget - 个人 - Microsoft​ Edge": 3,
+                "NuGet Private Repository - 个人 - Microsoft​ Edge": 2,
+                "192.168.0.11:9000/nuget/Packages - 个人 - Microsoft​ Edge": 9,
+                "Unknown Title": 9,
+                "历史记录 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "历史记录 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "Unity 6000.x Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 2 个页面 - 个人 - Microsoft​ Edge": 43,
+                "Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 3 个页面 - 个人 - Microsoft​ Edge": 24,
+                "历史记录 和另外 3 个页面 - 个人 - Microsoft​ Edge": 14,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 4 个页面 - 个人 - Microsoft​ Edge": 36,
+                "Unity 6000.x Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 4 个页面 - 个人 - Microsoft​ Edge": 9,
+                "历史记录 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "历史记录 和另外 5 个页面 - 个人 - Microsoft​ Edge": 15,
+                "Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 5 个页面 - 个人 - Microsoft​ Edge": 33,
+                "团结引擎最新版·官方下载 | Unity中国官网 和另外 5 个页面 - 个人 - Microsoft​ Edge": 8,
+                "历史记录 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Unity 6000.x Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 6 个页面 - 个人 - Microsoft​ Edge": 7,
+                "新建标签页 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "微信登录 - 个人 - Microsoft​ Edge": 6,
+                "Unity 6000.x Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 3 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Unity官方下载_Unity新版_从Unity Hub下载安装 | Unity中国官网 和另外 2 个页面 - 个人 - Microsoft​ Edge": 46,
+                "unity6000下载 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "unity6000下载 - 搜索 和另外 4 个页面 - 个人 - Microsoft​ Edge": 8,
+                "无标题 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "unity6000下载 - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "Unity6安装包及国际Hub下载地址合集 - 哔哩哔哩 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 5,
+                "Unity6安装包及国际Hub下载地址合集 - 哔哩哔哩 和另外 2 个页面 - 个人 - Microsoft​ Edge": 16,
+                "夸克网盘分享 和另外 3 个页面 - 个人 - Microsoft​ Edge": 13,
+                "Unity6安装包及国际Hub下载地址合集 - 哔哩哔哩 和另外 3 个页面 - 个人 - Microsoft​ Edge": 3,
+                "奶牛快传 很慢 - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 14,
+                "奶牛快传 免费版 只有600M空间？ - 搜索 和另外 3 个页面 - 个人 - Microsoft​ Edge": 8,
+                "unity6000下载 - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "github trending - 搜索 - 个人 - Microsoft​ Edge": 7,
+                "github trending - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Trending repositories on GitHub today 和另外 1 个页面 - 个人 - Microsoft​ Edge": 37,
+                "ourongxing/newsnow: Elegant reading of real-time and hottest news 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "newsnow/README.zh-CN.md at main · ourongxing/newsnow 和另外 2 个页面 - 个人 - Microsoft​ Edge": 10,
+                "Trending repositories on GitHub this month 和另外 1 个页面 - 个人 - Microsoft​ Edge": 66,
+                "Trending repositories on GitHub this week 和另外 1 个页面 - 个人 - Microsoft​ Edge": 23,
+                "Trending repositories on GitHub this month 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "microsoft/VibeVoice: Open-Source Frontier Voice AI 和另外 2 个页面 - 个人 - Microsoft​ Edge": 104,
+                "DayuanJiang/next-ai-draw-io: A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. 和另外 2 个页面 - 个人 - Microsoft​ Edge": 28,
+                "Trending repositories on GitHub this week 和另外 2 个页面 - 个人 - Microsoft​ Edge": 9,
+                "google-gemini/computer-use-preview 和另外 2 个页面 - 个人 - Microsoft​ Edge": 8,
+                "Explore GitHub 和另外 1 个页面 - 个人 - Microsoft​ Edge": 13,
+                "一直占榜GitHub Trending的开源项目_哔哩哔哩_bilibili 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7
+            }
+        },
+        "QQMusic.exe": {
+            "total": 48,
+            "titles": {
+                "QQ音乐": 15,
+                "大海 - 张雨生   ": 12,
+                "鬼迷心窍 - 李宗盛   ": 15,
+                "音量": 4,
+                "有没有一首歌会让你想起我 - 周华健   ": 2
+            }
+        },
+        "QQMusicUp.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "devenv.exe": {
+            "total": 3561,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 14,
+                "Microsoft Visual Studio": 139,
+                "zenCore.Camera - Microsoft Visual Studio": 35,
+                "外部工具": 1,
+                "zenCore.Camera - App.xaml.cs - Microsoft Visual Studio": 173,
+                "zenCore - Microsoft Visual Studio": 34,
+                "zenCore - Readme.md* - Microsoft Visual Studio": 13,
+                "是否保存对以下项所做的更改?": 4,
+                "zenCore - README.md - Microsoft Visual Studio": 7,
+                "zenCore - Readme.md - Microsoft Visual Studio": 14,
+                "zenCore - UnityPipe.cs - Microsoft Visual Studio": 661,
+                "zenCore - 差异 - README.md - Microsoft Visual Studio": 4,
+                "zenCore - IUnityPipe.cs - Microsoft Visual Studio": 29,
+                "zenCore - UnityPipe.cs* - Microsoft Visual Studio": 374,
+                "zenCore - EmbeddedResourceHelper.cs - Microsoft Visual Studio": 21,
+                "zenCore - Ioc.cs - Microsoft Visual Studio": 37,
+                "zenCore - Log4NetHelper.cs - Microsoft Visual Studio": 1,
+                "zenCore - Ioc.cs* - Microsoft Visual Studio": 20,
+                "zenCore - AbstractResourceModel.cs - Microsoft Visual Studio": 3,
+                "zenCore - CommonDirectories.cs - Microsoft Visual Studio": 71,
+                "zenCore - CommonDirectories.cs* - Microsoft Visual Studio": 7,
+                "zenCore - EmbeddedResourceHelper.cs* - Microsoft Visual Studio": 38,
+                "zenCore - 差异 - Ioc.cs* - Microsoft Visual Studio": 5,
+                "zenCore - 差异 - EmbeddedResourceHelper.cs - Microsoft Visual Studio": 16,
+                "zenCore - 差异 - zenCore.Implements.csproj - Microsoft Visual Studio": 7,
+                "zenCore": 4,
+                "Unknown Title": 10,
+                "zenCore - vctmp10640_698973.UnityPipe.4bc79af6.cs [只读] - Microsoft Visual Studio": 7,
+                "zenCore - vctmp10640_977651.UnityPipe.4bc79af6.cs [只读] - Microsoft Visual Studio": 29,
+                "zenCore - 差异 - EmbeddedResourceHelper.cs [只读] - Microsoft Visual Studio": 18,
+                "项目位置": 8,
+                "NugetServer - NugetServer: 概述 - Microsoft Visual Studio": 18,
+                "NugetServer - appsettings.json - Microsoft Visual Studio": 56,
+                "NugetServer - NuGet: NugetServer - Microsoft Visual Studio": 46,
+                "接受许可证": 4,
+                "NugetServer - Microsoft Visual Studio": 11,
+                "NugetServer - appsettings.json* - Microsoft Visual Studio": 32,
+                "信任 Asp.Net Core SSL 证书": 1,
+                "NugetServer (正在运行) - appsettings.json - Microsoft Visual Studio": 7,
+                "NugetServer (正在调试) - Program.cs - Microsoft Visual Studio": 9,
+                "NugetServer - Program.cs - Microsoft Visual Studio": 11,
+                "NugetServer - Program.cs* - Microsoft Visual Studio": 1,
+                "NugetServer (正在运行) - Program.cs - Microsoft Visual Studio": 2,
+                "NugetServer": 2,
+                "NugetServer (正在运行) - launchSettings.json - Microsoft Visual Studio": 9,
+                "NugetServer - launchSettings.json - Microsoft Visual Studio": 14,
+                "发布": 56,
+                "发布配置文件创建进度": 6,
+                "NugetServer - NugetServer: 发布 - Microsoft Visual Studio": 207,
+                "NugetServer - NugetServer - Microsoft Visual Studio": 55,
+                "新建 ASP.NET Web 应用程序 - NugetServer": 8,
+                "NugetServer - packages.config - Microsoft Visual Studio": 4,
+                "NugetServer - Web.config - Microsoft Visual Studio": 252,
+                "NugetServer - Web.config* - Microsoft Visual Studio": 2,
+                "NugetServer (正在运行) - Web.config - Microsoft Visual Studio": 7,
+                "NugetServer (正在运行) - Web.config* - Microsoft Visual Studio": 2,
+                "检测到文件修改": 2,
+                "NugetServer - Web.config": 2,
+                "NugetServer - 应用程序 - Microsoft Visual Studio": 3,
+                "NugetServer - 打包/发布 Web - Microsoft Visual Studio": 7,
+                "添加项": 37,
+                "zenCore - zenCore.Implements - Microsoft Visual Studio": 6,
+                "zenCore - zenCore.Interfaces - Microsoft Visual Studio": 45,
+                "zenCore - zenCore.Interfaces* - Microsoft Visual Studio": 1,
+                "zenCore - zenCore.Interfaces.csproj - Microsoft Visual Studio": 45,
+                "zenCore - NuGet.Config - Microsoft Visual Studio": 386,
+                "编辑项": 20,
+                "zenCore - 差异 - zenCore.Interfaces.csproj - Microsoft Visual Studio": 3,
+                "zenCore - 差异 - zenCore.Interfaces.csproj [只读] - Microsoft Visual Studio": 14,
+                "zenCore.Camera - App.xaml.cs* - Microsoft Visual Studio": 4,
+                "zenCore.Camera - 差异 - App.xaml.cs - Microsoft Visual Studio": 2,
+                "zenCore.Camera - NuGet: zenCore.Camera - Microsoft Visual Studio": 105,
+                "zenCore.Camera - WPF3Dpose - Microsoft Visual Studio": 16,
+                "zenCore.Camera - NuGet: WPF3Dpose - Microsoft Visual Studio": 65,
+                "zenCore.Camera - 差异 - WPF3Dpose.csproj - Microsoft Visual Studio": 3,
+                "zenCore.Camera - 差异 - zenCore.Camera.csproj - Microsoft Visual Studio": 3,
+                "zenCore.Camera - IFilter.cs - Microsoft Visual Studio": 12,
+                "zenCore.Camera - IInitializable.cs - Microsoft Visual Studio": 15,
+                "zenCore.Camera - TrackedBodyHelper.cs - Microsoft Visual Studio": 48,
+                "zenCore.Camera - zenCore.Camera - Microsoft Visual Studio": 22,
+                "zenCore.Camera - DetectorPro.cs - Microsoft Visual Studio": 17,
+                "zenCore.Camera - CameraCapture.cs - Microsoft Visual Studio": 8,
+                "zenCore.Camera - TrackedBodyHelper.cs* - Microsoft Visual Studio": 1,
+                "zenCore.Camera - MatrixTool.cs - Microsoft Visual Studio": 8,
+                "zenCore.Camera - IResetable.cs - Microsoft Visual Studio": 32,
+                "zenCore.Camera - 机器人坐标范围和单位.md - Microsoft Visual Studio": 3
+            }
+        },
+        "mintty.exe": {
+            "total": 66,
+            "titles": {
+                "ng completion script                                                  ": 1,
+                "MINGW64:/c/Users/byj19/Codes                                                  ": 50,
+                "/usr/bin/bash --login -i                                                  ": 3,
+                "MINGW64:/c/Users/byj19/Codes/zencore.camera                                                  ": 12
+            }
+        },
+        "Thunder.exe": {
+            "total": 132,
+            "titles": {
+                "迅雷": 106,
+                "新建任务面板": 4,
+                "支付优惠卡": 2,
+                "提示框": 5,
+                "确定要删除吗？": 4,
+                "index.html": 8,
+                "迅雷 ": 2,
+                "Unknown Title": 1
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 50,
+            "titles": {
+                "设置": 47,
+                "Armoury Crate": 3
+            }
+        },
+        "Hiddify.exe": {
+            "total": 43,
+            "titles": {
+                "Hiddify": 43
+            }
+        },
+        "msiexec.exe": {
+            "total": 6,
+            "titles": {
+                "Windows Installer": 2,
+                "MongoDB 8.2.3 2008R2Plus SSL (64 bit) Setup": 4
+            }
+        },
+        "Git-2.52.0-64-bit.tmp": {
+            "total": 53,
+            "titles": {
+                "Git 2.52.0 Setup": 53
+            }
+        },
+        "InetMgr.exe": {
+            "total": 320,
+            "titles": {
+                "Internet Information Services (IIS)管理器": 173,
+                "添加网站": 45,
+                "浏览文件夹": 9,
+                "连接为": 1,
+                "确认删除": 3,
+                "app.publish 属性": 8,
+                "网站绑定": 2,
+                "编辑网站": 4,
+                "编辑网站 HSTS": 2,
+                "高级设置": 39,
+                "编辑应用程序池": 5,
+                "Unknown Title": 1,
+                "应用程序池标识": 27,
+                "设置凭据": 1
+            }
+        },
+        "Notepad--.exe": {
+            "total": 16,
+            "titles": {
+                "notepad-- - Ndd": 1,
+                "C:\\Users\\byj19\\Codes\\zencore\\README.md [文本模式] - Ndd": 13,
+                "New 0 [文本模式] - Ndd": 2
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 15,
+            "titles": {
+                "Visual Studio 的跳转列表": 10,
+                "控制面板 的跳转列表": 1,
+                "Internet Information Services (IIS)管理器 的跳转列表": 2,
+                "Cursor 的跳转列表": 2
+            }
+        },
+        "mmc.exe": {
+            "total": 46,
+            "titles": {
+                "高级安全 Windows Defender 防火墙": 27,
+                "新建入站规则向导": 19
+            }
+        },
+        "dotnet.exe": {
+            "total": 1,
+            "titles": {
+                "安全警告": 1
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 15,
+            "titles": {
+                "C:\\Users\\byj19\\source\\repos\\NugetServer\\NugetServer\\bin\\Debug\\net10.0\\NugetServer.exe": 1,
+                "Microsoft Visual Studio 调试控制台": 3,
+                "C:\\Users\\byj19\\source\\repos\\NugetServer\\NugetServer\\bin\\Debug\\net8.0-windows\\NugetServer.exe": 3,
+                "C:\\WINDOWS\\system32\\cmd.exe": 8
+            }
+        },
+        "OptionalFeatures.exe": {
+            "total": 125,
+            "titles": {
+                "Windows 功能": 125
+            }
+        },
+        "APlayer.exe": {
+            "total": 2,
+            "titles": {
+                "Unknown Title": 2
+            }
+        },
+        "powershell.exe": {
+            "total": 11,
+            "titles": {
+                "管理员: Windows PowerShell": 11
+            }
+        },
+        "Code.exe": {
+            "total": 136,
+            "titles": {
+                "Visual Studio Code": 10,
+                "Web.config - Visual Studio Code": 24,
+                "● Web.config - Visual Studio Code": 1,
+                "publish_dlls.py - Visual Studio Code": 46,
+                "NuGet.Config - Visual Studio Code": 51,
+                "NuGet.config - Visual Studio Code": 4
+            }
+        },
+        "Photos.exe": {
+            "total": 2,
+            "titles": {
+                "照片": 1,
+                "new.jpg": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 2,
+            "titles": {
+                "迅雷升级程序": 2
+            }
+        },
+        "Notepad.exe": {
+            "total": 14,
+            "titles": {
+                "记事本": 1,
+                "publish_dlls.py - Notepad": 13
+            }
+        },
+        "SystemPropertiesAdvanced.exe": {
+            "total": 28,
+            "titles": {
+                "系统属性": 9,
+                "环境变量": 4,
+                "编辑环境变量": 13,
+                "浏览文件夹": 2
+            }
+        },
+        "Everything.exe": {
+            "total": 145,
+            "titles": {
+                "Everything": 18,
+                " NuGet.Config - Everything": 2,
+                "NuGet.Config - Everything": 68,
+                "ZBRobot.exe - Everything": 8,
+                "robot - Everything": 1,
+                "robot. - Everything": 22,
+                "[阳光电影-www.dygod.org] - Everything": 18,
+                "重命名": 7,
+                "[阳光电影-www.dygod. - Everything": 1
+            }
+        },
+        "idea64.exe": {
+            "total": 15,
+            "titles": {
+                "Unknown Title": 1,
+                "Programmer – ConsoleApplication1.cpp": 14
+            }
+        },
+        "7zG.exe": {
+            "total": 6,
+            "titles": {
+                " 正在压缩": 1,
+                "9% 正在压缩 C:\\Users\\byj19\\Cod ... zenrobot\\Builds.7z": 1,
+                "19% 正在压缩 C:\\Users\\byj19\\Cod ... zenrobot\\Builds.7z": 1,
+                "33% 正在压缩 C:\\Users\\byj19\\Cod ... zenrobot\\Builds.7z": 1,
+                "41% 正在压缩 C:\\Users\\byj19\\Cod ... zenrobot\\Builds.7z": 1,
+                "46% 正在压缩 C:\\Users\\byj19\\Cod ... zenrobot\\Builds.7z": 1
+            }
+        },
+        "Weixin.exe": {
+            "total": 43,
+            "titles": {
+                "微信": 37,
+                "Weixin": 3,
+                "设置": 3
+            }
+        },
+        "WeChatAppEx.exe": {
+            "total": 3,
+            "titles": {
+                "Unknown Title": 3
+            }
+        },
+        "YourPhoneAppProxy.exe": {
+            "total": 23,
+            "titles": {
+                "OPPO Find X8 Pro": 23
+            }
+        },
+        "PhoneExperienceHost.exe": {
+            "total": 113,
+            "titles": {
+                "手机连接": 113
+            }
+        },
+        "Un.exe": {
+            "total": 33,
+            "titles": {
+                "Unity 6000.4.0b2 Uninstall": 5,
+                "Unity 6000.4.0b2 Uninstall ": 28
+            }
+        },
+        "Xmp.exe": {
+            "total": 16,
+            "titles": {
+                "迅雷影音": 16
+            }
+        },
+        "dwm.exe": {
+            "total": 8,
+            "titles": {
+                "FF520 (E:) - 文件资源管理器 (未响应)": 8
+            }
+        },
+        "ShellHost.exe": {
+            "total": 17,
+            "titles": {
+                "快速设置": 17
+            }
+        },
+        "AcPowerNotification.exe": {
+            "total": 2,
+            "titles": {
+                "MainWindow": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+[2026-01-22 19:11:02] Service Started
+[2026-01-22 19:44:05] Idle Start
+[2026-01-22 19:44:38] Idle End
+[2026-01-22 19:58:50] Idle Start
+[2026-01-22 20:04:04] Idle End
+[2026-01-22 20:05:11] Idle Start
+[2026-01-22 20:22:27] Idle End
+[2026-01-22 20:23:28] Idle Start
+[2026-01-22 20:30:15] Idle End
+[2026-01-22 20:31:15] Idle Start
+[2026-01-22 21:32:31] Idle End
+[2026-01-22 21:33:47] Service Started
+[2026-01-22 21:38:55] Service Stopping (User Quit)

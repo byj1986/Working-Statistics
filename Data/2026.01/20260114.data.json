@@ -1,0 +1,131 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-14 21:11:51",
+            "end": "2026-01-14 22:47:00"
+        }
+    ],
+    "idle_seconds": 2171,
+    "apps": {
+        "Doubao.exe": {
+            "total": 63,
+            "titles": {
+                "豆包": 63
+            }
+        },
+        "Hiddify.exe": {
+            "total": 10,
+            "titles": {
+                "Hiddify": 10
+            }
+        },
+        "SearchHost.exe": {
+            "total": 8,
+            "titles": {
+                "搜索": 8
+            }
+        },
+        "chrome.exe": {
+            "total": 2694,
+            "titles": {
+                "新标签页 - Google Chrome": 5,
+                "KDS - 在这里・看上海 - Google Chrome": 2353,
+                "missav.ws - Google Chrome": 5,
+                "隐私设置错误 - Google Chrome": 2,
+                "无标题 - Google Chrome": 5,
+                "这个视频真实反应了上海底层的现状 KDS - 上宽带山・一起看上海 - Google Chrome": 18,
+                "号外号外挺谁谁死，军事“专家”李莉清空社媒 KDS - 上宽带山・一起看上海 - Google Chrome": 19,
+                "北京厉害了!退休人员产检能报销啊! KDS - 上宽带山・一起看上海 - Google Chrome": 57,
+                "设置 - 关于 Chrome - Google Chrome": 21,
+                "最近餐饮一片哀嚎 KDS - 上宽带山・一起看上海 - Google Chrome": 13,
+                "我今天下班后在酒店看到两位行政接待整理好箱子后，去了市场部经理办公室两小时没出来，这是什么情况呢 KDS - 上宽带山・一起看上海 - Google Chrome": 7,
+                "流泪了！ KDS - 上宽带山・一起看上海 - Google Chrome": 15,
+                "这是杠上了 KDS - 上宽带山・一起看上海 - Google Chrome": 19,
+                "保时捷将关停所有自建充电站 KDS - 上宽带山・一起看上海 - Google Chrome": 3,
+                "哇，真的开干啦，耶，川普真性情真汉子真牛逼... KDS - 上宽带山・一起看上海 - Google Chrome": 23,
+                "延迟退休我没同意怎么会通过的？ KDS - 上宽带山・一起看上海 - Google Chrome": 2,
+                "从抖音xhs各种信息看躺平生活并不舒服开心 KDS - 上宽带山・一起看上海 - Google Chrome": 1,
+                "最近都没早苗的消息了嘛 KDS - 上宽带山・一起看上海 - Google Chrome": 19,
+                "小道：大帝送卡德洛夫上路了 KDS - 上宽带山・一起看上海 - Google Chrome": 6,
+                "卡德洛夫_百度搜索 - Google Chrome": 29,
+                "若处决 就出兵 KDS - 上宽带山・一起看上海 - Google Chrome": 36,
+                "为什么88个只干了其中的87个？ KDS - 上宽带山・一起看上海 - Google Chrome": 36
+            }
+        },
+        "ShellExperienceHost.exe": {
+            "total": 129,
+            "titles": {
+                "Windows Shell Experience 主机": 129
+            }
+        },
+        "devenv.exe": {
+            "total": 27,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 2,
+                "Microsoft Visual Studio": 2,
+                "NSWebApi - Microsoft Visual Studio": 2,
+                "NSWebApi - NSWebApi - Microsoft Visual Studio": 17,
+                "Unknown Title": 4
+            }
+        },
+        "explorer.exe": {
+            "total": 15,
+            "titles": {
+                "Unknown Title": 15
+            }
+        },
+        "setup.exe": {
+            "total": 38,
+            "titles": {
+                "Visual Studio Installer": 38
+            }
+        },
+        "Cursor.exe": {
+            "total": 53,
+            "titles": {
+                "Cursor Settings - zencore - Cursor": 51,
+                "Cursor": 2
+            }
+        },
+        "Trae.exe": {
+            "total": 45,
+            "titles": {
+                "zenbrightgamecocos - Trae": 25,
+                "Trae": 8,
+                "更新日志 - zenbrightgamecocos - Trae": 12
+            }
+        },
+        "TraeSetup-stable-2.3.2839.tmp": {
+            "total": 16,
+            "titles": {
+                "安装 - Trae (User)": 16
+            }
+        },
+        "msedge.exe": {
+            "total": 429,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 2,
+                "赵长江官宣加入鸿蒙智行智界：感谢比亚迪 致敬奇瑞和华为--快科技--科技改变未来 和另外 2 个页面 - 个人 - Microsoft​ Edge": 13,
+                "新建标签页 和另外 3 个页面 - 个人 - Microsoft​ Edge": 4,
+                "设置 和另外 3 个页面 - 个人 - Microsoft​ Edge": 11,
+                "新建标签页 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "女子变现金手镯 店主火烧变黑压价 专业人士：软火烧金有猫腻--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "快科技--科技改变未来 - 个人 - Microsoft​ Edge": 168,
+                "小米回应新一代SU7涨价：配置升级巨大！物超所值--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 7,
+                "劳斯莱斯托运途中翻车 车主代位求偿遭车险公司拒赔！法院判了--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 22,
+                "最美路由器！华为路由X3 Pro日照金山新年礼盒套装上架：1999元--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "特斯拉取消FSD买断制的背后关联马斯克万亿天价薪酬？--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 36,
+                "2026款红旗H5实车图流出：撞脸老款H9、内饰全面升级--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "重庆一女子喊网友杀猪来了上千人 中国电信火速增开临时5G基站--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 9,
+                "尘封30年的秘密解开！Office 97古董级彩蛋首次被发现--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 47,
+                "2025年电动自行车销量TOP10出炉：雅迪夺冠、独占超1/4--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 19,
+                "税务部门曝光2起网络主播偷税案：近3000万粉丝网红彭十六偷税216.32万元--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "工程师太敢了！Outlook 2010默认头像：竟是盖茨无证驾驶被捕照--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 10,
+                "男子开着车牌倒装的汽车上路 交警：罚款200元记3分--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 12,
+                "小米YU7挑战15%冰面坡道 仅单轮有抓地力仍成功爬坡--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 34,
+                "妻子错失年终奖：丈夫婆婆默契补上--快科技--科技改变未来 和另外 1 个页面 - 个人 - Microsoft​ Edge": 8
+            }
+        }
+    }
+}

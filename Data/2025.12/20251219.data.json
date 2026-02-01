@@ -1,0 +1,68 @@
+{
+    "sessions": [
+        {
+            "start": "2025-12-19 20:27:50",
+            "end": "2025-12-19 23:59:30"
+        }
+    ],
+    "idle_seconds": 2087,
+    "apps": {
+        "explorer.exe": {
+            "total": 741,
+            "titles": {
+                "Unknown Title": 741
+            }
+        },
+        "SearchHost.exe": {
+            "total": 10,
+            "titles": {
+                "搜索": 10
+            }
+        },
+        "msedge.exe": {
+            "total": 9840,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 1909,
+                "https://ssa-school.com/index.phpLLLlllrrrttyyyyyyyyuuuuuuuittttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu - 搜索 - 个人 - Microsoft​ Edge": 133,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 3,
+                "Microsoft Edge 帮助和学习 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 2 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 3 个页面 - 个人 - Microsoft​ Edge": 9,
+                "Microsoft Edge 帮助和学习 和另外 3 个页面 - 个人 - Microsoft​ Edge": 14,
+                "无标题 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Microsoft Edge 帮助和学习 和另外 4 个页面 - 个人 - Microsoft​ Edge": 246,
+                "Unknown Title": 219,
+                "关闭插入光标浏览?": 4,
+                "DevTools - support.microsoft.com/zh-cn/microsoft-edge": 226,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 14,
+                "在线键盘测试 - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "在线键盘测试 | zFrontier 装备前线 和另外 6 个页面 - 个人 - Microsoft​ Edge": 12,
+                "在线键盘测试 - 搜索 和另外 6 个页面 - 个人 - Microsoft​ Edge": 2,
+                "键盘按键测试在线 - 键盘测试工具 - 键盘连键检测 和另外 7 个页面 - 个人 - Microsoft​ Edge": 6156,
+                "新建标签页 和另外 8 个页面 - 个人 - Microsoft​ Edge": 13,
+                "wob 80 - 搜索 和另外 8 个页面 - 个人 - Microsoft​ Edge": 4,
+                "无标题 和另外 9 个页面 - 个人 - Microsoft​ Edge": 1,
+                "CRUSH80 - WOB欢迎您 和另外 9 个页面 - 个人 - Microsoft​ Edge": 4,
+                "WOB欢迎您！ 和另外 9 个页面 - 个人 - Microsoft​ Edge": 5,
+                "无标题 和另外 10 个页面 - 个人 - Microsoft​ Edge": 1,
+                "CRUSH80 - WOB欢迎您 和另外 10 个页面 - 个人 - Microsoft​ Edge": 47,
+                "WOB欢迎您！ 和另外 10 个页面 - 个人 - Microsoft​ Edge": 1,
+                "wob 80 - 搜索 和另外 10 个页面 - 个人 - Microsoft​ Edge": 10,
+                "wob 80 - 搜索 图片 和另外 11 个页面 - 个人 - Microsoft​ Edge": 17,
+                "无标题 和另外 12 个页面 - 个人 - Microsoft​ Edge": 3,
+                "wob 80 - 搜索 图片 和另外 12 个页面 - 个人 - Microsoft​ Edge": 61,
+                "Antibot Challenge Page 和另外 12 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 13 个页面 - 个人 - Microsoft​ Edge": 1,
+                "lazada.com.my/products/wob-crush80-c80-remodel-plan-aluminum-turd-mechanical-keyboard-customized-wireless-three-mode-i4292721825.html 和另外 13 个页面 - 个人 - Microsoft​ Edge": 1,
+                "CRUSH80 - WOB欢迎您 和另外 12 个页面 - 个人 - Microsoft​ Edge": 1,
+                "WOB CRUSH80 C80 Remodel plan Aluminum Turd Mechanical keyboard Customized wireless three mode | Lazada 和另外 12 个页面 - 个人 - Microsoft​ Edge": 717
+            }
+        },
+        "SnippingTool.exe": {
+            "total": 6,
+            "titles": {
+                "截图工具覆盖": 6
+            }
+        }
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "sessions": [
+        {
+            "start": "2026-01-12 21:07:17",
+            "end": "2026-01-12 23:16:30"
+        }
+    ],
+    "idle_seconds": 2291,
+    "apps": {
+        "SearchHost.exe": {
+            "total": 48,
+            "titles": {
+                "搜索": 48
+            }
+        },
+        "PhoneExperienceHost.exe": {
+            "total": 5,
+            "titles": {
+                "SplashScreen loading": 1,
+                "手机连接": 4
+            }
+        },
+        "Doubao.exe": {
+            "total": 142,
+            "titles": {
+                "豆包 - 字节跳动旗下 AI 智能助手 - 豆包": 10,
+                "新对话 - 豆包 - 豆包": 17,
+                "解析 Docker 命令：docker run - 豆包 - 豆包": 115
+            }
+        },
+        "ApplicationFrameHost.exe": {
+            "total": 39,
+            "titles": {
+                "Microsoft Store": 34,
+                "设置": 5
+            }
+        },
+        "Hiddify.exe": {
+            "total": 102,
+            "titles": {
+                "Hiddify": 102
+            }
+        },
+        "ThunderStart.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "Thunder.exe": {
+            "total": 36,
+            "titles": {
+                "迅雷": 34,
+                "支付优惠卡": 2
+            }
+        },
+        "APlayer.exe": {
+            "total": 1,
+            "titles": {
+                "Unknown Title": 1
+            }
+        },
+        "XLLiveUD.exe": {
+            "total": 3,
+            "titles": {
+                "迅雷升级程序": 3
+            }
+        },
+        "explorer.exe": {
+            "total": 78,
+            "titles": {
+                "Unknown Title": 76,
+                "Program Manager": 2
+            }
+        },
+        "StartMenuExperienceHost.exe": {
+            "total": 1,
+            "titles": {
+                "开始": 1
+            }
+        },
+        "哔哩哔哩.exe": {
+            "total": 1704,
+            "titles": {
+                "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili": 36,
+                "undefined": 1,
+                "在伊朗华商：这一次，伊朗“非死不可”！为什么伊朗这一次是绝对死局？": 479,
+                "【内核】11.六代一出全球变军盲，等歼36出了近照，直接开除球籍！": 40,
+                "日本普通人现在的生活水平，究竟如何？普通日本人的收入，相当于我们月薪多少元？": 70,
+                "2025年度“最令人讨厌的歌曲TOP10”！耳朵霸凌，躲无可躲": 67,
+                "乌克兰姑姑想来中国，妈妈也想来中国，受伤的只有乌克兰爸爸": 92,
+                "我在美国首都 贫穷让人害怕 中产也要捂紧口袋 维森来了": 106,
+                "我来到美国最古老的医院贝尔维尤 斩杀线背后另有原因 维森来了": 5,
+                "美国多疑哥游中国：又是懵懵的一天！": 136,
+                "中国一刻也不等！日媒破防，普京仗义补刀日本，也祭出对日本出口禁令": 25,
+                "就你也配跟中国说话😅？菅野完锐评中国对日本实施军民两用品制裁：日本对自己的水平一无所知（2026年1月7日）": 3,
+                "日本发现中国好像真的禁止出口稀土了：你们耳聋吗😅？怎么搞得好像第一天知道似的（2026年1月11日报道）": 8,
+                "涩涩是好文明🥵！日本东京顶级漫展C107开幕：众多知名Coser惊艳亮相，来场游客高达约30万【幽默老日新闻速递32】": 32,
+                "你问我怎么改善中日关系🤔？小泉进次郎一直在说车轱辘话：问题的关键就是找到关键的问题（2026年1月8日报道）": 12,
+                "【1月12日国际新闻：聚焦全球重点热点资讯】": 245,
+                "俯瞰台北101大厦，在哪拍的，怎么拍的？": 41,
+                "Kat：我嫁入了抽象温州一家人？": 13,
+                "我们为什么不拍油车，是不喜欢吗？": 138,
+                "创造历史！国人首次打破世界纪录，48分钟最快通关泰拉瑞亚，或将成为最伟大的一局": 49,
+                "不是AI，我用相机实拍了40首古诗词里的中国": 106
+            }
+        },
+        "msedge.exe": {
+            "total": 1042,
+            "titles": {
+                "新建标签页 - 个人 - Microsoft​ Edge": 10,
+                "Unknown Title": 11,
+                "github - 搜索 - 个人 - Microsoft​ Edge": 2,
+                "github - 搜索 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "无标题 和另外 1 个页面 - 个人 - Microsoft​ Edge": 16,
+                "GitHub 和另外 1 个页面 - 个人 - Microsoft​ Edge": 6,
+                "github.com 和另外 1 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Notifications 和另外 1 个页面 - 个人 - Microsoft​ Edge": 70,
+                "GitHub Dashboard 和另外 1 个页面 - 个人 - Microsoft​ Edge": 50,
+                "Your Repositories 和另外 1 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Your Stars 和另外 1 个页面 - 个人 - Microsoft​ Edge": 13,
+                "Your Stars 和另外 2 个页面 - 个人 - Microsoft​ Edge": 4,
+                "Your Stars 和另外 3 个页面 - 个人 - Microsoft​ Edge": 5,
+                "Your Stars 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "makeplane/plane: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. 和另外 4 个页面 - 个人 - Microsoft​ Edge": 22,
+                "usememos/memos: An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. 和另外 4 个页面 - 个人 - Microsoft​ Edge": 6,
+                "usememos/memos: An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Memos - Open Source, Self-Hosted Note Taking - Memos 和另外 5 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Installation - Memos 和另外 5 个页面 - 个人 - Microsoft​ Edge": 87,
+                "docker - 搜索 - 个人 - Microsoft​ Edge": 23,
+                "www.docker.com 和另外 1 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Docker: Accelerated Container Application Development 和另外 1 个页面 - 个人 - Microsoft​ Edge": 14,
+                "996icu/996.ICU: Repo for counting stars and contributing. Press F to pay respect to glorious developers. 和另外 5 个页面 - 个人 - Microsoft​ Edge": 69,
+                "Installation - Memos 和另外 4 个页面 - 个人 - Microsoft​ Edge": 6,
+                "Docker Installation - Memos 和另外 4 个页面 - 个人 - Microsoft​ Edge": 40,
+                "新建标签页 和另外 5 个页面 - 个人 - Microsoft​ Edge": 3,
+                "n8n - 搜索 和另外 5 个页面 - 个人 - Microsoft​ Edge": 6,
+                "无标题 和另外 6 个页面 - 个人 - Microsoft​ Edge": 1,
+                "aric0001/n8n-study: 高质量的 n8n 中文教程与实战手册，涵盖核心概念、环境部署、节点详解、调试与进阶技巧，配套案例与截图，帮助快速上手并构建稳定的自动化工作流。 和另外 6 个页面 - 个人 - Microsoft​ Edge": 43,
+                "aric0001/n8n-study: 高质量的 n8n 中文教程与实战手册，涵盖核心概念、环境部署、节点详解、调试与进阶技巧，配套案例与截图，帮助快速上手并构建稳定的自动化工作流。 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Discover 7806 Automation Workflows from the n8n's Community 和另外 7 个页面 - 个人 - Microsoft​ Edge": 7,
+                "Personal life manager with Telegram, Google services & voice-enabled AI | n8n workflow template 和另外 7 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Discover 7817 Automation Workflows from the n8n's Community 和另外 7 个页面 - 个人 - Microsoft​ Edge": 3,
+                "无标题 和另外 8 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs 和另外 8 个页面 - 个人 - Microsoft​ Edge": 5,
+                "Try it out | n8n Docs 和另外 8 个页面 - 个人 - Microsoft​ Edge": 5,
+                "A longer introduction | n8n Docs 和另外 8 个页面 - 个人 - Microsoft​ Edge": 11,
+                "Learning path | n8n Docs 和另外 8 个页面 - 个人 - Microsoft​ Edge": 2,
+                "n8n-study/01_教程导览/00-学习路线图.md at main · aric0001/n8n-study 和另外 6 个页面 - 个人 - Microsoft​ Edge": 15,
+                "usememos/memos: An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. 和另外 3 个页面 - 个人 - Microsoft​ Edge": 10,
+                "makeplane/plane: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. 和另外 5 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Docker Compose - Plane 和另外 5 个页面 - 个人 - Microsoft​ Edge": 19,
+                "Docker AIO (All-in-One) • Commercial Edition - Plane 和另外 5 个页面 - 个人 - Microsoft​ Edge": 151,
+                "Deploy Plane with Docker Swarm • Commercial Edition - Plane 和另外 5 个页面 - 个人 - Microsoft​ Edge": 9,
+                "Plane | Simple, extensible, open-source project management tool. 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "app.plane.so/#gh-light-mode-only 和另外 4 个页面 - 个人 - Microsoft​ Edge": 1,
+                "Sign up - Plane 和另外 4 个页面 - 个人 - Microsoft​ Edge": 23,
+                "Authorize MakePlane 和另外 4 个页面 - 个人 - Microsoft​ Edge": 3,
+                "OAuth application authorized 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "app.plane.so 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Onboarding 和另外 4 个页面 - 个人 - Microsoft​ Edge": 69,
+                "learn-yolo - Home 和另外 4 个页面 - 个人 - Microsoft​ Edge": 139,
+                "Your work 和另外 4 个页面 - 个人 - Microsoft​ Edge": 7,
+                "learn-yolo - General settings 和另外 4 个页面 - 个人 - Microsoft​ Edge": 12,
+                "Profile - General settings 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2,
+                "Profile - Preferences 和另外 4 个页面 - 个人 - Microsoft​ Edge": 4,
+                "个人资料 - Preferences 和另外 4 个页面 - 个人 - Microsoft​ Edge": 14,
+                "learn-yolo - 首页 和另外 4 个页面 - 个人 - Microsoft​ Edge": 2
+            }
+        },
+        "Docker Desktop.exe": {
+            "total": 529,
+            "titles": {
+                "Docker Desktop": 1,
+                "gracious_keldysh - Container - Docker Desktop": 13,
+                "zenbeat111 - Image - Docker Desktop": 15,
+                "Containers - Docker Desktop": 211,
+                "Images - Docker Desktop": 173,
+                "Kubernetes - Docker Desktop": 1,
+                "Builds - Docker Desktop": 40,
+                "Ask Gordon - Docker Desktop": 1,
+                "tender_chandrasekhar - Container - Docker Desktop": 9,
+                "n8nio/n8n - Image - Docker Desktop": 25,
+                "dreamy_grothendieck - Container - Docker Desktop": 14,
+                "选择文件夹": 1,
+                "hardcore_moser - Container - Docker Desktop": 25
+            }
+        },
+        "WindowsTerminal.exe": {
+            "total": 482,
+            "titles": {
+                "命令提示符": 7,
+                "命令提示符 - docker  run -d \\": 2,
+                "Windows PowerShell": 455,
+                "C:\\Program Files\\WSL\\wsl.exe": 18
+            }
+        },
+        "chrome.exe": {
+            "total": 887,
+            "titles": {
+                "无标题 - Google Chrome": 17,
+                "login.docker.com/u/login/identifier?state=hKFo2SBfd1I0dV9RaDQ2ZVR3djZhY2VmOWYyRFJWejFvZDkyYqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGlEOWlTMVRSZm5hekNiYXBjaXl2RjNpVGhhRjNZazZyo2NpZNkgRXVEeElRN2cwYzlENzVsdmF0VHV2c1Q1VjVCQWp2d3Y - Google Chrome": 20,
+                "github.com - Google Chrome": 4,
+                "Authentication Error - Google Chrome": 5,
+                "login.docker.com/u/login/password?state=hKFo2SByR3dTaURCWVJCZjdFMjBrSTVueFd3cDZ5TjZXZTFWMqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEtTT1ZVQXNpVkJhV09jcFdjMnJITzQ5QjZ6aXJxM3BJo2NpZNkgbHZlOUdHbDhKdFNVcm5lUTFFVnVDMGxiakhkaTluYjk - Google Chrome": 6,
+                "Repositories | byj1986 - Google Chrome": 8,
+                "auth.docker.com/desktop/redirect?code=Xhwgcd_S7QeQy5RRjxdqnrY9oS17qjtEQpf-aYAwEgcN0&state=cHOR7fY77Nmu-QMQhzgZ6gX-XQnlKrxDKBQbYhmMV1c - Google Chrome": 2,
+                "hub.docker.com - Google Chrome": 3,
+                "Logout | Docker - Google Chrome": 5,
+                "Memos - Google Chrome": 784,
+                "localhost - Google Chrome": 12,
+                "新标签页 - Google Chrome": 4,
+                "127.0.0.1 - Google Chrome": 17
+            }
+        },
+        "yuanbao.exe": {
+            "total": 9,
+            "titles": {
+                "元宝": 6,
+                "元宝设置": 3
+            }
+        },
+        "Docker Desktop Installer.exe": {
+            "total": 73,
+            "titles": {
+                "Are you sure?": 5,
+                "Installing Docker Desktop 4.56.0 (214940)": 68
+            }
+        },
+        "Notepad--.exe": {
+            "total": 194,
+            "titles": {
+                "notepad-- - Ndd": 1,
+                "New 0 [文本模式] - Ndd": 98,
+                "Ndd": 95
+            }
+        },
+        "devenv.exe": {
+            "total": 77,
+            "titles": {
+                "Microsoft Visual Studio Community 2026": 2,
+                "Microsoft Visual Studio": 3,
+                "NSWebApi - NSWebApi - Microsoft Visual Studio": 72
+            }
+        }
+    }
+}
